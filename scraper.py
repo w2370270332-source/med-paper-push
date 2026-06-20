@@ -37,7 +37,7 @@ from scrapling.fetchers import Fetcher, DynamicFetcher
 # ---------------------------------------------------------------------------
 
 OUTPUT = Path(__file__).parent / "scraped_papers.json"
-DAYS_BACK = 7  # 过去 N 天
+DAYS_BACK = int(os.environ.get("SCRAPE_DAYS", "1"))  # 默认 1 天，可通过环境变量覆盖
 MAX_PER_SOURCE = 30  # 每个源最多抓取条数
 
 # ---------- 目标期刊（PubMed 检索用简称）----------

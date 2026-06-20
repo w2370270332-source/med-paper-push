@@ -14,6 +14,10 @@ venv/
 # Output
 scraped_papers.json
 report.md
+report_daily.md
+report_weekly.md
+analysis_daily.json
+analysis_weekly.json
 
 # IDE
 .vscode/

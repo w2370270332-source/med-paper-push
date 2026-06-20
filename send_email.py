@@ -4,6 +4,7 @@
 import os
 import smtplib
 import json
+import argparse
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.header import Header
@@ -39,12 +40,10 @@ def load_config():
         return json.load(f)
 
 
-def send_email(config: dict, report: str) -> bool:
+def send_email(config: dict, report: str, today: str, mode_label: str) -> bool:
     """发送邮件."""
-    today = datetime.now(TZ).strftime("%Y-%m-%d")
-
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = Header(f"预防医学与营养学文献周报 ({today})", "utf-8")
+    msg["Subject"] = Header(f"预防医学与营养学文献{mode_label} ({today})", "utf-8")
     msg["From"] = config["sender_email"]
     msg["To"] = config["receiver_email"]
 
@@ -160,25 +159,31 @@ def push_to_feishu_via_cc(config: dict, report_path: str) -> bool:
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--mode", choices=["daily", "weekly"], default="daily")
+    args = parser.parse_args()
+
     config = load_config()
     if not config:
         return 1
 
-    if not REPORT_FILE.exists():
-        print(f"[ERROR] 报告文件不存在: {REPORT_FILE}")
-        print("请先运行 generate_report.py 生成报告")
+    report_file = ROOT / f"report_{args.mode}.md"
+    if not report_file.exists():
+        print(f"[ERROR] 报告文件不存在: {report_file}")
         return 1
 
-    report = REPORT_FILE.read_text(encoding="utf-8")
+    report = report_file.read_text(encoding="utf-8")
 
-    print(f"[1/2] 发送邮件到 {config['receiver_email']}...")
-    if send_email(config, report):
+    today = datetime.now(TZ).strftime("%Y-%m-%d")
+    mode_label = "日报" if args.mode == "daily" else "周报"
+    print(f"[1/2] 发送{mode_label}邮件到 {config['receiver_email']}...")
+    if send_email(config, report, today, mode_label):
         print("  [OK] 邮件发送成功")
     else:
         print("  [FAIL] 邮件发送失败")
 
     print(f"[2/2] 推送到飞书...")
-    if push_to_feishu_via_cc(config, str(REPORT_FILE)):
+    if push_to_feishu_via_cc(config, str(report_file)):
         print("  [OK] 飞书推送成功")
     else:
         print("  [SKIP] 飞书推送跳过（邮件方式已发送）")

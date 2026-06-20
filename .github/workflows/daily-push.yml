@@ -1,9 +1,9 @@
-name: 文献周报推送
+name: 文献日报推送
 
 on:
   schedule:
-    # 每周日北京时间 20:00 (UTC+8) → UTC 12:00
-    - cron: "0 12 * * 0"
+    # 每天北京时间 8:00 (UTC+8) → UTC 0:00，周一到周五
+    - cron: "0 0 * * 1-5"
   workflow_dispatch:
 
 jobs:
@@ -36,20 +36,20 @@ jobs:
           pip install playwright
           playwright install chromium --with-deps
 
-      - name: Scrape (7 days)
+      - name: Scrape (1 day)
         run: python scraper.py
         env:
-          SCRAPE_DAYS: "7"
-        timeout-minutes: 10
-
-      - name: LLM weekly synthesis
-        run: python analyze.py --mode weekly
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SCRAPE_DAYS: "1"
         timeout-minutes: 8
 
-      - name: Generate weekly report
-        run: python report_generator.py --mode weekly
+      - name: LLM per-paper analysis
+        run: python analyze.py --mode daily
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        timeout-minutes: 10
+
+      - name: Generate daily report
+        run: python report_generator.py --mode daily
 
       - name: Generate Obsidian notes
         run: python obsidian_notes.py
@@ -58,12 +58,12 @@ jobs:
         run: |
           git config user.name "paper-bot"
           git config user.email "paper-bot@med-push.local"
-          git add obsidian/ report_weekly.md scraped_papers.json analysis_weekly.json
-          git diff --staged --quiet || git commit -m "auto: weekly report W$(date +%V)"
+          git add obsidian/ report_daily.md scraped_papers.json analysis_daily.json
+          git diff --staged --quiet || git commit -m "auto: daily report $(date +%Y-%m-%d)"
           git push
 
       - name: Send email
-        run: python send_email.py --mode weekly
+        run: python send_email.py --mode daily
         env:
           EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
@@ -72,7 +72,7 @@ jobs:
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
 
       - name: Push to Feishu
-        run: python feishu_push.py --mode weekly
+        run: python feishu_push.py --mode daily
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
@@ -81,6 +81,6 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: weekly-report
-          path: report_weekly.md
-          retention-days: 90
+          name: daily-report
+          path: report_daily.md
+          retention-days: 30

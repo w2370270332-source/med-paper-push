@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """通过飞书 API 直接推送报告到飞书群."""
 
+import argparse
 import json
 import os
 import time
@@ -9,7 +10,6 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
 ROOT = Path(__file__).resolve().parent
-REPORT_FILE = ROOT / "report.md"
 TZ = timezone(timedelta(hours=8))
 
 # Feishu app credentials (from environment variables)
@@ -123,12 +123,16 @@ def send_card(token: str, chat_id: str, title: str, summary: str, url: str | Non
 
 
 def main():
-    if not REPORT_FILE.exists():
-        print(f"[ERROR] 报告文件不存在: {REPORT_FILE}")
-        print("请先运行 generate_report.py 生成报告")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--mode", choices=["daily", "weekly"], default="daily")
+    args = parser.parse_args()
+
+    report_file = ROOT / f"report_{args.mode}.md"
+    if not report_file.exists():
+        print(f"[ERROR] 报告文件不存在: {report_file}")
         return 1
 
-    report = REPORT_FILE.read_text(encoding="utf-8")
+    report = report_file.read_text(encoding="utf-8")
 
     print("[1/3] 获取飞书 Token...")
     token = get_tenant_token()
@@ -146,6 +150,7 @@ def main():
     for c in chats:
         print(f"    - {c.get('name', '(无名称)')} ({c['chat_id']})")
 
+    mode_label = "日报" if args.mode == "daily" else "周报"
     today = datetime.now(TZ).strftime("%Y-%m-%d")
     # 取报告开头部分作为推送摘要
     lines = report.split("\n")
@@ -169,7 +174,7 @@ def main():
     success_count = 0
     for c in chats:
         name = c.get("name", c["chat_id"])
-        if send_card(token, c["chat_id"], f"📚 预防医学与营养学文献周报 ({today})", summary):
+        if send_card(token, c["chat_id"], f"📚 预防医学与营养学文献{mode_label} ({today})", summary):
             print(f"  [OK] {name}")
             success_count += 1
         else:
