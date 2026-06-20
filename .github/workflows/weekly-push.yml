@@ -55,10 +55,12 @@ jobs:
         run: python obsidian_notes.py
 
       - name: Commit Obsidian notes
+        continue-on-error: true
         run: |
           git config user.name "paper-bot"
           git config user.email "paper-bot@med-push.local"
-          git add obsidian/ report_weekly.md scraped_papers.json analysis_weekly.json
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git add -f obsidian/ report_weekly.md scraped_papers.json analysis_weekly.json
           git diff --staged --quiet || git commit -m "auto: weekly report W$(date +%V)"
           git push
 
