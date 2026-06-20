@@ -287,6 +287,8 @@ def update_topic_index(papers: list[dict]) -> None:
                 if entry not in topic_map[topic]:
                     topic_map[topic].append(entry)
 
+    TOPICS.mkdir(parents=True, exist_ok=True)
+
     for topic, entries in topic_map.items():
         filepath = TOPICS / f"{topic}.md"
         existing: list[str] = []
