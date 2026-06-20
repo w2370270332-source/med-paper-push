@@ -1,0 +1,60 @@
+name: 文献周报推送
+
+on:
+  schedule:
+    # 每周一北京时间 9:00 (UTC+8) → UTC 1:00
+    - cron: "0 1 * * 1"
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Scrape papers
+        run: python scraper.py
+        timeout-minutes: 10
+
+      - name: Generate report
+        run: python generate_report.py
+
+      - name: Send email
+        if: success() || steps.generate.outcome == 'success'
+        run: python send_email.py
+        env:
+          EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
+          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+
+      - name: Push to Feishu
+        if: success() || steps.generate.outcome == 'success'
+        run: python feishu_push.py
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: literature-report
+          path: report.md
+          retention-days: 90

@@ -1,0 +1,27 @@
+# Secrets
+.env.email.json
+*.secret
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Output
+scraped_papers.json
+report.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# cc-connect
+.cc/
