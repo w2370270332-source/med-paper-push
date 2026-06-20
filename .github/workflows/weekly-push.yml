@@ -21,21 +21,29 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install dependencies
+      - name: Install system deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libcurl4-openssl-dev 2>/dev/null || true
+
+      - name: Install Python deps
         run: |
           pip install -r requirements.txt
           pip install playwright
           playwright install chromium --with-deps
 
       - name: Scrape papers
+        id: scrape
         run: python scraper.py
         timeout-minutes: 10
 
       - name: Generate report
+        id: report
+        if: success()
         run: python generate_report.py
 
       - name: Send email
-        if: success() || steps.generate.outcome == 'success'
+        if: success()
         run: python send_email.py
         env:
           EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
@@ -45,7 +53,7 @@ jobs:
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
 
       - name: Push to Feishu
-        if: success() || steps.generate.outcome == 'success'
+        if: success()
         run: python feishu_push.py
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
