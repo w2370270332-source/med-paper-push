@@ -28,18 +28,23 @@ def main():
         print("[ERROR] 抓取失败，流水线中止")
         return 1
 
-    # Phase 2: 生成报告
-    if not step("Phase 2/4: 生成报告", [sys.executable, "generate_report.py"]):
+    # Phase 2: LLM 分析
+    if os.environ.get("DEEPSEEK_API_KEY"):
+        if not step("Phase 2/5: LLM 中文分析", [sys.executable, "analyze.py"]):
+            print("[WARN] LLM 分析失败，使用简单列表模式")
+    else:
+        print("[SKIP] Phase 2/5: 未设置 DEEPSEEK_API_KEY，跳过 LLM 分析")
+
+    # Phase 3: 生成报告
+    if not step("Phase 3/5: 生成报告", [sys.executable, "generate_report.py"]):
         print("[ERROR] 报告生成失败，流水线中止")
         return 1
 
-    # Phase 3: 发送邮件
-    step("Phase 3/5: 邮件发送", [sys.executable, "send_email.py"])
+    # Phase 4: 发送邮件
+    step("Phase 4/5: 邮件发送", [sys.executable, "send_email.py"])
 
-    # Phase 4: 飞书推送
-    step("Phase 4/5: 飞书推送", [sys.executable, "feishu_push.py"])
-
-    # Phase 5: 保存到 Obsidian vault
+    # Phase 5: 飞书推送
+    step("Phase 5/5: 飞书推送", [sys.executable, "feishu_push.py"])
     report = ROOT / "report.md"
     if report.exists():
         vault = Path("G:/obsidian/Inbox")

@@ -37,6 +37,14 @@ jobs:
         run: python scraper.py
         timeout-minutes: 10
 
+      - name: LLM analysis
+        id: analyze
+        if: success()
+        run: python analyze.py
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        timeout-minutes: 5
+
       - name: Generate report
         id: report
         if: success()
