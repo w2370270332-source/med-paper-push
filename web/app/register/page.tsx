@@ -33,8 +33,8 @@ export default function RegisterPage() {
       return;
     }
 
-    message.success("注册成功！请登录");
-    router.push("/login");
+    message.success("注册成功！请前往邮箱查收确认邮件，点击链接激活账号后即可登录。");
+    setTimeout(() => router.push("/login"), 2000);
   };
 
   return (
