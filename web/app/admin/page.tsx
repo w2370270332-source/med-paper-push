@@ -29,6 +29,7 @@ import {
   SendOutlined,
   DashboardOutlined,
   CopyOutlined,
+  UserOutlined,
 } from "@ant-design/icons";
 import { createClient } from "@/lib/supabase";
 
@@ -81,6 +82,11 @@ export default function AdminPage() {
   }, [supabase]);
 
   useEffect(() => {
+    supabase.auth.getUser().then(({ data }) => {
+      if (data.user?.app_metadata?.role !== "admin") {
+        router.push("/dashboard");
+      }
+    });
     loadStats();
     loadInvites();
     loadUsers();
@@ -250,12 +256,17 @@ export default function AdminPage() {
           <Menu
             mode="inline"
             selectedKeys={[tab]}
-            onClick={({ key }) => setTab(key)}
+            onClick={({ key }) => {
+              if (key === "user-dashboard") { router.push("/dashboard"); return; }
+              setTab(key);
+            }}
             items={[
               { key: "dashboard", icon: <DashboardOutlined />, label: "概览" },
               { key: "invites", icon: <KeyOutlined />, label: "邀请码" },
               { key: "users", icon: <TeamOutlined />, label: "用户管理" },
               { key: "test", icon: <SendOutlined />, label: "测试推送" },
+              { type: "divider" as const },
+              { key: "user-dashboard", icon: <UserOutlined />, label: "用户面板" },
             ]}
           />
         </Sider>

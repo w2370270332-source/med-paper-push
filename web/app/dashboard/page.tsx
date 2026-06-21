@@ -23,6 +23,7 @@ import {
   LogoutOutlined,
   SettingOutlined,
   HistoryOutlined,
+  SafetyOutlined,
 } from "@ant-design/icons";
 import { createClient } from "@/lib/supabase";
 
@@ -72,6 +73,7 @@ export default function DashboardPage() {
   const [preferences, setPreferences] = useState<any>(null);
   const [history, setHistory] = useState<any[]>([]);
   const [historyLoading, setHistoryLoading] = useState(false);
+  const [isAdmin, setIsAdmin] = useState(false);
 
   const router = useRouter();
   const { message } = App.useApp();
@@ -87,6 +89,8 @@ export default function DashboardPage() {
       .eq("user_id", data.user.id)
       .single();
     if (pref) setPreferences(pref);
+    const isAdminUser = data.user?.app_metadata?.role === "admin";
+    setIsAdmin(isAdminUser);
     setLoading(false);
   }, [supabase]);
 
@@ -195,10 +199,16 @@ export default function DashboardPage() {
           <Menu
             mode="inline"
             selectedKeys={[tab]}
-            onClick={({ key }) => setTab(key as any)}
+            onClick={({ key }) => {
+              if (key === "admin") { router.push("/admin"); return; }
+              setTab(key as any);
+            }}
             items={[
               { key: "preferences", icon: <SettingOutlined />, label: "推送偏好" },
               { key: "history", icon: <HistoryOutlined />, label: "推送历史" },
+              ...(isAdmin
+                ? [{ key: "admin", icon: <SafetyOutlined />, label: "管理后台" }]
+                : []),
             ]}
           />
         </Sider>
