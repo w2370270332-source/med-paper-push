@@ -11,7 +11,6 @@ import {
   Layout,
   Menu,
   Radio,
-  Slider,
   Space,
   Spin,
   Table,
@@ -252,23 +251,6 @@ export default function DashboardPage() {
                     onChange={(v) =>
                       setPreferences({ ...preferences, cas_quartiles: v })
                     }
-                  />
-                  <div style={{ height: 24 }} />
-
-                  <Title level={5}>
-                    期刊最低影响因子：{preferences?.min_impact_factor || 0}
-                  </Title>
-                  <Text type="secondary">筛选发表在该影响因子以上期刊的论文（新发论文暂无自身影响因子）</Text>
-                  <Slider
-                    min={0}
-                    max={50}
-                    step={1}
-                    value={preferences?.min_impact_factor || 0}
-                    onChange={(v) =>
-                      setPreferences({ ...preferences, min_impact_factor: v })
-                    }
-                    style={{ maxWidth: 400 }}
-                    marks={{ 0: "不限", 10: "10", 20: "20", 30: "30", 50: "50" }}
                   />
                   <div style={{ height: 24 }} />
 

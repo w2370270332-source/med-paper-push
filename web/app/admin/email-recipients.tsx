@@ -9,7 +9,6 @@ import {
   message,
   Modal,
   Radio,
-  Slider,
   Space,
   Table,
   Tag,
@@ -59,7 +58,6 @@ interface Recipient {
   email: string;
   research_areas: string[];
   cas_quartiles: string[];
-  min_impact_factor: number;
   push_frequency: string;
   push_days: string[];
   push_time: string;
@@ -69,7 +67,6 @@ interface Recipient {
 const defaultPrefs = {
   research_areas: [] as string[],
   cas_quartiles: ["1", "2", "3", "4"],
-  min_impact_factor: 0,
   push_frequency: "daily",
   push_days: [] as string[],
   push_time: "08:00",
@@ -109,7 +106,6 @@ export function EmailRecipients() {
       email: r.email,
       research_areas: r.research_areas || [],
       cas_quartiles: r.cas_quartiles || ["1","2","3","4"],
-      min_impact_factor: r.min_impact_factor || 0,
       push_frequency: r.push_frequency || "daily",
       push_days: r.push_days || [],
       push_time: r.push_time || "08:00",
@@ -124,7 +120,6 @@ export function EmailRecipients() {
       email: form.email,
       research_areas: form.research_areas,
       cas_quartiles: form.cas_quartiles,
-      min_impact_factor: form.min_impact_factor,
       push_frequency: form.push_frequency,
       push_days: form.push_days,
       push_time: form.push_time,
@@ -255,16 +250,6 @@ export function EmailRecipients() {
               options={CAS_QUARTILES}
               value={form.cas_quartiles}
               onChange={v => setForm({ ...form, cas_quartiles: v as string[] })}
-            />
-          </div>
-
-          <div>
-            <Text strong>最低影响因子：{form.min_impact_factor}</Text>
-            <Slider
-              min={0} max={50} step={1}
-              value={form.min_impact_factor}
-              onChange={v => setForm({ ...form, min_impact_factor: v })}
-              style={{ maxWidth: 300 }}
             />
           </div>
 
