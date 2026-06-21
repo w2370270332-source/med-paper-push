@@ -46,6 +46,7 @@ export default function AdminPage() {
   const [stats, setStats] = useState({ users: 0, papers: 0, pushes: 0 });
   const [inviteCodes, setInviteCodes] = useState<any[]>([]);
   const [generating, setGenerating] = useState(false);
+  const [refreshKey, setRefreshKey] = useState(0);
   const [testEmail, setTestEmail] = useState("");
   const [testing, setTesting] = useState(false);
 
@@ -254,6 +255,7 @@ export default function AdminPage() {
             onClick={({ key }) => {
               if (key === "user-dashboard") { router.push("/dashboard"); return; }
               setTab(key);
+              if (key === "users" || key === "mail") setRefreshKey(k => k + 1);
             }}
             items={[
               { key: "dashboard", icon: <DashboardOutlined />, label: "概览" },
@@ -321,7 +323,7 @@ export default function AdminPage() {
               </Card>
             )}
 
-            {tab === "users" && <UserManagement />}
+            {tab === "users" && <UserManagement key={`users-${refreshKey}`} />}
 
             {tab === "test" && (
               <Card title="测试推送">
@@ -340,7 +342,7 @@ export default function AdminPage() {
               </Card>
             )}
 
-            {tab === "mail" && <EmailRecipients />}
+            {tab === "mail" && <EmailRecipients key={`mail-${refreshKey}`} />}
           </Content>
         </Layout>
       </Layout>
