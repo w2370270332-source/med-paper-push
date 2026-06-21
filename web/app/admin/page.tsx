@@ -35,6 +35,7 @@ import {
 } from "@ant-design/icons";
 import { createClient } from "@/lib/supabase";
 import { EmailRecipients } from "./email-recipients";
+import { UserManagement } from "./user-management";
 
 const { Title, Text } = Typography;
 const { Header, Sider, Content } = Layout;
@@ -44,7 +45,6 @@ export default function AdminPage() {
   const [loading, setLoading] = useState(true);
   const [stats, setStats] = useState({ users: 0, papers: 0, pushes: 0 });
   const [inviteCodes, setInviteCodes] = useState<any[]>([]);
-  const [users, setUsers] = useState<any[]>([]);
   const [generating, setGenerating] = useState(false);
   const [testEmail, setTestEmail] = useState("");
   const [testing, setTesting] = useState(false);
@@ -77,13 +77,6 @@ export default function AdminPage() {
     if (data) setInviteCodes(data);
   }, [supabase]);
 
-  const loadUsers = useCallback(async () => {
-    const { data: prefs } = await supabase
-      .from("user_preferences")
-      .select("*");
-    if (prefs) setUsers(prefs);
-  }, [supabase]);
-
   useEffect(() => {
     supabase.auth.getUser().then(({ data }) => {
       if (data.user?.app_metadata?.role !== "admin") {
@@ -92,8 +85,7 @@ export default function AdminPage() {
     });
     loadStats();
     loadInvites();
-    loadUsers();
-  }, [loadStats, loadInvites, loadUsers]);
+  }, [loadStats, loadInvites]);
 
   const handleGenerate = async () => {
     setGenerating(true);
@@ -329,16 +321,7 @@ export default function AdminPage() {
               </Card>
             )}
 
-            {tab === "users" && (
-              <Card title="用户管理">
-                <Table
-                  dataSource={users}
-                  columns={userColumns}
-                  rowKey="user_id"
-                  pagination={{ pageSize: 20 }}
-                />
-              </Card>
-            )}
+            {tab === "users" && <UserManagement />}
 
             {tab === "test" && (
               <Card title="测试推送">
