@@ -80,31 +80,58 @@ def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
 
 def _generate_report(papers: list[dict], name: str = "") -> str:
     today = datetime.now(TZ).strftime("%Y-%m-%d")
+    weekday = ["周一","周二","周三","周四","周五","周六","周日"][datetime.now(TZ).weekday()]
     lines = [
         f"# 预防医学与营养学文献推送",
-        f"**{today}** | 匹配到 {len(papers)} 篇",
+        f"**{today}（{weekday}）** | 匹配到 {len(papers)} 篇",
         "",
         "---",
         "",
     ]
     for i, p in enumerate(papers, 1):
         title = p.get("title_cn") or p.get("title", "")
+        original_title = p.get("original_title") or p.get("title", "")
         source = p.get("source", "")
-        findings = p.get("findings", "")
-        pmid = p.get("pmid", "")
-        url = p.get("url", "")
+        pmid = p.get("pmid") or ""
+        url = p.get("url") or ""
+        background = p.get("background") or ""
+        methods = p.get("methods") or ""
+        findings = p.get("findings") or ""
+        significance = p.get("significance") or ""
+        limitation = p.get("limitation") or ""
+        relevance = p.get("relevance") or ""
 
-        lines.append(f"### {i}. {title}")
+        lines.append(f"## {i}. {title}")
+        lines.append("")
+        if original_title and original_title != title:
+            lines.append(f"*{original_title}*")
         lines.append(f"**来源：**{source}")
         if pmid:
             lines.append(f"**PMID：**[{pmid}](https://pubmed.ncbi.nlm.nih.gov/{pmid})")
         if url:
             lines.append(f"**DOI：**[{url}]({url})")
+        lines.append("")
+        if background:
+            lines.append(f"**背景：**{background}")
+            lines.append("")
+        if methods:
+            lines.append(f"**方法：**{methods}")
+            lines.append("")
         if findings:
-            lines.append(f"**发现：**{findings[:300]}")
+            lines.append(f"**发现：**{findings}")
+            lines.append("")
+        if significance:
+            lines.append(f"**意义：**{significance}")
+            lines.append("")
+        if limitation:
+            lines.append(f"**局限：**{limitation}")
+            lines.append("")
+        if relevance:
+            lines.append(f"**关联：**{relevance}")
+            lines.append("")
+        lines.append("---")
         lines.append("")
 
-    lines.append("---")
     lines.append(f"*由文献推送系统自动生成于 {today}*")
     return "\n".join(lines)
 
