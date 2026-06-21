@@ -129,6 +129,7 @@ export default function DashboardPage() {
         min_impact_factor: preferences.min_impact_factor,
         push_frequency: preferences.push_frequency,
         push_days: preferences.push_days,
+        push_time: preferences.push_time || "08:00",
         enabled: preferences.enabled,
         updated_at: new Date().toISOString(),
       });
@@ -255,8 +256,9 @@ export default function DashboardPage() {
                   <div style={{ height: 24 }} />
 
                   <Title level={5}>
-                    最低影响因子：{preferences?.min_impact_factor || 0}
+                    期刊最低影响因子：{preferences?.min_impact_factor || 0}
                   </Title>
+                  <Text type="secondary">筛选发表在该影响因子以上期刊的论文（新发论文暂无自身影响因子）</Text>
                   <Slider
                     min={0}
                     max={50}
@@ -266,8 +268,20 @@ export default function DashboardPage() {
                       setPreferences({ ...preferences, min_impact_factor: v })
                     }
                     style={{ maxWidth: 400 }}
-                    marks={{ 0: "0", 10: "10", 20: "20", 30: "30", 50: "50" }}
+                    marks={{ 0: "不限", 10: "10", 20: "20", 30: "30", 50: "50" }}
                   />
+                  <div style={{ height: 24 }} />
+
+                  <Title level={5}>推送时间</Title>
+                  <input
+                    type="time"
+                    value={preferences?.push_time || "08:00"}
+                    onChange={(e) =>
+                      setPreferences({ ...preferences, push_time: e.target.value })
+                    }
+                    style={{ padding: "4px 8px", fontSize: 14, borderRadius: 6, border: "1px solid #d9d9d9" }}
+                  />
+                  <Text type="secondary" style={{ marginLeft: 8 }}>（北京时间）</Text>
                   <div style={{ height: 24 }} />
 
                   <Title level={5}>推送频率</Title>
