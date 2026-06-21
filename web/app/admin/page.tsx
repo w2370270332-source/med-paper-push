@@ -79,11 +79,6 @@ export default function AdminPage() {
   }, [supabase]);
 
   useEffect(() => {
-    supabase.auth.getUser().then(({ data }) => {
-      if (data.user?.app_metadata?.role !== "admin") {
-        router.push("/dashboard");
-      }
-    });
     loadStats();
     loadInvites();
   }, [loadStats, loadInvites]);
