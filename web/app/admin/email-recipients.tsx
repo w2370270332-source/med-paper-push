@@ -80,6 +80,7 @@ export function EmailRecipients() {
   const [editingId, setEditingId] = useState<number | null>(null);
   const [form, setForm] = useState({ email: "", ...defaultPrefs });
   const [saving, setSaving] = useState(false);
+  const [messageApi, contextHolder] = message.useMessage();
   const supabase = createClient();
 
   const loadData = async () => {
@@ -115,7 +116,7 @@ export function EmailRecipients() {
   };
 
   const handleSave = async () => {
-    if (!form.email) { message.warning("请输入邮箱"); return; }
+    if (!form.email) { messageApi.warning("请输入邮箱"); return; }
     setSaving(true);
     const payload = {
       email: form.email,
@@ -135,9 +136,9 @@ export function EmailRecipients() {
 
     setSaving(false);
     if (error) {
-      message.error("保存失败: " + error.message);
+      messageApi.error("保存失败: " + error.message);
     } else {
-      message.success(editingId ? "已更新" : "已添加");
+      messageApi.success(editingId ? "已更新" : "已添加");
       setModalOpen(false);
       loadData();
     }
@@ -146,9 +147,9 @@ export function EmailRecipients() {
   const handleDelete = async (id: number) => {
     const { error } = await supabase.from("email_recipients").delete().eq("id", id);
     if (error) {
-      message.error("删除失败: " + error.message);
+      messageApi.error("删除失败: " + error.message);
     } else {
-      message.success("已删除");
+      messageApi.success("已删除");
       loadData();
     }
   };
@@ -194,7 +195,9 @@ export function EmailRecipients() {
   ];
 
   return (
-    <Card
+    <>
+      {contextHolder}
+      <Card
       title="邮件管理"
       extra={
         <Button type="primary" icon={<PlusOutlined />} onClick={openAdd}>
@@ -274,5 +277,6 @@ export function EmailRecipients() {
         </Space>
       </Modal>
     </Card>
+    </>
   );
 }

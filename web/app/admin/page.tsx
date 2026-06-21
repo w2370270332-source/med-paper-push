@@ -49,6 +49,7 @@ export default function AdminPage() {
 
   const router = useRouter();
   const supabase = createClient();
+  const [messageApi, contextHolder] = message.useMessage();
   const { token } = theme.useToken();
 
   const loadStats = useCallback(async () => {
@@ -91,16 +92,16 @@ export default function AdminPage() {
     const { error } = await supabase.from("invite_codes").insert({ code });
     setGenerating(false);
     if (error) {
-      message.error("生成失败: " + error.message);
+      messageApi.error("生成失败: " + error.message);
     } else {
-      message.success(`邀请码已生成: ${code}`);
+      messageApi.success(`邀请码已生成: ${code}`);
       loadInvites();
     }
   };
 
   const handleTestPush = async () => {
     if (!testEmail) {
-      message.warning("请输入测试邮箱");
+      messageApi.warning("请输入测试邮箱");
       return;
     }
     setTesting(true);
@@ -112,12 +113,12 @@ export default function AdminPage() {
       });
       const data = await resp.json();
       if (data.success) {
-        message.success("测试推送已发送");
+        messageApi.success("测试推送已发送");
       } else {
-        message.error("测试推送失败: " + data.error);
+        messageApi.error("测试推送失败: " + data.error);
       }
     } catch (e: any) {
-      message.error("请求失败: " + e.message);
+      messageApi.error("请求失败: " + e.message);
     }
     setTesting(false);
   };
@@ -129,7 +130,7 @@ export default function AdminPage() {
 
   const copyCode = (code: string) => {
     navigator.clipboard.writeText(code);
-    message.success("已复制");
+    messageApi.success("已复制");
   };
 
   if (loading) {
@@ -223,6 +224,8 @@ export default function AdminPage() {
   ];
 
   return (
+    <>
+      {contextHolder}
       <Layout style={{ minHeight: "100vh" }}>
         <Sider
           breakpoint="lg"
@@ -337,5 +340,6 @@ export default function AdminPage() {
           </Content>
         </Layout>
       </Layout>
+    </>
   );
 }

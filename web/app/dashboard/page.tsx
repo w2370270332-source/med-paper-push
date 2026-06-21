@@ -77,6 +77,7 @@ export default function DashboardPage() {
 
   const router = useRouter();
   const supabase = createClient();
+  const [messageApi, contextHolder] = message.useMessage();
   const { token } = theme.useToken();
 
   const loadPreferences = useCallback(async () => {
@@ -149,9 +150,9 @@ export default function DashboardPage() {
 
     setSaving(false);
     if (error) {
-      message.error("保存失败: " + error.message);
+      messageApi.error("保存失败: " + error.message);
     } else {
-      message.success("偏好已保存");
+      messageApi.success("偏好已保存");
     }
   };
 
@@ -202,6 +203,8 @@ export default function DashboardPage() {
   ];
 
   return (
+    <>
+      {contextHolder}
       <Layout style={{ minHeight: "100vh" }}>
         <Sider
           breakpoint="lg"
@@ -325,5 +328,6 @@ export default function DashboardPage() {
           </Content>
         </Layout>
       </Layout>
+    </>
   );
 }

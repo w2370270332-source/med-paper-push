@@ -67,6 +67,7 @@ export function UserManagement() {
   const [editingUser, setEditingUser] = useState<UserInfo | null>(null);
   const [form, setForm] = useState<any>({});
   const [saving, setSaving] = useState(false);
+  const [messageApi, contextHolder] = message.useMessage();
   const supabase = createClient();
 
   const loadUsers = async () => {
@@ -125,9 +126,9 @@ export function UserManagement() {
 
     setSaving(false);
     if (error) {
-      message.error("保存失败: " + error.message);
+      messageApi.error("保存失败: " + error.message);
     } else {
-      message.success("已更新");
+      messageApi.success("已更新");
       setModalOpen(false);
       loadUsers();
     }
@@ -189,7 +190,9 @@ export function UserManagement() {
   ];
 
   return (
-    <Card title="用户管理">
+    <>
+      {contextHolder}
+      <Card title="用户管理">
       <Table dataSource={users} columns={columns} rowKey="user_id" loading={loading} pagination={{ pageSize: 20 }} />
 
       <Modal
@@ -264,5 +267,6 @@ export function UserManagement() {
         </Space>
       </Modal>
     </Card>
+    </>
   );
 }
