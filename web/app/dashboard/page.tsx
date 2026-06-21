@@ -123,13 +123,12 @@ export default function DashboardPage() {
         user_id: data.user.id,
         research_areas: preferences.research_areas,
         cas_quartiles: preferences.cas_quartiles,
-        min_impact_factor: preferences.min_impact_factor,
         push_frequency: preferences.push_frequency,
         push_days: preferences.push_days,
         push_time: preferences.push_time || "08:00",
         enabled: preferences.enabled,
         updated_at: new Date().toISOString(),
-      });
+      }, { onConflict: 'user_id' });
 
     setSaving(false);
     if (error) {
