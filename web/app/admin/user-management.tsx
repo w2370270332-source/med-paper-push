@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Button,
   Card,
@@ -76,7 +76,7 @@ export function UserManagement() {
     setLoading(false);
   };
 
-  useState(() => { loadUsers(); });
+  useEffect(() => { loadUsers(); }, []);
 
   const openEdit = (u: UserInfo) => {
     setEditingUser(u);

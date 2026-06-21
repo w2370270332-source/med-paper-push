@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Button,
   Card,
@@ -93,7 +93,7 @@ export function EmailRecipients() {
   };
 
   // Load on mount
-  useState(() => { loadData(); });
+  useEffect(() => { loadData(); }, []);
 
   const openAdd = () => {
     setEditingId(null);
