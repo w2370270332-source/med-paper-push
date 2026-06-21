@@ -117,10 +117,9 @@ export default function DashboardPage() {
     const { data } = await supabase.auth.getUser();
     if (!data.user) return;
 
-    const { error } = await supabase
+    const { error: updateErr } = await supabase
       .from("user_preferences")
-      .upsert({
-        user_id: data.user.id,
+      .update({
         research_areas: preferences.research_areas,
         cas_quartiles: preferences.cas_quartiles,
         push_frequency: preferences.push_frequency,
@@ -128,7 +127,25 @@ export default function DashboardPage() {
         push_time: preferences.push_time || "08:00",
         enabled: preferences.enabled,
         updated_at: new Date().toISOString(),
-      }, { onConflict: 'user_id' });
+      })
+      .eq("user_id", data.user.id);
+
+    let error = updateErr;
+    // 如果记录不存在就创建
+    if (updateErr?.code === "PGRST116") {
+      const { error: insertErr } = await supabase
+        .from("user_preferences")
+        .insert({
+          user_id: data.user.id,
+          research_areas: preferences.research_areas,
+          cas_quartiles: preferences.cas_quartiles,
+          push_frequency: preferences.push_frequency,
+          push_days: preferences.push_days,
+          push_time: preferences.push_time || "08:00",
+          enabled: preferences.enabled,
+        });
+      error = insertErr;
+    }
 
     setSaving(false);
     if (error) {

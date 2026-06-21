@@ -94,10 +94,9 @@ export function UserManagement() {
   const handleSave = async () => {
     if (!editingUser) return;
     setSaving(true);
-    const { error } = await supabase
+    const { error: updateErr } = await supabase
       .from("user_preferences")
-      .upsert({
-        user_id: editingUser.user_id,
+      .update({
         research_areas: form.research_areas,
         cas_quartiles: form.cas_quartiles,
         push_frequency: form.push_frequency,
@@ -105,7 +104,24 @@ export function UserManagement() {
         push_time: form.push_time,
         enabled: form.enabled,
         updated_at: new Date().toISOString(),
-      }, { onConflict: 'user_id' });
+      })
+      .eq("user_id", editingUser.user_id);
+
+    let error = updateErr;
+    if (updateErr?.code === "PGRST116") {
+      const { error: insertErr } = await supabase
+        .from("user_preferences")
+        .insert({
+          user_id: editingUser.user_id,
+          research_areas: form.research_areas,
+          cas_quartiles: form.cas_quartiles,
+          push_frequency: form.push_frequency,
+          push_days: form.push_days,
+          push_time: form.push_time,
+          enabled: form.enabled,
+        });
+      error = insertErr;
+    }
 
     setSaving(false);
     if (error) {
