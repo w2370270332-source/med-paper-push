@@ -30,6 +30,8 @@ import {
   DashboardOutlined,
   CopyOutlined,
   UserOutlined,
+  MailOutlined,
+  DeleteOutlined,
 } from "@ant-design/icons";
 import { createClient } from "@/lib/supabase";
 
@@ -45,6 +47,9 @@ export default function AdminPage() {
   const [generating, setGenerating] = useState(false);
   const [testEmail, setTestEmail] = useState("");
   const [testing, setTesting] = useState(false);
+  const [recipients, setRecipients] = useState<any[]>([]);
+  const [newEmail, setNewEmail] = useState("");
+  const [addingEmail, setAddingEmail] = useState(false);
 
   const router = useRouter();
   const supabase = createClient();
@@ -81,6 +86,14 @@ export default function AdminPage() {
     if (prefs) setUsers(prefs);
   }, [supabase]);
 
+  const loadRecipients = useCallback(async () => {
+    const { data } = await supabase
+      .from("email_recipients")
+      .select("*")
+      .order("created_at", { ascending: false });
+    if (data) setRecipients(data);
+  }, [supabase]);
+
   useEffect(() => {
     supabase.auth.getUser().then(({ data }) => {
       if (data.user?.app_metadata?.role !== "admin") {
@@ -90,7 +103,8 @@ export default function AdminPage() {
     loadStats();
     loadInvites();
     loadUsers();
-  }, [loadStats, loadInvites, loadUsers]);
+    loadRecipients();
+  }, [loadStats, loadInvites, loadUsers, loadRecipients]);
 
   const handleGenerate = async () => {
     setGenerating(true);
@@ -132,6 +146,30 @@ export default function AdminPage() {
       message.error("请求失败: " + e.message);
     }
     setTesting(false);
+  };
+
+  const handleAddEmail = async () => {
+    if (!newEmail) { message.warning("请输入邮箱"); return; }
+    setAddingEmail(true);
+    const { error } = await supabase.from("email_recipients").insert({ email: newEmail });
+    setAddingEmail(false);
+    if (error) {
+      message.error("添加失败: " + error.message);
+    } else {
+      message.success(`已添加: ${newEmail}`);
+      setNewEmail("");
+      loadRecipients();
+    }
+  };
+
+  const handleDeleteEmail = async (id: number) => {
+    const { error } = await supabase.from("email_recipients").delete().eq("id", id);
+    if (error) {
+      message.error("删除失败: " + error.message);
+    } else {
+      message.success("已删除");
+      loadRecipients();
+    }
   };
 
   const handleLogout = async () => {
@@ -265,6 +303,7 @@ export default function AdminPage() {
               { key: "invites", icon: <KeyOutlined />, label: "邀请码" },
               { key: "users", icon: <TeamOutlined />, label: "用户管理" },
               { key: "test", icon: <SendOutlined />, label: "测试推送" },
+              { key: "mail", icon: <MailOutlined />, label: "邮件管理" },
               { type: "divider" as const },
               { key: "user-dashboard", icon: <UserOutlined />, label: "用户面板" },
             ]}
@@ -339,9 +378,7 @@ export default function AdminPage() {
             {tab === "test" && (
               <Card title="测试推送">
                 <Space direction="vertical" size="middle">
-                  <div>
-                    <Text>发送测试推送到指定邮箱：</Text>
-                  </div>
+                  <div><Text>发送测试推送到指定邮箱：</Text></div>
                   <Input
                     placeholder="输入邮箱地址"
                     value={testEmail}
@@ -352,6 +389,54 @@ export default function AdminPage() {
                     发送测试推送
                   </Button>
                 </Space>
+              </Card>
+            )}
+
+            {tab === "mail" && (
+              <Card title="邮件管理">
+                <Text type="secondary">直接添加邮箱地址，无需邀请码注册。对方将收到推送邮件。</Text>
+                <div style={{ height: 16 }} />
+                <Space>
+                  <Input
+                    placeholder="输入邮箱地址"
+                    value={newEmail}
+                    onChange={(e) => setNewEmail(e.target.value)}
+                    style={{ width: 300 }}
+                    onPressEnter={handleAddEmail}
+                  />
+                  <Button type="primary" loading={addingEmail} onClick={handleAddEmail}>
+                    添加
+                  </Button>
+                </Space>
+                <div style={{ height: 24 }} />
+                <Table
+                  dataSource={recipients}
+                  rowKey="id"
+                  pagination={{ pageSize: 20 }}
+                  columns={[
+                    { title: "邮箱", dataIndex: "email", key: "email" },
+                    {
+                      title: "添加时间",
+                      dataIndex: "created_at",
+                      key: "created_at",
+                      render: (v: string) => new Date(v).toLocaleString("zh-CN"),
+                    },
+                    {
+                      title: "操作",
+                      key: "action",
+                      width: 100,
+                      render: (_: any, r: any) => (
+                        <Button
+                          danger
+                          icon={<DeleteOutlined />}
+                          onClick={() => handleDeleteEmail(r.id)}
+                        >
+                          删除
+                        </Button>
+                      ),
+                    },
+                  ]}
+                />
               </Card>
             )}
           </Content>

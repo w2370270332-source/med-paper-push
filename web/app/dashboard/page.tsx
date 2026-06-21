@@ -43,6 +43,8 @@ const RESEARCH_AREAS = [
   "食品政策",
   "膳食干预",
   "微量营养素",
+  "AI相关",
+  "流行病与卫生统计学",
 ];
 
 const CAS_QUARTILES = [
