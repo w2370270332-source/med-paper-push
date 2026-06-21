@@ -105,7 +105,7 @@ export function UserManagement() {
         push_time: form.push_time,
         enabled: form.enabled,
         updated_at: new Date().toISOString(),
-      });
+      }, { onConflict: 'user_id' });
 
     setSaving(false);
     if (error) {
