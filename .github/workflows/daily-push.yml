@@ -70,6 +70,16 @@ jobs:
           git diff --staged --quiet || git commit -m "auto: daily report $(date +%Y-%m-%d)"
           git push
 
+      - name: Distribute to users
+        run: python distribute.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
+          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+
       - name: Send email
         run: python send_email.py --mode daily
         env:
