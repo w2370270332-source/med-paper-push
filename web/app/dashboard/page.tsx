@@ -3,13 +3,12 @@
 import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import {
-  App,
   Button,
   Card,
   Checkbox,
-  Descriptions,
   Layout,
   Menu,
+  message,
   Radio,
   Space,
   Spin,
@@ -77,7 +76,6 @@ export default function DashboardPage() {
   const [isAdmin, setIsAdmin] = useState(false);
 
   const router = useRouter();
-  const { message } = App.useApp();
   const supabase = createClient();
   const { token } = theme.useToken();
 
@@ -188,7 +186,6 @@ export default function DashboardPage() {
   ];
 
   return (
-    <App>
       <Layout style={{ minHeight: "100vh" }}>
         <Sider
           breakpoint="lg"
@@ -312,6 +309,5 @@ export default function DashboardPage() {
           </Content>
         </Layout>
       </Layout>
-    </App>
   );
 }

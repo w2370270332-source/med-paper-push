@@ -3,16 +3,13 @@
 import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import {
-  App,
   Button,
   Card,
   Col,
-  Divider,
   Input,
   Layout,
   Menu,
   message,
-  Modal,
   Row,
   Space,
   Spin,
@@ -226,7 +223,6 @@ export default function AdminPage() {
   ];
 
   return (
-    <App>
       <Layout style={{ minHeight: "100vh" }}>
         <Sider
           breakpoint="lg"
@@ -341,6 +337,5 @@ export default function AdminPage() {
           </Content>
         </Layout>
       </Layout>
-    </App>
   );
 }
