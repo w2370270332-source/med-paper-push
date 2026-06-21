@@ -68,8 +68,8 @@ def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
 
     matched = []
     for p in papers:
-        combined = (p.get("title_cn", "") + " " + p.get("title", "") + " " +
-                    p.get("findings", "") + " " + p.get("abstract", "")).lower()
+        combined = ((p.get("title_cn") or "") + " " + (p.get("title") or "") + " " +
+                    (p.get("findings") or "") + " " + (p.get("abstract") or "")).lower()
         for area in areas:
             keywords = AREA_KEYWORDS.get(area, [])
             if any(kw in combined for kw in keywords):
