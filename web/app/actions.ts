@@ -19,17 +19,31 @@ export async function sendTestPush(email: string): Promise<PushResult> {
       .order("fetched_at", { ascending: false })
       .limit(5);
 
-    if (!papers || papers.length === 0) {
-      return { success: false, error: "论文池为空，请先运行文献抓取" };
-    }
+    // 生成测试报告
+    const lines = [
+      "# 📚 文献推送系统 — 测试邮件",
+      "",
+      `测试邮箱: ${email}`,
+      `发送时间: ${new Date().toLocaleString("zh-CN")}`,
+      "",
+      "---",
+      "",
+    ];
 
-    // 生成简单的测试报告
-    const lines = ["# 📚 文献推送测试", "", `测试邮箱: ${email}`, ""];
-    for (const p of papers) {
-      lines.push(`## ${p.title_cn || p.title}`);
-      lines.push(`**来源：**${p.source || "未知"}`);
-      if (p.findings) lines.push(`**发现：**${p.findings}`);
-      lines.push("");
+    if (!papers || papers.length === 0) {
+      lines.push(
+        "> ⚠️ 论文池当前为空，请等待 GitHub Actions 自动抓取运行后补充数据。",
+        "",
+        "推送系统已正常运行，此邮件仅为测试 SMTP 连通性。",
+      );
+    } else {
+      lines.push(`论文池共 ${papers.length} 篇论文，以下是最近 5 篇：`, "");
+      for (const p of papers) {
+        lines.push(`## ${p.title_cn || p.title}`);
+        lines.push(`**来源：**${p.source || "未知"}`);
+        if (p.findings) lines.push(`**发现：**${p.findings}`);
+        lines.push("");
+      }
     }
 
     const report = lines.join("\n");
