@@ -154,6 +154,8 @@ def send_email(to: str, subject: str, body: str) -> bool:
 def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
                      last_push: str | None) -> bool:
     """判断是否应该此刻推送."""
+    if os.environ.get("DISTRIBUTE_FORCE"):
+        return True
     now = datetime.now(TZ)
 
     # 检查推送时间（±30min 容错，因为 Actions 每 30min 跑一次）
