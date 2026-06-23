@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T11:44:20.043929",
+    "generated_at": "2026-06-23T14:47:46.181522",
     "days_back": 1,
-    "total_papers": 102,
+    "total_papers": 111,
     "sources": {
       "pubmed": 68,
-      "rss": 5,
-      "preprints": 10,
-      "trials": 19
+      "rss": 0,
+      "preprints": 20,
+      "trials": 29
     }
   },
   "papers": [
@@ -282,6 +282,36 @@
       "pmid": "42219654"
     },
     {
+      "title": "The SHAPE Project (Hospital System for Physical Activity and Active Participation) After Hospitalized Decompensation of Respiratory Chronic Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT07663955",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Frailty, Sarcopenia, Hospital Discharge, Physical Activity, Acute Exacerbation Chronic Pulmonary Disease; Interventions: Hospital System for Physical Activity and Active Participation; It is widely established that a lack of adapted physical activity (APA) and sedentary behaviors increase the prevalence of frailty, which exacerbates chronic diseases. Hospital stays amplify this phenomenon, leading to physical deconditioning, often irreparable, especially in older patients if it is; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07663955",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Health Assessment of Low Glycaemic Index - High Protein Rice to Enhance Glycemic Control Through Nutrition",
+      "url": "https://clinicaltrials.gov/study/NCT07663123",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-10",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Prediabetes / Type 2 Diabetes; Interventions: Functional rice variaties; Type 2 Diabetes (T2D) represents a critical public health challenge in Singapore, with prevalence projected to reach one million residents by 2050. This epidemic is largely driven by a distinct \"Asian phenotype\" characterized by reduced insulin secretion capacity even at lower BMIs and a diet heavil; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07663123",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Evaluation of the Effects of Lifestyle Medicine and Mindfulness-based Group Medical Visits on Stress, Microbiome, and Quality of Life in Women Experiencing Perimenopause and Menopause",
+      "url": "https://clinicaltrials.gov/study/NCT07619352",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Perimenopause, Menopause; Interventions: Navigating Menopause with a Mindfulness-Based Group Medical Visit; While perimenopause and menopause are natural biological transitions, women may experience a wide range of physical, emotional, and cognitive symptoms. Although pharmacological options for symptom relief are available, these options may not be acceptable or suitable for all women. Integrative approa; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07619352",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
       "title": "The Authors Respond.",
       "url": "https://doi.org/10.1097/EDE.0000000000001986",
       "source": "PubMed → Epidemiology",
@@ -363,94 +393,74 @@
       "pmid": "41944641"
     },
     {
-      "title": "Cooking Health-Oriented Meals to Prevent Dementia and Diabetes",
-      "url": "https://clinicaltrials.gov/study/NCT07661368",
+      "title": "Trial of the Combination of Alpha-Lipoic Acid and Mirabegron in Women and in Men With Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT05713799",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-07",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Type 2 Diabetes, Dementia; Interventions: Cooking skills training, Cooking skills education; Previous research demonstrates that 1) adherence to a DASH dietary pattern and diets low in certain UPFs are linked to lower likelihood of experiencing cognitive impairments in later life (Seago et al., 2025a, 2025b), that 2) engagement in cooking is linked to healthier eating, reduced UPF consumpti; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07661368",
+      "date": "2026-06-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Insulin Resistance, Obesity; Interventions: Alpha-lipoic acid, Mirabegron, Placebo; Background:\n\nObesity and related illnesses cause at least 2.8 million deaths each year worldwide. Few treatments exist for obesity that are safe and widely available. A study drug (mirabegron \\[MG\\]) combined with a supplement (alpha-lipoic acid \\[ALA\\]) may help.\n\nObjective:\n\nTo learn how MG and AL; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05713799",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Correction: Exploring scalable assessment methods for terminated trials in ClinicalTrials.gov: A cohort analysis of German and Californian trials",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352277",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352266",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "An umbrella review navigating the nationwide burden of hepatitis B virus infection in Ethiopia: A call for action on vaccination, safe blood, and infection prevention",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352169",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correction: Development and testing of a composite index to monitor the continuum of maternal health service delivery at provincial and district level in South Africa",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352153",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Association between dynamic digital radiography findings and post-extubation respiratory deterioration: A retrospective exploratory analysis of a prospectively collected ICU cohort",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352029",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Risk Factor Assessment for Acute Pulmonary Hypertension Crisis",
-      "url": "https://clinicaltrials.gov/study/NCT07653958",
+      "title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
+      "url": "https://clinicaltrials.gov/study/NCT06274749",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-06-17",
-      "abstract": "Status: RECRUITING; Conditions: Pulmonary Hypertension, Pulmonary Hypertension Crisis; The goal of this observational study is to learn about pulmonary hypertension crisis (PHC) - a severe, and often fatal complication - in patients with pulmonary hypertension (PH). The main questions this study aims to answer are:\n\nWhat are the clinical and hemodynamic features of PHC, and what under; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07653958",
+      "date": "2026-06-28",
+      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06274749",
       "status": "RECRUITING"
     },
     {
-      "title": "Assessing the Safety and Tolerability of NMN in DHDDS-CDG",
-      "url": "https://clinicaltrials.gov/study/NCT07572825",
+      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
+      "url": "https://clinicaltrials.gov/study/NCT06690294",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-05-08",
-      "abstract": "Status: RECRUITING; Conditions: DHDDS-Congenital Disorder of Glycosylation, DHDDS-CDG, Congenital Disorder of Glycosylation; Interventions: Nicotinamide Mononucleotide (NMN) Nucleosidase; The primary objective of this study is to evaluate the safety and tolerability of the dietary supplement, nicotinamide mononucleotide (NMN), in individuals with dehydrodolichol diphosphate synthase congenital disorder of glycosylation (DHDDS-CDG). This will to contribute to knowledge that will allow; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07572825",
+      "date": "2026-06-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06690294",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "BILe Acid-gut Microbiome Axis MODification Through Diet Education for Colorectal Cancer Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT07162337",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-06-18",
+      "abstract": "Status: RECRUITING; Conditions: Colorectal Cancer Prevention, Colorectal Adenoma; Interventions: Increased Plant-Based Diet and Decreased Animal-Based Diet; This research study is a prospective, single-arm clinical trial to assess the effect of a dietary intervention for more plant-based and less animal-based food intake on secondary bile acid production, gut microbiota, circulating biomarkers and gene expression associated with colonic bile acid recept; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07162337",
       "status": "RECRUITING"
     },
     {
-      "title": "INcreTin-based thERapies for Cardiovascular Event PrevenTion in Patients With and Without ASCVD (INTERCEPT-ASCVD)",
-      "url": "https://clinicaltrials.gov/study/NCT07417618",
+      "title": "Ketones for Opioid Craving",
+      "url": "https://clinicaltrials.gov/study/NCT07128524",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-01-27",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Type 2 Diabetes, Overweight, ASCVD; Interventions: Dulaglutide, Semaglutide, Tirzepatide, Sitagliptin; Investigators are building an empirical evidence base for real world data through large-scale emulation of randomized controlled trials. The investigators' goal is to understand for what types of clinical questions real world data analyses can be conducted with confidence and how to implement such s; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07417618",
-      "status": "ACTIVE_NOT_RECRUITING"
+      "date": "2026-06",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Opioid Use Disorder; Interventions: Treatment with Ketone Supplement, Treatment with Placebo; The goal of this clinical trial is to learn if ketone supplementation (KS) works to reduce craving for opioids for adults with opioid use disorder (OUD) undergoing in-patient acute withdrawal management. The main questions it aims to answer are:\n\n* Does KS reduce craving for opioids in patients with; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07128524",
+      "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Efficacy of INTOFINE-JOINT SUPPORT DIETARY SUPPLEMENT on Bone and Joint Health",
-      "url": "https://clinicaltrials.gov/study/NCT07658950",
+      "title": "Targeting Sedentary Behavior Reduction and Physical Fitness Enhancement in Women Before and Beyond Bariatric Surgery- BARIMOV Study Protocol",
+      "url": "https://clinicaltrials.gov/study/NCT07663942",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-01-15",
-      "abstract": "Status: COMPLETED; Conditions: Mild Knee Osteoarthritis (WOMAC 20-32, VAS 2-4); Interventions: INTOFINE-JOINT SUPPORT DIETARY SUPPLEMENT; The goal of this clinical trial is to evaluate whether INTOFINE-JOINT SUPPORT DIETARY SUPPLEMENT improves joint health in adults aged 40-60 years with mild symptomatic knee osteoarthritis (defined by WOMAC total score 20-32 and knee pain VAS score 2-4). It will also assess the safety of the test pro; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07658950",
-      "status": "COMPLETED"
+      "date": "2026-04-20",
+      "abstract": "Status: RECRUITING; Conditions: Obesity (Disorder); Interventions: Sedentary behavior reduction program on physical fitness.; Introduction: Sedentary behavior (SB) and insufficient physical activity (PA) interact to worsen physical fitness (PF), obesity-related complications and diseases (ORCD), and all-cause mortality in women with obesity. Replacing SB with low-intensity PA may improve PF and ameliorate ORCD, with potent; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07663942",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "A Clinical Study to Evaluate the Effects of Enicepatide (RO7795068) in Participants With Obesity or Overweight and Type 2 Diabetes",
+      "url": "https://clinicaltrials.gov/study/NCT07351058",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-03-23",
+      "abstract": "Status: RECRUITING; Conditions: Obesity or Overweight, Type 2 Diabetes Mellitus; Interventions: Placebo, Enicepatide; The purpose of this study is to assess the efficacy and safety of enicepatide, a dual glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP) receptor agonist (RA), at multiple doses compared with placebo for weight management in participants with obesity or overweight and; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07351058",
+      "status": "RECRUITING"
     },
     {
       "title": "Blood signatures of cell type-specific aging forecast disease risk and resilience.",
@@ -714,143 +724,133 @@
       "pmid": "42134478"
     },
     {
-      "title": "The Impact of Laser Acupuncture on Type 2 Diabetes",
-      "url": "https://clinicaltrials.gov/study/NCT07661160",
+      "title": "Anti-inflammatory Nutrition on the Outcomes of Non-surgical Periodontal Therapy",
+      "url": "https://clinicaltrials.gov/study/NCT07287540",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-11-28",
-      "abstract": "Status: COMPLETED; Conditions: Type 2 Diabetes, ObesityType 2 Diabetes Mellitus; Interventions: Laser Acupuncture, Sham Laser Acupuncture; Laser Acupuncture for Type 2 Diabetes and Body Shape The goal of this clinical trial is to learn if laser acupuncture can help improve body shape and overall health in women with Type 2 Diabetes (T2D).\n\nThe main question it aims to answer is:\n\nDoes laser acupuncture lead to a better A Body Shape Ind; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07661160",
+      "date": "2025-11-22",
+      "abstract": "Status: RECRUITING; Conditions: Periodontitis; Interventions: non surgical periodontal trearment, anti-inflammatory nutrition education; This study aimed to determine the effect of anti-inflammatory nutrition on non-surgical periodontal treatment in individuals with periodontitis by evaluating gingival crevicular fluid (GCF) and serum biomarkers and clinical periodontal parameters.\n\nA total of 100 volunteers identified as having a pr; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07287540",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Characterization of the Gut Microbiota Signature According to Physical Fitness and Its Implications for Intestinal Health.",
+      "url": "https://clinicaltrials.gov/study/NCT07276464",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2025-11-17",
+      "abstract": "Status: COMPLETED; Conditions: Healthy; Interventions: Maximal incremental exercise test, Submaximal exercise test, Fecal sampling; The gut microbiota comprises all microorganisms inhabiting the digestive tract, evolving throughout life under the influence of various intrinsic and extrinsic factors. Under healthy conditions, the microbiota remains stable, resilient, and maintains a symbiotic relationship with its host. Conversel; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07276464",
       "status": "COMPLETED"
     },
     {
-      "title": "Study to Evaluate the Efficacy and Safety of KDS2010 in Overweight or Obese Patients",
-      "url": "https://clinicaltrials.gov/study/NCT07009171",
+      "title": "Study on Ketorolac for Improving Outcomes and Prognosis in Patients With Stanford Type A Aortic Dissection",
+      "url": "https://clinicaltrials.gov/study/NCT06968806",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-07-29",
-      "abstract": "Status: RECRUITING; Conditions: Overweight, Obesity, Obese Patients; Interventions: KDS2010, KDS2010, KDS2010, Placebo, Placebo; This is a randomized, double-blind, placebo-controlled, dose-escalation, Phase 2a study designed to evaluate the safety and efficacy of KDS2010 in overweight or obese patients. Based on preliminary efficacy observed in the Phase 1 study, a clinical trial is being conducted in Korea. After a minimum ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07009171",
+      "date": "2025-10-27",
+      "abstract": "Status: RECRUITING; Conditions: Aortic Dissection, Inflammation; Interventions: Ketorolac, 0.9 % saline; This multicenter, randomized, double-blind, placebo-controlled trial evaluates the efficacy and safety of ketorolac in 360 patients with Stanford Type A aortic dissection, conducted between 2025 and 2027. Participants will receive either ketorolac (60 mg intramuscularly \\[IM\\] preoperatively and 30 ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06968806",
       "status": "RECRUITING"
     },
     {
-      "title": "Preoperative Fasting and the Gut Microbiome Before Hip Replacement",
-      "url": "https://clinicaltrials.gov/study/NCT07651462",
+      "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
+      "url": "https://clinicaltrials.gov/study/NCT07157774",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-07-01",
-      "abstract": "Status: RECRUITING; Conditions: Hip Osteoarthritis, Arthroplasty, Replacement, Hip, Postoperative Complications, Surgical Wound Infection, Gastrointestinal Microbiome; Interventions: Buchinger Fastenbox + intermittent fasting (20-day preoperative schedule); Postoperative complications occur in 5-15% of patients undergoing elective primary total hip arthroplasty (THA), including periprosthetic joint infection (PJI), thrombosis, wound healing disorders, and metabolic dysregulation. The gut microbiome and the systemic immune profile have both been implica; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07651462",
+      "date": "2025-09-02",
+      "abstract": "Status: RECRUITING; Conditions: Elevated Lp(a), Atherosclerotic Cardiovascular Disease (ASCVD); Interventions: Muvalaplin, Placebo; The purpose of this study is to evaluate the efficacy of muvalaplin in reducing cardiovascular risk in participants with high lipoprotein(a) who have cardiovascular disease or are at risk of a heart attack or stroke.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07157774",
       "status": "RECRUITING"
     },
     {
-      "title": "Standardized Microbiota Transplant Therapy in Crohn's Disease",
-      "url": "https://clinicaltrials.gov/study/NCT06631586",
+      "title": "Nutritional Screening in Cardiovascular Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07409519",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-01-15",
-      "abstract": "Status: RECRUITING; Conditions: Crohn Disease; Interventions: MTP-101C, MTP-101S; Crohn's disease (CD) develops because of a disruption of homeostasis between the gut microbiota and the host immune system resulting in excessive inflammation in the intestinal tract. Current drug therapies for CD are directed at the immune system. The emergence of fecal microbiota transplantation (; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06631586",
+      "date": "2025-08-20",
+      "abstract": "Status: RECRUITING; Conditions: Cardiovascular Diseases; Interventions: Nutritional Screening; This is a nutritional screening and assessment study conducted prior to heart surgery. The nutritional status of patients will be assessed by a series of questionnaires, blood/urine biomarkers and measurement of grip strength and body composition. The investigators will then evaluate of any of the a; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07409519",
       "status": "RECRUITING"
     },
     {
-      "title": "Aging Resilience Through Microbiota Optimization and Regulation",
-      "url": "https://clinicaltrials.gov/study/NCT06649981",
+      "title": "Effect of Agricultural Practices on Crops, Gut Microbiome, and Human Health",
+      "url": "https://clinicaltrials.gov/study/NCT07165145",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-01-10",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Resilience, Cognitive Function and Well-Being, Muscle Function, Handgrip Strength Test, Insulin Sensitivity; Interventions: FMT capsule, Placebo Capsule(s); Sarcopenia, characterized by the progressive loss of muscle mass and strength in older adults, is a key factor in health deterioration. It affects 15% of people between 65 and 80 years old and over 50% of those over 80, compromising autonomy and increasing the risk of diseases. Sarcopenia not only i; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06649981",
+      "date": "2025-06-25",
+      "abstract": "Status: COMPLETED; Conditions: Obesity Prevention, Microbiome Analysis; Interventions: Organic Fruits and Vegetables, Conventional Fruits and Vegetables; The human gut microbiome plays a regulatory role in host health, and is involved in metabolic, immune, and neurological processes. Diet shapes the gut microbiome; by providing essential nutrients, which sustain the existing microorganisms and by introducing foodborne microbes that modulate its compo; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07165145",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Clinical Investigation of Herbal Formulation and Its Efficacy in Polycystic Ovarian Syndrome",
+      "url": "https://clinicaltrials.gov/study/NCT07399535",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2025-02-22",
+      "abstract": "Status: COMPLETED; Conditions: Polycystic Ovarian Syndrome (PCOS), Herbal Medicine, Infertility, Metabolic Disorder; Interventions: Herbal Formulation, Metformin XR, Metformin 750 mg and herbal formulation 500 mg; Polycystic Ovarian Syndrome (PCO) is a metabolic disorder that afflicts the women of childbearing age. An approximate of 5-10% women are the victim of this disorder. PCOS is a leading cause of infertility in females these days and is characterized by Hyperandrogenism, Chronic Anovulation, Impaired f; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07399535",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Electronic Cardiac Rehabilitation (eCardiacRehab) Feasibility Study",
+      "url": "https://clinicaltrials.gov/study/NCT06759805",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2025-01-06",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Coronary Artery Disease, Cardiac Rehabilitation, Ethics, Continuity of Patient Care, Older Adults (65 Years and Older); Interventions: eCardiacRehab; In Norway, more than 11,000 patients undergo percutaneous coronary intervention (PCI) annually. However, a very recent study utilizing registry data show a national average of cardiac rehabilitation (CR) participation of only 14%, despite its proven beneficial effects on readmissions, physical capac; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06759805",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "Study of GS-4571 in Healthy Participants, Nondiabetic Obese Participants, and Nonobese Participants With Type 2 Diabetes Mellitus (T2DM)",
-      "url": "https://clinicaltrials.gov/study/NCT06562907",
+      "title": "Healthy Eating and Active Living (HEAL), Exploring Feasibility of a Lifestyle Intervention",
+      "url": "https://clinicaltrials.gov/study/NCT07662499",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-08-28",
-      "abstract": "Status: RECRUITING; Conditions: Weight Management; Interventions: GS-4571, Placebo, Omeprazole; The goal of this clinical study is to learn more about the study drug, GS-4571, and how safe it is in 3 groups, i) Healthy participants, ii) Healthy non-diabetic obese participants, and iii) Non-obese participants with Type 2 Diabetes Mellitus (T2DM).\n\nThe primary objectives of this study are:\n\n* To; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06562907",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "The Impact of Continuous Glucose Monitoring on Maternal and Infant's Outcomes in Gestational Diabetes",
-      "url": "https://clinicaltrials.gov/study/NCT06436326",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-08-22",
-      "abstract": "Status: RECRUITING; Conditions: Gestational Diabetes Mellitus, Continuous Glucose Monitoring; Interventions: Continuous glucose monitor, Perinatal nursing care for gestational diabetes, Blood glucose meters (BGM); This study will discuss the impact of continuous glucose monitoring on maternal and infant's outcomes in gestational diabetes mellitus, and test the moderating effect of socioeconomic and cultural factors (dietary habits, socioeconomic status and income).; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06436326",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "An Observational Study to Learn More About How Safe Rivaroxaban is And How Well it Works in Children With Congenital Heart Disease Who Had a Heart Surgery Called the Fontan Procedure",
-      "url": "https://clinicaltrials.gov/study/NCT06193863",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-06-18",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Prevention of Venous Thromboembolism, Congenital Heart Disease, Fontan Procedure, Children; Interventions: Rivaroxaban (Xarelto, BAY59-7939); This is an observational study in which the data from children with congenital heart disease will be collected and studied. These children will include those who are prescribed rivaroxaban by their doctors after a heart surgery called the Fontan procedure.\n\nCongenital heart disease (CHD) is a heart ; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT06193863",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Effects of Pulses Through the Gut Microbiome and Bioavailability of Bioactive Compounds",
-      "url": "https://clinicaltrials.gov/study/NCT05999136",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-01-10",
-      "abstract": "Status: COMPLETED; Conditions: Lifestyle-related Condition; Interventions: Pulses diet, Plant proteins diet, Habitual diet; The goal of this clinical trial is to investigate the effects of replacing red meat with pulses, on cardiometabolic health and gut microbiome in individuals with unhealthy habits and sedentary lifestyles at high risk for cardiovascular diseases. The main questions it aims to answer are:\n\n1. How does; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05999136",
+      "date": "2024-09-16",
+      "abstract": "Status: COMPLETED; Conditions: Lifestyle (Sedentary Behavior and Physical Activity), Lifestyle Intervention, Lifestyle Modification; Interventions: Multimodal lifestyle intervention (HEAL program); Lifestyle interventions combining nutrition, physical activity, and behavioral strategies are increasingly recognized for improving metabolic and psychological health, yet their translation into real-world settings remains limited. Key implementation factors such as feasibility, adherence, intervent; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07662499",
       "status": "COMPLETED"
     },
     {
-      "title": "A Multi Center Study of Sexual Toxicities After Radiotherapy",
-      "url": "https://clinicaltrials.gov/study/NCT05394428",
+      "title": "Study of Oral Ubrogepant to Assess Adverse Events and Change in Disease Activity in Adult Participants With Menstrual Migraine",
+      "url": "https://clinicaltrials.gov/study/NCT06417775",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2022-10-04",
-      "abstract": "Status: RECRUITING; Conditions: Malignant Neoplasms; Interventions: No intervention; The purpose of this research is to understand how radiotherapy and other cancer treatments impact sexual function in female cancer patients and to try to answer a question about why some patients who receive radiotherapy are more likely to have side effects than others. The results of this study may; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT05394428",
+      "date": "2024-09-10",
+      "abstract": "Status: RECRUITING; Conditions: Migraine; Interventions: Ubrogepant, Placebo for Ubrogepant; A migraine is a moderate to severe headache typically on one side of the head. A migraine attack is a headache that may be accompanied by throbbing, nausea, vomiting, sensitivity to light and sound, or other symptoms. Menstrual migraine (MM) is defined as migraine attacks that occur within the perim; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06417775",
       "status": "RECRUITING"
     },
     {
-      "title": "Intestine-lung Axis of Cystic Fibrosis Patients Treated With the Combination Elexacaftor/Tezacaftor/Ivacaftor",
-      "url": "https://clinicaltrials.gov/study/NCT05937815",
+      "title": "The Impact of Daily Carbohydrate Intake on Glycemic Control in Children and Adolescents With Type 1 Diabetes Using an Advanced Hybrid Closed-loop System",
+      "url": "https://clinicaltrials.gov/study/NCT05866900",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2021-09-13",
-      "abstract": "Status: RECRUITING; Conditions: Cystic Fibrosis; Interventions: Sample collection; Cystic fibrosis is a systemic disease, which affects in particular the respiratory and digestive systems of patients, sites of chronic inflammation.\n\nA new combination of elexacaftor/tezacaftor/ivacaftor has proven its efficacy for the treatment of patients aged 12 years and over with two F508del mu; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05937815",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Androgen Receptor, Implications for Health and Wellbeing: Natural History Study of Individuals With Androgen Insensitivity",
-      "url": "https://clinicaltrials.gov/study/NCT04708431",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-04-29",
-      "abstract": "Status: RECRUITING; Conditions: Androgen Insensitivity Syndrome, Metabolic Parameters in AIS, CAIS, PAIS and MAIS, Tumor Formation in AIS, CAIS, PAIS and MAIS, Sexual Function AIS, CAIS, PAIS and MAIS; Background:\n\nAndrogen effects in humans are usually (but not always) mediated by the androgen receptor which is coded for by the androgen receptor gene (AR gene). Androgen Insensitivity Syndrome (AIS) is a rare condition in which the body cannot sense the male hormones in the blood or tissue. Both w; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04708431",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Early Add-On Combination of GLP-1 Receptor Agonist and SGLT2 Inhibitor in People With Cardiovascular-Kidney-Metabolic Stage 2-3",
-      "url": "https://clinicaltrials.gov/study/NCT07465926",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2017-01-01",
-      "abstract": "Status: COMPLETED; Conditions: Cardiovascular-kidney-metabolic Syndrome, Cardiovascular Disease Risk Factor, Kidney Disease, Type 2 Diabetes, Obesity & Overweight; Interventions: GLP-1 receptor agonist, SGLT2 inhibitor; This retrospective observational target-trial emulation uses electronic health record data from the TriNetX US Collaborative Network to compare early treatment intensification strategies in adults with obesity, type 2 diabetes, and cardiovascular-kidney-metabolic stage 2-3 who initiate a GLP-1 recep; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07465926",
+      "date": "2023-05-15",
+      "abstract": "Status: COMPLETED; Conditions: Diabetes Mellitus, Type 1; Interventions: MiniMed 780G with SmartGuard activated; Lifestyle factors, including diet, play an important role in the achievement of glycemic targets in patients with diabetes, even with the use of automated insulin delivery (AID) systems. Advanced hybrid closed-loop systems (AHCL), by implementing innovative and powerful control algorithms, have been; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT05866900",
       "status": "COMPLETED"
     },
     {
-      "title": "Obesity Cohort : Medical Follow-up of Severe or Morbid Obese Patients Undergoing Bariatric Surgery",
-      "url": "https://clinicaltrials.gov/study/NCT02310178",
+      "title": "Optic Nerve Sheath Diameter Changes During Bariatric Surgery",
+      "url": "https://clinicaltrials.gov/study/NCT07662538",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2012-05-21",
-      "abstract": "Status: RECRUITING; Conditions: Obesity, Morbid, Bariatric Surgery Candidate; Interventions: Bariatric surgery; The aim of this cohort is to evaluate the follow-up of morbidly obese patients treated by several types of bariatric procedures. In addition, this study could lead to the development of clinical trials on assessment of the bariatric surgery impact.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT02310178",
+      "date": "2022-01-01",
+      "abstract": "Status: COMPLETED; Conditions: Morbid Obesity, Obesity; Interventions: Optic Nerve Sheath Diameter Measurement; This prospective clinical study aimed to evaluate the effects of pneumoperitoneum and patient positioning on intracranial pressure in patients undergoing bariatric surgery. Intracranial pressure was assessed noninvasively using ultrasonographic optic nerve sheath diameter (ONSD) measurements. ONSD m; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07662538",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Anti-PD-1 mAb Plus Metabolic Modulator in Solid Tumor Malignancies",
+      "url": "https://clinicaltrials.gov/study/NCT04114136",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2020-09-14",
+      "abstract": "Status: RECRUITING; Conditions: Melanoma, NSCLC, Hepatocellular Carcinoma, Urothelial Cancer, Gastric Adenocarcinoma; Interventions: Nivolumab or Pembrolizumab (dependent upon approved indication), Metformin, Rosiglitazone; Patients with histologically or cytologically confirmed advanced melanoma, renal cell carcinoma, NSCLC, HCC (Child Pugh Class A only), MSI-High solid tumors, Urothelial Cancer, GE junction/Gastric Adenocarcinoma, or HNSCC for which current standard of care treatment for their stage of disease would ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT04114136",
       "status": "RECRUITING"
     },
     {
@@ -932,6 +932,86 @@
       "source_type": "preprint",
       "date": null,
       "abstract": "Felicity Simpson , Jenna"
+    },
+    {
+      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Lauren E. Anderson , Anne L."
+    },
+    {
+      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kenneth T Trang , Dalia Arafat"
+    },
+    {
+      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Noor E Huma , Samuel"
+    },
+    {
+      "title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Sydney A Skupa , Jordan B"
+    },
+    {
+      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Xin Yu , Wenge"
+    },
+    {
+      "title": "Probiotic formula intervention in infants leads to colonization and competitive strain displacement independent of IgA binding",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.03.729775v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Michael Vig Merino , Svenja"
+    },
+    {
+      "title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Chenglu Jiang , Bin"
+    },
+    {
+      "title": "Gut Microbiota Mediates the Association between Diet Quality and Ectopic Adiposity: The Multiethnic Cohort Adiposity Phenotype Study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717245v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Songran Wang , Meredith A."
+    },
+    {
+      "title": "Early-life canine gut microbiome maturation follows a shared age–diet trajectory within persistent host-specific structure",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.25.727648v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Tamás Járay , Gábor"
+    },
+    {
+      "title": "Diet-conditioned microbiota enhances fecal microbiota transplantation efficacy in alcoholic liver disease through caproic acid-PPARα signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714243v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Nishu Choudhary , Ashi"
     }
   ]
 }
