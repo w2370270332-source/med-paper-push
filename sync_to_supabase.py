@@ -11,6 +11,33 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 TZ = timezone(timedelta(hours=8))
 
+
+def _parse_date(raw: str | None) -> str:
+    """将各种日期格式统一为 YYYY-MM-DD."""
+    if not raw:
+        return datetime.now(TZ).strftime("%Y-%m-%d")
+    raw = raw.strip()
+    # 已经是标准格式
+    if len(raw) == 10 and raw[4] == "-" and raw[7] == "-":
+        return raw
+    # "2026 Jun" / "2026-06" 等不完整格式
+    import re
+    # "2026 Jun" -> look up month
+    m = re.match(r"(\d{4})\s+(\w{3,})", raw)
+    if m:
+        year = m.group(1)
+        month_abbr = m.group(2)[:3].lower()
+        months = {"jan":"01","feb":"02","mar":"03","apr":"04","may":"05","jun":"06",
+                  "jul":"07","aug":"08","sep":"09","oct":"10","nov":"11","dec":"12"}
+        if month_abbr in months:
+            return f"{year}-{months[month_abbr]}-01"
+    # "2026-06" -> fill day
+    m = re.match(r"(\d{4})-(\d{1,2})$", raw)
+    if m:
+        return f"{m.group(1)}-{int(m.group(2)):02d}-01"
+    # fallback
+    return datetime.now(TZ).strftime("%Y-%m-%d")
+
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY = os.environ.get("SUPABASE_SERVICE_KEY", "")  # service_role key
 
@@ -58,7 +85,7 @@ def sync_papers(papers: list[dict], mode: str) -> int:
             "significance": (p.get("significance") or "")[:500],
             "limitation": (p.get("limitation") or "")[:500],
             "relevance": (p.get("relevance") or "")[:500],
-            "pub_date": p.get("date") or today,
+            "pub_date": _parse_date(p.get("date")),
             "fetched_at": datetime.now(TZ).isoformat(),
         }).encode("utf-8")
 
