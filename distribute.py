@@ -37,6 +37,9 @@ AREA_KEYWORDS = {
     "流行病学": ["流行病学", "发病率", "患病率", "风险因素", "epidemiology", "incidence", "prevalence", "risk factor"],
     "生物统计学": ["统计", "方法学", "数据", "模型", "statistics", "biostatistics", "methodology", "model"],
     "AI驱动的健康研究": ["机器学习", "深度学习", "人工智能", "预测模型", "machine learning", "deep learning", "AI", "prediction"],
+    "药食同源与植物化学物": ["药食同源", "植物化学", "类黄酮", "黄酮", "多酚", "柑橘", "柚皮苷", "橙皮苷", "生物活性成分", "天然产物", "flavonoid", "polyphenol", "citrus", "naringin", "hesperidin", "phytochemical", "bioactive", "medicinal food", "functional food"],
+    "高尿酸血症与痛风": ["高尿酸", "尿酸", "痛风", "嘌呤", "黄嘌呤氧化酶", "hyperuricemia", "uric acid", "gout", "purine", "xanthine oxidase"],
+    "炎症与免疫调节": ["炎症", "抗炎", "免疫", "细胞因子", "炎症因子", "抗炎活性", "inflammation", "anti-inflammatory", "immune", "cytokine", "inflammatory", "NF-kB", "NLRP3"],
 }
 
 
