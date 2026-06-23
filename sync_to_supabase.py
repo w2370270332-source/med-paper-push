@@ -78,6 +78,9 @@ def sync_papers(papers: list[dict], mode: str) -> int:
             with urllib.request.urlopen(req, timeout=15) as resp:
                 pass
             count += 1
+        except urllib.error.HTTPError as e:
+            err_body = e.read().decode()[:200] if e.fp else ""
+            print(f"  [WARN] 插入失败 ({title[:40]}): {e.code} {err_body}")
         except Exception as e:
             print(f"  [WARN] 插入失败 ({title[:40]}): {e}")
 

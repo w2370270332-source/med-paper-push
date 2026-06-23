@@ -79,6 +79,8 @@ jobs:
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          DISTRIBUTE_FORCE: "1"
+        timeout-minutes: 10
 
       - name: Send email
         run: python send_email.py --mode daily

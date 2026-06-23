@@ -154,33 +154,35 @@ def send_email(to: str, subject: str, body: str) -> bool:
 def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
                      last_push: str | None) -> bool:
     """判断是否应该此刻推送."""
-    if os.environ.get("DISTRIBUTE_FORCE"):
-        return True
+    force = bool(os.environ.get("DISTRIBUTE_FORCE"))
     now = datetime.now(TZ)
 
-    # 检查推送时间（±30min 容错，因为 Actions 每 30min 跑一次）
+    # 检查是否今天已推（避免重复，即使强制模式也检查）
+    if last_push:
+        last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
+        if last.date() == now.date():
+            return False
+
+    if force:
+        return True
+
+    # 检查推送时间（±30min 容错）
     try:
         h, m = map(int, push_time.split(":"))
         target = now.replace(hour=h, minute=m, second=0, microsecond=0)
         diff = abs((now - target).total_seconds())
-        if diff > 1800:  # 30 minutes
+        if diff > 1800:
             return False
     except (ValueError, AttributeError):
         return False
 
     # 检查推送频率
-    weekday = str(now.weekday() + 1)  # 1=Mon, 7=Sun
+    weekday = str(now.weekday() + 1)
     if push_freq == "weekdays" and push_days:
         if weekday not in push_days:
             return False
     elif push_freq == "weekly":
-        if weekday != "1":  # Only Monday
-            return False
-
-    # 检查是否今天已推（避免重复）
-    if last_push:
-        last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
-        if last.date() == now.date():
+        if weekday != "1":
             return False
 
     return True
