@@ -160,10 +160,11 @@ def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
     force = bool(os.environ.get("DISTRIBUTE_FORCE"))
     now = datetime.now(TZ)
 
-    # 检查是否今天已推（避免重复，即使强制模式也检查）
+    # 检查是否 30 分钟内已推（避免两个工作流并发重复）
     if last_push:
         last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
-        if last.date() == now.date():
+        delta = now - last.replace(tzinfo=TZ) if last.tzinfo is None else now - last
+        if delta.total_seconds() < 3600:  # 1 小时内不重复推
             return False
 
     if force:
