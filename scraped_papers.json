@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T14:52:38.334183",
+    "generated_at": "2026-06-24T00:06:19.298605",
     "days_back": 1,
-    "total_papers": 111,
+    "total_papers": 116,
     "sources": {
       "pubmed": 68,
-      "rss": 0,
+      "rss": 5,
       "preprints": 20,
       "trials": 29
     }
@@ -421,6 +421,46 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
       "nct_id": "NCT06690294",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005094",
+      "source": "PLOS Medicine RSS",
+      "source_type": "journal",
+      "date": "2026-06-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004725",
+      "source": "PLOS Medicine RSS",
+      "source_type": "journal",
+      "date": "2026-06-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Correction: Health insurance enrollment and maternal health service utilization using Ghana Demographic and Health Survey, 2022",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352273",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-06-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Leveraging design thinking to tackle contemporary admissions challenges in health professions education",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352192",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-06-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Exploring the potential of community health workers in type-2 diabetes and hypertension management in Cambodia",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351958",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-06-23T14:00:00+00:00",
+      "abstract": ""
     },
     {
       "title": "BILe Acid-gut Microbiome Axis MODification Through Diet Education for Colorectal Cancer Prevention",
