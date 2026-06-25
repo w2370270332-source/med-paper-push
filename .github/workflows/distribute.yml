@@ -2,9 +2,13 @@ name: 分发推送
 
 on:
   schedule:
-    # 每 30 分钟检查一次（UTC）
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force send (skip time check)'
+        type: boolean
+        default: false
 
 jobs:
   distribute:
@@ -34,4 +38,5 @@ jobs:
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          DISTRIBUTE_FORCE: ${{ inputs.force && '1' || '' }}
         timeout-minutes: 10
