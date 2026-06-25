@@ -70,15 +70,6 @@ jobs:
           git diff --staged --quiet || git commit -m "auto: weekly report W$(date +%V)"
           git push
 
-      - name: Send email
-        run: python send_email.py --mode weekly
-        env:
-          EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
-          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
-          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
-
       - name: Push to Feishu
         run: python feishu_push.py --mode weekly
         env:
