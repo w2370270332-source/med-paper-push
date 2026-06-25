@@ -24,28 +24,25 @@ async function triggerWorkflow(filename: string) {
   }
 }
 
-export async function GET() {
+export async function GET(request: Request) {
+  const url = new URL(request.url);
+  const mode = url.searchParams.get("mode") || "daily";
   const now = new Date();
-  const beijingHour = (now.getUTCHours() + 8) % 24;
-  const beijingMinute = now.getUTCMinutes();
-  const weekday = now.getUTCDay(); // 0=Sun
   const results: string[] = [];
 
-  // 每天 8:00 北京时间 → 触发日报
-  if (beijingHour === 8 && beijingMinute < 15) {
+  if (mode === "daily") {
+    // Vercel cron 只负责弥补 GitHub cron 的空窗：每天 8:00 北京触发日报
     const ok = await triggerWorkflow("daily-push.yml");
     results.push(`daily: ${ok ? "ok" : "fail"}`);
-  }
-
-  // 周日 20:00 北京时间 → 触发周报
-  if (weekday === 0 && beijingHour === 20 && beijingMinute < 15) {
+  } else if (mode === "weekly") {
     const ok = await triggerWorkflow("weekly-push.yml");
     results.push(`weekly: ${ok ? "ok" : "fail"}`);
+  } else if (mode === "force-distribute") {
+    // 手动调试用：传入 force=true
+    const force = url.searchParams.get("force") === "true";
+    const ok = await triggerWorkflow("distribute.yml");
+    results.push(`distribute: ${ok ? "ok" : "fail"} (force=${force})`);
   }
-
-  // 始终触发分发（分发脚本内部有时间检查）
-  const distOk = await triggerWorkflow("distribute.yml");
-  results.push(`distribute: ${distOk ? "ok" : "fail"}`);
 
   return NextResponse.json({ ok: true, results, time: now.toISOString() });
 }
