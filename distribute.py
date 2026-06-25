@@ -175,7 +175,7 @@ def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
         h, m = map(int, push_time.split(":"))
         target = now.replace(hour=h, minute=m, second=0, microsecond=0)
         diff = abs((now - target).total_seconds())
-        if diff > 1800:
+        if diff > 3600:  # 60 min tolerance for cron delays
             return False
     except (ValueError, AttributeError):
         return False

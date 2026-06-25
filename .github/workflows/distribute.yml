@@ -3,7 +3,7 @@ name: 分发推送
 on:
   schedule:
     # 每 30 分钟检查一次（UTC）
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
