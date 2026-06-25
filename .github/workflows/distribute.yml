@@ -10,10 +10,14 @@ on:
         type: boolean
         default: false
 
+concurrency:
+  group: distribute
+  cancel-in-progress: false
+
 jobs:
   distribute:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     permissions:
       contents: read
 

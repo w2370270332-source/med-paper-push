@@ -164,7 +164,7 @@ def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
     if last_push:
         last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
         delta = now - last.replace(tzinfo=TZ) if last.tzinfo is None else now - last
-        if delta.total_seconds() < 3600:  # 1 小时内不重复推
+        if delta.total_seconds() < 3900:  # 65min，大于60min容错，消除边界间隙
             return False
 
     if force:
