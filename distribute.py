@@ -65,7 +65,7 @@ def _supa(path: str, method: str = "GET", body: dict | None = None) -> list | di
 
 def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
     """从论文池中匹配用户偏好（仅最近 36 小时入库的论文）."""
-    cutoff = (datetime.now(timezone.utc) - timedelta(hours=36)).isoformat()
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M:%SZ")
     papers = _supa(
         f"paper_pool?select=*&fetched_at=gte.{cutoff}&order=pub_date.desc&limit=200"
     ) or []
