@@ -64,8 +64,14 @@ def _supa(path: str, method: str = "GET", body: dict | None = None) -> list | di
 
 
 def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
-    """从论文池中匹配用户偏好."""
-    papers = _supa("paper_pool?select=*&order=pub_date.desc&limit=200") or []
+    """从论文池中匹配用户偏好（仅最近 24 小时入库的论文）."""
+    yesterday = (datetime.now(TZ) - timedelta(hours=24)).isoformat()
+    papers = _supa(
+        f"paper_pool?select=*&fetched_at=gte.{yesterday}&order=pub_date.desc&limit=200"
+    ) or []
+    if not papers:
+        print("  [INFO] 最近 24 小时无新论文入库")
+        return []
     if not areas:
         return papers[:20]
 
@@ -155,20 +161,26 @@ def send_email(to: str, subject: str, body: str) -> bool:
 
 
 def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
-                     last_push: str | None) -> bool:
+                     last_push: str | None, has_fresh_papers: bool = False) -> bool:
     """判断是否应该此刻推送."""
     force = bool(os.environ.get("DISTRIBUTE_FORCE"))
     now = datetime.now(TZ)
 
-    # 检查是否 30 分钟内已推（避免两个工作流并发重复）
     if last_push:
         last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
         delta = now - last.replace(tzinfo=TZ) if last.tzinfo is None else now - last
-        if delta.total_seconds() < 3900:  # 65min，大于60min容错，消除边界间隙
+        if delta.total_seconds() < 3900:
             return False
 
     if force:
         return True
+
+    # 论文是最近 3 小时内新入库且今天还没推 → 即时发送（补救 cron 延迟）
+    if has_fresh_papers:
+        if not last_push or (
+            datetime.fromisoformat(last_push.replace("Z", "+00:00")).date() != now.date()
+        ):
+            return True
 
     # 检查推送时间（±30min 容错）
     try:
@@ -215,14 +227,16 @@ def process_users():
         push_freq = u.get("push_frequency") or "daily"
         push_days = u.get("push_days") or []
 
-        if not _should_send_now(push_time, push_freq, push_days, last_push):
-            continue
-
         areas = u.get("research_areas") or []
         quartiles = u.get("cas_quartiles") or ["1", "2", "3", "4"]
 
         papers = _match_papers(areas, quartiles)
         if not papers:
+            continue
+
+        has_fresh = len(papers) > 0  # papers filtered to last 24h
+
+        if not _should_send_now(push_time, push_freq, push_days, last_push, has_fresh):
             continue
 
         report = _generate_report(papers, email)
@@ -264,14 +278,16 @@ def process_recipients():
         push_freq = r.get("push_frequency") or "daily"
         push_days = r.get("push_days") or []
 
-        if not _should_send_now(push_time, push_freq, push_days, last_push):
-            continue
-
         areas = r.get("research_areas") or []
         quartiles = r.get("cas_quartiles") or ["1", "2", "3", "4"]
 
         papers = _match_papers(areas, quartiles)
         if not papers:
+            continue
+
+        has_fresh = len(papers) > 0
+
+        if not _should_send_now(push_time, push_freq, push_days, last_push, has_fresh):
             continue
 
         report = _generate_report(papers, email)
