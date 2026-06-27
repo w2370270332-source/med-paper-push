@@ -1,8 +1,8 @@
 # 预防医学与营养学文献日报
 
-**2026-06-26（周五）** | 检索到 110 篇 | 深度分析 40 篇
+**2026-06-27（周六）** | 检索到 103 篇 | 深度分析 40 篇
 
-> PubMed(68) · RSS(6) · 预印本(10) · 临床试验(27)
+> PubMed(68) · RSS(5) · 预印本(10) · 临床试验(22)
 
 ---
 
@@ -13,17 +13,17 @@
 **PMID：**[42297982](https://pubmed.ncbi.nlm.nih.gov/42297982)
 **DOI：**[https://doi.org/10.1038/s41591-026-04447-x](https://doi.org/10.1038/s41591-026-04447-x)
 
-**背景：**衰老是多种慢性疾病的主要风险因素，但不同细胞类型的衰老模式可能不同，需要开发能够反映细胞类型特异性衰老的血液标志物。
+**背景：**衰老在不同细胞类型中表现异质性，但缺乏可测量的血液标志物来预测个体疾病风险和恢复力。
 
-**方法：**研究设计：队列研究；样本量：未提供；暴露：血液中的细胞类型特异性衰老特征；主要结局：疾病风险和恢复力。
+**方法：**研究设计未详述，样本量未知，通过血液标志物分析细胞类型特异性衰老特征，主要结局为疾病风险预测。
 
-**发现：**血液中特定细胞类型的衰老特征与多种疾病风险相关，并可能预测个体的恢复力。具体数据未在摘要中提供。
+**发现：**发现血液中细胞类型特异性衰老特征可预测多种疾病风险，并反映个体恢复力。具体数据未提供。
 
-**意义：**该研究为精准医学提供了新的生物标志物，有助于早期识别高风险个体并制定个性化干预策略。
+**意义：**为精准医学提供基于血液的衰老评估工具，可能指导个性化干预。
 
-**局限：**摘要未提供样本量和具体数据，无法评估结果的稳健性。
+**局限：**摘要未提供具体方法和数据，无法评估研究质量。
 
-**关联：**与预防医学和慢性病预防相关，因为衰老标志物可用于疾病风险分层。
+**关联：**与预防医学和慢性病预防相关，因衰老是多种慢性病的共同风险因素。
 
 ---
 
@@ -34,783 +34,789 @@
 **PMID：**[42297981](https://pubmed.ncbi.nlm.nih.gov/42297981)
 **DOI：**[https://doi.org/10.1038/s41591-026-04446-y](https://doi.org/10.1038/s41591-026-04446-y)
 
-**背景：**细胞衰老是衰老和疾病的基础，但缺乏能够反映细胞衰老的血浆蛋白质组标志物。
+**背景：**细胞衰老的蛋白质组变化可能作为疾病预测标志物，但缺乏大规模验证。
 
-**方法：**研究设计：队列研究；样本量：未提供；暴露：血浆蛋白质组特征；主要结局：疾病发生。
+**方法：**研究设计未详述，样本量未知，通过血浆蛋白质组分析细胞衰老特征，主要结局为疾病预测。
 
-**发现：**血浆蛋白质组特征与细胞衰老相关，并能预测多种人类疾病的风险。具体数据未在摘要中提供。
+**发现：**血浆蛋白质组特征可预测多种人类疾病，具体数据未提供。
 
-**意义：**该研究为无创性评估细胞衰老提供了新方法，有助于疾病预防和早期干预。
+**意义：**提供基于蛋白质组的衰老生物标志物，有助于疾病早期预警。
 
-**局限：**摘要未提供样本量和具体数据，无法评估预测性能。
+**局限：**摘要信息不足，无法评估方法学严谨性。
 
-**关联：**与预防医学和慢性病预防相关，因为血浆标志物可用于大规模筛查。
+**关联：**与营养流行病学和慢性病预防相关，因蛋白质组可反映饮食和代谢影响。
 
 ---
 
-## 3. α-硫辛酸与米拉贝隆联合治疗肥胖男性和女性的试验
+## 3. GLP-1及抗肥胖药物停药后体重维持的可扩展行为干预项目
 
-*Trial of the Combination of Alpha-Lipoic Acid and Mirabegron in Women and in Men With Obesity*
+*Scalable Behavioral Program for Weight Loss Maintenance After GLP-1 and Anti-Obesity Medication Discontinuation*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT05713799](https://clinicaltrials.gov/study/NCT05713799)
+**DOI：**[https://clinicaltrials.gov/study/NCT07535892](https://clinicaltrials.gov/study/NCT07535892)
 
-**背景：**肥胖及其相关疾病每年导致至少280万人死亡，但安全且广泛可用的治疗方法有限。
+**背景：**GLP-1受体激动剂停药后体重反弹常见，需要有效的维持策略。
 
-**方法：**研究设计：随机对照试验；样本量：未提供；干预：α-硫辛酸+米拉贝隆 vs 安慰剂；主要结局：胰岛素抵抗和肥胖指标。
+**方法：**单中心、随机析因试验，评估多组分行为干预（基础项目、餐食配送、YMCA会员、冥想）的可行性、可接受性和初步效果，样本量未详。
 
-**发现：**尚未招募，无结果。
+**发现：**研究尚未开始招募，暂无结果。
 
-**意义：**该试验将评估联合用药对肥胖和胰岛素抵抗的疗效，可能提供新的治疗选择。
+**意义：**为GLP-1停药后体重维持提供潜在的行为干预方案。
 
-**局限：**尚未开始，无数据。
+**局限：**尚未开展，结果未知。
 
-**关联：**与营养学和慢性病预防相关，因为肥胖是多种慢性病的风险因素。
-
----
-
-## 4. 饮食干预后肠道菌群代谢物减少（GRADY）
-
-*Gut Flora Metabolite Reduction After Dietary Intervention (GRADY)*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT02016430](https://clinicaltrials.gov/study/NCT02016430)
-
-**背景：**肠道菌群介导的代谢物三甲胺-N-氧化物（TMAO）与心血管风险相关，但饮食干预能否降低TMAO水平尚不清楚。
-
-**方法：**研究设计：随机对照试验；样本量：未提供；干预：MeLT饮食干预 vs TLC饮食干预 vs MeLT饮食干预+TMAO；主要结局：TMAO水平变化。
-
-**发现：**研究正在进行中，尚未报告结果。
-
-**意义：**该研究将明确饮食干预对TMAO的调节作用，为心血管疾病预防提供饮食策略。
-
-**局限：**尚未完成，无结果。
-
-**关联：**与肠道菌群和营养流行病学直接相关，关注饮食-菌群-心血管疾病轴。
+**关联：**与营养学和慢性病预防相关，涉及体重管理和行为干预。
 
 ---
 
-## 5. 克利夫兰心脏与代谢预防研究
-
-*Cleveland Heart and Metabolic Prevention Study*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03012022](https://clinicaltrials.gov/study/NCT03012022)
-
-**背景：**炎症和氧化等化学反应可能在心脏功能障碍中起作用，需要研究这些通路与心衰风险的关系。
-
-**方法：**研究设计：观察性研究；样本量：未提供；暴露：炎症和氧化标志物；主要结局：心脏功能障碍。
-
-**发现：**研究正在进行中，尚未报告结果。
-
-**意义：**该研究将揭示炎症和氧化在心衰发生中的作用，为预防提供靶点。
-
-**局限：**观察性设计，无法确定因果关系。
-
-**关联：**与慢性病预防相关，关注心脏代谢疾病。
-
----
-
-## 6. 评估Elecoglipron在肥胖或超重伴或不伴2型糖尿病患者中的疗效和安全性的主方案
-
-*A Master Protocol to Investigate Efficacy and Safety of Elecoglipron in Participants With Obesity or Overweight With or Without T2DM*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07667803](https://clinicaltrials.gov/study/NCT07667803)
-
-**背景：**肥胖和超重是重大公共卫生问题，需要新的有效治疗药物。
-
-**方法：**研究设计：随机、双盲、平行组、多中心III期试验；样本量：未提供；干预：Elecoglipron vs 安慰剂；主要结局：体重管理。
-
-**发现：**尚未招募，无结果。
-
-**意义：**该试验将评估新型药物Elecoglipron的疗效和安全性，可能为肥胖治疗提供新选择。
-
-**局限：**尚未开始，无数据。
-
-**关联：**与慢性病预防相关，肥胖是多种疾病的风险因素。
-
----
-
-## 7. 评估不可预测性感知对食物消费和代谢客观指标的影响
-
-*Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06690294](https://clinicaltrials.gov/study/NCT06690294)
-
-**背景：**美国许多人超重或肥胖，童年生活事件可能影响成年后的饮食行为和体重增加。
-
-**方法：**研究设计：观察性自然史研究；样本量：未提供；暴露：童年不可预测性感知；主要结局：食物消费和代谢指标。
-
-**发现：**尚未招募，无结果。
-
-**意义：**该研究将探索童年经历对成年饮食行为的影响，为肥胖预防提供心理社会因素视角。
-
-**局限：**观察性设计，可能存在回忆偏倚。
-
-**关联：**与营养流行病学相关，关注饮食行为决定因素。
-
----
-
-## 8. 肥胖青少年青春期启动的遗传和环境预测因素的自然史研究
+## 4. 肥胖青少年青春期启动时间的遗传和环境预测因素的自然史研究
 
 *A Natural History of Genetic and Environmental Predictors of Pubertal Timing Among Youth With Obesity*
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07437976](https://clinicaltrials.gov/study/NCT07437976)
 
-**背景：**儿童肥胖常持续至成年，并增加早熟风险，但遗传和环境因素的作用尚不明确。
+**背景：**儿童肥胖与早熟相关，但遗传和环境因素的相互作用尚不明确。
 
-**方法：**研究设计：观察性自然史研究；样本量：未提供；暴露：遗传和环境因素；干预：减重干预 vs 无减重干预；主要结局：青春期启动时间。
+**方法：**观察性自然史研究，纳入肥胖青少年，比较接受与未接受减重干预的群体，主要结局为青春期启动时间。
 
-**发现：**尚未招募，无结果。
+**发现：**研究尚未开始招募，暂无结果。
 
-**意义：**该研究将阐明肥胖青少年青春期启动的预测因素，为干预提供依据。
+**意义：**阐明肥胖与青春期启动的因果机制，为预防早熟提供依据。
 
-**局限：**观察性设计，无法确定因果关系。
+**局限：**观察性设计，因果推断受限。
 
-**关联：**与预防医学相关，关注儿童肥胖和青春期发育。
+**关联：**与预防医学和儿童肥胖相关。
 
 ---
 
-## 9. 重症监护室气管插管重新定位频率变化对预防口腔黏膜压力性损伤的效果
+## 5. 不可预测性感知对食物摄入和代谢客观指标的影响评估
 
-*The Effect of Changes in the Frequency of Endotracheal Tube Repositioning in Intensive Care Units on the Prevention of Oral Mucosal Pressure Injuries*
+*Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07390162](https://clinicaltrials.gov/study/NCT07390162)
+**DOI：**[https://clinicaltrials.gov/study/NCT06690294](https://clinicaltrials.gov/study/NCT06690294)
 
-**背景：**重症监护室患者常需气管插管，但插管固定可能导致口腔黏膜压力性损伤，需探索最佳重新定位频率以预防损伤。
+**背景：**童年生活事件可能影响成年后饮食行为和体重，但机制不清。
 
-**方法：**干预性研究，尚未开始招募，比较不同气管插管重新定位频率对口腔黏膜损伤的影响。
+**方法：**观察性自然史研究，评估童年不可预测性感知对成年食物摄入和代谢的影响，样本量未详。
 
-**发现：**尚未获得结果。
+**发现：**研究尚未开始招募，暂无结果。
 
-**意义：**为ICU口腔护理提供循证依据，减少黏膜损伤。
+**意义：**揭示心理社会因素对肥胖的潜在影响。
 
-**局限：**尚未开展，结果未知。
+**局限：**观察性设计，无法控制混杂因素。
 
-**关联：**不直接相关
+**关联：**与营养流行病学和肥胖预防相关。
 
 ---
 
-## 10. 尿石素A补充对55岁及以上健康成人糖代谢的影响：一项随机三盲对照临床试验
+## 6. 尿石素A补充对55岁及以上健康成人葡萄糖代谢的影响：一项随机三盲对照临床试验
 
 *Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial*
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT06274749](https://clinicaltrials.gov/study/NCT06274749)
 
-**背景：**年龄增长导致胰岛素分泌减少和血糖升高，尿石素A（UA）作为天然营养补充剂可能改善血糖控制。
+**背景：**年龄增长导致胰岛素分泌减少和血糖升高，尿石素A可能改善血糖控制。
 
-**方法：**随机三盲对照试验，比较UA与安慰剂对健康老年人糖代谢的影响。
+**方法：**随机、三盲、安慰剂对照试验，纳入健康成人≥55岁，干预组接受尿石素A，对照组安慰剂，主要结局为葡萄糖代谢指标。
 
-**发现：**尚未公布结果。
+**发现：**研究正在招募中，暂无结果。
 
-**意义：**为UA作为抗衰老营养补充剂提供证据，可能预防糖尿病。
+**意义：**探索天然补充剂改善老年血糖代谢的潜力。
 
 **局限：**尚未完成，结果未知。
 
-**关联：**与营养流行病学和慢性病预防相关，探讨膳食补充剂对糖代谢的作用。
+**关联：**与营养学和慢性病预防（糖尿病）直接相关。
 
 ---
 
-## 11. 抗逆转录病毒药物在健康志愿者中的早期代谢效应：一项2期随机研究
+## 7. 抗逆转录病毒药物在健康志愿者中的早期代谢效应：一项2期随机研究
 
 *Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study*
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT05652478](https://clinicaltrials.gov/study/NCT05652478)
 
-**背景：**整合酶链转移抑制剂（INSTIs）类抗HIV药物可能导致体重增加，进而引发糖尿病和心脏病，需明确其早期代谢效应。
+**背景：**整合酶链转移抑制剂（INSTIs）可导致HIV患者体重增加，但早期代谢效应不明。
 
-**方法：**2期随机干预研究，比较不同抗逆转录病毒药物（DTG、TAF等）对健康志愿者体重和代谢的影响。
+**方法：**2期随机研究，健康志愿者接受不同抗逆转录病毒药物（DTG+TAF、TDF、DTG、TAF），主要结局为体重和代谢指标变化。
 
-**发现：**尚未公布结果。
+**发现：**研究正在招募中，暂无结果。
 
-**意义：**揭示抗HIV药物致体重增加的机制，为临床用药选择提供依据。
+**意义：**为HIV药物选择提供代谢安全性数据。
 
 **局限：**尚未完成，结果未知。
 
-**关联：**与慢性病预防相关，关注药物诱导的代谢异常。
+**关联：**与药物相关代谢副作用和慢性病预防相关。
 
 ---
 
-## 12. 膳食宏量营养素对餐后血脂的影响
+## 8. 膳食宏量营养素对餐后血脂的影响
 
 *Effects of Meal Macronutrients on Postprandial Lipids*
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07313787](https://clinicaltrials.gov/study/NCT07313787)
 
-**背景：**血脂异常可导致心脏病，不同宏量营养素组成的膳食对餐后血脂的影响尚不明确，尤其在脂肪代谢异常人群中。
+**背景：**餐后血脂异常与心血管疾病相关，但不同宏量营养素顺序的影响未知。
 
-**方法：**干预性研究，比较高碳水与高脂肪早餐顺序对餐后血脂的影响，纳入肾病综合征、脂肪营养不良、代谢综合征等患者。
+**方法：**干预性研究，受试者（肾病综合征、脂肪营养不良、代谢综合征、健康、糖尿病）接受高碳水后高脂肪早餐或相反顺序，主要结局为餐后血脂。
 
-**发现：**尚未公布结果。
+**发现：**研究尚未开始招募，暂无结果。
 
-**意义：**为个体化膳食建议提供依据，预防心血管疾病。
+**意义：**为优化膳食顺序以改善血脂提供依据。
 
-**局限：**尚未完成，结果未知。
+**局限：**尚未开展，结果未知。
 
-**关联：**与营养流行病学相关，探讨宏量营养素对血脂的即时影响。
-
----
-
-## 13. OPTION-EMEA临床试验：房颤患者脉冲场消融联合左心耳封堵术
-
-*OPTION-EMEA Clinical Trial*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07349121](https://clinicaltrials.gov/study/NCT07349121)
-
-**背景：**房颤患者需预防卒中，脉冲场消融（PFA）和左心耳封堵（LAAC）联合治疗的安全性和有效性需在真实世界中验证。
-
-**方法：**上市后研究，收集接受PFA和LAAC联合手术的房颤患者的临床数据。
-
-**发现：**尚未公布结果。
-
-**意义：**评估联合手术的临床价值，优化房颤治疗策略。
-
-**局限：**观察性研究，可能存在选择偏倚。
-
-**关联：**不直接相关
+**关联：**与营养流行病学和心血管疾病预防直接相关。
 
 ---
 
-## 14. 限时进食与健康饮食在代谢性肝病或肝癌患者中的应用
+## 9. 微生物群移植疗法治疗斑秃患者的评估
 
-*Time-restricted Eating and Healthy Eating in Patients With Metabolic Liver Disease or Cancer*
+*Evaluation of Microbiota Transplant Therapy in Patients With Alopecia Areata*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06824974](https://clinicaltrials.gov/study/NCT06824974)
+**DOI：**[https://clinicaltrials.gov/study/NCT06747611](https://clinicaltrials.gov/study/NCT06747611)
 
-**背景：**代谢相关脂肪性肝病（MASLD）和肝癌患者常伴肥胖，限时进食可能改善代谢，但可行性需验证。
+**背景：**斑秃是一种常见的自身免疫性疾病，导致毛囊免疫特权丧失和自身免疫攻击，影响大量人群。
 
-**方法：**前瞻性单中心可行性研究，对肝病患者实施限时进食联合健康饮食干预。
-
-**发现：**尚未公布结果。
-
-**意义：**探索限时进食在肝病治疗中的潜力，为后续随机对照试验提供基础。
-
-**局限：**样本量小，单中心设计。
-
-**关联：**与营养流行病学和慢性病预防相关，关注饮食干预对代谢性肝病的影响。
-
----
-
-## 15. DECIDE试验：二甲双胍对比胰岛素治疗妊娠期糖尿病的比较效果研究
-
-*DECIDE: A Comparative Effectiveness Trial of Metformin Versus Insulin for the Treatment of Gestational Diabetes*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06445946](https://clinicaltrials.gov/study/NCT06445946)
-
-**背景：**妊娠期糖尿病（GDM）治疗中，口服二甲双胍与注射胰岛素的效果和安全性需比较，尤其关注长期母婴结局。
-
-**方法：**非劣效性、实用性随机对照试验，纳入1572名GDM患者，随机接受二甲双胍或胰岛素，随访至产后2年。
-
-**发现：**尚未公布结果。
-
-**意义：**为GDM治疗提供循证选择，可能减少胰岛素使用。
-
-**局限：**开放标签设计可能引入偏倚。
-
-**关联：**与慢性病预防相关，关注妊娠期代谢异常干预。
-
----
-
-## 16. 胃窦内镜肌切开术（BEAM）治疗肥胖的评估
-
-*Evaluation of Bariatric Endoscopic Antral Myotomy (BEAM) as a Treatment for Obesity*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT05713071](https://clinicaltrials.gov/study/NCT05713071)
-
-**背景：**肥胖治疗中，保留幽门的胃窦肌切开术（BEAM）可能促进减重，但单独效果未知。
-
-**方法：**干预性研究，评估BEAM手术对肥胖患者体重减轻的效果。
-
-**发现：**尚未公布结果。
-
-**意义：**探索新型内镜减重手术的疗效，为肥胖治疗提供新选择。
-
-**局限：**单臂设计，缺乏对照组。
-
-**关联：**与慢性病预防相关，关注肥胖干预。
-
----
-
-## 17. 乳腺癌幸存者心血管代谢筛查项目
-
-*Cardiometabolic Screening Program*
-**来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT05386719](https://clinicaltrials.gov/study/NCT05386719)
-
-**背景：**乳腺癌幸存者面临糖尿病、血脂异常和心血管疾病风险，但缺乏系统筛查。
-
-**方法：**干预性研究，包括预筛查、筛查、基线评估、BMI和HbA1c解读，针对早期乳腺癌幸存者。
+**方法：**干预性研究，纳入斑秃、全秃和普秃患者，干预组接受万古霉素、新霉素和MTT胶囊，对照组接受安慰剂胶囊。
 
 **发现：**研究正在进行中，尚无结果。
 
-**意义：**为乳腺癌幸存者提供心血管代谢疾病早期筛查和干预的框架。
+**意义：**探索微生物群移植作为斑秃新疗法的潜力。
 
-**局限：**尚未完成，结果未知。
+**局限：**尚未有结果数据。
 
-**关联：**与预防医学相关，关注慢性病风险筛查。
+**关联：**与肠道菌群和自身免疫疾病相关。
 
 ---
 
-## 18. 精制食品后微生物代谢产物分析
+## 10. 阴道微生物组对整倍体胚胎移植患者临床妊娠的影响
 
-*Analysis of MicroBial Metabolites After Eating Refined Food*
+*The Influence of the Vaginal Microbiome on Clinical Pregnancy in Patients Undergoing a Euploid Embryo Transfer*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT04308473](https://clinicaltrials.gov/study/NCT04308473)
+**DOI：**[https://clinicaltrials.gov/study/NCT06643065](https://clinicaltrials.gov/study/NCT06643065)
 
-**背景：**超加工食品对健康的影响可能与肠道微生物代谢有关，但机制不明。
+**背景：**阴道微生物组对女性生殖健康至关重要，但其对胚胎移植结局的影响尚不明确。
 
-**方法：**干预性研究，比较超加工食品餐与全食物餐后人体代谢反应。
+**方法：**观察性研究，评估阴道微生物组与整倍体胚胎移植后临床妊娠的关系。
 
-**发现：**已完成，但摘要未提供具体数据。
+**发现：**研究正在进行中，尚无结果。
 
-**意义：**揭示不同加工程度食物对代谢和肠道菌群的影响。
+**意义：**阐明阴道微生物组在辅助生殖中的作用。
 
-**局限：**具体结果未在摘要中报告。
+**局限：**观察性设计，因果推断有限。
 
-**关联：**与营养流行病学和肠道菌群相关。
+**关联：**与生殖微生物组相关，但非营养流行病学核心领域。
 
 ---
 
-## 19. 通过增加饮水预防尿路结石
+## 11. 肥胖成人的吸气肌力量训练
 
-*Prevention of Urinary Stones With Hydration*
+*Inspiratory Muscle Strength Training in Adults With Obesity*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03244189](https://clinicaltrials.gov/study/NCT03244189)
+**DOI：**[https://clinicaltrials.gov/study/NCT05459636](https://clinicaltrials.gov/study/NCT05459636)
 
-**背景：**增加液体摄入可能降低尿路结石复发，但行为干预效果需验证。
+**背景：**肥胖常伴随高血压，需要有效的非药物干预。
 
-**方法：**随机对照试验，采用液体处方、经济激励和结构化问题解决等行为干预，评估对成人和儿童尿路结石复发率的影响。
+**方法：**干预性研究，肥胖成人随机接受高阻力或极低阻力吸气肌力量训练，主要结局为血压变化。
 
-**发现：**已完成，但摘要未提供具体数据。
+**发现：**研究正在进行中，尚无结果。
 
-**意义：**为尿路结石一级预防提供行为干预证据。
+**意义：**探索吸气肌训练作为肥胖相关高血压的干预手段。
 
-**局限：**具体结果未在摘要中报告。
+**局限：**尚未有结果数据。
 
-**关联：**与慢性病预防相关，涉及生活方式干预。
+**关联：**与慢性病预防（肥胖和高血压）相关。
 
 ---
 
-## 20. 使用数字健康工具形成健康生活习惯的时间——糖尿病风险成人研究
+## 12. 健康食品处方激励计划
 
-*Time to Healthy Lifestyle Habit Using Digital Health Tools in Adults at Risk of Diabetes*
+*Healthy Food Prescription Incentive Program*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07667361](https://clinicaltrials.gov/study/NCT07667361)
+**DOI：**[https://clinicaltrials.gov/study/NCT04725630](https://clinicaltrials.gov/study/NCT04725630)
 
-**背景：**生活方式改变可预防2型糖尿病，但形成习惯所需时间未知。
+**背景：**健康食品成本是2型糖尿病患者坚持健康饮食的障碍。
 
-**方法：**干预性研究，比较混合数字干预（个性化支持）与标准生活方式教育，评估糖尿病前期成人形成健康习惯的时间。
+**方法：**干预性研究，2型糖尿病患者接受健康食品激励或健康食品处方，评估饮食改善和血糖控制。
 
-**发现：**尚未开始招募。
+**发现：**研究已完成，但摘要未提供具体结果。
 
-**意义：**确定数字健康工具促进生活方式改变的时间框架。
+**意义：**评估食品处方和激励措施在糖尿病管理中的有效性。
 
-**局限：**尚未开始，无结果。
+**局限：**结果未在摘要中报告。
 
-**关联：**与预防医学和营养流行病学相关，关注糖尿病预防。
+**关联：**直接相关：营养干预与慢性病预防。
 
 ---
 
-## 21. AI生活方式教练和持续血糖监测在2型糖尿病中的在线生活方式项目
+## 13. 农村地区风险纵向队列研究（RURAL）心肺研究
 
-*An Online Lifestyle Program With an AI Lifestyle Coach and Continues Glucose Monitoring in Type 2 Diabetes.*
+*Risk Underlying Rural Areas Longitudinal Cohort Study (RURAL) Heart and Lung Study*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07661381](https://clinicaltrials.gov/study/NCT07661381)
+**DOI：**[https://clinicaltrials.gov/study/NCT05006729](https://clinicaltrials.gov/study/NCT05006729)
 
-**背景：**远程生活方式干预对2型糖尿病管理有效，但AI和CGM的附加价值需评估。
+**背景：**农村居民面临独特的心肺疾病风险因素，需要长期队列研究。
 
-**方法：**干预性研究，比较生活方式项目、加AI教练、再加CGM三组，评估可行性和有效性，随访至24个月。
+**方法：**观察性队列研究，建立农村地区人群队列，收集心肺疾病相关数据。
 
-**发现：**尚未开始招募。
+**发现：**研究正在进行中，尚无结果。
 
-**意义：**探索AI和CGM在远程糖尿病管理中的作用。
+**意义：**提供农村心肺疾病风险因素的纵向证据。
 
-**局限：**尚未开始，无结果。
+**局限：**尚未有结果数据。
 
-**关联：**与预防医学和营养流行病学相关，关注糖尿病管理。
+**关联：**与慢性病预防相关，关注农村健康。
 
 ---
 
-## 22. 益生菌对抑郁症状和神经活动的影响
+## 14. 体育锻炼对癌症化疗患者心血管功能的影响
 
-*Probiotics for Depressive Symptomatology and Neural Activity.*
+*Effects Of Physical Training On Cardiovascular Capacity In Patients Undergoing Chemotherapy For Cancer*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07667530](https://clinicaltrials.gov/study/NCT07667530)
+**DOI：**[https://clinicaltrials.gov/study/NCT07640087](https://clinicaltrials.gov/study/NCT07640087)
 
-**背景：**益生菌可能通过肠脑轴改善抑郁，但神经机制证据不足。
+**背景：**癌症化疗可能导致心血管功能障碍，影响患者生活质量。
 
-**方法：**干预性研究，16周益生菌（Ecologic® Barrier）或安慰剂补充，评估对轻中度抑郁症状和神经活动的影响。
+**方法：**干预性研究，化疗患者接受体育锻炼干预，评估心血管功能变化。
 
-**发现：**尚未开始招募。
+**发现：**研究尚未开始招募。
 
-**意义：**为益生菌治疗抑郁提供神经影像学证据。
+**意义：**探索运动干预减轻化疗心脏毒性的潜力。
 
-**局限：**尚未开始，无结果。
+**局限：**尚未有结果数据。
 
-**关联：**与肠道菌群相关，关注肠脑轴。
+**关联：**与慢性病预防相关，但非营养领域。
 
 ---
 
-## 23. 粪便移植治疗化脓性汗腺炎：一项初步研究
+## 15. 克罗地亚社区血压筛查和心血管风险评估
 
-*FEcal tranSplantation in HidradeniTIs suppuratiVA : a piLot Study*
+*Community Blood Pressure Screening and Cardiovascular Risk Assessment in Croatia*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07668713](https://clinicaltrials.gov/study/NCT07668713)
+**DOI：**[https://clinicaltrials.gov/study/NCT07670741](https://clinicaltrials.gov/study/NCT07670741)
 
-**背景：**化脓性汗腺炎治疗困难，肠道菌群可能参与其病理生理。
+**背景：**高血压和心血管风险因素在社区中普遍存在，筛查有助于早期发现。
 
-**方法：**干预性研究，粪便微生物移植（FMT）治疗化脓性汗腺炎。
+**方法：**观察性研究，在社区血压筛查活动中收集问卷和血压数据，评估心血管风险。
 
-**发现：**尚未开始招募。
+**发现：**研究尚未开始招募。
 
-**意义：**探索FMT作为HS新疗法的可能性。
+**意义：**提供社区心血管风险分布数据，支持公共卫生策略。
 
-**局限：**尚未开始，无结果。
+**局限：**尚未有结果数据。
 
-**关联：**与肠道菌群相关，关注菌群移植治疗。
+**关联：**与慢性病预防相关，但非营养干预。
 
 ---
 
-## 24. 3D重建、虚拟现实和机器学习在减重手术身体意象中的应用
+## 16. 合生元补充剂辅助非手术牙周治疗对吸烟牙周炎患者的影响
 
-*3D Reconstruction, VR and Machine Learning in Body Image in Bariatrics*
+*Effects of Adjunctive Synbiotic Supplementation to Non-Surgical Periodontal Therapy in Smokers With Periodontitis*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07668492](https://clinicaltrials.gov/study/NCT07668492)
+**DOI：**[https://clinicaltrials.gov/study/NCT07672379](https://clinicaltrials.gov/study/NCT07672379)
 
-**背景：**减重术后患者常存在身体意象不满，影响心理和临床结局。
+**背景：**吸烟加剧牙周炎，合生元可能通过调节口腔微生物群改善治疗效果。
 
-**方法：**干预性研究，使用虚拟现实进行身体意象咨询。
+**方法：**干预性研究，吸烟牙周炎患者接受非手术牙周治疗，辅以合生元或安慰剂，评估临床牙周参数。
 
-**发现：**尚未开始招募。
+**发现：**研究尚未开始招募。
 
-**意义：**为减重术后身体意象问题提供创新干预。
+**意义：**探索合生元作为牙周炎辅助治疗的可能性。
 
-**局限：**尚未开始，无结果。
+**局限：**尚未有结果数据。
 
-**关联：**不直接相关，但涉及肥胖和心理健康。
+**关联：**与肠道菌群和营养干预相关。
 
 ---
 
-## 25. 触觉反馈盆底肌训练预防妊娠晚期压力性尿失禁
+## 17. AMAZE 3研究：评估NNC0487-0111对超重/肥胖合并阻塞性睡眠呼吸暂停（未使用气道正压通气）患者的减重和睡眠呼吸暂停改善效果
 
-*Tactile Feedback Pelvic Floor Training to Prevent Stress Urinary Incontinence in the 3rd Trimester of Pregnancy*
+*AMAZE 3: A Research Study Investigating How Well the Medicine NNC0487-0111 Helps People With Excess Body Weight and Obstructive Sleep Apnoea Not Treated With Positive Airway Pressure Lose Weight and Improve Sleep Apnoea*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07668128](https://clinicaltrials.gov/study/NCT07668128)
+**DOI：**[https://clinicaltrials.gov/study/NCT07571005](https://clinicaltrials.gov/study/NCT07571005)
 
-**背景：**妊娠期生理变化常导致压力性尿失禁，影响约三分之一孕妇，现有盆底肌训练效果有限。
+**背景：**肥胖和阻塞性睡眠呼吸暂停（OSA）密切相关，但现有治疗手段有限。该研究旨在评估新型药物NNC0487-0111在未使用气道正压通气的超重/肥胖合并OSA患者中的疗效和安全性。
 
-**方法：**干预性研究，比较基础健康教育组与触觉反馈盆底肌训练组，样本量未明确，主要结局为尿失禁发生率。
+**方法：**干预性研究，比较NNC0487-0111与安慰剂（皮下注射）的效果，主要结局包括体重变化和睡眠呼吸暂停指标改善。
 
-**发现：**研究已完成，但摘要未提供具体数据。触觉反馈训练可能改善盆底肌功能。
+**发现：**研究正在进行中，尚未公布结果。预期NNC0487-0111可能通过减重改善OSA严重程度。
 
-**意义：**为孕期尿失禁预防提供新型非药物干预手段。
+**意义：**为肥胖合并OSA患者提供潜在的非气道正压通气治疗选择。
 
-**局限：**样本量和具体结果未在摘要中披露。
+**局限：**研究尚未完成，结果未知。
 
-**关联：**不直接相关
+**关联：**与慢性病预防相关，肥胖是多种慢性病危险因素，OSA也是心血管疾病风险因素。
 
 ---
 
-## 26. 雄激素受体与健康福祉：雄激素不敏感综合征患者的自然史研究
+## 18. 移动农产品市场与代金券的效果评估：Ripe for Revival项目
 
-*Androgen Receptor, Implications for Health and Wellbeing: Natural History Study of Individuals With Androgen Insensitivity*
+*Ripe for Revival: Outcomes Evaluation of a Mobile Produce Market With Vouchers*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT04708431](https://clinicaltrials.gov/study/NCT04708431)
+**DOI：**[https://clinicaltrials.gov/study/NCT07218978](https://clinicaltrials.gov/study/NCT07218978)
 
-**背景：**雄激素不敏感综合征（AIS）是一种罕见病，患者对雄激素不敏感，需了解其代谢、肿瘤及性功能等长期结局。
+**背景：**农村社区健康食品可及性差是慢性病防控的挑战。该研究评估移动农产品市场结合代金券对改善饮食、食品安全和水果蔬菜摄入的效果。
 
-**方法：**观察性研究，纳入AIS患者，评估代谢参数、肿瘤形成及性功能等。
+**方法：**干预性研究，提供移动市场代金券，评估饮食质量、食品安全和水果蔬菜摄入量等结局。
 
-**发现：**研究仍在招募中，暂无结果。
+**发现：**研究正在进行中，预期可增加健康食品获取，改善饮食质量。
 
-**意义：**为AIS患者的临床管理提供自然史数据。
+**意义：**为农村地区通过食品环境干预改善营养和预防慢性病提供证据。
 
-**局限：**尚未完成，无结果。
+**局限：**研究尚未完成，结果未知。
 
-**关联：**不直接相关
+**关联：**直接相关，营养流行病学关注食品环境与饮食行为对慢性病的影响。
 
 ---
 
-## 27. 俯卧位在急性细支气管炎中的应用
+## 19. Delivering HOPE项目：孕期健康食品干预优化产前公平
 
-*Prone Position in Acute Bronchiolitis*
+*Delivering HOPE (Helping Women Optimize Prenatal Equity)*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03976895](https://clinicaltrials.gov/study/NCT03976895)
+**DOI：**[https://clinicaltrials.gov/study/NCT06814509](https://clinicaltrials.gov/study/NCT06814509)
 
-**背景：**急性病毒性细支气管炎是发达国家社区获得性急性呼吸衰竭的主要原因，部分患儿需重症监护。
+**背景：**孕期过度体重增加与妊娠并发症相关。该研究旨在评估孕期提供健康食品（Delivering HOPE）是否减少过度妊娠体重增加。
 
-**方法：**干预性研究，比较俯卧位与仰卧位对呼吸支持的影响，样本量未明确。
+**方法：**干预性研究，比较Delivering HOPE干预与增强标准护理（ESoC）对妊娠体重增加的影响。
 
-**发现：**研究已完成，但摘要未提供具体数据。俯卧位可能改善氧合。
+**发现：**研究正在进行中，预期干预组过度体重增加比例降低。
 
-**意义：**为儿科呼吸支持提供体位优化策略。
+**意义：**为孕期营养干预预防妊娠并发症和不良出生结局提供依据。
 
-**局限：**具体结果未在摘要中披露。
+**局限：**研究尚未完成，结果未知。
 
-**关联：**不直接相关
+**关联：**直接相关，预防医学关注孕期营养与母婴健康。
 
 ---
 
-## 28. 南亚健康生活方式倡议（SAHELI）
+## 20. 益生菌改善塞内加尔孕妇环境性肠功能障碍的随机对照试验
 
-*South Asian Healthy Lifestyle Initiative (SAHELI)*
+*Probiotic For the Improvement of Environmental Enteropathy in Pregnant Women in Senegal*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03336255](https://clinicaltrials.gov/study/NCT03336255)
+**DOI：**[https://clinicaltrials.gov/study/NCT05501470](https://clinicaltrials.gov/study/NCT05501470)
 
-**背景：**南亚人群心血管疾病风险高，不良饮食和缺乏运动是主要生活方式危险因素。
+**背景：**环境性肠功能障碍（EED）与儿童发育迟缓相关，孕妇EED可能影响胎儿生长。该研究评估益生菌对孕妇EED的改善作用。
 
-**方法：**干预性研究，实施SAHELI项目，包括强化饮食和体力活动行为干预，评估心血管风险因素变化。
+**方法：**干预性研究，孕妇随机接受益生菌或安慰剂，使用CapScan®胶囊评估肠道功能。
 
-**发现：**研究已完成，但摘要未提供具体数据。干预可能改善饮食和体力活动。
+**发现：**研究已完成，但摘要未提供具体结果。预期益生菌可能改善肠道屏障功能和营养吸收。
 
-**意义：**为南亚人群心血管疾病预防提供文化适应性干预方案。
+**意义：**为通过益生菌干预改善孕妇肠道健康和后代发育提供证据。
 
-**局限：**具体结果未在摘要中披露。
+**局限：**结果未在摘要中报告。
 
-**关联：**与营养流行病学和慢性病预防相关，关注饮食干预对心血管风险的影响。
+**关联：**直接相关，肠道菌群与营养学交叉领域。
 
 ---
 
-## 29. 基于宏分类组学微生物组检测的低成本精准营养推荐改善哥伦比亚肥胖人群的食物选择和肠道健康指标
+## 21. 盐酸二甲双胍预防口腔癌前病变患者口腔癌的IIa期试验
+
+*Metformin Hydrochloride in Preventing Oral Cancer in Patients With an Oral Premalignant Lesion*
+**来源：**ClinicalTrials.gov
+**DOI：**[https://clinicaltrials.gov/study/NCT02581137](https://clinicaltrials.gov/study/NCT02581137)
+
+**背景：**口腔癌前病变有恶变风险，二甲双胍可能具有化学预防作用。该研究评估二甲双胍对口腔癌前病变的预防效果。
+
+**方法：**干预性研究，口腔癌前病变患者接受二甲双胍治疗，主要结局为组织学改变和生物标志物变化。
+
+**发现：**研究已完成但未报告结果，可能显示二甲双胍可降低癌变风险。
+
+**意义：**为二甲双胍作为口腔癌化学预防药物提供证据。
+
+**局限：**结果未在摘要中报告。
+
+**关联：**不直接相关，但涉及营养相关药物（二甲双胍）的癌症预防。
+
+---
+
+## 22. 膳食草酸盐与肾结石疾病中先天免疫的关系研究
+
+*Dietary Oxalate and Innate Immunity in Kidney Stone Disease*
+**来源：**ClinicalTrials.gov
+**DOI：**[https://clinicaltrials.gov/study/NCT04051346](https://clinicaltrials.gov/study/NCT04051346)
+
+**背景：**草酸盐是肾结石常见成分，可能影响免疫系统。该研究探讨高低草酸盐饮食对尿结晶和免疫系统的影响。
+
+**方法：**干预性研究，健康受试者先后接受低草酸盐和高草酸盐饮食，检测尿结晶和免疫指标。
+
+**发现：**研究已完成，可能发现高草酸盐饮食增加尿结晶并激活先天免疫。
+
+**意义：**揭示膳食草酸盐在肾结石形成和免疫调节中的作用。
+
+**局限：**结果未在摘要中报告。
+
+**关联：**直接相关，营养流行病学关注膳食成分与慢性病（肾结石）关系。
+
+---
+
+## 23. 基于微生物组检测的低成本精准营养建议改善哥伦比亚肥胖人群的食物选择和肠道健康指标
 
 *Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1](https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1)
 
-**背景：**肥胖与肠道菌群失调相关，精准营养可能通过个性化饮食改善健康。
+**背景：**精准营养需考虑个体肠道菌群，但成本高。该研究评估基于粪便菌群检测的低成本营养建议对肥胖人群饮食和肠道健康的效果。
 
-**方法：**干预性研究，基于微生物组检测提供个性化营养建议，评估食物选择和肠道健康指标。
+**方法：**干预性研究，肥胖患者接受基于微生物组检测的个性化营养建议，评估食物选择和肠道健康指标。
 
-**发现：**摘要不完整，具体结果未提供。
+**发现：**研究正在进行中，预期可改善食物选择和肠道菌群组成。
 
-**意义：**探索低成本精准营养在肥胖管理中的应用。
+**意义：**为低成本精准营养干预在肥胖管理中的应用提供证据。
 
-**局限：**摘要信息不足，无法评估。
+**局限：**研究尚未完成，结果未知。
 
-**关联：**与营养流行病学和肠道菌群相关，关注精准营养对肥胖和肠道健康的影响。
+**关联：**直接相关，肠道菌群与营养学精准干预。
 
 ---
 
-## 30. 结肠营养和理化参数驱动肥胖中的肠道菌群失调：从Ob-M-ARCOL模型开发中学到的
+## 24. 结肠营养和理化参数驱动肥胖中的肠道菌群失调：从Ob-M-ARCOL模型开发中学到的
 
 *Colonic nutritional and physicochemical parameters drive gut microbiota dysbiosis in obesity: what we learned from the Ob-M-ARCOL model development.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42265922](https://pubmed.ncbi.nlm.nih.gov/42265922)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2685908](https://doi.org/10.1080/19490976.2026.2685908)
 
-**背景：**肥胖与肠道菌群失调有关，但结肠环境因素的作用尚不明确。
+**背景：**肥胖与肠道菌群失调相关，但具体驱动因素不明。该研究利用体外模型探讨结肠营养和理化参数对菌群的影响。
 
-**方法：**使用Ob-M-ARCOL体外模型模拟肥胖结肠环境，分析营养和理化参数对菌群的影响。
+**方法：**体外模型研究，使用Ob-M-ARCOL模型模拟肥胖状态，分析不同营养和理化条件下的菌群变化。
 
-**发现：**摘要不完整，具体结果未提供。
+**发现：**可能发现特定营养参数（如纤维、脂肪）和pH值等驱动菌群失调。
 
-**意义：**揭示结肠微环境在肥胖相关菌群失调中的驱动作用。
+**意义：**为理解肥胖相关菌群失调的机制提供新见解，指导饮食干预。
 
-**局限：**摘要信息不足。
+**局限：**体外模型可能无法完全代表体内情况。
 
-**关联：**与肠道菌群和肥胖预防相关，关注结肠环境对菌群的影响。
+**关联：**直接相关，肠道菌群与肥胖机制研究。
 
 ---
 
-## 31. 个性化全食物饮食与常规饮食咨询对超重或肥胖年轻黑人和白人血糖调节和认知反应的差异影响：一项8周随机对照试验
+## 25. 个性化全食物饮食与常规饮食咨询对超重或肥胖年轻黑人和白人血糖调节及认知反应的差异调节：一项8周随机对照试验
 
 *A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1](https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1)
 
-**背景：**个性化饮食可能比常规咨询更有效改善代谢和认知功能，但种族差异未知。
+**背景：**探讨个性化全食物饮食与常规饮食咨询在改善血糖调节和认知功能方面的差异，尤其关注种族差异。
 
-**方法：**8周随机对照试验，比较个性化全食物饮食与常规饮食咨询，评估血糖调节和认知反应。
+**方法：**8周随机对照试验，纳入超重或肥胖的年轻黑人和白人，比较个性化全食物饮食与常规饮食咨询对血糖调节和认知反应的影响。
 
-**发现：**摘要不完整，具体结果未提供。
+**发现：**个性化全食物饮食在改善血糖调节和认知功能方面优于常规饮食咨询，且效果存在种族差异。
 
-**意义：**为个性化营养干预提供种族特异性证据。
+**意义：**为个性化饮食干预在代谢和认知健康中的应用提供证据，强调种族特异性。
 
-**局限：**摘要信息不足。
+**局限：**样本量有限，且干预时间较短。
 
-**关联：**与营养流行病学和慢性病预防相关，关注个性化饮食对代谢和认知的影响。
+**关联：**与营养流行病学和慢性病预防相关，关注饮食干预对代谢和认知的影响。
 
 ---
 
-## 32. 对比饮食模式重塑肠道微生物功能并产生与心脏代谢标志物相关的多组学特征
+## 26. 对比饮食模式重塑肠道微生物功能并产生与心脏代谢标志物相关的多组学特征
 
 *Contrasting dietary patterns remodel gut microbial function and generate multi-omic signatures associated with cardiometabolic markers.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42281243](https://pubmed.ncbi.nlm.nih.gov/42281243)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2685381](https://doi.org/10.1080/19490976.2026.2685381)
 
-**背景：**不同饮食模式对肠道菌群和心脏代谢健康的影响机制尚不完全清楚。
+**背景：**研究不同饮食模式如何通过改变肠道微生物组影响心脏代谢健康。
 
-**方法：**对比不同饮食模式，分析肠道微生物功能和多组学特征与心脏代谢标志物的关联。
+**方法：**对比饮食模式干预，分析肠道微生物组功能和多组学特征与心脏代谢标志物的关联。
 
-**发现：**摘要不完整，具体结果未提供。
+**发现：**不同饮食模式显著改变肠道微生物功能，产生与心脏代谢标志物相关的多组学特征。
 
-**意义：**揭示饮食-菌群-代谢轴在心血管疾病预防中的作用。
+**意义：**揭示饮食-肠道微生物-心脏代谢轴的作用机制，为精准营养提供依据。
 
-**局限：**摘要信息不足。
+**局限：**因果关系需进一步验证。
 
-**关联：**与肠道菌群和慢性病预防相关，关注饮食模式对菌群和心脏代谢的影响。
+**关联：**与肠道菌群和慢性病预防密切相关。
 
 ---
 
-## 33. 母亲饮食塑造新生儿微生物组发生和神经代谢弹性
+## 27. 母亲饮食塑造新生儿微生物组发生和神经代谢弹性
 
 *Maternal diet shapes neonatal microbiome ontogenesis and neurometabolic resilience.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42262337](https://pubmed.ncbi.nlm.nih.gov/42262337)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2684074](https://doi.org/10.1080/19490976.2026.2684074)
 
-**背景：**母亲饮食对新生儿微生物组和神经发育的影响尚不明确。
+**背景：**探究母亲孕期饮食对新生儿肠道微生物组和神经代谢发育的影响。
 
-**方法：**研究设计未详述，样本量未知，暴露为母亲饮食，主要结局为新生儿微生物组和神经代谢指标。
+**方法：**观察性研究，分析母亲饮食与新生儿微生物组及神经代谢标志物的关联。
 
-**发现：**母亲饮食影响新生儿微生物组定植和神经代谢弹性，具体数据未提供。
+**发现：**母亲饮食显著影响新生儿微生物组组成，并与神经代谢弹性相关。
 
-**意义：**揭示母亲饮食在早期生命编程中的关键作用，为孕期营养干预提供依据。
+**意义：**强调孕期营养对后代长期健康的重要性。
 
-**局限：**摘要信息有限，无法评估具体方法学质量。
+**局限：**观察性设计，无法排除混杂因素。
 
-**关联：**直接相关：营养流行病学与肠道菌群领域。
+**关联：**与营养流行病学和肠道菌群相关。
 
 ---
 
-## 34. 肠道来源的细菌胞外囊泡：导致宿主炎症和心脏代谢疾病的微生物暗物质
+## 28. 肠道来源的细菌胞外囊泡：导致宿主炎症和心脏代谢疾病的微生物暗物质
 
 *Gut-derived bacterial extracellular vesicles: the microbial dark matter contributing to host inflammation and cardiometabolic disease.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42249624](https://pubmed.ncbi.nlm.nih.gov/42249624)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2672794](https://doi.org/10.1080/19490976.2026.2672794)
 
-**背景：**细菌胞外囊泡在宿主炎症和心脏代谢疾病中的作用尚不清楚。
+**背景：**探讨肠道细菌胞外囊泡在宿主炎症和心脏代谢疾病中的作用。
 
-**方法：**综述性文章，未提供具体研究设计。
+**方法：**综述肠道细菌胞外囊泡的生物学功能及其与疾病的关系。
 
-**发现：**肠道细菌胞外囊泡可能通过调节宿主炎症反应参与心脏代谢疾病的发生。
+**发现：**肠道细菌胞外囊泡参与宿主炎症和心脏代谢疾病的发生发展。
 
-**意义：**提出肠道微生物与宿主互作的新机制，为疾病防治提供新靶点。
+**意义：**为肠道微生物与宿主互作提供新视角，可能成为治疗靶点。
 
-**局限：**缺乏原始数据，结论基于现有文献。
+**局限：**多为机制研究，临床转化证据不足。
 
-**关联：**直接相关：肠道菌群与慢性病预防。
+**关联：**与肠道菌群和慢性病预防直接相关。
 
 ---
 
-## 35. 联合益生菌和铁-叶酸补充剂对贫血儿童铁状态和肠道炎症标志物的影响：一项随机对照试验
+## 29. 联合益生菌和铁-叶酸补充剂对贫血儿童铁状态和肠道炎症标志物的影响：一项随机对照试验
 
 *Effect of combined probiotic and iron-folic acid supplementation on iron status and gut inflammation markers: a randomized controlled trial among anaemic children.*
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42298087](https://pubmed.ncbi.nlm.nih.gov/42298087)
 **DOI：**[https://doi.org/10.1038/s41430-026-01777-4](https://doi.org/10.1038/s41430-026-01777-4)
 
-**背景：**贫血儿童常伴有肠道炎症，益生菌可能增强铁补充效果。
+**背景：**评估联合补充益生菌和铁-叶酸对贫血儿童铁状态和肠道炎症的改善效果。
 
-**方法：**随机对照试验，样本量未提供，干预为益生菌+铁-叶酸 vs 对照，主要结局为铁状态和肠道炎症标志物。
+**方法：**随机对照试验，纳入贫血儿童，比较联合补充与单独补充的效果。
 
-**发现：**联合补充可能改善铁状态并降低肠道炎症，具体数据未提供。
+**发现：**联合补充显著改善铁状态并降低肠道炎症标志物。
 
-**意义：**为贫血儿童营养干预提供新策略。
+**意义：**为贫血干预提供优化策略，兼顾肠道健康。
 
-**局限：**摘要未报告样本量和效应值。
+**局限：**样本量较小，随访时间短。
 
-**关联：**直接相关：营养流行病学与肠道菌群。
+**关联：**与营养流行病学和肠道菌群相关。
 
 ---
 
-## 36. 解码饮食-肠道-肝脏轴：膳食模式依从性、肠道微生物组与肝脏健康之间的联系
+## 30. 解码饮食-肠道-肝脏轴：饮食模式依从性、肠道微生物组与肝脏健康之间的联系
 
 *Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1](https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1)
 
-**背景：**饮食、肠道微生物与肝脏健康之间的相互作用机制尚需阐明。
+**背景：**研究饮食模式依从性如何通过肠道微生物组影响肝脏健康。
 
-**方法：**观察性研究，样本量未提供，暴露为膳食模式依从性，主要结局为肠道微生物组和肝脏健康指标。
+**方法：**横断面或队列研究，分析饮食模式、肠道微生物组与肝脏健康指标的关系。
 
-**发现：**特定膳食模式通过调节肠道微生物组影响肝脏健康。
+**发现：**饮食模式依从性与肠道微生物组组成相关，进而影响肝脏健康。
 
-**意义：**为通过饮食干预改善肝脏健康提供科学依据。
+**意义：**阐明饮食-肠道-肝脏轴的作用，为脂肪肝等疾病预防提供依据。
 
-**局限：**摘要信息有限，无法评估因果推断。
+**局限：**因果推断受限。
 
-**关联：**直接相关：营养流行病学与慢性病预防。
+**关联：**与肠道菌群和慢性病预防密切相关。
 
 ---
 
-## 37. 利益相关者参与评估肯尼亚超重和肥胖预防食品政策干预的实施考虑因素及参与过程评价
+## 31. 利益相关者参与评估肯尼亚超重和肥胖预防食品政策干预的实施考虑因素及参与过程评价
 
 *Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v1](https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v1)
 
-**背景：**食品政策干预的实施需考虑利益相关者意见。
+**背景：**评估利益相关者参与在肯尼亚食品政策干预实施中的作用。
 
-**方法：**定性研究，通过利益相关者参与评估实施考虑因素，并评价参与过程。
+**方法：**定性研究，通过利益相关者参与评估实施考虑因素。
 
 **发现：**利益相关者参与有助于识别实施障碍和促进因素。
 
-**意义：**为政策制定者提供实施科学证据。
+**意义：**为政策制定和实施提供实践指导。
 
-**局限：**未提供具体结果数据。
+**局限：**仅限肯尼亚背景，推广性有限。
 
-**关联：**不直接相关：侧重于政策实施而非机制。
+**关联：**与预防医学和公共卫生政策相关。
 
 ---
 
-## 38. 人口统计学因素调节肥胖预防干预的有效性：大学干预试验的二次分析
+## 32. 人口学因素调节肥胖预防干预的有效性：大学干预试验的二次分析
 
 *Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1](https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1)
 
-**背景：**肥胖预防干预效果可能因人群特征而异。
+**背景：**探讨人口学因素如何影响大学肥胖预防干预的效果。
 
-**方法：**二次分析，基于大学干预试验，样本量未提供，主要结局为干预效果在不同人口学亚组中的差异。
+**方法：**对大学干预试验进行二次分析，检验人口学因素的调节作用。
 
-**发现：**人口统计学因素（如性别、种族）显著调节干预效果。
+**发现：**人口学因素（如性别、种族）显著调节干预效果。
 
 **意义：**强调个性化干预的重要性。
 
-**局限：**二次分析，可能受原始研究限制。
+**局限：**二次分析，可能存在未测量混杂因素。
 
-**关联：**不直接相关：侧重于干预效果调节因素。
+**关联：**与预防医学和营养流行病学相关。
 
 ---
 
-## 39. 超越疟疾预防：孕期磺胺多辛-乙胺嘧啶治疗选择性重塑母体肠道微生物组以增加孕期体重增长并改善出生体重
+## 33. 超越疟疾预防：孕期磺胺多辛-乙胺嘧啶治疗选择性重塑母体肠道微生物组以增加孕期体重增长并改善出生体重
 
 *Beyond malaria prevention: sulfadoxine-pyrimethamine treatment in pregnancy selectively remodels the maternal gut microbiome to increase gestational weight gain and improve birthweight*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.03.26352319v1](https://www.medrxiv.org/content/10.64898/2026.05.03.26352319v1)
 
-**背景：**孕期抗疟药物可能通过影响肠道微生物组产生额外健康效应。
+**背景：**孕期疟疾预防性治疗（磺胺多辛-乙胺嘧啶）可能通过影响肠道微生物组对母婴健康产生额外益处，本研究旨在探索其对母体肠道微生物组、孕期体重增长和出生体重的影响。
 
-**方法：**观察性研究，样本量未提供，暴露为磺胺多辛-乙胺嘧啶治疗，主要结局为母体肠道微生物组、孕期体重增长和出生体重。
+**方法：**研究设计未明确，样本量未提供，干预为孕期磺胺多辛-乙胺嘧啶治疗，主要结局包括母体肠道微生物组组成、孕期体重增长和出生体重。
 
-**发现：**该治疗选择性重塑母体肠道微生物组，与孕期体重增长和出生体重改善相关。
+**发现：**磺胺多辛-乙胺嘧啶治疗选择性重塑母体肠道微生物组，增加孕期体重增长并改善出生体重。具体数据未在摘要中提供。
 
-**意义：**揭示抗疟药物的非预期代谢效应，为孕期用药提供新视角。
+**意义：**揭示了抗疟药物通过肠道微生物组途径改善母婴结局的新机制，为孕期干预提供新视角。
 
-**局限：**因果推断受限，可能受混杂因素影响。
+**局限：**摘要信息有限，缺乏具体数据和研究设计细节。
 
-**关联：**直接相关：肠道菌群与母婴健康。
+**关联：**与预防医学和肠道菌群领域相关，探讨孕期药物干预对微生物组和妊娠结局的影响。
 
 ---
 
-## 40. 基于地中海饮食的营养教育计划咨询对帕金森病患者肠道便秘的影响：一项随机临床试验
+## 34. 基于地中海饮食的营养教育计划咨询对帕金森病患者肠道便秘的影响：一项随机临床试验
 
 *Nutritional education program counseling based on the Mediterranean diet on intestinal constipation in people with Parkinson’s disease: a randomized clinical trial*
 **来源：**medRxiv
 **DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.07.26352682v1](https://www.medrxiv.org/content/10.64898/2026.05.07.26352682v1)
 
-**背景：**帕金森病患者常伴便秘，地中海饮食可能改善肠道功能。
+**背景：**帕金森病患者常伴有肠道便秘，地中海饮食可能改善肠道功能，本研究评估基于地中海饮食的营养教育咨询对帕金森病患者便秘的疗效。
 
-**方法：**随机临床试验，样本量未提供，干预为地中海饮食营养教育，主要结局为肠道便秘改善。
+**方法：**随机临床试验，样本量未提供，干预为基于地中海饮食的营养教育计划咨询，主要结局为肠道便秘改善情况。
 
-**发现：**地中海饮食教育可能缓解帕金森病患者的便秘症状。
+**发现：**具体结果未在摘要中提供。
 
-**意义：**为帕金森病非运动症状管理提供饮食干预证据。
+**意义：**为帕金森病患者的非药物干预提供证据，支持饮食管理在神经退行性疾病中的应用。
 
-**局限：**摘要未报告具体效果大小。
+**局限：**摘要信息不足，缺乏具体结果和样本量。
 
-**关联：**直接相关：营养流行病学与慢性病预防。
+**关联：**与营养流行病学和慢性病预防相关，探讨饮食干预对帕金森病并发症的影响。
 
 ---
 
-*日报生成于 2026-06-26 · 模型：deepseek-chat*
+## 35. 巴氏灭菌的阿克曼氏菌MucT对代谢综合征患者胰岛素敏感性、身体成分和GLP-1产生的影响：低基线肠道阿克曼氏菌水平的调节作用
+
+*Effect of pasteurized Akkermansia muciniphila MucT on insulin sensitivity, body composition, and GLP-1 production in subjects with metabolic syndrome: impact of low baseline gut Akkermansia levels.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42343233](https://pubmed.ncbi.nlm.nih.gov/42343233)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2690689](https://doi.org/10.1080/19490976.2026.2690689)
+
+**背景：**阿克曼氏菌与代谢健康相关，但巴氏灭菌菌株的疗效可能受基线菌群水平影响，本研究评估其在代谢综合征患者中的效果。
+
+**方法：**研究设计未明确，样本量未提供，干预为巴氏灭菌的阿克曼氏菌MucT，主要结局为胰岛素敏感性、身体成分和GLP-1产生。
+
+**发现：**巴氏灭菌的阿克曼氏菌MucT改善胰岛素敏感性、身体成分和GLP-1产生，且效果受基线肠道阿克曼氏菌水平调节。具体数据未提供。
+
+**意义：**支持阿克曼氏菌作为益生菌在代谢综合征中的应用，并强调个体化菌群基线的重要性。
+
+**局限：**摘要信息有限，缺乏具体数据和设计细节。
+
+**关联：**与营养流行病学和肠道菌群领域高度相关，探讨特定菌株对代谢综合征的干预效果。
+
+---
+
+## 36. 肠道微生物组驱动甘氨脱氧胆酸介导的高血压缓解
+
+*Gut microbiome drives glycodeoxycholic acid-mediated attenuation of hypertension.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42343158](https://pubmed.ncbi.nlm.nih.gov/42343158)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2691346](https://doi.org/10.1080/19490976.2026.2691346)
+
+**背景：**胆汁酸代谢与高血压相关，但肠道微生物组在其中的作用尚不明确，本研究探索甘氨脱氧胆酸通过肠道微生物组缓解高血压的机制。
+
+**方法：**研究设计未明确，样本量未提供，暴露为甘氨脱氧胆酸，主要结局为高血压缓解及肠道微生物组变化。
+
+**发现：**肠道微生物组驱动甘氨脱氧胆酸介导的高血压缓解，具体机制涉及微生物组调节。数据未提供。
+
+**意义：**揭示肠道微生物组-胆汁酸轴在血压调节中的新机制，为高血压治疗提供潜在靶点。
+
+**局限：**摘要信息不足，缺乏具体数据和实验细节。
+
+**关联：**与肠道菌群和慢性病预防相关，探讨微生物组在高血压中的作用。
+
+---
+
+## 37. 跨界的微生物组沿肠-肺轴的相互作用：呼吸系统疾病中的免疫-微生态协调、共享机制和疾病背景依赖性
+
+*Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42324603](https://pubmed.ncbi.nlm.nih.gov/42324603)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2689168](https://doi.org/10.1080/19490976.2026.2689168)
+
+**背景：**肠-肺轴在呼吸系统疾病中起重要作用，但跨界的微生物组相互作用机制尚不清楚，本研究综述相关机制。
+
+**方法：**综述性研究，无具体样本量和干预，主要探讨肠-肺轴中微生物组跨界相互作用的免疫协调和共享机制。
+
+**发现：**肠-肺轴存在跨界微生物组相互作用，涉及免疫-微生态协调和共享机制，且作用依赖于疾病背景。
+
+**意义：**为理解呼吸系统疾病的微生物组机制提供框架，促进肠-肺轴研究。
+
+**局限：**综述性质，缺乏原始数据。
+
+**关联：**与肠道菌群和预防医学相关，探讨微生物组在呼吸系统疾病中的作用。
+
+---
+
+## 38. 与克罗恩病相关的高凝血酶活性诱导微生物群致病性，促进黏膜炎症
+
+*High thrombin activity associated with crohn's disease induces microbiota pathogenicity contributing to mucosal inflammation.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42310970](https://pubmed.ncbi.nlm.nih.gov/42310970)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2687903](https://doi.org/10.1080/19490976.2026.2687903)
+
+**背景：**克罗恩病中凝血酶活性升高，但其对肠道微生物群和炎症的影响未知，本研究探索凝血酶在克罗恩病中的作用。
+
+**方法：**研究设计未明确，样本量未提供，暴露为高凝血酶活性，主要结局为微生物群致病性和黏膜炎症。
+
+**发现：**高凝血酶活性诱导微生物群致病性，促进黏膜炎症，具体机制涉及微生物组改变。数据未提供。
+
+**意义：**揭示凝血酶-微生物群轴在克罗恩病炎症中的新机制，提供潜在治疗靶点。
+
+**局限：**摘要信息有限，缺乏具体数据。
+
+**关联：**与肠道菌群和慢性病预防相关，探讨微生物组在炎症性肠病中的作用。
+
+---
+
+## 39. 黑色素瘤免疫治疗反应的肠道微生物标志物：包括首个俄罗斯数据集的跨队列分析
+
+*Gut microbial markers of immunotherapy response in melanoma: a cross-cohort analysis including the first Russian dataset.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42298353](https://pubmed.ncbi.nlm.nih.gov/42298353)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2681788](https://doi.org/10.1080/19490976.2026.2681788)
+
+**背景：**肠道微生物组可影响免疫治疗反应，但不同人群间标志物的一致性未知，本研究进行跨队列分析并纳入首个俄罗斯数据集。
+
+**方法：**跨队列分析，样本量未提供，暴露为肠道微生物组，主要结局为免疫治疗反应（黑色素瘤）。
+
+**发现：**鉴定出与免疫治疗反应相关的肠道微生物标志物，并在俄罗斯数据集中验证。具体标志物未提供。
+
+**意义：**为黑色素瘤免疫治疗提供微生物组预测标志物，并扩展人群多样性。
+
+**局限：**摘要信息不足，缺乏具体标志物和效应量。
+
+**关联：**与肠道菌群和预防医学相关，探讨微生物组在癌症免疫治疗中的预测价值。
+
+---
+
+## 40. 通过肠道来源的尿毒症毒素视角看心血管-肾脏-代谢综合征
+
+*Cardiovascular-kidney-metabolic syndrome through the lens of gut‑derived uremic toxins.*
+**来源：**PubMed → Gut Microbes
+**PMID：**[42296178](https://pubmed.ncbi.nlm.nih.gov/42296178)
+**DOI：**[https://doi.org/10.1080/19490976.2026.2685906](https://doi.org/10.1080/19490976.2026.2685906)
+
+**背景：**心血管-肾脏-代谢综合征与肠道来源的尿毒症毒素相关，本研究综述其作用机制。
+
+**方法：**综述性研究，无具体样本量和干预，主要探讨肠道来源尿毒症毒素在心血管-肾脏-代谢综合征中的作用。
+
+**发现：**肠道来源的尿毒症毒素在心血管-肾脏-代谢综合征中发挥关键作用，涉及多器官损伤。
+
+**意义：**整合肠道微生物组与多系统疾病，为综合干预提供理论基础。
+
+**局限：**综述性质，缺乏原始数据。
+
+**关联：**与肠道菌群和慢性病预防高度相关，探讨微生物组在代谢综合征中的作用。
+
+---
+
+*日报生成于 2026-06-27 · 模型：deepseek-chat*
