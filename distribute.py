@@ -161,47 +161,41 @@ def send_email(to: str, subject: str, body: str) -> bool:
 
 
 def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
-                     last_push: str | None, has_fresh_papers: bool = False) -> bool:
-    """判断是否应该此刻推送."""
+                     last_push: str | None, has_papers: bool = False) -> bool:
+    """每天仅发一次：到达推送时间后首次匹配论文即发送，同日不重复."""
     force = bool(os.environ.get("DISTRIBUTE_FORCE"))
     now = datetime.now(TZ)
 
+    # 今天已推送过 → 阻止
     if last_push:
         last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
-        delta = now - last.replace(tzinfo=TZ) if last.tzinfo is None else now - last
-        if delta.total_seconds() < 3900:
+        if last.date() == now.date():
             return False
 
     if force:
         return True
 
-    # 论文是最近 3 小时内新入库且今天还没推 → 即时发送（补救 cron 延迟）
-    if has_fresh_papers:
-        if not last_push or (
-            datetime.fromisoformat(last_push.replace("Z", "+00:00")).date() != now.date()
-        ):
-            return True
-
-    # 检查推送时间（±30min 容错）
-    try:
-        h, m = map(int, push_time.split(":"))
-        target = now.replace(hour=h, minute=m, second=0, microsecond=0)
-        diff = abs((now - target).total_seconds())
-        if diff > 3600:  # 60 min tolerance for cron delays
-            return False
-    except (ValueError, AttributeError):
+    # 无可用论文 → 不发送
+    if not has_papers:
         return False
 
     # 检查推送频率
     weekday = str(now.weekday() + 1)
-    if push_freq == "weekdays" and push_days:
-        if weekday not in push_days:
-            return False
-    elif push_freq == "weekly":
-        if weekday != "1":
-            return False
+    if push_freq == "weekdays" and push_days and weekday not in push_days:
+        return False
+    if push_freq == "weekly" and weekday != "1":
+        return False
 
-    return True
+    # 到达或超过推送时间 → 发送
+    try:
+        h, m = map(int, push_time.split(":"))
+        push_dt = now.replace(hour=h, minute=m, second=0, microsecond=0)
+        if now >= push_dt:
+            return True
+    except (ValueError, AttributeError):
+        pass
+
+    return False
 
 
 def process_users():
@@ -234,9 +228,9 @@ def process_users():
         if not papers:
             continue
 
-        has_fresh = len(papers) > 0  # papers filtered to last 24h
+        has_papers = len(papers) > 0
 
-        if not _should_send_now(push_time, push_freq, push_days, last_push, has_fresh):
+        if not _should_send_now(push_time, push_freq, push_days, last_push, has_papers):
             continue
 
         report = _generate_report(papers, email)
@@ -285,9 +279,9 @@ def process_recipients():
         if not papers:
             continue
 
-        has_fresh = len(papers) > 0
+        has_papers = len(papers) > 0
 
-        if not _should_send_now(push_time, push_freq, push_days, last_push, has_fresh):
+        if not _should_send_now(push_time, push_freq, push_days, last_push, has_papers):
             continue
 
         report = _generate_report(papers, email)
