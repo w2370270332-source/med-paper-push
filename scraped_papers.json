@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:44:44.838180",
+    "generated_at": "2026-06-27T09:19:45.794012",
     "days_back": 1,
     "total_papers": 103,
     "sources": {
@@ -11,6 +11,24 @@
     }
   },
   "papers": [
+    {
+      "title": "Gut Proteobacteria glycine metabolism regulates neuroplasticity, motivation, and reinstatement of cocaine self-administration in mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2693397",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42359815"
+    },
+    {
+      "title": "Mucin-derived sugars act as metabolic brakes controlling growth initiation in Akkermansia muciniphila.",
+      "url": "https://doi.org/10.1080/19490976.2026.2691334",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42359789"
+    },
     {
       "title": "Effect of pasteurized Akkermansia muciniphila MucT on insulin sensitivity, body composition, and GLP-1 production in subjects with metabolic syndrome: impact of low baseline gut Akkermansia levels.",
       "url": "https://doi.org/10.1080/19490976.2026.2690689",
@@ -262,24 +280,6 @@
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
       "pmid": "42240041"
-    },
-    {
-      "title": "Multiomics insights into the effects of prebiotics on physical function and metabolism in adults with obesity and knee osteoarthritis.",
-      "url": "https://doi.org/10.1080/19490976.2026.2679516",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42231528"
-    },
-    {
-      "title": "A commensal protozoan exacerbates acetaminophen-induced liver injury by producing free sphingosine.",
-      "url": "https://doi.org/10.1080/19490976.2026.2681811",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42231521"
     },
     {
       "title": "Scalable Behavioral Program for Weight Loss Maintenance After GLP-1 and Anti-Obesity Medication Discontinuation",
