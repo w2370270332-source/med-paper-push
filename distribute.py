@@ -169,7 +169,8 @@ def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
     # 今天已推送过 → 阻止
     if last_push:
         last = datetime.fromisoformat(last_push.replace("Z", "+00:00"))
-        if last.date() == now.date():
+        last_cn = last.astimezone(TZ)
+        if last_cn.date() == now.date():
             return False
 
     if force:
@@ -228,9 +229,7 @@ def process_users():
         if not papers:
             continue
 
-        has_papers = len(papers) > 0
-
-        if not _should_send_now(push_time, push_freq, push_days, last_push, has_papers):
+        if not _should_send_now(push_time, push_freq, push_days, last_push, True):
             continue
 
         report = _generate_report(papers, email)
@@ -279,9 +278,7 @@ def process_recipients():
         if not papers:
             continue
 
-        has_papers = len(papers) > 0
-
-        if not _should_send_now(push_time, push_freq, push_days, last_push, has_papers):
+        if not _should_send_now(push_time, push_freq, push_days, last_push, True):
             continue
 
         report = _generate_report(papers, email)
@@ -289,7 +286,7 @@ def process_recipients():
 
         if send_email(email, subject, report):
             _supa("push_history", "POST", {
-                "user_id": "00000000-0000-0000-0000-000000000000",
+                "user_id": None,
                 "paper_ids": [p["id"] for p in papers],
                 "paper_count": len(papers),
                 "report_content": f"Recipient: {email}\n\n{report[:5000]}",
