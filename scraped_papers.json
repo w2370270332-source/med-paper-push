@@ -1,16 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T09:19:45.794012",
+    "generated_at": "2026-06-28T00:37:33.962129",
     "days_back": 1,
-    "total_papers": 103,
+    "total_papers": 98,
     "sources": {
       "pubmed": 68,
-      "rss": 5,
+      "rss": 0,
       "preprints": 10,
       "trials": 22
     }
   },
   "papers": [
+    {
+      "title": "Early antibiotic exposure and vaccine immune responses in preterm infants: potential sex-specific differences.",
+      "url": "https://doi.org/10.1080/19490976.2026.2694122",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42363866"
+    },
     {
       "title": "Gut Proteobacteria glycine metabolism regulates neuroplasticity, motivation, and reinstatement of cocaine self-administration in mice.",
       "url": "https://doi.org/10.1080/19490976.2026.2693397",
@@ -273,15 +282,6 @@
       "pmid": "42246276"
     },
     {
-      "title": "Correction.",
-      "url": "https://doi.org/10.1080/19490976.2026.2684280",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42240041"
-    },
-    {
       "title": "Scalable Behavioral Program for Weight Loss Maintenance After GLP-1 and Anti-Obesity Medication Discontinuation",
       "url": "https://clinicaltrials.gov/study/NCT07535892",
       "source": "ClinicalTrials.gov",
@@ -442,46 +442,6 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Nephrotic Syndrome, Lipodystrophy, Metabolic Syndrome, Healthy Volunteer, Diabetes; Interventions: High carb then high fat breakfast, High fat then high carb breakfast; Background:\n\nAbnormal fats in the blood can lead to many problems, including heart disease. Researchers want to learn more about how eating meals with different levels of nutrients affects fats in the blood. Specifically, they want to study people with too much body fat, too little body fat, and a k; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07313787",
       "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Downregulation of SLC44A4 in nasopharyngeal carcinoma is associated with malignant progression, B-cell/TLS-related immune features, and sensitivity to DNA-damaging agents",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352812",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-26T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correction: Comparative metabolic profiling, enzyme inhibitory activities, and in-silico analysis of the hexane extract and the hydrodistilled oil of Boswellia serrata",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352773",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-26T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correction: From displacement to hunger: How migration due to conflict affects food security in Yemen",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352770",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-26T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Neuroprotective mechanisms of Thai traditional brain tonic Phy-Blica-O against LPS-induced neuroinflammation: Inhibition of NF-κB in microglia and mice",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352429",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-26T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Cannabis use, sexual behaviors, and HIV prevention behaviors among young adults attending key-population-led sexual health clinics in Bangkok, Thailand: A mixed-method study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352395",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-06-26T14:00:00+00:00",
-      "abstract": ""
     },
     {
       "title": "AMAZE 3: A Research Study Investigating How Well the Medicine NNC0487-0111 Helps People With Excess Body Weight and Obstructive Sleep Apnoea Not Treated With Positive Airway Pressure Lose Weight and Improve Sleep Apnoea",
