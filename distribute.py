@@ -151,7 +151,7 @@ def send_email(to: str, subject: str, body: str) -> bool:
         msg["Subject"] = subject
         msg["From"] = SMTP_USER
         msg["To"] = to
-        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as s:
+        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30) as s:
             s.login(SMTP_USER, SMTP_PASS)
             s.sendmail(SMTP_USER, [to], msg.as_string())
         return True

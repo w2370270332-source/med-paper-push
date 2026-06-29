@@ -1,5 +1,9 @@
 name: 文献日报推送
 
+concurrency:
+  group: daily-push
+  cancel-in-progress: true
+
 on:
   schedule:
     # 每天北京时间 8:00 (UTC+8) → UTC 0:00

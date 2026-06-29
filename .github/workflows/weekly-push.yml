@@ -1,5 +1,9 @@
 name: 文献周报推送
 
+concurrency:
+  group: weekly-push
+  cancel-in-progress: true
+
 on:
   schedule:
     # 每周日北京时间 20:00 (UTC+8) → UTC 12:00
