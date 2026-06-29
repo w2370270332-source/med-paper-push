@@ -66,9 +66,11 @@ def sync_papers(papers: list[dict], mode: str) -> int:
         if not title:
             continue
 
-        # 检查是否已存在
-        existing = _find_existing(pmid, title)
-        if existing:
+        # 检查是否已存在 → 刷新 fetched_at 保持新鲜度
+        existing_id = _find_existing_id(pmid, title)
+        if existing_id:
+            _refresh_fetched_at(existing_id)
+            count += 1
             continue
 
         body = json.dumps({
@@ -115,8 +117,8 @@ def sync_papers(papers: list[dict], mode: str) -> int:
     return count
 
 
-def _find_existing(pmid: str, title: str) -> bool:
-    """检查论文是否已在库中."""
+def _find_existing_id(pmid: str, title: str) -> int | None:
+    """查找已有论文 ID，不存在返回 None."""
     if pmid:
         url = f"{SUPABASE_URL}/rest/v1/paper_pool?pmid=eq.{pmid}&select=id&limit=1"
     else:
@@ -130,9 +132,29 @@ def _find_existing(pmid: str, title: str) -> bool:
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read())
-        return len(data) > 0
+        return data[0]["id"] if data else None
     except Exception:
-        return False
+        return None
+
+
+def _refresh_fetched_at(paper_id: int) -> None:
+    """刷新论文的 fetched_at 时间戳."""
+    body = json.dumps({"fetched_at": datetime.now(TZ).isoformat()}).encode()
+    req = urllib.request.Request(
+        f"{SUPABASE_URL}/rest/v1/paper_pool?id=eq.{paper_id}",
+        data=body,
+        headers={
+            "apikey": SUPABASE_KEY,
+            "Authorization": f"Bearer {SUPABASE_KEY}",
+            "Content-Type": "application/json",
+            "Prefer": "return=minimal",
+        },
+        method="PATCH",
+    )
+    try:
+        urllib.request.urlopen(req, timeout=10)
+    except Exception:
+        pass
 
 
 def main():
