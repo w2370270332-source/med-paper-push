@@ -1,16 +1,43 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T01:03:30.060968",
+    "generated_at": "2026-06-30T11:27:47.304852",
     "days_back": 1,
-    "total_papers": 104,
+    "total_papers": 105,
     "sources": {
-      "pubmed": 66,
+      "pubmed": 67,
       "rss": 2,
       "preprints": 10,
       "trials": 26
     }
   },
   "papers": [
+    {
+      "title": "Emergence of invasive Escherichia coli pathobionts in gut microbiome promotes cancer stemness via targeting Hippo pathways.",
+      "url": "https://doi.org/10.1080/19490976.2026.2694795",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42376755"
+    },
+    {
+      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
+      "url": "https://doi.org/10.1080/19490976.2026.2692737",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42374626"
+    },
+    {
+      "title": "Perinatal ampicillin exposure alters murine maternal fecal bile acid and acylcarnitine profiles.",
+      "url": "https://doi.org/10.1080/19490976.2026.2690698",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42374604"
+    },
     {
       "title": "Identification of human DP8α regulatory T cell sub-populations reactive to health-associated anti-inflammatory gut commensals.",
       "url": "https://doi.org/10.1080/19490976.2026.2690686",
@@ -255,33 +282,6 @@
       "pmid": "42249825"
     },
     {
-      "title": "High-throughput identification of bacterial β-glucuronidase inhibitors using machine learning.",
-      "url": "https://doi.org/10.1080/19490976.2026.2681789",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42249636"
-    },
-    {
-      "title": "Gut-derived bacterial extracellular vesicles: the microbial dark matter contributing to host inflammation and cardiometabolic disease.",
-      "url": "https://doi.org/10.1080/19490976.2026.2672794",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42249624"
-    },
-    {
-      "title": "Deconfounded, quantitative microbiome profiling identifies robust multiple sclerosis markers and clinical covariate associations.",
-      "url": "https://doi.org/10.1080/19490976.2026.2681876",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42246374"
-    },
-    {
       "title": "Discovering Determinants of Food Intake by Application of Artificial Intelligence to Complex, High-Dimensional Data",
       "url": "https://clinicaltrials.gov/study/NCT07637656",
       "source": "ClinicalTrials.gov",
@@ -432,6 +432,15 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Refeeding Syndrome, Malnutrition; Introduction: Refeeding syndrome (RS) is a life-threatening metabolic complication of nutritional support. Prolonged fasting, frequently observed in malnourished patients referred for percutaneous endoscopic gastrostomy (PEG), induces histological and ultrastructural changes in the intestinal mucosa; Study Type: OBSERVATIONAL",
       "nct_id": "NCT07674589",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Uncovering transcriptional processes in microbial communities adapted to differing saline conditions in salt-weathered historic buildings.",
+      "url": "https://doi.org/10.1186/s40168-026-02383-z",
+      "source": "PubMed → Microbiome",
+      "source_type": "journal",
+      "date": "2026-06-30T00:00:00+00:00",
+      "abstract": "Journal: Microbiome",
+      "pmid": "42374590"
     },
     {
       "title": "Seasonal dynamics in sheep fecal microbiome and soil bacterial communities under grazing management",
