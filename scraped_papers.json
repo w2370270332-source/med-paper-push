@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T14:40:57.059532",
+    "generated_at": "2026-06-30T01:03:30.060968",
     "days_back": 1,
-    "total_papers": 102,
+    "total_papers": 104,
     "sources": {
       "pubmed": 66,
-      "rss": 0,
+      "rss": 2,
       "preprints": 10,
       "trials": 26
     }
@@ -432,6 +432,22 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Refeeding Syndrome, Malnutrition; Introduction: Refeeding syndrome (RS) is a life-threatening metabolic complication of nutritional support. Prolonged fasting, frequently observed in malnourished patients referred for percutaneous endoscopic gastrostomy (PEG), induces histological and ultrastructural changes in the intestinal mucosa; Study Type: OBSERVATIONAL",
       "nct_id": "NCT07674589",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Seasonal dynamics in sheep fecal microbiome and soil bacterial communities under grazing management",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352436",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-06-29T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Epidemiology of invasive pneumococcal disease in Southwest Sweden during the first eleven years after the introduction of general childhood pneumococcal vaccination",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352333",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-06-29T14:00:00+00:00",
+      "abstract": ""
     },
     {
       "title": "A Phase 1 Study to Evaluate the Relative Bioavailability of Octreotide Acetate Tablets(T25) Compared to MYCAPSSA® and The Food Effect on Pharmacokinetics Of Octreotide Acetate Tablets(T25)",
