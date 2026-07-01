@@ -58,6 +58,14 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
 
+      - name: Sync to Zotero
+        run: python zotero_sync.py
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
+        timeout-minutes: 5
+        continue-on-error: true
+
       - name: Distribute
         run: python distribute.py
         env:
