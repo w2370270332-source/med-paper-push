@@ -137,10 +137,19 @@ def build_item(p: dict, tags: list[str]) -> dict:
         "extra": f"PMID: {pmid}" if pmid else "",
     }
 
-    if note_html:
-        item["note"] = note_html
+    return item, note_html
 
-    return item
+
+def create_note(parent_key: str, note_html: str):
+    """为 Zotero 条目创建子笔记."""
+    if not note_html:
+        return
+    note_item = {
+        "itemType": "note",
+        "parentItem": parent_key,
+        "note": f"<div>{note_html}</div>",
+    }
+    _req("POST", "/items", [note_item])
 
 
 def load_state() -> dict:
@@ -175,16 +184,17 @@ def ensure_collections() -> dict[str, str]:
                 collection_keys[name] = f"DRY_RUN_{name}"
                 continue
             print(f"  创建集合: {name}...", end=" ", flush=True)
-            status, body, _ = _req("POST", "/collections", {"name": name})
-            if status in (200, 201) and body:
-                key = body.get("success", {}).get("0", "")
-                if key:
+            status, data, _ = _req("POST", "/collections", [{"name": name}])
+            if status in (200, 201):
+                result = data.get("success", {})
+                if result:
+                    key = list(result.values())[0] if isinstance(result, dict) else result[0]
                     collection_keys[name] = key
                     print(f"OK ({key})")
                 else:
-                    print("FAIL (no key)")
+                    print(f"FAIL (no success key in response)")
             else:
-                print(f"FAIL ({status})")
+                print(f"FAIL ({status}): {data}")
 
     return collection_keys
 
@@ -218,8 +228,8 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
                 state[pmid] = "DRY_RUN"
             continue
 
-        # 构建条目
-        item = build_item(p, tags)
+        # 构建条目（不带 note 字段，Zotero API 不允许 journalArticle 带 note）
+        item, note_html = build_item(p, tags)
         headers_extra = {}
         if write_token:
             headers_extra["Zotero-Write-Token"] = write_token
@@ -250,6 +260,10 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
             print(f"  [{i}/{total}] FAIL {title}: {body}")
             errors += 1
             continue
+
+        # 创建笔记（作为子项）
+        if note_html:
+            create_note(item_key, note_html)
 
         # 添加到集合
         for col in cols[:3]:  # 最多 3 个集合
