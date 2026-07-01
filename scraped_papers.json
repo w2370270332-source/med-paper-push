@@ -1,16 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T09:21:32.202647",
+    "generated_at": "2026-07-01T11:41:28.999799",
     "days_back": 1,
-    "total_papers": 103,
+    "total_papers": 101,
     "sources": {
-      "pubmed": 66,
+      "pubmed": 64,
       "rss": 6,
       "preprints": 10,
       "trials": 23
     }
   },
   "papers": [
+    {
+      "title": "Multi-omics analysis of saccharomyces boulardii supplementation reveals coordinated microbiome, metabolic, and immune signaling changes accompanying tumor suppression.",
+      "url": "https://doi.org/10.1080/19490976.2026.2690687",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42381379"
+    },
     {
       "title": "Is Fusobacterium nucleatum the key mediator between oral infections and systemic diseases? Mechanistic insights and therapeutic implications.",
       "url": "https://doi.org/10.1080/19490976.2026.2694819",
@@ -273,15 +282,6 @@
       "pmid": "42262337"
     },
     {
-      "title": "Gut microbial metabolism of Flutamide attenuates its therapeutic efficacy against prostate cancer.",
-      "url": "https://doi.org/10.1080/19490976.2026.2682803",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42252578"
-    },
-    {
       "title": "Cranberry Polyphenols and Stress Resilience During Multitasking in Healthy Adults",
       "url": "https://clinicaltrials.gov/study/NCT07453537",
       "source": "ClinicalTrials.gov",
@@ -499,24 +499,6 @@
       "date": "2026 May",
       "abstract": "Journal: Am J Prev Med",
       "pmid": "42342323"
-    },
-    {
-      "title": "Blood signatures of cell type-specific aging forecast disease risk and resilience.",
-      "url": "https://doi.org/10.1038/s41591-026-04447-x",
-      "source": "PubMed → Nat Med",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Nat Med",
-      "pmid": "42297982"
-    },
-    {
-      "title": "Plasma proteomic signatures of cellular aging predict human disease.",
-      "url": "https://doi.org/10.1038/s41591-026-04446-y",
-      "source": "PubMed → Nat Med",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Nat Med",
-      "pmid": "42297981"
     },
     {
       "title": "Letter to the Editor: expanding the artificial intelligence-nutrition integration framework to address implementation gaps.",
