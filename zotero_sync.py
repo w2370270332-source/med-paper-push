@@ -277,9 +277,9 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
         created += 1
         print(f"  [{i}/{total}] {title[:40]} → {', '.join(cols[:2])}")
 
-        # 速限保护
+        # 速限保护（Zotero API 约 3 req/s）
         if i < total:
-            time.sleep(0.3)
+            time.sleep(1.0)
 
     if not DRY_RUN:
         save_state(state)
