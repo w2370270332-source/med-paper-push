@@ -201,7 +201,8 @@ def _should_send_now(push_time: str, push_freq: str, push_days: list[str],
 
 def process_users():
     """处理注册用户."""
-    users = _supa("user_info?select=*&enabled=is.true") or []
+    users = _supa("rpc/get_user_info") or []
+    users = [u for u in users if u.get("enabled")]
     print(f"[users] {len(users)} 活跃用户")
 
     sent = 0

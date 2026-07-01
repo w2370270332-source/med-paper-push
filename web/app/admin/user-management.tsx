@@ -73,7 +73,7 @@ export function UserManagement() {
 
   const loadUsers = async () => {
     setLoading(true);
-    const { data } = await supabase.from("user_info").select("*").order("joined_at", { ascending: false });
+    const { data } = await supabase.rpc("get_user_info");
     if (data) setUsers(data);
     setLoading(false);
   };
