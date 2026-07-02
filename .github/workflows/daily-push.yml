@@ -93,12 +93,6 @@ jobs:
           git diff --staged --quiet || git commit -m "auto: daily report $(date +%Y-%m-%d)"
           git push
 
-      - name: Push to Feishu
-        run: python feishu_push.py --mode daily
-        env:
-          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-
       - name: Upload report artifact
         if: always()
         uses: actions/upload-artifact@v4

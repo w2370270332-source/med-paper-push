@@ -140,16 +140,17 @@ def build_item(p: dict, tags: list[str]) -> dict:
     return item, note_html
 
 
-def create_note(parent_key: str, note_html: str):
+def create_note(parent_key: str, note_html: str, write_token: str | None = None):
     """为 Zotero 条目创建子笔记."""
-    if not note_html:
+    if not note_html or not parent_key:
         return
     note_item = {
         "itemType": "note",
         "parentItem": parent_key,
         "note": f"<div>{note_html}</div>",
     }
-    _req("POST", "/items", [note_item])
+    extra = {"Zotero-Write-Token": write_token} if write_token else None
+    _req("POST", "/items", [note_item], extra)
 
 
 def load_state() -> dict:
@@ -263,13 +264,16 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
 
         # 创建笔记（作为子项）
         if note_html:
-            create_note(item_key, note_html)
+            create_note(item_key, note_html, write_token)
 
         # 添加到集合
-        for col in cols[:3]:  # 最多 3 个集合
+        for col in cols[:3]:
             col_key = collections.get(col)
             if col_key and not col_key.startswith("DRY_RUN"):
-                _req("POST", f"/collections/{col_key}/items", [item_key])
+                s, body, _ = _req("POST", f"/collections/{col_key}/items", [item_key],
+                                  headers_extra if headers_extra else None)
+                if s not in (200, 201, 204):
+                    print(f"    [WARN] 添加集合 {col} 失败: {s}")
 
         # 记录到状态文件
         if pmid:
