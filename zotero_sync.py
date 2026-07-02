@@ -231,12 +231,10 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
 
         # 构建条目（不带 note 字段，Zotero API 不允许 journalArticle 带 note）
         item, note_html = build_item(p, tags)
-        headers_extra = {}
-        if write_token:
-            headers_extra["Zotero-Write-Token"] = write_token
+        item_headers = {"Zotero-Write-Token": write_token} if write_token else None
 
         # 创建条目
-        status, body, resp_headers = _req("POST", "/items", [item], headers_extra if headers_extra else None)
+        status, body, resp_headers = _req("POST", "/items", [item], item_headers)
 
         if status in (200, 201):
             if isinstance(body, dict) and "success" in body:
@@ -270,8 +268,8 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
         for col in cols[:3]:
             col_key = collections.get(col)
             if col_key and not col_key.startswith("DRY_RUN"):
-                s, body, _ = _req("POST", f"/collections/{col_key}/items", [item_key],
-                                  headers_extra if headers_extra else None)
+                col_headers = {"Zotero-Write-Token": write_token} if write_token else None
+                s, body, _ = _req("POST", f"/collections/{col_key}/items", [item_key], col_headers)
                 if s not in (200, 201, 204):
                     print(f"    [WARN] 添加集合 {col} 失败: {s}")
 
