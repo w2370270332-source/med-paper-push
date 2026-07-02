@@ -85,7 +85,7 @@ def extract_journal(source: str) -> str:
     return source.split("→")[-1].strip() if "→" in source else source[:80]
 
 
-def build_item(p: dict, tags: list[str]) -> dict:
+def build_item(p: dict, tags: list[str], collections: dict[str, str]) -> dict:
     """构建 Zotero 条目 JSON."""
     source = p.get("source", "")
     url = p.get("url", "")
@@ -136,6 +136,10 @@ def build_item(p: dict, tags: list[str]) -> dict:
         "creators": [],
         "extra": f"PMID: {pmid}" if pmid else "",
     }
+
+    # 指定集合（创建时一步到位，不需要二次 API 调用）
+    col_keys = [collections.get(c) for c in tags[:3]]
+    item["collections"] = [k for k in col_keys if k and not k.startswith("DRY_RUN")]
 
     return item, note_html
 
@@ -230,7 +234,7 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
             continue
 
         # 构建条目（不带 note 字段，Zotero API 不允许 journalArticle 带 note）
-        item, note_html = build_item(p, tags)
+        item, note_html = build_item(p, tags, collections)
         item_headers = {"Zotero-Write-Token": write_token} if write_token else None
 
         # 创建条目
@@ -263,15 +267,6 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
         # 创建笔记（作为子项）
         if note_html:
             create_note(item_key, note_html, write_token)
-
-        # 添加到集合
-        for col in cols[:3]:
-            col_key = collections.get(col)
-            if col_key and not col_key.startswith("DRY_RUN"):
-                col_headers = {"Zotero-Write-Token": write_token} if write_token else None
-                s, body, _ = _req("POST", f"/collections/{col_key}/items", [item_key], col_headers)
-                if s not in (200, 201, 204):
-                    print(f"    [WARN] 添加集合 {col}({col_key}) 失败: {s} {body}")
 
         # 记录到状态文件
         if pmid:
