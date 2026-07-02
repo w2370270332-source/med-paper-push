@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T00:20:06.855101",
+    "generated_at": "2026-07-02T05:53:10.013824",
     "days_back": 1,
-    "total_papers": 93,
+    "total_papers": 98,
     "sources": {
-      "pubmed": 60,
+      "pubmed": 65,
       "rss": 7,
       "preprints": 10,
       "trials": 22
@@ -446,51 +446,6 @@
       "pmid": "42342323"
     },
     {
-      "title": "Letter to the Editor: expanding the artificial intelligence-nutrition integration framework to address implementation gaps.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101300",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42230087"
-    },
-    {
-      "title": "Plasma proteomics enhances heart failure risk prediction among individuals with type 2 diabetes: a prospective cohort study.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101216",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42230086"
-    },
-    {
-      "title": "Exploring associations between maternal vitamin D-binding protein, vitamin D, and offspring asthma/recurrent wheeze.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2025.101188",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42230085"
-    },
-    {
-      "title": "Beyond natriuretic peptides: proteomic risk prediction for heart failure in the setting of type 2 diabetes and the price of transportability.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101296",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42230084"
-    },
-    {
-      "title": "Vitamin D in pregnancy-less a \"dose,\" more a developmental system.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101302",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42230082"
-    },
-    {
       "title": "Effect of combined probiotic and iron-folic acid supplementation on iron status and gut inflammation markers: a randomized controlled trial among anaemic children.",
       "url": "https://doi.org/10.1038/s41430-026-01777-4",
       "source": "PubMed → Eur J Clin Nutr",
@@ -552,6 +507,96 @@
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
       "pmid": "42091676"
+    },
+    {
+      "title": "High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101323",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386249"
+    },
+    {
+      "title": "Reply to Wu et al.: \"Nitrate and nitrite food composition database: an update and extensive deep dive\".",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101358",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386248"
+    },
+    {
+      "title": "Reframing Basic Experimental Studies in Humans-Implications for Nutrition Science.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101345",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386247"
+    },
+    {
+      "title": "Reply to I Jannasz et al: DIETFITS cohort, modeling, and molecules.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101351",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386243"
+    },
+    {
+      "title": "Postprandial LPS acts as a biomarker to stratify Cardiovascular disease risk and guide personalized nutrition.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101352",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386242"
+    },
+    {
+      "title": "Letter to the Editor: Nitrate and nitrite food composition database: an update and extensive deep dive.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101357",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386241"
+    },
+    {
+      "title": "Response to Yang et al.: \"A clinical study examining the effects of dietary nitrate on urinary N-nitrosamines\".",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101364",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386239"
+    },
+    {
+      "title": "Letter to the Editor: Interpreting dual energy X-ray absorptiometry-derived lean soft tissue changes in Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS).",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101348",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386236"
+    },
+    {
+      "title": "Inconvenient for the investigator but convenient for science: trial registration in The American Journal of Clinical Nutrition.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101344",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386246"
+    },
+    {
+      "title": "Letter to Editor: Rethinking dietary nitrate and urinary N-nitrosamines.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101365",
+      "source": "PubMed → Am J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: Am J Clin Nutr",
+      "pmid": "42386240"
     },
     {
       "title": "The epidemiology of physical activity guideline adherence among 35,633 adults: Findings from the South Australian Population Health Survey.",
@@ -819,6 +864,14 @@
       "abstract": "Onyedika G. Ani , Elaheh"
     },
     {
+      "title": "Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Fhadilla Amelia , Arina Nurul"
+    },
+    {
       "title": "Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
       "source": "medRxiv",
@@ -841,14 +894,6 @@
       "source_type": "preprint",
       "date": null,
       "abstract": "Raissa Dias Fernandez , Franciele"
-    },
-    {
-      "title": "The Mediterranean Diet is Associated with Higher Arterial Elasticity over Prefrontal Cortex in Older Adults",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.20.26351341v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Felicity Simpson , Jenna"
     }
   ]
 }
