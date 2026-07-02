@@ -271,7 +271,7 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
                 col_headers = {"Zotero-Write-Token": write_token} if write_token else None
                 s, body, _ = _req("POST", f"/collections/{col_key}/items", [item_key], col_headers)
                 if s not in (200, 201, 204):
-                    print(f"    [WARN] 添加集合 {col} 失败: {s}")
+                    print(f"    [WARN] 添加集合 {col}({col_key}) 失败: {s} {body}")
 
         # 记录到状态文件
         if pmid:
