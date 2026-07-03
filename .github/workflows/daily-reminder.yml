@@ -1,0 +1,34 @@
+name: 每日任务提醒
+
+concurrency:
+  group: daily-reminder
+  cancel-in-progress: true
+
+on:
+  schedule:
+    # 北京时间每天 7:00 (UTC+8) → UTC 23:00 (前一天)
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Push daily reminder to Feishu
+        run: python daily_reminder.py
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
