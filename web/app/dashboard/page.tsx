@@ -6,10 +6,12 @@ import {
   Button,
   Card,
   Checkbox,
+  Input,
   Layout,
   Menu,
   message,
   Radio,
+  Slider,
   Space,
   Spin,
   Table,
@@ -130,6 +132,8 @@ export default function DashboardPage() {
         push_days: preferences.push_days,
         push_time: preferences.push_time || "08:00",
         enabled: preferences.enabled,
+        interest_description: preferences.interest_description || null,
+        relevance_threshold: preferences.relevance_threshold ?? 5,
         updated_at: new Date().toISOString(),
       })
       .eq("user_id", data.user.id);
@@ -147,6 +151,8 @@ export default function DashboardPage() {
           push_days: preferences.push_days,
           push_time: preferences.push_time || "08:00",
           enabled: preferences.enabled,
+          interest_description: preferences.interest_description || null,
+          relevance_threshold: preferences.relevance_threshold ?? 5,
         });
       error = insertErr;
     }
@@ -308,6 +314,41 @@ export default function DashboardPage() {
                       />
                     </>
                   )}
+                  <div style={{ height: 24 }} />
+
+                  <Title level={5}>研究兴趣描述</Title>
+                  <Input.TextArea
+                    rows={3}
+                    placeholder="用自然语言描述研究兴趣，例如：关注肠道菌群与膳食干预的RCT研究，不关注纯流行病学调查..."
+                    value={preferences?.interest_description || ''}
+                    onChange={(e) =>
+                      setPreferences({ ...preferences, interest_description: e.target.value })
+                    }
+                    style={{ width: '100%' }}
+                  />
+                  <Text type="secondary" style={{ display: 'block', marginTop: 4 }}>
+                    用于 AI 辅助筛选更精准匹配的论文
+                  </Text>
+                  <div style={{ height: 24 }} />
+
+                  <Title level={5}>最低相关度阈值</Title>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                    <Slider
+                      min={1}
+                      max={10}
+                      value={preferences?.relevance_threshold ?? 5}
+                      onChange={(v) =>
+                        setPreferences({ ...preferences, relevance_threshold: v })
+                      }
+                      style={{ flex: 1 }}
+                    />
+                    <Text strong style={{ minWidth: 24, textAlign: 'center' }}>
+                      {preferences?.relevance_threshold ?? 5}
+                    </Text>
+                  </div>
+                  <Text type="secondary">
+                    分数 ≥ 此阈值的论文才会被推送（1 = 最宽松，10 = 最严格）
+                  </Text>
                   <div style={{ height: 32 }} />
 
                   <Space>

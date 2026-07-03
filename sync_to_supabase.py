@@ -88,6 +88,7 @@ def sync_papers(papers: list[dict], mode: str) -> int:
             "significance": (p.get("significance") or "")[:500],
             "limitation": (p.get("limitation") or "")[:500],
             "relevance": (p.get("relevance") or "")[:500],
+            "relevance_score": p.get("relevance_score") if isinstance(p.get("relevance_score"), int) else None,
             "pub_date": _parse_date(p.get("date")),
             "fetched_at": datetime.now(TZ).isoformat(),
         }).encode("utf-8")

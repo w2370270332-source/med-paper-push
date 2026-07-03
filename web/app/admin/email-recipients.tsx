@@ -9,6 +9,7 @@ import {
   message,
   Modal,
   Radio,
+  Slider,
   Space,
   Table,
   Tag,
@@ -64,6 +65,8 @@ interface Recipient {
   push_days: string[];
   push_time: string;
   created_at: string;
+  interest_description: string | null;
+  relevance_threshold: number;
 }
 
 const defaultPrefs = {
@@ -72,6 +75,8 @@ const defaultPrefs = {
   push_frequency: "daily",
   push_days: [] as string[],
   push_time: "08:00",
+  interest_description: '',
+  relevance_threshold: 5,
 };
 
 export function EmailRecipients() {
@@ -112,6 +117,8 @@ export function EmailRecipients() {
       push_frequency: r.push_frequency || "daily",
       push_days: r.push_days || [],
       push_time: r.push_time || "08:00",
+      interest_description: r.interest_description || '',
+      relevance_threshold: r.relevance_threshold ?? 5,
     });
     setModalOpen(true);
   };
@@ -126,6 +133,8 @@ export function EmailRecipients() {
       push_frequency: form.push_frequency,
       push_days: form.push_days,
       push_time: form.push_time,
+      interest_description: form.interest_description || null,
+      relevance_threshold: form.relevance_threshold ?? 5,
     };
 
     let error;
@@ -274,6 +283,32 @@ export function EmailRecipients() {
                 />
               </div>
             )}
+          </div>
+
+          <div>
+            <Text strong>研究兴趣描述</Text>
+            <Input.TextArea
+              rows={3}
+              value={form.interest_description || ''}
+              onChange={e => setForm({ ...form, interest_description: e.target.value })}
+              placeholder="自然语言描述研究兴趣"
+            />
+          </div>
+
+          <div>
+            <Text strong>最低相关度阈值</Text>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+              <Slider
+                min={1}
+                max={10}
+                value={form.relevance_threshold ?? 5}
+                onChange={v => setForm({ ...form, relevance_threshold: v as number })}
+                style={{ flex: 1 }}
+              />
+              <Text strong style={{ minWidth: 24, textAlign: 'center' }}>
+                {form.relevance_threshold ?? 5}
+              </Text>
+            </div>
           </div>
         </Space>
       </Modal>

@@ -85,6 +85,20 @@ def extract_journal(source: str) -> str:
     return source.split("→")[-1].strip() if "→" in source else source[:80]
 
 
+def _parse_author_name(name: str) -> dict:
+    """解析 PubMed 作者名 'Last AB' 为 Zotero creator 格式."""
+    name = name.strip()
+    if not name:
+        return {"creatorType": "author", "name": ""}
+    # "Last AB" or "Last A" or "Last AB C" format
+    parts = name.split()
+    if len(parts) == 1:
+        return {"creatorType": "author", "name": name}
+    last = parts[0]
+    first = " ".join(parts[1:])
+    return {"creatorType": "author", "lastName": last, "firstName": first}
+
+
 def build_item(p: dict, tags: list[str], collections: dict[str, str]) -> dict:
     """构建 Zotero 条目 JSON."""
     source = p.get("source", "")
@@ -96,6 +110,17 @@ def build_item(p: dict, tags: list[str], collections: dict[str, str]) -> dict:
         doi = doi_m.group()
         if doi.endswith((".", ";")):
             doi = doi[:-1]
+
+    # 如果 URL 中没有 DOI，检查 elocationid
+    if not doi:
+        eloc = p.get("elocationid", "")
+        doi_m = re.search(r"10\.\d{4,}/[^\s]+", eloc)
+        if doi_m:
+            doi = doi_m.group().rstrip(".;")
+
+    # 作者
+    authors = p.get("authors", [])
+    creators = [_parse_author_name(a["name"]) for a in authors if a.get("name")] if authors else []
 
     # Tag objects
     tag_objs = [{"tag": t} for t in tags[:8]]
@@ -122,6 +147,15 @@ def build_item(p: dict, tags: list[str], collections: dict[str, str]) -> dict:
     note_html = "\n".join(note_lines) if note_lines else ""
 
     title = p.get("original_title") or p.get("title_cn") or ""
+
+    # extra 字段：PMID + ISSN
+    extra_parts = []
+    if pmid:
+        extra_parts.append(f"PMID: {pmid}")
+    issn = p.get("issn", "")
+    if issn:
+        extra_parts.append(f"ISSN: {issn}")
+
     item = {
         "itemType": "journalArticle",
         "title": title,
@@ -129,13 +163,26 @@ def build_item(p: dict, tags: list[str], collections: dict[str, str]) -> dict:
         "DOI": doi,
         "abstractNote": (p.get("findings") or "")[:1000],
         "date": (p.get("date") or datetime.now(TZ).strftime("%Y-%m-%d")),
-        "publicationTitle": extract_journal(source),
+        "publicationTitle": p.get("journal_full") or extract_journal(source),
         "language": "en",
         "accessDate": datetime.now(TZ).strftime("%Y-%m-%d"),
         "tags": tag_objs,
-        "creators": [],
-        "extra": f"PMID: {pmid}" if pmid else "",
+        "creators": creators,
+        "extra": "; ".join(extra_parts),
     }
+
+    volume = p.get("volume", "")
+    if volume:
+        item["volume"] = volume
+    issue = p.get("issue", "")
+    if issue:
+        item["issue"] = issue
+    pages = p.get("pages", "")
+    if pages:
+        item["pages"] = pages
+    issn_val = p.get("issn", "")
+    if issn_val:
+        item["ISSN"] = issn_val
 
     # 指定集合（创建时一步到位，不需要二次 API 调用）
     col_keys = [collections.get(c) for c in tags[:3]]

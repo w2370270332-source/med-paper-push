@@ -5,9 +5,11 @@ import {
   Button,
   Card,
   Checkbox,
+  Input,
   message,
   Modal,
   Radio,
+  Slider,
   Space,
   Switch,
   Table,
@@ -59,6 +61,8 @@ interface UserInfo {
   push_days: string[];
   push_time: string;
   enabled: boolean;
+  interest_description: string | null;
+  relevance_threshold: number;
 }
 
 export function UserManagement() {
@@ -89,6 +93,8 @@ export function UserManagement() {
       push_days: u.push_days || [],
       push_time: u.push_time || "08:00",
       enabled: u.enabled !== false,
+      interest_description: u.interest_description || '',
+      relevance_threshold: u.relevance_threshold ?? 5,
     });
     setModalOpen(true);
   };
@@ -105,6 +111,8 @@ export function UserManagement() {
         push_days: form.push_days,
         push_time: form.push_time,
         enabled: form.enabled,
+        interest_description: form.interest_description || null,
+        relevance_threshold: form.relevance_threshold ?? 5,
         updated_at: new Date().toISOString(),
       })
       .eq("user_id", editingUser.user_id);
@@ -121,6 +129,8 @@ export function UserManagement() {
           push_days: form.push_days,
           push_time: form.push_time,
           enabled: form.enabled,
+          interest_description: form.interest_description || null,
+          relevance_threshold: form.relevance_threshold ?? 5,
         });
       error = insertErr;
     }
@@ -264,6 +274,32 @@ export function UserManagement() {
                 />
               </div>
             )}
+          </div>
+
+          <div>
+            <Text strong>研究兴趣描述</Text>
+            <Input.TextArea
+              rows={3}
+              value={form.interest_description || ''}
+              onChange={e => setForm({ ...form, interest_description: e.target.value })}
+              placeholder="自然语言描述研究兴趣"
+            />
+          </div>
+
+          <div>
+            <Text strong>最低相关度阈值</Text>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+              <Slider
+                min={1}
+                max={10}
+                value={form.relevance_threshold ?? 5}
+                onChange={v => setForm({ ...form, relevance_threshold: v })}
+                style={{ flex: 1 }}
+              />
+              <Text strong style={{ minWidth: 24, textAlign: 'center' }}>
+                {form.relevance_threshold ?? 5}
+              </Text>
+            </div>
           </div>
         </Space>
       </Modal>

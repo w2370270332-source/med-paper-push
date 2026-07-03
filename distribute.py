@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """分发引擎 — 按用户偏好匹配论文并发送个性化推送."""
 
+import html
 import json
 import os
+import re
 import smtplib
 import sys
 import urllib.request
@@ -63,11 +65,14 @@ def _supa(path: str, method: str = "GET", body: dict | None = None) -> list | di
         return None
 
 
-def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
+def _match_papers(areas: list[str], quartiles: list[str],
+                  min_relevance_score: int = 1) -> list[dict]:
     """从论文池中匹配用户偏好（仅最近 36 小时入库的论文）."""
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M:%SZ")
     papers = _supa(
-        f"paper_pool?select=*&fetched_at=gte.{cutoff}&order=pub_date.desc&limit=200"
+        f"paper_pool?select=*&fetched_at=gte.{cutoff}"
+        f"&relevance_score=gte.{min_relevance_score}"
+        f"&order=pub_date.desc&limit=200"
     ) or []
     if not papers:
         print("  [INFO] 最近 36 小时无新论文入库")
@@ -87,67 +92,131 @@ def _match_papers(areas: list[str], quartiles: list[str]) -> list[dict]:
     return matched[:20]
 
 
-def _generate_report(papers: list[dict], name: str = "") -> str:
-    today = datetime.now(TZ).strftime("%Y-%m-%d")
-    weekday = ["周一","周二","周三","周四","周五","周六","周日"][datetime.now(TZ).weekday()]
-    lines = [
-        f"# 预防医学与营养学文献推送",
-        f"**{today}（{weekday}）** | 匹配到 {len(papers)} 篇",
-        "",
-        "---",
-        "",
-    ]
-    for i, p in enumerate(papers, 1):
-        title = p.get("title_cn") or p.get("title", "")
-        original_title = p.get("original_title") or p.get("title", "")
-        source = p.get("source", "")
-        pmid = p.get("pmid") or ""
-        url = p.get("url") or ""
-        background = p.get("background") or ""
-        methods = p.get("methods") or ""
-        findings = p.get("findings") or ""
-        significance = p.get("significance") or ""
-        limitation = p.get("limitation") or ""
-        relevance = p.get("relevance") or ""
+def render_html_email(papers: list[dict], user_email: str, date_str: str) -> str:
+    """Render paper list into mobile-friendly academic HTML email."""
 
-        lines.append(f"## {i}. {title}")
-        lines.append("")
-        if original_title and original_title != title:
-            lines.append(f"*{original_title}*")
-        lines.append(f"**来源：**{source}")
-        if pmid:
-            lines.append(f"**PMID：**[{pmid}](https://pubmed.ncbi.nlm.nih.gov/{pmid})")
+    def _h(text: str) -> str:
+        return html.escape(str(text), quote=False)
+
+    def _stars(n: int) -> str:
+        return "".join("★" if i < n else "☆" for i in range(10))
+
+    def _clean_source(source: str) -> str:
+        return re.sub(r"^.*?→\s*", "", source.strip()) or source.strip()
+
+    annotated = sorted(
+        [(p, p.get("relevance_score") or 5) for p in papers],
+        key=lambda x: x[1], reverse=True
+    )
+
+    areas_set = set()
+    for p in papers:
+        a = (p.get("research_area") or "").strip()
+        if a:
+            areas_set.add(a)
+    scope = "、".join(sorted(areas_set)) if areas_set else "预防医学与营养学"
+
+    parts = []
+    parts.append(f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body style="margin:0;padding:0;background:#f0f2f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC','Microsoft YaHei',sans-serif;font-size:15px;line-height:1.7;color:#1a1a2e;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f0f2f5;">
+<tr><td align="center" style="padding:32px 16px;">
+<div style="max-width:640px;width:100%;margin:0 auto;">
+
+<div style="background:linear-gradient(135deg,#1a365d,#2a4a7f);border-radius:12px;padding:32px 28px;margin-bottom:24px;color:#fff;">
+<h1 style="margin:0 0 6px;font-size:22px;font-weight:700;">预防医学与营养学文献推送</h1>
+<p style="margin:0 0 2px;font-size:14px;opacity:0.85;">{_h(date_str)}</p>
+<p style="margin:0;font-size:13px;opacity:0.7;">覆盖领域：{_h(scope)}</p>
+<div style="margin-top:16px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.15);font-size:13px;">
+<span style="display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:4px 14px;font-weight:600;">共 {len(papers)} 篇</span>
+</div>
+</div>
+""")
+
+    for idx, (paper, score) in enumerate(annotated, 1):
+        title_cn = (paper.get("title_cn") or "").strip()
+        original_title = (paper.get("original_title") or "").strip()
+        source_raw = (paper.get("source") or "").strip()
+        source_clean = _clean_source(source_raw)
+        authors = paper.get("authors", [])
+        if isinstance(authors, list) and authors:
+            author_str = ", ".join(a.get("name", "") for a in authors[:5])
+        else:
+            author_str = ""
+        volume = (paper.get("volume") or "").strip()
+        issue = (paper.get("issue") or "").strip()
+        pages = (paper.get("pages") or "").strip()
+        url = (paper.get("url") or "").strip()
+        pmid = (paper.get("pmid") or "").strip()
+        background = (paper.get("background") or "").strip()
+        findings = (paper.get("findings") or "").strip()
+        significance = (paper.get("significance") or "").strip()
+
+        citation = source_clean or source_raw
+        if volume:
+            citation += f" {volume}"
+            if issue:
+                citation += f"({issue})"
+            if pages:
+                citation += f":{pages}"
+
+        star_html = _stars(score)
+
+        parts.append(f"""<div style="background:#fff;border-radius:10px;padding:24px;margin-bottom:16px;border:1px solid #e2e6ec;">
+
+<div style="display:flex;align-items:flex-start;gap:12px;margin-bottom:14px;">
+<span style="flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;background:#1a365d;color:#fff;border-radius:50%;font-size:13px;font-weight:700;">{idx}</span>
+<div style="flex:1;min-width:0;">
+<h2 style="margin:0 0 4px;font-size:16px;font-weight:700;color:#1a365d;line-height:1.5;">{_h(title_cn)}</h2>
+<p style="margin:0;font-size:13px;color:#5a6a7a;font-style:italic;">{_h(original_title)}</p>
+</div>
+</div>
+
+<div style="margin-bottom:12px;font-size:13px;color:#5a6a7a;">
+<span style="font-weight:600;color:#3a4a5a;">来源：</span>{_h(author_str + ("." if author_str else "") + " " + citation if author_str else citation)}
+</div>
+
+<div style="margin-bottom:12px;font-size:13px;">
+<span style="color:#5a6a7a;font-weight:600;">相关度：</span>
+<span style="color:#e6a817;letter-spacing:1px;">{star_html}</span>
+<span style="color:#8a9aaa;font-size:12px;margin-left:4px;">({score}/10)</span>
+</div>
+""")
         if url:
-            lines.append(f"**DOI：**[{url}]({url})")
-        lines.append("")
+            parts.append(f'<div style="margin-bottom:12px;font-size:13px;"><span style="color:#5a6a7a;font-weight:600;">DOI：</span><a href="{html.escape(url, quote=True)}" target="_blank" style="color:#2563eb;text-decoration:none;word-break:break-all;">{_h(url)}</a></div>\n')
+        if pmid:
+            url_abs = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}"
+            parts.append(f'<div style="margin-bottom:12px;font-size:13px;"><span style="color:#5a6a7a;font-weight:600;">PMID：</span><a href="{html.escape(url_abs, quote=True)}" target="_blank" style="color:#2563eb;text-decoration:none;">{_h(pmid)}</a></div>\n')
         if background:
-            lines.append(f"**背景：**{background}")
-            lines.append("")
-        if methods:
-            lines.append(f"**方法：**{methods}")
-            lines.append("")
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #4a90d9;"><div style="font-size:11px;font-weight:700;color:#4a90d9;margin-bottom:4px;">研究背景</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(background)}</p></div>\n')
         if findings:
-            lines.append(f"**发现：**{findings}")
-            lines.append("")
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #16a34a;"><div style="font-size:11px;font-weight:700;color:#16a34a;margin-bottom:4px;">核心发现</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(findings)}</p></div>\n')
         if significance:
-            lines.append(f"**意义：**{significance}")
-            lines.append("")
-        if limitation:
-            lines.append(f"**局限：**{limitation}")
-            lines.append("")
-        if relevance:
-            lines.append(f"**关联：**{relevance}")
-            lines.append("")
-        lines.append("---")
-        lines.append("")
+            parts.append(f'<div style="margin-bottom:0;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #9333ea;"><div style="font-size:11px;font-weight:700;color:#9333ea;margin-bottom:4px;">研究意义</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(significance)}</p></div>\n')
+        parts.append("</div>\n")
 
-    lines.append(f"*由文献推送系统自动生成于 {today}*")
-    return "\n".join(lines)
+    parts.append(f"""<div style="text-align:center;padding:20px 16px 8px;">
+<p style="margin:0 0 4px;font-size:12px;color:#9aabba;">由文献推送系统自动生成</p>
+<p style="margin:0 0 4px;font-size:12px;color:#9aabba;">{_h(date_str)}</p>
+<p style="margin:0;font-size:11px;color:#bacbd0;">{_h(user_email)}</p>
+</div>
+
+</div>
+</td></tr>
+</table>
+</body>
+</html>""")
+    return "\n".join(parts)
 
 
 def send_email(to: str, subject: str, body: str) -> bool:
     try:
-        msg = MIMEText(body, "plain", "utf-8")
+        msg = MIMEText(body, "html", "utf-8")
         msg["Subject"] = subject
         msg["From"] = SMTP_USER
         msg["To"] = to
@@ -225,16 +294,18 @@ def process_users():
 
         areas = u.get("research_areas") or []
         quartiles = u.get("cas_quartiles") or ["1", "2", "3", "4"]
+        min_relevance = u.get("relevance_threshold") or 1
 
-        papers = _match_papers(areas, quartiles)
+        papers = _match_papers(areas, quartiles, min_relevance)
         if not papers:
             continue
 
         if not _should_send_now(push_time, push_freq, push_days, last_push, True):
             continue
 
-        report = _generate_report(papers, email)
-        subject = f"📚 预防医学与营养学文献推送 ({datetime.now(TZ).strftime('%Y-%m-%d')})"
+        date_str = datetime.now(TZ).strftime("%Y-%m-%d（%A）")
+        report = render_html_email(papers, email, date_str)
+        subject = f"预防医学与营养学文献推送 ({datetime.now(TZ).strftime('%Y-%m-%d')})"
 
         if send_email(email, subject, report):
             # 记录推送历史
@@ -274,16 +345,18 @@ def process_recipients():
 
         areas = r.get("research_areas") or []
         quartiles = r.get("cas_quartiles") or ["1", "2", "3", "4"]
+        min_relevance = r.get("relevance_threshold") or 1
 
-        papers = _match_papers(areas, quartiles)
+        papers = _match_papers(areas, quartiles, min_relevance)
         if not papers:
             continue
 
         if not _should_send_now(push_time, push_freq, push_days, last_push, True):
             continue
 
-        report = _generate_report(papers, email)
-        subject = f"📚 预防医学与营养学文献推送 ({datetime.now(TZ).strftime('%Y-%m-%d')})"
+        date_str = datetime.now(TZ).strftime("%Y-%m-%d（%A）")
+        report = render_html_email(papers, email, date_str)
+        subject = f"预防医学与营养学文献推送 ({datetime.now(TZ).strftime('%Y-%m-%d')})"
 
         if send_email(email, subject, report):
             _supa("push_history", "POST", {

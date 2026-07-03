@@ -23,10 +23,16 @@ CREATE TABLE user_preferences (
     min_impact_factor REAL DEFAULT 0,
     -- 推送频率: daily / weekly / weekdays
     push_frequency TEXT DEFAULT 'daily',
+    -- 推送时间 (HH:MM Beijing time)
+    push_time TEXT DEFAULT '08:00',
     -- 指定工作日 (仅 weekdays 模式有效，如 ["1","3","5"])
     push_days JSONB DEFAULT '[]'::jsonb,
     -- 是否启用推送
     enabled BOOLEAN DEFAULT true,
+    -- Natural language research interest description (supplements checkbox areas)
+    interest_description TEXT,
+    -- Minimum relevance score threshold (1-10), papers below this are filtered
+    relevance_threshold INTEGER NOT NULL DEFAULT 5,
     created_at TIMESTAMPTZ DEFAULT now(),
     updated_at TIMESTAMPTZ DEFAULT now()
 );
@@ -51,6 +57,7 @@ CREATE TABLE paper_pool (
     significance TEXT,
     limitation TEXT,
     relevance TEXT,
+    relevance_score INTEGER,
     research_area TEXT,
     pub_date DATE,
     fetched_at TIMESTAMPTZ DEFAULT now()
@@ -153,3 +160,37 @@ CREATE POLICY "Admin manages invites" ON invite_codes
 -- 公开读 (用于注册时查询)
 CREATE POLICY "Anyone can read unused codes" ON invite_codes
     FOR SELECT USING (used_by IS NULL);
+
+-- 直接邮箱收件人表 (不需要注册)
+CREATE TABLE IF NOT EXISTS email_recipients (
+    id BIGSERIAL PRIMARY KEY,
+    email TEXT NOT NULL UNIQUE,
+    research_areas JSONB DEFAULT '[]'::jsonb,
+    cas_quartiles JSONB DEFAULT '["1","2","3","4"]'::jsonb,
+    push_frequency TEXT DEFAULT 'daily',
+    push_days JSONB DEFAULT '[]'::jsonb,
+    push_time TEXT DEFAULT '08:00',
+    interest_description TEXT,
+    relevance_threshold INTEGER NOT NULL DEFAULT 5,
+    enabled BOOLEAN DEFAULT true,
+    created_at TIMESTAMPTZ DEFAULT now(),
+    updated_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- push_history : user_id 可为空（收件人非注册用户）
+ALTER TABLE push_history ALTER COLUMN user_id DROP NOT NULL;
+
+-- ═══════════════════════════════════════════════════════
+-- Migration v2: interest_description + relevance_threshold
+-- (已在上方 CREATE TABLE 中包含，此块用于升级已有数据库)
+-- ═══════════════════════════════════════════════════════
+
+ALTER TABLE user_preferences
+  ADD COLUMN IF NOT EXISTS interest_description TEXT,
+  ADD COLUMN IF NOT EXISTS relevance_threshold INTEGER NOT NULL DEFAULT 5,
+  ADD COLUMN IF NOT EXISTS push_time TEXT DEFAULT '08:00';
+
+ALTER TABLE paper_pool
+  ADD COLUMN IF NOT EXISTS relevance_score INTEGER;
+
+CREATE INDEX IF NOT EXISTS idx_paper_pool_relevance_score ON paper_pool(relevance_score);

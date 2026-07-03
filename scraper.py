@@ -271,7 +271,14 @@ def fetch_pubmed() -> list[dict[str, Any]]:
             if not _matches(f"{title} {source}"):
                 continue
 
-            papers.append({
+            authors_raw = info.get("authors", [])
+            authors_list = []
+            for a in authors_raw:
+                name = a.get("name", "")
+                if name:
+                    authors_list.append({"name": name, "authtype": a.get("authtype", "Author")})
+
+            paper = {
                 "title": title,
                 "url": url,
                 "source": f"PubMed → {journal}",
@@ -279,7 +286,18 @@ def fetch_pubmed() -> list[dict[str, Any]]:
                 "date": date_parsed.isoformat() if date_parsed else pub_date,
                 "abstract": f"Journal: {source}",
                 "pmid": pid,
-            })
+                "authors": authors_list,
+                "volume": info.get("volume", ""),
+                "issue": info.get("issue", ""),
+                "pages": info.get("pages", ""),
+                "issn": info.get("issn", ""),
+                "essn": info.get("essn", ""),
+                "journal_full": info.get("fulljournalname", "") or source,
+                "pub_types": info.get("pubtype", []),
+                "elocationid": info.get("elocationid", ""),
+                "epubdate": info.get("epubdate", ""),
+            }
+            papers.append(paper)
             count += 1
 
         if count:
