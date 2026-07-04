@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T01:50:27.230708",
+    "generated_at": "2026-07-04T01:14:49.621368",
     "days_back": 1,
-    "total_papers": 110,
+    "total_papers": 100,
     "sources": {
-      "pubmed": 63,
-      "rss": 8,
+      "pubmed": 61,
+      "rss": 0,
       "preprints": 20,
       "trials": 20
     }
@@ -22,13 +22,236 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
+      "title": "Genome-scale metabolic models predict diet- and lifestyle-driven shifts of ecological interactions in the gut microbiome.",
+      "url": "https://doi.org/10.1080/19490976.2026.2694811",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42397708",
+      "authors": [
+        {
+          "name": "Marinos G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moors KA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Schlicht K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rühlemann M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Waschina S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lieb W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Franke A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Laudes M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Groussin M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Poyet M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaleta C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kadibalban AS",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2694811",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2694811",
+      "epubdate": "2026 Jul 3"
+    },
+    {
+      "title": "Early risk stratification of late-onset sepsis in very preterm infants by intestinal microbiota profiling: a multicenter case-control validation study.",
+      "url": "https://doi.org/10.1080/19490976.2026.2693365",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42393826",
+      "authors": [
+        {
+          "name": "Frerichs NM",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Kroon RR",
+          "authtype": "Author"
+        },
+        {
+          "name": "van Schajik Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "El Manouni El Hassani S",
+          "authtype": "Author"
+        },
+        {
+          "name": "van Wesemael AJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Boode WP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cossey V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hulzebos CV",
+          "authtype": "Author"
+        },
+        {
+          "name": "van den Akker CHP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Raets MMA",
+          "authtype": "Author"
+        },
+        {
+          "name": "d'Haens EJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vijlbrief D",
+          "authtype": "Author"
+        },
+        {
+          "name": "van Weissenbruch MM",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Jonge WJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Boer NK",
+          "authtype": "Author"
+        },
+        {
+          "name": "van Goudoever JB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Beggs AD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Quraishi MN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Davids M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mondal S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Acharjee A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Niemarkt HJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Meij TGJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2693365",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Validation Study"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2693365",
+      "epubdate": "2026 Jul 2"
+    },
+    {
       "title": "Multi-omics analysis of saccharomyces boulardii supplementation reveals coordinated microbiome, metabolic, and immune signaling changes accompanying tumor suppression.",
       "url": "https://doi.org/10.1080/19490976.2026.2690687",
       "source": "PubMed → Gut Microbes",
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42381379"
+      "pmid": "42381379",
+      "authors": [
+        {
+          "name": "Vaaben TH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lützhøft DO",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hedin KA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahonen L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vazquez-Uribe R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sommer MOA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2690687",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2690687",
+      "epubdate": "2026 Jun 30"
     },
     {
       "title": "Is Fusobacterium nucleatum the key mediator between oral infections and systemic diseases? Mechanistic insights and therapeutic implications.",
@@ -37,7 +260,33 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42378068"
+      "pmid": "42378068",
+      "authors": [
+        {
+          "name": "Siddarth Ragunagam G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Anbarasu A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kodiveri Muthukaliannan G",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2694819",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2694819",
+      "epubdate": "2026 Jun 30"
     },
     {
       "title": "Emergence of invasive Escherichia coli pathobionts in gut microbiome promotes cancer stemness via targeting Hippo pathways.",
@@ -46,7 +295,76 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42376755"
+      "pmid": "42376755",
+      "authors": [
+        {
+          "name": "Yu LC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wei SC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lin BR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li YH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liao YC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peng YW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lin CH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hu PT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pai YC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lai LC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen YT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang CY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jeng YM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ni YH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2694795",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2694795",
+      "epubdate": "2026 Jun 30"
     },
     {
       "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
@@ -55,7 +373,29 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42374626"
+      "pmid": "42374626",
+      "authors": [
+        {
+          "name": "Walton EI",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2692737",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2692737",
+      "epubdate": "2026 Jun 29"
     },
     {
       "title": "Perinatal ampicillin exposure alters murine maternal fecal bile acid and acylcarnitine profiles.",
@@ -64,7 +404,88 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42374604"
+      "pmid": "42374604",
+      "authors": [
+        {
+          "name": "Zuffa S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Thomas SP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Patan A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mohanty I",
+          "authtype": "Author"
+        },
+        {
+          "name": "El Abiead Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Deleray V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kvitne KE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kousha A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Suzuki E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tsai CM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nguyen G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ho B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Y Liu G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nizet V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dorrestein PC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Askarian F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tsunoda SM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2690698",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2690698",
+      "epubdate": "2026 Jun 29"
     },
     {
       "title": "Identification of human DP8α regulatory T cell sub-populations reactive to health-associated anti-inflammatory gut commensals.",
@@ -73,7 +494,68 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42366515"
+      "pmid": "42366515",
+      "authors": [
+        {
+          "name": "de Seilhac M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Verdon M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Goisnard L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Duquenoy A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Corvaia N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Plantamura E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lapaque N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Beguet-Crespel F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Laperrousaz B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Doré J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Altare F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Godefroy E",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2690686",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2690686",
+      "epubdate": "2026 Jun 28"
     },
     {
       "title": "Early antibiotic exposure and vaccine immune responses in preterm infants: potential sex-specific differences.",
@@ -82,7 +564,105 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42363866"
+      "pmid": "42363866",
+      "authors": [
+        {
+          "name": "Haag L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dietz-Ziegler S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Schwarz J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaiser G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rühle J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hebel J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lesk T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lajqi T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Müller J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Schoppmeier U",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fundel R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Molnar K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fortmann I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Poets CF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hauke J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Okun JG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wolff D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zemlin M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Härtel C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gille C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Köstlin-Gille N",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2694122",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2694122",
+      "epubdate": "2026 Jun 27"
     },
     {
       "title": "Gut Proteobacteria glycine metabolism regulates neuroplasticity, motivation, and reinstatement of cocaine self-administration in mice.",
@@ -91,7 +671,40 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42359815"
+      "pmid": "42359815",
+      "authors": [
+        {
+          "name": "Delgado Ocaña S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Herrera G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guzmán D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Self DW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cuesta S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2693397",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2693397",
+      "epubdate": "2026 Jun 26"
     },
     {
       "title": "Mucin-derived sugars act as metabolic brakes controlling growth initiation in Akkermansia muciniphila.",
@@ -100,7 +713,36 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42359789"
+      "pmid": "42359789",
+      "authors": [
+        {
+          "name": "Lakey BD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wozniak KJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Britton RA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tabor JJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2691334",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2691334",
+      "epubdate": "2026 Jun 26"
     },
     {
       "title": "Effect of pasteurized Akkermansia muciniphila MucT on insulin sensitivity, body composition, and GLP-1 production in subjects with metabolic syndrome: impact of low baseline gut Akkermansia levels.",
@@ -109,7 +751,50 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42343233"
+      "pmid": "42343233",
+      "authors": [
+        {
+          "name": "Suenaert P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Segers A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rymenans L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Devroye H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moll JM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cani PD",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Vos WM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2690689",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2690689",
+      "epubdate": "2026 Jun 24"
     },
     {
       "title": "Gut microbiome drives glycodeoxycholic acid-mediated attenuation of hypertension.",
@@ -118,7 +803,96 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42343158"
+      "pmid": "42343158",
+      "authors": [
+        {
+          "name": "Aryal S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mell B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tummala R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Manandhar I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kumariya S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kondapalli N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yeoh BS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahlidja W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mautin Akinola O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pachhain S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bardhan P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Saha P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeydabadinejad S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Osman I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Thodeti C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vijay-Kumar M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Reddivari L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Joe B",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2691346",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2691346",
+      "epubdate": "2026 Jun 24"
     },
     {
       "title": "Microbiome-driven alterations in tryptophan metabolism contribute to behavioral comorbidities in the Muc2 knockout mouse model of chronic colitis.",
@@ -127,7 +901,56 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42343156"
+      "pmid": "42343156",
+      "authors": [
+        {
+          "name": "Josephson JK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Barnett JA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yuzbashian E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Verdugo-Meza A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Murch SJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wenzel TJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Klegeris A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sharkey KA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gibson DL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2689121",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2689121",
+      "epubdate": "2026 Jun 24"
     },
     {
       "title": "Correction.",
@@ -136,7 +959,20 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42332352"
+      "pmid": "42332352",
+      "authors": [],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2692251",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2692251",
+      "epubdate": "2026 Jun 22"
     },
     {
       "title": "Inhibition of Aryl hydrocarbon receptor Interleukin-22 signaling and worsening of intestinal inflammation by Sutterella species.",
@@ -145,7 +981,96 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42324633"
+      "pmid": "42324633",
+      "authors": [
+        {
+          "name": "Dupraz L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Orianne G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Da Costa G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gauthier R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Blondeau A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Boinet M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Farfar A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Creusot L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Magniez A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dubois L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guarino-Vignon P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chollet L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rolhion N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Danne C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dvořák Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Seksik P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Berteau O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sokol H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Michel ML",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2690688",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2690688",
+      "epubdate": "2026 Jun 21"
     },
     {
       "title": "Indole-3-acetic acid production is rare among gut bacteria and reflects OFOR-driven amino acid oxidation in acetogens.",
@@ -154,7 +1079,40 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42324626"
+      "pmid": "42324626",
+      "authors": [
+        {
+          "name": "DeFeo ME",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhou Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Higginbottom SK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dodd D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2689610",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2689610",
+      "epubdate": "2026 Jun 21"
     },
     {
       "title": "Mapping the metagenomic landscape: combined shotgun sequencing and quantitative PCR to profile gut metagenome-assembled genomes in marmosets following treatment with a broad-spectrum antibiotic cocktail.",
@@ -163,7 +1121,44 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42324618"
+      "pmid": "42324618",
+      "authors": [
+        {
+          "name": "Hernandez JB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Abiodun M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hayer SS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dickson T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ayayee P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Clayton JB",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2687925",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2687925",
+      "epubdate": "2026 Jun 21"
     },
     {
       "title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
@@ -172,7 +1167,41 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42324603"
+      "pmid": "42324603",
+      "authors": [
+        {
+          "name": "Yu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meng J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shi Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zou J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lai Z",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2689168",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2689168",
+      "epubdate": "2026 Jun 21"
     },
     {
       "title": "Biofilm overproduction enhances gastrointestinal stress tolerance and intestinal fitness in Bacillus subtilis.",
@@ -181,7 +1210,28 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42324599"
+      "pmid": "42324599",
+      "authors": [
+        {
+          "name": "Kunyeit L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rao R",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2684066",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2684066",
+      "epubdate": "2026 Jun 21"
     },
     {
       "title": "High thrombin activity associated with crohn's disease induces microbiota pathogenicity contributing to mucosal inflammation.",
@@ -190,7 +1240,104 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42310970"
+      "pmid": "42310970",
+      "authors": [
+        {
+          "name": "Le Cosquer G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pannier M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Thevenin J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guiraud L",
+          "authtype": "Author"
+        },
+        {
+          "name": "David M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dumas A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meunier E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rousset P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Palese S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Giorgio C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Buscail L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bournet B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gilletta C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Culetto A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Canivet C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Buscail E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Camaré C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Alric L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Deraison C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vergnolle N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Motta JP",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2687903",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2687903",
+      "epubdate": "2026 Jun 17"
     },
     {
       "title": "Phase variation-mediated bacterial functional plasticity as a lens for understanding microbe‒host interactions.",
@@ -199,7 +1346,37 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42307633"
+      "pmid": "42307633",
+      "authors": [
+        {
+          "name": "Carasso S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kasher-Dvora M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gefen T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Geva-Zatorsky N",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2687913",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2687913",
+      "epubdate": "2026 Jun 17"
     },
     {
       "title": "Gut microbial markers of immunotherapy response in melanoma: a cross-cohort analysis including the first Russian dataset.",
@@ -208,7 +1385,80 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42298353"
+      "pmid": "42298353",
+      "authors": [
+        {
+          "name": "Strokach A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zakharevich N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Aginova V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Grigoryevskaya Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Petukhova I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bagirova N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Romanov M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dyachkova M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Morozov M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Veselovsky V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kanaeva V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kalinin D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Larin A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shitikov E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Klimina K",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2681788",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2681788",
+      "epubdate": "2026 Jun 15"
     },
     {
       "title": "Cardiovascular-kidney-metabolic syndrome through the lens of gut‑derived uremic toxins.",
@@ -217,7 +1467,33 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42296178"
+      "pmid": "42296178",
+      "authors": [
+        {
+          "name": "Xu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Snelson M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Marques FZ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2685906",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2685906",
+      "epubdate": "2026 Jun 15"
     },
     {
       "title": "Muribaculum as a microbial contributor of rifaximin-induced mucosal protection during chemotherapy.",
@@ -226,7 +1502,88 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42286866"
+      "pmid": "42286866",
+      "authors": [
+        {
+          "name": "Correale C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Morandi M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gil-Gomez A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Silvestri A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gatti A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Braga D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Maroli A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Foppa C",
+          "authtype": "Author"
+        },
+        {
+          "name": "De Zanet S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Algieri F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lizier M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rossetti R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Carloni S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Penna G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Spinelli A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Brescia P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rescigno M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2685994",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2685994",
+      "epubdate": "2026 Jun 12"
     },
     {
       "title": "Diet and microbiome shape small-molecule cytokinin pools in mammals.",
@@ -235,7 +1592,72 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42286862"
+      "pmid": "42286862",
+      "authors": [
+        {
+          "name": "Othman EM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bencurova E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ferretti P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bork P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rodriguez Del Rio A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huerta-Cepas J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Caruana I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Abdel-Latif R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Akash A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Albacete A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lafi F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dandekar T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Naseem M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2679497",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2679497",
+      "epubdate": "2026 Jun 12"
     },
     {
       "title": "Recent advances and clinical relevance of microbiome dynamics in health and disease.",
@@ -244,7 +1666,41 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42286837"
+      "pmid": "42286837",
+      "authors": [
+        {
+          "name": "Gavanji S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Suhail M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bencurova E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dandekar T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Othman EM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2679197",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2679197",
+      "epubdate": "2026 Jun 12"
     },
     {
       "title": "Contrasting dietary patterns remodel gut microbial function and generate multi-omic signatures associated with cardiometabolic markers.",
@@ -253,7 +1709,49 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42281243"
+      "pmid": "42281243",
+      "authors": [
+        {
+          "name": "Stanford J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hoedt EC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gómez-Martín M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Clarke ED",
+          "authtype": "Author"
+        },
+        {
+          "name": "Duncanson K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Burrows T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Collins CE",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2685381",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2685381",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Intratumor Lactobacillus drives ferroptosis resistance via D-lactate-STAT3 K631 lactylation in esophageal squamous cell carcinoma.",
@@ -262,7 +1760,88 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42281240"
+      "pmid": "42281240",
+      "authors": [
+        {
+          "name": "Wang D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhou H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tao H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wei W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yao W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ye L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2685912",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2685912",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "The protease code of the bacterial gut microbiota: ecological regulation, barrier disruption, and rewiring host defense and signaling.",
@@ -271,25 +1850,37 @@
       "source_type": "journal",
       "date": "2026-12-31T00:00:00+00:00",
       "abstract": "Journal: Gut Microbes",
-      "pmid": "42272171"
-    },
-    {
-      "title": "Colonic nutritional and physicochemical parameters drive gut microbiota dysbiosis in obesity: what we learned from the Ob-M-ARCOL model development.",
-      "url": "https://doi.org/10.1080/19490976.2026.2685908",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42265922"
-    },
-    {
-      "title": "Maternal diet shapes neonatal microbiome ontogenesis and neurometabolic resilience.",
-      "url": "https://doi.org/10.1080/19490976.2026.2684074",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42262337"
+      "pmid": "42272171",
+      "authors": [
+        {
+          "name": "Eckhard U",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ramírez-Larrota JS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Estevan-Morió E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gomis-Rüth FX",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2687149",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2687149",
+      "epubdate": "2026 Jun 10"
     },
     {
       "title": "Nutrition Intervention Combined With Resmetirom for MASH",
@@ -330,79 +1921,6 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Insulin Resistance, Obesity; Interventions: Alpha-lipoic acid, Mirabegron, Placebo; Background:\n\nObesity and related illnesses cause at least 2.8 million deaths each year worldwide. Few treatments exist for obesity that are safe and widely available. A study drug (mirabegron \\[MG\\]) combined with a supplement (alpha-lipoic acid \\[ALA\\]) may help.\n\nObjective:\n\nTo learn how MG and AL; Study Type: INTERVENTIONAL",
       "nct_id": "NCT05713799",
       "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Application of the E-value under non-proportional hazards.",
-      "url": "https://doi.org/10.1097/EDE.0000000000002017",
-      "source": "PubMed → Epidemiology",
-      "source_type": "journal",
-      "date": "2026-07-03T00:00:00+00:00",
-      "abstract": "Journal: Epidemiology",
-      "pmid": "42391454"
-    },
-    {
-      "title": "Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004890",
-      "source": "PLOS Medicine RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004767",
-      "source": "PLOS Medicine RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Fascia iliaca compartment block for surgical analgesia in children with osteogenesis imperfecta: A retrospective cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353186",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "A pilot randomized trial on the usability and acceptability of an app (MyIBDDiet) to improve the self-management of anti-inflammatory diet for individuals with inflammatory bowel disease: A protocol paper",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353123",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Association of urinary post-translationally modified fetuin-A fragments with diabetic kidney disease risk stratification in Japanese patients with type 2 diabetes",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353032",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Calculation method and predictive analysis of flexural capacity of reinforced concrete beams strengthened with carbon fiber-reinforced polymer sheets applied to the side surfaces",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353001",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Diabetes among Indigenous Orang Asli adults in Peninsular Malaysia: Prevalence and associated factors from Orang Asli Health Survey 2022",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352878",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Imaging of cervicothoracic junction anatomical variation in neurogenic thoracic outlet syndrome: A scoping review protocol",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352667",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-02T14:00:00+00:00",
-      "abstract": ""
     },
     {
       "title": "Enhancing Cancer Care: RestoreMe App for Personalized Nutrition and Activity in Cancer Patients",
@@ -461,7 +1979,28 @@
       "source_type": "journal",
       "date": "2026 May",
       "abstract": "Journal: Am J Prev Med",
-      "pmid": "42342323"
+      "pmid": "42342323",
+      "authors": [
+        {
+          "name": "Rancourt A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Brubach A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "70",
+      "issue": "5S",
+      "pages": "108423",
+      "issn": "0749-3797",
+      "essn": "1873-2607",
+      "journal_full": "American journal of preventive medicine",
+      "pub_types": [
+        "Editorial"
+      ],
+      "elocationid": "doi: 10.1016/j.amepre.2026.108423",
+      "epubdate": "2026 Jun 24"
     },
     {
       "title": "Effect of combined probiotic and iron-folic acid supplementation on iron status and gut inflammation markers: a randomized controlled trial among anaemic children.",
@@ -470,7 +2009,49 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42298087"
+      "pmid": "42298087",
+      "authors": [
+        {
+          "name": "Palika R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Seeli H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Banjara SK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Challa SR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pullakhandam R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kulkarni B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dasi T",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "594-602",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01777-4",
+      "epubdate": "2026 Jun 15"
     },
     {
       "title": "Public health nutrition in India.",
@@ -479,7 +2060,28 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42218296"
+      "pmid": "42218296",
+      "authors": [
+        {
+          "name": "Kuriyan R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Soares MJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "549-550",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Editorial"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01772-9",
+      "epubdate": "2026 May 30"
     },
     {
       "title": "From counting to caring: leveraging integrated data systems to improve child health care and maternal health care in Haryana, India.",
@@ -488,7 +2090,25 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42209687"
+      "pmid": "42209687",
+      "authors": [
+        {
+          "name": "Gupta R",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "561-565",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01767-6",
+      "epubdate": "2026 May 28"
     },
     {
       "title": "Gut microbial signatures across nutritional status in Indian school-aged children: a qPCR-based case-control study.",
@@ -497,7 +2117,52 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42174153"
+      "pmid": "42174153",
+      "authors": [
+        {
+          "name": "Jacob J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Reddy SN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaliaperumal V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Geddam JJB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rajender Rao K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ramanujam K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nandeep ER",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sudharma AA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "625-632",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01766-7",
+      "epubdate": "2026 May 22"
     },
     {
       "title": "Qualitative research: a needed but neglected form of inquiry in nutrition.",
@@ -506,7 +2171,25 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42174152"
+      "pmid": "42174152",
+      "authors": [
+        {
+          "name": "Vaz M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "557-560",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01762-x",
+      "epubdate": "2026 May 22"
     },
     {
       "title": "Food fortification in India: evidence, implementation and future directions to reduce iron and other micronutrient deficiencies.",
@@ -515,7 +2198,33 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42168590"
+      "pmid": "42168590",
+      "authors": [
+        {
+          "name": "Thankachan P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Swaminathan S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Muthayya S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "551-556",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01761-y",
+      "epubdate": "2026 May 21"
     },
     {
       "title": "Associations between socio-demographic factors and diet patterns among Indian women in a low-income urban setting.",
@@ -524,7 +2233,57 @@
       "source_type": "journal",
       "date": "2026 Jun",
       "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42091676"
+      "pmid": "42091676",
+      "authors": [
+        {
+          "name": "Kehoe SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chopra H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shivshankaran D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Di Gravio C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sahariah SA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gandhi M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Margetts BM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Potdar RD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fall CHD",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "6",
+      "pages": "618-624",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01739-w",
+      "epubdate": "2026 May 7"
     },
     {
       "title": "High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.",
@@ -533,7 +2292,77 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386249"
+      "pmid": "42386249",
+      "authors": [
+        {
+          "name": "Arenas-Montes J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Garcia-Fernandez H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Alcala-Diaz JF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Boughanem H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Allais A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gutierrez-Mariscal FM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Arenas-de Larriva AP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ojeda-Rodriguez A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Malagon MM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Priego-Capote F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Delgado-Lista J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Perez-Martinez P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Camargo A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lopez-Miranda J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101323",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101323",
+      "epubdate": "2026 Jun 8"
     },
     {
       "title": "Reply to Wu et al.: \"Nitrate and nitrite food composition database: an update and extensive deep dive\".",
@@ -542,7 +2371,32 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386248"
+      "pmid": "42386248",
+      "authors": [
+        {
+          "name": "Bondonno CP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhong L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hodgson JM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101358",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101358",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Reframing Basic Experimental Studies in Humans-Implications for Nutrition Science.",
@@ -551,7 +2405,24 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386247"
+      "pmid": "42386247",
+      "authors": [
+        {
+          "name": "Bremer AA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101345",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101345",
+      "epubdate": "2026 May 29"
     },
     {
       "title": "Inconvenient for the investigator but convenient for science: trial registration in The American Journal of Clinical Nutrition.",
@@ -560,7 +2431,28 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386246"
+      "pmid": "42386246",
+      "authors": [
+        {
+          "name": "Duggan CP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bier DM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101344",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Editorial"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101344",
+      "epubdate": "2026 May 29"
     },
     {
       "title": "Reply to I Jannasz et al: DIETFITS cohort, modeling, and molecules.",
@@ -569,7 +2461,48 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386243"
+      "pmid": "42386243",
+      "authors": [
+        {
+          "name": "Roberts AK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Panyard DJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hislop B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ward CP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Snyder MP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gardner CD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Haddad F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101351",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101351",
+      "epubdate": "2026 Jun 8"
     },
     {
       "title": "Postprandial LPS acts as a biomarker to stratify Cardiovascular disease risk and guide personalized nutrition.",
@@ -578,7 +2511,24 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386242"
+      "pmid": "42386242",
+      "authors": [
+        {
+          "name": "Wang F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101352",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Editorial"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101352",
+      "epubdate": "2026 Jun 8"
     },
     {
       "title": "Letter to the Editor: Nitrate and nitrite food composition database: an update and extensive deep dive.",
@@ -587,7 +2537,52 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386241"
+      "pmid": "42386241",
+      "authors": [
+        {
+          "name": "Wu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Heydorn KC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pandey D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pehrsson PR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hays FA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Weng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wambogo E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dwyer JT",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101357",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101357",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Letter to Editor: Rethinking dietary nitrate and urinary N-nitrosamines.",
@@ -596,7 +2591,32 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386240"
+      "pmid": "42386240",
+      "authors": [
+        {
+          "name": "Yang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ye K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101365",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101365",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Response to Yang et al.: \"A clinical study examining the effects of dietary nitrate on urinary N-nitrosamines\".",
@@ -605,7 +2625,28 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386239"
+      "pmid": "42386239",
+      "authors": [
+        {
+          "name": "Lundberg JO",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bondonno CP",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101364",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101364",
+      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Letter to the Editor: Interpreting dual energy X-ray absorptiometry-derived lean soft tissue changes in Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS).",
@@ -614,7 +2655,32 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386236"
+      "pmid": "42386236",
+      "authors": [
+        {
+          "name": "Jannasz I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pruc M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Szarpak L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101348",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101348",
+      "epubdate": "2026 Jun 8"
     },
     {
       "title": "Multivitamin supplementation and COVID-19 incidence and symptom severity in the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized trial.",
@@ -623,7 +2689,53 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42385272"
+      "pmid": "42385272",
+      "authors": [
+        {
+          "name": "Li J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Manson JE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rist PM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Clar A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moorthy MV",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sarkissian A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sesso HD",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "124",
+      "issue": "1",
+      "pages": "101355",
+      "issn": "0002-9165",
+      "essn": "1938-3207",
+      "journal_full": "The American journal of clinical nutrition",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1016/j.ajcnut.2026.101355",
+      "epubdate": "2026 Jun 9"
     },
     {
       "title": "The epidemiology of physical activity guideline adherence among 35,633 adults: Findings from the South Australian Population Health Survey.",
@@ -632,7 +2744,52 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Prev Med",
-      "pmid": "42055195"
+      "pmid": "42055195",
+      "authors": [
+        {
+          "name": "Bennie JA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Venugopal K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Burnell S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Krumeich B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taylor E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Maher C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sincovich A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nolan R",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "208",
+      "issue": "",
+      "pages": "108587",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108587",
+      "epubdate": "2026 Apr 27"
     },
     {
       "title": "School food interventions and nutrition-related outcomes in Europe: A scoping review.",
@@ -641,7 +2798,42 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Prev Med",
-      "pmid": "42031164"
+      "pmid": "42031164",
+      "authors": [
+        {
+          "name": "Vidal I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Franco M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dominguez-Salas P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cohen N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Díez J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "208",
+      "issue": "",
+      "pages": "108584",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Scoping Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108584",
+      "epubdate": "2026 Apr 22"
     },
     {
       "title": "Corrigendum to \"Child access prevention laws and firearm storage in the US: Associations by law stringency and social vulnerability\" Preventive Medicine Volume 204 (2026), 108516.",
@@ -650,16 +2842,48 @@
       "source_type": "journal",
       "date": "2026 Jul",
       "abstract": "Journal: Prev Med",
-      "pmid": "42020253"
-    },
-    {
-      "title": "The association between neighborhood socioeconomic status and lung cancer incidence and mortality risk: A systematic review and meta-analysis of cohort studies from North America, Europe, and Asia.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108582",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42002084"
+      "pmid": "42020253",
+      "authors": [
+        {
+          "name": "Oliphant SN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Esposti MD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hastings KG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hartman HA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ehrlich PF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Carter PM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sokol RL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "208",
+      "issue": "",
+      "pages": "108579",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108579",
+      "epubdate": "2026 Apr 21"
     },
     {
       "title": "Sedentary time and television viewing time are associated with an increased risk for all-cause mortality: A systematic review of systematic reviews.",
@@ -668,7 +2892,53 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42217831"
+      "pmid": "42217831",
+      "authors": [
+        {
+          "name": "Shivgulam ME",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "MacDonald E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Courish M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huerta-Domínguez A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Theou O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tovar-Díaz J",
+          "authtype": "Author"
+        },
+        {
+          "name": "O'Brien MW",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108610",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108610",
+      "epubdate": "2026 May 29"
     },
     {
       "title": "Prevalence and associated social determinants of health for pregestational and gestational diabetes mellitus in California by disaggregated racial and ethnic groups and subgroups.",
@@ -677,7 +2947,44 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42176957"
+      "pmid": "42176957",
+      "authors": [
+        {
+          "name": "Hsieh CT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ren X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chehab RF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108609",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108609",
+      "epubdate": "2026 May 22"
     },
     {
       "title": "Corrigendum to \"Clustering of unhealthy lifestyle behaviors, self-rated health and disability\" [Preventive Medicine 55 (2022) 106911].",
@@ -686,7 +2993,40 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42173701"
+      "pmid": "42173701",
+      "authors": [
+        {
+          "name": "Ortiz C",
+          "authtype": "Author"
+        },
+        {
+          "name": "López-Cuadrado T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rodríguez-Blázquez C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pastor-Barriuso R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Galán I",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108605",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108605",
+      "epubdate": "2026 May 22"
     },
     {
       "title": "Corrigendum to \"Determining the optimal cervical cancer screening exit strategy in the Netherlands\" Preventive Medicine, 197 (2025) 108329.",
@@ -695,7 +3035,32 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42167996"
+      "pmid": "42167996",
+      "authors": [
+        {
+          "name": "Schevenhoven VJC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jansen EEL",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Kok IMCM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108602",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108602",
+      "epubdate": "2026 May 22"
     },
     {
       "title": "Suicide mortality in United States urban career firefighters and emergency medical service providers.",
@@ -704,7 +3069,52 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42167545"
+      "pmid": "42167545",
+      "authors": [
+        {
+          "name": "Singh A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeig-Owens R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moline T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cannon MF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Goldfarb DG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choi J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hall CB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prezant DJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108608",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108608",
+      "epubdate": "2026 May 20"
     },
     {
       "title": "Lifetime economic burden of type 2 diabetes mellitus: A longitudinal analysis of adults in the Wasatch Front Region of Utah, United States.",
@@ -713,7 +3123,36 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42155638"
+      "pmid": "42155638",
+      "authors": [
+        {
+          "name": "Meeks HD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Smith KR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Curtis DS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kowaleski-Jones L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108606",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108606",
+      "epubdate": "2026 May 18"
     },
     {
       "title": "Investigating the comparability of wearable accelerometer methods in the association between physical activity and cardiovascular disease: a cohort study using UK Biobank.",
@@ -722,7 +3161,44 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42142761"
+      "pmid": "42142761",
+      "authors": [
+        {
+          "name": "Lapointe Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kapur A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sharma A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Panter J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fuller D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mamiya H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108603",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108603",
+      "epubdate": "2026 May 15"
     },
     {
       "title": "Credible messengers and messages in firearm harm prevention: A systematic review.",
@@ -731,7 +3207,42 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42140563"
+      "pmid": "42140563",
+      "authors": [
+        {
+          "name": "Walsh CS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Collins CJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bond AE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gastineau KAB",
+          "authtype": "Author"
+        },
+        {
+          "name": "O'Connor KE",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108601",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108601",
+      "epubdate": "2026 May 14"
     },
     {
       "title": "Trends in breastfeeding indicators across Indian states and Union Territories (1993-2021): Estimating progress towards the 2030 Global Nutrition Target.",
@@ -740,7 +3251,40 @@
       "source_type": "journal",
       "date": "2026 Aug",
       "abstract": "Journal: Prev Med",
-      "pmid": "42134478"
+      "pmid": "42134478",
+      "authors": [
+        {
+          "name": "Rai RK",
+          "authtype": "Author"
+        },
+        {
+          "name": "De Neve JW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bromage S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Subramanian SV",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "issue": "",
+      "pages": "108600",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108600",
+      "epubdate": "2026 May 13"
     },
     {
       "title": "An Open-Label, Pilot Clinical Trial To Test The Safety And Feasibility Of A Suspension of Freeze-dried Microbiota In Patients Undergoing Colon Resection",
