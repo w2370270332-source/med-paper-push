@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T01:49:42.941487",
+    "generated_at": "2026-07-05T00:56:36.501359",
     "days_back": 1,
     "total_papers": 100,
     "sources": {
@@ -20,6 +20,118 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Alcohol Use Disorder, Alcohol-associated Liver Disease, Alcoholic Cirrhosis, Healthy; Interventions: Pomegranate Dietary Ssupplement; The goal of this project is to determine an individual's ability to generate active gut microbial metabolites called urolithins upon consumption of pomegranate dietary supplements. Recent publications have reported that urolithins are the major active metabolites responsible for the beneficial effec; Study Type: OBSERVATIONAL",
       "nct_id": "NCT07678567",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Vitamin B6 produced by gut microbiome regulates host behavioral phenotypes through dopaminergic metabolism.",
+      "url": "https://doi.org/10.1080/19490976.2026.2695485",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42400260",
+      "authors": [
+        {
+          "name": "Kim D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nguyen TH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choi YJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim YK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shin MK",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Guzman ACV",
+          "authtype": "Author"
+        },
+        {
+          "name": "Park S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2695485",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2695485",
+      "epubdate": "2026 Jul 3"
+    },
+    {
+      "title": "Microbial metabolite Urolithin A protects against inorganic arsenic-induced gut barrier dysfunction in humanized AS3MT mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2696618",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42400257",
+      "authors": [
+        {
+          "name": "Ghosh S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vanwinkle ZM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sinha Roy K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Stýblo M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Banerjee M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Collins J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jala VR",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2696618",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2696618",
+      "epubdate": "2026 Jul 3"
     },
     {
       "title": "Genome-scale metabolic models predict diet- and lifestyle-driven shifts of ecological interactions in the gut microbiome.",
@@ -1752,135 +1864,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2685381",
       "epubdate": "2026 Jun 11"
-    },
-    {
-      "title": "Intratumor Lactobacillus drives ferroptosis resistance via D-lactate-STAT3 K631 lactylation in esophageal squamous cell carcinoma.",
-      "url": "https://doi.org/10.1080/19490976.2026.2685912",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42281240",
-      "authors": [
-        {
-          "name": "Wang D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lu H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhou H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tao H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wei W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yao W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ye L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2685912",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2685912",
-      "epubdate": "2026 Jun 11"
-    },
-    {
-      "title": "The protease code of the bacterial gut microbiota: ecological regulation, barrier disruption, and rewiring host defense and signaling.",
-      "url": "https://doi.org/10.1080/19490976.2026.2687149",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42272171",
-      "authors": [
-        {
-          "name": "Eckhard U",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ramírez-Larrota JS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Estevan-Morió E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gomis-Rüth FX",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2687149",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2687149",
-      "epubdate": "2026 Jun 10"
     },
     {
       "title": "Nutrition Intervention Combined With Resmetirom for MASH",
