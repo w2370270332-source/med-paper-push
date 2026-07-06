@@ -89,7 +89,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git add -f obsidian/ report_daily.md scraped_papers.json analysis_daily.json
+          git add -f obsidian/ report_daily.md scraped_papers.json analysis_daily.json zotero_sync_state.json
           git diff --staged --quiet || git commit -m "auto: daily report $(date +%Y-%m-%d)"
           git push
 

@@ -251,8 +251,75 @@ def ensure_collections() -> dict[str, str]:
     return collection_keys
 
 
+def _extract_doi(p: dict) -> str:
+    """从论文数据提取 DOI（标准化小写）."""
+    doi = ""
+    # 直接从 URL 提取
+    url = p.get("url", "")
+    doi_m = re.search(r"10\.\d{4,}/[^\s.;]+", url)
+    if doi_m:
+        doi = doi_m.group().rstrip(".;")
+    # 从 elocationid 提取
+    if not doi:
+        eloc = p.get("elocationid", "")
+        doi_m = re.search(r"10\.\d{4,}/[^\s.;]+", eloc)
+        if doi_m:
+            doi = doi_m.group().rstrip(".;")
+    return doi.strip().lower() if doi else ""
+
+
+def _dedup_key(p: dict) -> str:
+    """生成稳定的去重键，优先级: PMID > DOI > NCT > URL."""
+    pmid = p.get("pmid", "").strip()
+    if pmid:
+        return f"pmid:{pmid}"
+    nct = p.get("nct_id", "").strip()
+    if nct:
+        return f"nct:{nct}"
+    doi = _extract_doi(p)
+    if doi:
+        return f"doi:{doi}"
+    url = p.get("url", "").strip().rstrip("/")
+    if url:
+        return f"url:{url}"
+    # 最后手段：标题哈希
+    title = (p.get("original_title") or p.get("title_cn") or "").strip().lower()
+    if title:
+        import hashlib
+        return f"title:{hashlib.sha256(title.encode()).hexdigest()[:16]}"
+    return ""
+
+
+def _find_existing_by_doi_zotero(doi: str, max_scan: int = 300) -> str | None:
+    """在 Zotero 库中按 DOI 搜索已有条目（Layer 2 后备去重）."""
+    if not doi or not BASE:
+        return None
+    doi_lower = doi.strip().lower()
+    start = 0
+    limit = 100
+    scanned = 0
+    while scanned < max_scan:
+        status, data, headers = _req(
+            "GET",
+            f"/items?itemType=journalArticle&limit={limit}&start={start}"
+        )
+        if status != 200 or not isinstance(data, list):
+            return None
+        for item in data:
+            item_doi = (item.get("data", {}) or {}).get("DOI", "").strip().lower()
+            if item_doi == doi_lower:
+                return item.get("key") or item.get("data", {}).get("key", "")
+        scanned += len(data)
+        total = int(headers.get("Total-Results", "0"))
+        if start + limit >= total:
+            break
+        start += limit
+        time.sleep(0.5)
+    return None
+
+
 def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
-    """同步论文到 Zotero."""
+    """同步论文到 Zotero，双层去重."""
     state = load_state()
     created = 0
     skipped = 0
@@ -260,31 +327,46 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
     total = len(papers)
     write_token = None
 
-    for i, p in enumerate(papers, 1):
-        pmid = p.get("pmid", "")
-        title = (p.get("original_title") or p.get("title_cn") or "unknown")[:60]
+    # Layer-2 缓存：本次运行中已查询过的 DOI
+    _doi_cache: dict[str, str | None] = {}
 
-        # 去重
-        if pmid and pmid in state:
+    for i, p in enumerate(papers, 1):
+        title_short = (p.get("original_title") or p.get("title_cn") or "unknown")[:60]
+        dkey = _dedup_key(p)
+
+        # Layer 1: 本地状态文件去重
+        if dkey and dkey in state:
             skipped += 1
             continue
 
+        # Layer 2: Zotero API 查询（仅对非 PMID 论文，且有 DOI）
+        doi = _extract_doi(p)
+        if (not dkey or not dkey.startswith("pmid:")) and doi and not DRY_RUN:
+            if doi not in _doi_cache:
+                _doi_cache[doi] = _find_existing_by_doi_zotero(doi)
+            existing = _doi_cache[doi]
+            if existing:
+                # 补录到本地状态
+                if dkey:
+                    state[dkey] = existing
+                skipped += 1
+                continue
+
         # 分类
         cols = classify_paper(p)
-        tags = list(dict.fromkeys(cols))  # 去重维持顺序
+        tags = list(dict.fromkeys(cols))
 
         if DRY_RUN:
-            print(f"  [{i}/{total}] [dry-run] {title} → {', '.join(cols[:3])}")
+            print(f"  [{i}/{total}] [dry-run] {title_short} → {', '.join(cols[:3])}")
             created += 1
-            if pmid:
-                state[pmid] = "DRY_RUN"
+            if dkey:
+                state[dkey] = "DRY_RUN"
             continue
 
-        # 构建条目（不带 note 字段，Zotero API 不允许 journalArticle 带 note）
+        # 构建条目并创建
         item, note_html = build_item(p, tags, collections)
         item_headers = {"Zotero-Write-Token": write_token} if write_token else None
 
-        # 创建条目
         status, body, resp_headers = _req("POST", "/items", [item], item_headers)
 
         if status in (200, 201):
@@ -295,7 +377,6 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
             else:
                 item_key = ""
         elif status == 403 and not write_token:
-            # CSRF token required
             token = resp_headers.get("Zotero-Write-Token", "")
             if token:
                 write_token = token
@@ -307,21 +388,20 @@ def sync_papers(papers: list[dict], collections: dict[str, str]) -> dict:
             item_key = ""
 
         if not item_key:
-            print(f"  [{i}/{total}] FAIL {title}: {body}")
+            print(f"  [{i}/{total}] FAIL {title_short}: {body}")
             errors += 1
             continue
 
-        # 创建笔记（作为子项）
+        # 创建笔记
         if note_html:
             create_note(item_key, note_html, write_token)
 
-        # 记录到状态文件
-        if pmid:
-            state[pmid] = item_key
+        # 记录到状态文件（所有论文，不止 PMID）
+        if dkey:
+            state[dkey] = item_key
         created += 1
-        print(f"  [{i}/{total}] {title[:40]} → {', '.join(cols[:2])}")
+        print(f"  [{i}/{total}] {title_short[:40]} → {', '.join(cols[:2])}")
 
-        # 速限保护（Zotero API 约 3 req/s）
         if i < total:
             time.sleep(1.0)
 

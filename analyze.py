@@ -139,7 +139,8 @@ def analyze_daily(papers: list[dict]) -> dict:
     batches = [top[i:i + BATCH_SIZE] for i in range(0, len(top), BATCH_SIZE)]
     _PASSTHROUGH = ["pmid", "url", "source", "date", "authors",
                    "volume", "issue", "pages", "issn", "essn",
-                   "journal_full", "pub_types", "elocationid", "epubdate"]
+                   "journal_full", "pub_types", "elocationid", "epubdate",
+                   "nct_id"]
 
     for bi, batch in enumerate(batches):
         print(f"  [{bi + 1}/{len(batches)}] 分析 {len(batch)} 篇...", end=" ", flush=True)
