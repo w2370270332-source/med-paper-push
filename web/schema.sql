@@ -82,6 +82,30 @@ CREATE INDEX idx_paper_pool_research_area ON paper_pool USING gin(research_area)
 CREATE INDEX idx_push_history_user_id ON push_history(user_id);
 CREATE INDEX idx_push_history_pushed_at ON push_history(pushed_at);
 
+-- 用户信息查询（RPC，service_key 可查全部，普通用户查自己）
+CREATE OR REPLACE FUNCTION get_user_info()
+RETURNS TABLE (
+    user_id uuid, email text, joined_at timestamptz,
+    research_areas jsonb, cas_quartiles jsonb,
+    push_frequency text, push_days jsonb, push_time text,
+    enabled boolean, interest_description text, relevance_threshold integer
+) SECURITY DEFINER SET search_path = 'public'
+LANGUAGE sql AS $$
+    SELECT u.id, u.email, u.created_at,
+        coalesce(p.research_areas, '[]'::jsonb),
+        coalesce(p.cas_quartiles, '["1","2","3","4"]'::jsonb),
+        coalesce(p.push_frequency, 'daily'),
+        coalesce(p.push_days, '[]'::jsonb),
+        coalesce(p.push_time, '08:00'),
+        coalesce(p.enabled, true),
+        p.interest_description,
+        coalesce(p.relevance_threshold, 5)
+    FROM auth.users u
+    LEFT JOIN public.user_preferences p ON u.id = p.user_id
+    WHERE u.id = auth.uid() OR auth.uid() IS NULL
+       OR u.id IN (SELECT id FROM auth.users WHERE raw_app_meta_data->>'role' = 'admin');
+$$;
+
 -- RLS 策略
 ALTER TABLE invite_codes ENABLE ROW LEVEL SECURITY;
 ALTER TABLE user_preferences ENABLE ROW LEVEL SECURITY;
