@@ -2,336 +2,353 @@
   "papers": [
     {
       "index": 1,
-      "title_cn": "α-硫辛酸与米拉贝隆联合治疗肥胖男性和女性的试验",
-      "background": "肥胖及相关疾病每年导致至少280万人死亡，但安全且广泛可用的治疗方法有限。",
-      "methods": "干预性研究，尚未招募；干预包括α-硫辛酸、米拉贝隆和安慰剂；主要结局未明确。",
-      "findings": "尚未有结果。",
-      "significance": "探索联合用药对肥胖和胰岛素抵抗的潜在疗效。",
-      "limitation": "尚未开始，缺乏数据。",
-      "relevance": "直接研究营养补充剂（α-硫辛酸）与药物联合治疗肥胖，与营养干预和慢性病预防相关。",
-      "relevance_score": 8,
+      "title_cn": "普拉提运动与间歇性禁食饮食对肥胖围绝经期女性身体和代谢衰老过程的影响",
+      "background": "肥胖围绝经期女性面临身体和代谢衰老加速的风险，需要有效的干预措施。",
+      "methods": "干预性研究，比较普拉提运动与间歇性禁食饮食对肥胖围绝经期女性身体和代谢衰老参数的影响。",
+      "findings": "尚未招募，暂无结果。",
+      "significance": "为围绝经期女性提供非药物抗衰老策略的循证依据。",
+      "limitation": "尚未开展，局限性未知。",
+      "relevance": "直接研究饮食干预（间歇性禁食）对代谢衰老的影响，与营养流行病学和慢性病预防高度相关。",
+      "relevance_score": 9,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT05713799",
+      "url": "https://clinicaltrials.gov/study/NCT07683286",
       "source": "ClinicalTrials.gov",
-      "original_title": "Trial of the Combination of Alpha-Lipoic Acid and Mirabegron in Women and in Men With Obesity",
-      "date": "2026-07-07",
-      "nct_id": "NCT05713799"
+      "original_title": "Pilates Exercises Versus Intermittent Fasting Diet on Physical and Metabolic Aging Process in Obese Perimenopausal Women",
+      "date": "2026-07",
+      "nct_id": "NCT07683286"
     },
     {
       "index": 2,
-      "title_cn": "结肠切除术患者口服冻干微生物悬浮液的安全性和可行性开放标签初步临床试验",
-      "methods": "1期初步临床试验，招募18-75岁结肠息肉或早期结肠癌患者，干预为口服粪便微生物制剂MTP-101P。",
-      "findings": "尚未有结果。",
-      "significance": "评估粪便微生物移植在结肠手术患者中的安全性和可行性。",
-      "limitation": "样本量小，开放标签设计。",
-      "relevance": "直接研究肠道菌群干预，与肠道菌群和预防医学相关。",
+      "title_cn": "间歇性饮食限制对学龄儿童心血管代谢风险的影响",
+      "background": "学龄儿童心血管代谢风险增加，需要有效的饮食干预策略。",
+      "methods": "随机试验，比较间歇性低碳水化合物饮食和间歇性热量限制与一般健康教育对学龄儿童心血管代谢风险的影响。",
+      "findings": "正在招募，暂无结果。",
+      "significance": "为儿童心血管代谢风险提供饮食干预的循证依据。",
+      "limitation": "尚未完成，局限性未知。",
+      "relevance": "直接研究饮食限制对儿童代谢风险的影响，与营养流行病学和慢性病预防高度相关。",
       "relevance_score": 9,
-      "background": "复发性艰难梭菌感染和结肠手术患者需要新的治疗策略。",
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06692179",
+      "url": "https://clinicaltrials.gov/study/NCT06500078",
       "source": "ClinicalTrials.gov",
-      "original_title": "An Open-Label, Pilot Clinical Trial To Test The Safety And Feasibility Of A Suspension of Freeze-dried Microbiota In Patients Undergoing Colon Resection",
-      "date": "2025-02-18",
-      "nct_id": "NCT06692179"
+      "original_title": "Effects of Intermittent Dietary Restriction on Cardiometabolic Risk in School-aged Children",
+      "date": "2024-07-13",
+      "nct_id": "NCT06500078"
     },
     {
       "index": 3,
-      "title_cn": "石榴膳食补充剂在酒精使用障碍和酒精相关性肝病中的作用",
-      "methods": "观察性研究，尚未招募；评估个体摄入石榴补充剂后产生尿石素（肠道菌群代谢产物）的能力。",
-      "findings": "尚未有结果。",
-      "significance": "探索个体间肠道菌群代谢差异对石榴健康效应的影响。",
-      "limitation": "观察性设计，无法确定因果关系。",
-      "relevance": "研究膳食补充剂与肠道菌群代谢，与营养流行病学和肠道菌群高度相关。",
-      "relevance_score": 9,
-      "background": "尿石素是石榴有益健康的主要活性代谢产物，但个体产生能力不同。",
+      "title_cn": "参与妊娠丢失原因研究对心理健康结局的影响：使用COPL队列和丹麦国家登记处的目标试验模拟",
+      "background": "妊娠丢失与心理健康问题相关，但标准护理缺乏系统随访。",
+      "methods": "目标试验模拟，使用COPL队列和丹麦国家登记处数据，评估参与妊娠丢失研究对心理健康结局的影响。",
+      "findings": "正在进行，暂无结果。",
+      "significance": "为妊娠丢失后的心理健康支持提供证据。",
+      "limitation": "观察性设计，可能存在混杂。",
+      "relevance": "不直接相关，主要关注心理健康而非营养或代谢。",
+      "relevance_score": 1,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07678567",
+      "url": "https://clinicaltrials.gov/study/NCT07684677",
       "source": "ClinicalTrials.gov",
-      "original_title": "Pomegranate Dietary Supplements in AUD and ALD",
-      "date": "2027-01-01",
-      "nct_id": "NCT07678567"
+      "original_title": "Effect of Participating in a Study of Causes of Pregnancy Loss on Mental Health Outcomes: A Target Trial Emulation Using the COPL Cohort and Danish National Registries",
+      "date": "2020-11-01",
+      "nct_id": "NCT07684677"
     },
     {
       "index": 4,
-      "title_cn": "营养干预联合Resmetirom治疗代谢功能障碍相关脂肪性肝炎",
-      "methods": "随机对照试验，尚未招募；比较Resmetirom联合全面营养干预与Resmetirom单用对MASH的疗效。",
-      "findings": "尚未有结果。",
-      "significance": "评估药物与营养干预联合治疗MASH的效果。",
-      "limitation": "尚未开始，缺乏数据。",
-      "relevance": "直接研究营养干预在慢性肝病治疗中的作用，与营养学和慢性病预防高度相关。",
-      "relevance_score": 9,
-      "background": "Resmetirom是首个获批治疗MASH的药物，但联合营养干预的效果未知。",
+      "title_cn": "丁酸盐或强化生活方式干预在1型糖尿病合并代谢功能障碍相关脂肪性肝病中的应用",
+      "background": "代谢功能障碍相关脂肪性肝病在1型糖尿病患者中高发，但有效治疗策略缺乏。",
+      "methods": "干预性研究，比较强化生活方式干预（低热量地中海饮食和体力活动）、丁酸盐补充及其联合对1型糖尿病合并MASLD患者的影响。",
+      "findings": "尚未招募，暂无结果。",
+      "significance": "为1型糖尿病合并MASLD提供潜在治疗策略。",
+      "limitation": "尚未开展，局限性未知。",
+      "relevance": "直接研究饮食干预（地中海饮食）和丁酸盐（菌群代谢物）对代谢疾病的影响，与营养、菌群和慢性病预防高度相关。",
+      "relevance_score": 10,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07680478",
+      "url": "https://clinicaltrials.gov/study/NCT07684248",
       "source": "ClinicalTrials.gov",
-      "original_title": "Nutrition Intervention Combined With Resmetirom for MASH",
-      "date": "2026-10-01",
-      "nct_id": "NCT07680478"
+      "original_title": "Butyrate or Intensive Lifestyle Modification in Type 1 Diabetes and Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "date": "2026-09-15",
+      "nct_id": "NCT07684248"
     },
     {
       "index": 5,
-      "title_cn": "生酮疗法对农村地区双相情感障碍患者症状严重程度和代谢副作用的影响",
-      "methods": "干预性研究，尚未招募；干预为生酮饮食食物，对照为标准抗精神病药物。",
-      "findings": "尚未有结果。",
-      "significance": "探索生酮饮食作为双相情感障碍辅助治疗的效果。",
-      "limitation": "样本量小，开放标签设计。",
-      "relevance": "研究饮食干预（生酮饮食）对精神疾病的影响，与营养干预相关。",
-      "relevance_score": 7,
-      "background": "生酮饮食可能影响双相情感障碍症状，但缺乏证据。",
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07570875",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Evaluating the Impact of Ketogenic Therapy on Symptom Severity and Metabolic Side Effect Profile Among Individuals Living With Bipolar Disorder in A Rural Southern Catchment Area",
-      "date": "2026-08",
-      "nct_id": "NCT07570875"
-    },
-    {
-      "index": 6,
-      "title_cn": "危重症患者γδ T细胞的代谢和功能研究",
-      "methods": "前瞻性观察队列研究，无干预；分析脓毒症和非脓毒症危重患者γδT细胞的代谢和功能。",
-      "findings": "尚未有结果。",
-      "significance": "揭示γδT细胞在危重症中的代谢适应性。",
-      "limitation": "观察性设计，无法确定因果关系。",
-      "relevance": "不直接相关，主要关注免疫细胞代谢而非营养或菌群。",
-      "relevance_score": 2,
-      "background": "γδT细胞在免疫中起桥梁作用，但其在危重症中的代谢适应未知。",
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07680816",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Metabolic and Functional Study of γδ T Cells in Critically Ill Patients",
-      "date": "2026-07-15",
-      "nct_id": "NCT07680816"
-    },
-    {
-      "index": 7,
-      "title_cn": "增强癌症护理：RestoreMe应用程序用于癌症患者的个性化营养和活动",
-      "methods": "单机构可行性研究，计划招募150名癌症患者；使用RestoreMe应用程序提供个性化营养和活动建议。",
-      "findings": "尚未有结果。",
-      "significance": "评估移动健康应用在癌症患者营养和活动管理中的可行性。",
-      "limitation": "非随机，无对照组。",
-      "relevance": "研究个性化营养干预在癌症护理中的应用，与营养学相关。",
-      "relevance_score": 7,
-      "background": "癌症患者的营养和活动需求未得到充分满足。",
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07575685",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Enhancing Cancer Care: RestoreMe App for Personalized Nutrition and Activity in Cancer Patients",
-      "date": "2026-07",
-      "nct_id": "NCT07575685"
-    },
-    {
-      "index": 8,
-      "title_cn": "高纤维饮食和短期禁食在免疫检查点抑制剂治疗黑色素瘤中的临床研究",
-      "methods": "干预性研究，尚未招募；干预为高纤维饮食或高纤维饮食联合短期禁食。",
-      "findings": "尚未有结果。",
-      "significance": "探索饮食干预增强免疫治疗效果的潜力。",
-      "limitation": "尚未开始，缺乏数据。",
-      "relevance": "直接研究高纤维饮食和禁食对癌症免疫治疗的影响，与营养和肠道菌群相关。",
-      "relevance_score": 8,
-      "background": "免疫治疗改善了黑色素瘤预后，但需要最大化疗效。",
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07680452",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Clinical Study on High-fiber Diet and Short-term Fasting in Melanoma Under Immunotherapy With Checkpoint Inhibition",
-      "date": "2026-06-30",
-      "nct_id": "NCT07680452"
-    },
-    {
-      "index": 1,
-      "title_cn": "结肠切除术患者肠道菌群移植的安全性与可行性研究",
-      "background": "复发性艰难梭菌感染和结肠手术患者需要新的治疗策略，肠道菌群移植（IMT）可能有益。",
-      "methods": "单中心、开放标签研究，纳入18-75岁有憩室炎或乙状结肠癌病史的结肠手术患者，术中放置喂养管并接受IMT，评估安全性和可行性。",
-      "findings": "研究正在进行中，尚无结果。",
-      "significance": "为IMT在结肠手术患者中的应用提供初步安全性和可行性数据。",
-      "limitation": "单中心、开放标签设计，样本量有限。",
-      "relevance": "直接研究肠道菌群移植对结肠手术患者的影响，与肠道菌群和疾病预防高度相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06370884",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Intestinal Microbiota Transplantation in Patients Undergoing Colon Resection",
-      "date": "2024-02-01",
-      "nct_id": "NCT06370884"
-    },
-    {
-      "index": 2,
-      "title_cn": "碳水化合物奖赏的神经和代谢因素研究",
-      "background": "饮食因素是美国2012年近50%心代谢死亡的原因，加工食品的普遍存在影响食物选择。",
-      "methods": "干预性研究，比较不同碳水化合物饮料（CS- Beverage, CS+Fast, CS+Slow）对神经和代谢反应的影响。",
-      "findings": "研究正在进行中，尚无结果。",
-      "significance": "揭示碳水化合物类型对奖赏机制和代谢的影响，为饮食干预提供依据。",
-      "limitation": "未明确样本量和具体结局指标。",
-      "relevance": "研究碳水化合物代谢与饮食行为，与营养流行病学和慢性病预防相关。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06053294",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Neural and Metabolic Factors in Carbohydrate Reward",
-      "date": "2023-05-01",
-      "nct_id": "NCT06053294"
-    },
-    {
-      "index": 3,
-      "title_cn": "丙酸血症的自然史、生理学、微生物组和生物化学研究",
-      "background": "丙酸血症（PA）是一种代谢疾病，患者无法正常处理某些化学物质，导致疾病。",
-      "methods": "观察性研究，收集PA患者的自然史、生理、微生物组和生化数据。",
-      "findings": "研究正在进行中，尚无结果。",
-      "significance": "深入了解PA的病理生理和微生物组特征，为治疗提供线索。",
-      "limitation": "观察性设计，无法建立因果关系。",
-      "relevance": "涉及代谢疾病和微生物组，与营养代谢和肠道菌群间接相关。",
-      "relevance_score": 5,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT02890342",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Natural History, Physiology, Microbiome and Biochemistry Studies of Propionic Acidemia",
-      "date": "2016-11-29",
-      "nct_id": "NCT02890342"
-    },
-    {
-      "index": 4,
-      "title_cn": "微生物组和环境对镰状细胞病及腿部溃疡影响的见解研究（INSIGHTS研究）",
-      "background": "镰状细胞病患者常出现慢性腿部溃疡，现有治疗效果不佳，需了解其成因。",
-      "methods": "观察性研究，探索微生物组和环境因素对镰状细胞病和腿部溃疡的影响。",
-      "findings": "研究已完成，但摘要未提供结果。",
-      "significance": "可能揭示微生物组在镰状细胞病并发症中的作用。",
-      "limitation": "观察性设计，混杂因素多。",
-      "relevance": "涉及微生物组与疾病，但与营养和预防医学直接关联较弱。",
+      "title_cn": "评估Maridebart Cafraglutide长期疗效、安全性和耐受性的扩展试验（MARITIME-2-EXTENSION）",
+      "background": "肥胖和2型糖尿病需要长期有效的药物治疗。",
+      "methods": "干预性研究，评估Maridebart Cafraglutide与安慰剂在肥胖和2型糖尿病患者中的长期疗效和安全性。",
+      "findings": "尚未招募，暂无结果。",
+      "significance": "为肥胖和2型糖尿病提供新的药物选择。",
+      "limitation": "尚未开展，局限性未知。",
+      "relevance": "涉及肥胖和糖尿病治疗，但干预为药物而非营养或菌群，间接相关。",
       "relevance_score": 4,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT02156102",
+      "url": "https://clinicaltrials.gov/study/NCT07684144",
       "source": "ClinicalTrials.gov",
-      "original_title": "Insights Into Microbiome and Environmental Contributions to Sickle Cell Disease and Leg Ulcers Study (INSIGHTS Study)",
-      "date": "2014-06-16",
-      "nct_id": "NCT02156102"
-    },
-    {
-      "index": 5,
-      "title_cn": "槲皮素对肥胖及肥胖伴2型糖尿病患者葡萄糖吸收的影响研究",
-      "background": "槲皮素是天然存在于多种食物中的化合物，可能对肥胖和糖尿病有治疗作用。",
-      "methods": "干预性研究，肥胖或肥胖伴2型糖尿病患者随机接受槲皮素或安慰剂，评估葡萄糖吸收变化。",
-      "findings": "研究已完成，但摘要未提供结果。",
-      "significance": "为槲皮素作为膳食补充剂改善代谢提供证据。",
-      "limitation": "未说明样本量和具体结局指标。",
-      "relevance": "直接研究膳食化合物槲皮素对葡萄糖代谢的影响，与营养流行病学和慢性病预防高度相关。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT00065676",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Investigating the Use of Quercetin on Glucose Absorption in Obesity, and Obesity With Type 2 Diabetes",
-      "date": "2010-04-30",
-      "nct_id": "NCT00065676"
+      "original_title": "Extension Trial to Evaluate the Long-term Efficacy, Safety, and Tolerability of Maridebart Cafraglutide (MARITIME-2-EXTENSION)",
+      "date": "2026-07-29",
+      "nct_id": "NCT07684144"
     },
     {
       "index": 6,
-      "title_cn": "SCB0020160在健康成年男性中单次和多次口服给药的研究",
-      "background": "SCB0020160是一种新药，首次在人体中评估其安全性、耐受性和药代动力学。",
-      "methods": "干预性研究，健康成年男性接受单次和多次口服SCB0020160或安慰剂，评估安全性和食物效应。",
-      "findings": "研究尚未开始招募。",
-      "significance": "为SCB0020160的后续开发提供初步数据。",
-      "limitation": "仅纳入健康男性，结果外推受限。",
-      "relevance": "不直接相关，主要关注药物而非营养或菌群。",
-      "relevance_score": 1,
+      "title_cn": "肥胖青少年青春期启动时间的遗传和环境预测因素自然史研究",
+      "background": "肥胖影响青春期启动时间，但遗传和环境因素的作用尚不明确。",
+      "methods": "观察性研究，探索肥胖青少年中遗传和环境因素对青春期启动时间的影响，包括减肥干预。",
+      "findings": "尚未招募，暂无结果。",
+      "significance": "揭示肥胖与青春期启动的关联机制。",
+      "limitation": "观察性设计，因果推断有限。",
+      "relevance": "涉及肥胖和减肥干预，与营养和慢性病预防相关。",
+      "relevance_score": 6,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07682337",
+      "url": "https://clinicaltrials.gov/study/NCT07437976",
       "source": "ClinicalTrials.gov",
-      "original_title": "Study of Single and Multiple Oral Doses of SCB0020160 in Healthy Adult Male Subjects",
-      "date": "2026-06-29",
-      "nct_id": "NCT07682337"
+      "original_title": "A Natural History of Genetic and Environmental Predictors of Pubertal Timing Among Youth With Obesity",
+      "date": "2026-07-08",
+      "nct_id": "NCT07437976"
     },
     {
       "index": 7,
-      "title_cn": "混合HIIT-FES骑行项目对脊髓损伤患者健康改善的研究",
-      "background": "脊髓损伤（SCI）人群中肥胖和代谢综合征高发，需要有效的运动干预。",
-      "methods": "干预性研究，SCI患者接受肌肉强化训练结合混合FES骑行或主动/被动关节活动度训练，比较代谢改善。",
-      "findings": "研究正在进行中，尚无结果。",
-      "significance": "为SCI患者提供改善代谢健康的运动策略。",
-      "limitation": "未明确样本量和具体结局指标。",
-      "relevance": "涉及代谢综合征，但干预为运动而非营养，间接相关。",
-      "relevance_score": 3,
+      "title_cn": "尿石素A补充对55岁及以上健康成人葡萄糖代谢的影响：一项随机三盲对照临床试验",
+      "background": "衰老导致胰岛素分泌减少和血糖升高，尿石素A可能改善血糖控制。",
+      "methods": "随机三盲对照试验，评估尿石素A补充与安慰剂对55岁以上健康成人葡萄糖代谢的影响。",
+      "findings": "正在招募，暂无结果。",
+      "significance": "为通过营养补充改善老年血糖代谢提供证据。",
+      "limitation": "尚未完成，局限性未知。",
+      "relevance": "直接研究营养补充剂（尿石素A，菌群代谢物）对葡萄糖代谢的影响，与营养和菌群高度相关。",
+      "relevance_score": 9,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07648173",
+      "url": "https://clinicaltrials.gov/study/NCT06274749",
       "source": "ClinicalTrials.gov",
-      "original_title": "Hybrid HIIT-FES Cycling Program on Individuals With Spinal Cord Injury to Improve Health",
-      "date": "2026-03-03",
-      "nct_id": "NCT07648173"
+      "original_title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
+      "date": "2026-07-08",
+      "nct_id": "NCT06274749"
     },
     {
       "index": 8,
-      "title_cn": "女性益生菌补充研究",
-      "background": "益生菌可能改善女性阴道不适和整体健康，但需证据支持。",
-      "methods": "干预性研究，有阴道不适史的女性随机接受Lab4+益生菌或安慰剂，评估健康改善和微生物组变化。",
-      "findings": "研究已完成，但摘要未提供结果。",
-      "significance": "为益生菌改善女性健康提供证据。",
-      "limitation": "未说明样本量和具体结局指标。",
-      "relevance": "直接研究益生菌对微生物组和健康的影响，与肠道菌群和营养相关。",
-      "relevance_score": 8,
+      "title_cn": "粪菌移植治疗经颈静脉肝内门体分流术后难治性肝性脑病",
+      "background": "TIPS术后难治性肝性脑病治疗困难，粪菌移植可能有效。",
+      "methods": "单中心、前瞻性、开放标签、平行组探索性临床研究，评估粪菌移植联合标准治疗与标准治疗（利福昔明、乳果糖、膳食纤维益生元）对难治性肝性脑病的疗效。",
+      "findings": "正在招募，暂无结果。",
+      "significance": "为肝性脑病提供基于菌群的新疗法。",
+      "limitation": "开放标签设计，可能存在偏倚。",
+      "relevance": "直接研究粪菌移植和膳食纤维益生元对肝病的影响，与肠道菌群和慢性病预防高度相关。",
+      "relevance_score": 9,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07364383",
+      "url": "https://clinicaltrials.gov/study/NCT07683936",
       "source": "ClinicalTrials.gov",
-      "original_title": "Probiotics for Women",
-      "date": "2026-01-22",
-      "nct_id": "NCT07364383"
+      "original_title": "Fecal Microbiota Transplantation for the Treatment of Refractory Hepatic Encephalopathy After TIPS Surgery",
+      "date": "2026-06-01",
+      "nct_id": "NCT07683936"
     },
     {
       "index": 1,
-      "title_cn": "腹部弥散加权磁共振成像",
-      "background": "研究旨在评估一种新的MRI方法能否改善腹部图像质量，减少呼吸、心跳等运动伪影。",
-      "methods": "观察性研究，纳入需要腹部成像的受试者，采用弥散加权磁共振成像技术。",
-      "findings": "研究已完成，但摘要未提供具体结果数据。",
-      "significance": "可能为腹部影像学提供更清晰的成像方法。",
-      "limitation": "未提供具体结果，无法评估实际效果。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "title_cn": "研究药物PF-08653944在肥胖或超重合并2型糖尿病成人中的安全性和有效性",
+      "background": "肥胖和2型糖尿病是全球性健康问题，需要新的治疗药物。",
+      "methods": "干预性研究，比较PF-08653944与安慰剂在肥胖或超重合并2型糖尿病成人中的效果，主要结局为体重变化。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "可能为肥胖合并2型糖尿病提供新的药物治疗选择。",
+      "limitation": "尚未公布结果，无法评估实际效果。",
+      "relevance": "直接研究肥胖和2型糖尿病的药物干预，与营养和慢性病预防相关。",
+      "relevance_score": 8,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT05261633",
+      "url": "https://clinicaltrials.gov/study/NCT07400653",
       "source": "ClinicalTrials.gov",
-      "original_title": "Diffusion MRI of the Abdomen",
-      "date": "2023-11-22",
-      "nct_id": "NCT05261633"
+      "original_title": "A Study to Learn About the Study Medicine (PF-08653944) in People With Obesity or Overweight and Type 2 Diabetes (T2D)",
+      "date": "2026-02-24",
+      "nct_id": "NCT07400653"
     },
     {
       "index": 2,
-      "title_cn": "治疗方法对特应性皮炎的影响",
-      "background": "特应性皮炎患者常伴有金黄色葡萄球菌感染，研究旨在了解不同治疗对皮肤细菌数量和种类的影响。",
-      "methods": "干预性研究，比较多种抗生素和安慰剂对特应性皮炎患者皮肤菌群的影响。",
-      "findings": "研究仍在招募中，尚无结果。",
-      "significance": "可能为特应性皮炎的治疗提供菌群调节依据。",
-      "limitation": "研究尚未完成，无数据。",
-      "relevance": "涉及皮肤菌群，但与营养/膳食/肠道菌群及慢性病预防间接相关。",
-      "relevance_score": 3,
+      "title_cn": "益生菌和益生元对Prader-Willi综合征儿童肥胖的干预",
+      "background": "Prader-Willi综合征（PWS）是一种罕见遗传病，伴有食欲亢进和严重肥胖，目前缺乏有效干预。肠道菌群与肥胖相关。",
+      "methods": "干预性研究，给予PWS儿童益生菌（包括B. lactis B420等）和益生元（半乳甘露聚糖和低聚果糖），观察体重变化。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "探索通过调节肠道菌群控制PWS患者食欲和肥胖的新方法。",
+      "limitation": "尚未公布结果，且样本可能有限。",
+      "relevance": "直接研究益生菌/益生元对肥胖的干预，与肠道菌群和营养学高度相关。",
+      "relevance_score": 9,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT01631617",
+      "url": "https://clinicaltrials.gov/study/NCT05791604",
       "source": "ClinicalTrials.gov",
-      "original_title": "Effects of Treatments on Atopic Dermatitis",
-      "date": "2012-09-18",
-      "nct_id": "NCT01631617"
+      "original_title": "The Intervention of Obesity in Children With Prader-Willi Syndrome Using Prebiotics and Probiotics",
+      "date": "2023-04-01",
+      "nct_id": "NCT05791604"
     },
     {
       "index": 3,
-      "title_cn": "胰岛素和糖尿病的遗传学研究",
-      "background": "研究旨在通过基因分析探索胰岛素抵抗和糖尿病的病因。",
-      "methods": "观察性研究，收集血液、血浆、DNA和RNA进行遗传分析。",
-      "findings": "研究仍在招募中，无具体结果。",
-      "significance": "可能揭示糖尿病遗传机制。",
-      "limitation": "研究尚未完成。",
-      "relevance": "涉及糖尿病，但未涉及营养/膳食/菌群干预。",
+      "title_cn": "Inclisiran预防高危一级预防患者心血管事件的研究",
+      "background": "心血管疾病一级预防需要有效降低低密度脂蛋白胆固醇（LDL-C）的策略。",
+      "methods": "III期干预性研究，高危患者接受Inclisiran或安慰剂，主要结局为心血管事件。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "可能为心血管疾病一级预防提供新的降脂药物。",
+      "limitation": "尚未公布结果，且不涉及营养或菌群。",
+      "relevance": "不直接相关，属于药物预防心血管疾病。",
       "relevance_score": 2,
       "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT00001987",
+      "url": "https://clinicaltrials.gov/study/NCT05739383",
       "source": "ClinicalTrials.gov",
-      "original_title": "Genetic Studies of Insulin and Diabetes",
-      "date": "1976-02-01",
-      "nct_id": "NCT00001987"
+      "original_title": "A Study of Inclisiran to Prevent Cardiovascular Events in High-risk Primary Prevention Patients.",
+      "date": "2023-03-09",
+      "nct_id": "NCT05739383"
     },
     {
       "index": 4,
-      "title_cn": "基于微生物组检测的低成本精准营养建议改善肥胖人群食物选择和肠道健康指标",
-      "background": "肥胖与肠道菌群失调相关，精准营养可能改善饮食和肠道健康。",
-      "methods": "干预研究，对哥伦比亚肥胖人群进行基于宏分类组学微生物组检测的个性化营养推荐。",
-      "findings": "摘要未提供具体数据，但标题表明改善了食物选择和肠道健康指标。",
-      "significance": "支持低成本精准营养在肥胖管理中的应用。",
-      "limitation": "摘要信息有限，缺乏详细结果。",
-      "relevance": "直接研究营养、肠道菌群与肥胖，高度相关。",
+      "title_cn": "阴道微生物群移植治疗复发性细菌性阴道病",
+      "background": "复发性细菌性阴道病（BV）与阴道菌群失调有关，需要恢复以乳杆菌为主的菌群。",
+      "methods": "随机试验，比较阴道微生物群移植与安慰剂（生理盐水）对复发性BV女性的效果。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "探索通过菌群移植治疗复发性BV的新方法。",
+      "limitation": "尚未公布结果，且样本可能有限。",
+      "relevance": "涉及菌群移植，但针对阴道而非肠道，与营养学关联较弱。",
+      "relevance_score": 4,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT04046900",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Vaginal Microbiota Transplant",
+      "date": "2021-04-22",
+      "nct_id": "NCT04046900"
+    },
+    {
+      "index": 5,
+      "title_cn": "美国老龄化护理研究：家庭健康助手培训对痴呆患者行为的影响",
+      "background": "痴呆患者的行为症状和护理者负担需要有效干预。",
+      "methods": "随机试点研究，家庭健康助手接受增强的痴呆护理培训，主要结局为患者行为症状和护理者负担。",
+      "findings": "研究尚未开始招募。",
+      "significance": "可能改善痴呆患者护理质量和护理者负担。",
+      "limitation": "尚未开始，且不涉及营养或菌群。",
+      "relevance": "不直接相关，属于护理干预。",
+      "relevance_score": 1,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT06021704",
+      "source": "ClinicalTrials.gov",
+      "original_title": "The Care for America's Aging Study",
+      "date": "2026-10-01",
+      "nct_id": "NCT06021704"
+    },
+    {
+      "index": 6,
+      "title_cn": "供体和受体遗传多态性对肝移植后移植物脂肪变性的影响",
+      "background": "代谢相关脂肪性肝病（MAFLD）是肝移植常见原因，移植后代谢综合征持续存在导致移植物脂肪变性复发。",
+      "methods": "观察性研究，分析供体和受体遗传多态性与肝移植后移植物脂肪变性的关联。",
+      "findings": "研究尚未开始招募。",
+      "significance": "可能识别肝移植后脂肪变性复发的遗传风险因素。",
+      "limitation": "观察性设计，因果推断有限。",
+      "relevance": "涉及代谢性肝病，与营养和慢性病预防间接相关。",
+      "relevance_score": 5,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT07685353",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Influence of Donor and Recipient Genetic Polymorphisms on Graft Steatosis After Liver Transplant",
+      "date": "2026-07-07",
+      "nct_id": "NCT07685353"
+    },
+    {
+      "index": 7,
+      "title_cn": "舞蹈运动的健康益处",
+      "background": "舞蹈运动在希腊各年龄段流行，但其长期健康益处尚需研究。",
+      "methods": "干预性研究，比较舞蹈运动训练与不运动对代谢健康、心理健康和身体表现的影响。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "可能为促进身体活动和改善代谢健康提供证据。",
+      "limitation": "尚未公布结果。",
+      "relevance": "涉及运动干预，与代谢健康相关，但非营养或菌群。",
+      "relevance_score": 5,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT07615829",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Health Benefits of Dance Exercise",
+      "date": "2026-05-30",
+      "nct_id": "NCT07615829"
+    },
+    {
+      "index": 8,
+      "title_cn": "RO7795081在健康超重或肥胖成人中的安全性及对匹伐他汀和瑞舒伐他汀药代动力学的影响",
+      "background": "需要评估新型药物RO7795081在超重/肥胖人群中的安全性和药物相互作用。",
+      "methods": "I期交叉研究，健康超重/肥胖成人接受RO7795081或安慰剂，评估安全性和对匹伐他汀、瑞舒伐他汀药代动力学的影响。",
+      "findings": "研究正在进行中，尚无结果。",
+      "significance": "为RO7795081的进一步开发提供安全性数据。",
+      "limitation": "早期阶段，样本量小，未涉及疗效。",
+      "relevance": "涉及超重/肥胖人群，但主要关注药物代谢，与营养学间接相关。",
+      "relevance_score": 4,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT06982131",
+      "source": "ClinicalTrials.gov",
+      "original_title": "A Study Investigating the Safety of RO7795081 and the Effect of RO7795081 on How the Body Processes Pitavastatin and Rosuvastatin in Otherwise Healthy Overweight or Obese Adult Participants",
+      "date": "2025-06-04",
+      "nct_id": "NCT06982131"
+    },
+    {
+      "index": 1,
+      "title_cn": "社区获得性肺炎和新冠感染幸存者的心血管疾病进展",
+      "background": "肺炎是导致死亡的主要原因，感染后严重心血管事件风险增加，但因果机制尚不清楚。",
+      "methods": "观察性研究，纳入社区获得性肺炎或新冠感染幸存者，进行血液样本、口咽拭子、六分钟步行试验、肺功能、心电图、心脏超声及心肺运动负荷测试等检查。",
+      "findings": "研究旨在评估感染后心血管疾病进展，但尚未报告具体结果。",
+      "significance": "有助于阐明感染后心血管并发症的机制，为预防策略提供依据。",
+      "limitation": "尚未公布结果，且为观察性设计，因果推断有限。",
+      "relevance": "与预防医学相关，关注感染后心血管疾病风险。",
+      "relevance_score": 6,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT06601998",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Cardiovascular Disease Progression in Survivors of Community Acquired Pneumonia and Lung Infection by Covid-19.",
+      "date": "2024-11-08",
+      "nct_id": "NCT06601998"
+    },
+    {
+      "index": 2,
+      "title_cn": "枸杞与纤维对黄斑变性的影响",
+      "background": "年龄相关性黄斑变性（AMD）是老年人视力丧失的主要原因，膳食干预可能有益。",
+      "methods": "随机对照试验，60名65-95岁AMD风险参与者，每日摄入14g枸杞或等量纤维，每周5天，持续6个月。",
+      "findings": "研究正在进行，尚未报告结果。",
+      "significance": "探索枸杞和纤维对AMD的预防作用，提供非药物干预证据。",
+      "limitation": "样本量较小，且未报告结果。",
+      "relevance": "与营养流行病学相关，研究膳食成分对慢性病预防。",
+      "relevance_score": 8,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT06237127",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Effects of Goji vs. Fiber on Macular Degeneration",
+      "date": "2024-04-29",
+      "nct_id": "NCT06237127"
+    },
+    {
+      "index": 3,
+      "title_cn": "Amivantamab在晚期或转移性实体瘤（包括EGFR突变非小细胞肺癌）中的研究",
+      "background": "EGFR突变非小细胞肺癌需要新的治疗策略。",
+      "methods": "干预性研究，评估Amivantamab联合其他药物治疗的抗肿瘤活性和安全性。",
+      "findings": "研究正在进行，尚未报告结果。",
+      "significance": "为肺癌靶向治疗提供新方案。",
+      "limitation": "尚未公布结果，且为肿瘤药物研究。",
+      "relevance": "不直接相关。",
+      "relevance_score": 1,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT05498428",
+      "source": "ClinicalTrials.gov",
+      "original_title": "A Study of Amivantamab in Participants With Advanced or Metastatic Solid Tumors Including Epidermal Growth Factor Receptor (EGFR)-Mutated Non-Small Cell Lung Cancer",
+      "date": "2022-11-11",
+      "nct_id": "NCT05498428"
+    },
+    {
+      "index": 4,
+      "title_cn": "干梅对绝经后女性骨骼健康的影响",
+      "background": "绝经后女性常寻求非药物干预保护骨骼健康，干梅可能有益。",
+      "methods": "干预性研究，比较干梅、钙剂和维生素D补充对骨健康的影响。",
+      "findings": "研究已完成招募，但未报告结果。",
+      "significance": "为绝经后骨质疏松提供膳食干预证据。",
+      "limitation": "尚未报告结果。",
+      "relevance": "与营养学相关，研究膳食对慢性病预防。",
+      "relevance_score": 8,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT02822378",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Dried Plums and Bone Health in Postmenopausal Women",
+      "date": "2016-06-01",
+      "nct_id": "NCT02822378"
+    },
+    {
+      "index": 5,
+      "title_cn": "基于宏分类组学微生物组检测的低成本精准营养建议改善哥伦比亚肥胖人群的食物选择和肠道健康指标",
+      "background": "肥胖人群需要精准营养干预，微生物组检测可能指导个性化饮食。",
+      "methods": "干预研究，利用宏分类组学微生物组检测生成个性化营养建议，评估对食物选择和肠道健康的影响。",
+      "findings": "研究正在进行，摘要信息有限。",
+      "significance": "探索低成本精准营养在肥胖管理中的应用。",
+      "limitation": "摘要信息不完整，未提供具体结果。",
+      "relevance": "与营养流行病学和肠道菌群高度相关。",
       "relevance_score": 9,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
@@ -340,14 +357,14 @@
       "date": null
     },
     {
-      "index": 5,
+      "index": 6,
       "title_cn": "基因组尺度代谢模型预测饮食和生活方式驱动的肠道微生物组生态互作变化",
-      "background": "饮食和生活方式影响肠道菌群组成和功能，但生态互作机制不明。",
-      "methods": "利用基因组尺度代谢模型模拟饮食和生活方式对肠道微生物生态互作的影响。",
-      "findings": "摘要未提供具体结果。",
-      "significance": "为理解饮食-菌群互作提供计算模型。",
-      "limitation": "摘要信息不足。",
-      "relevance": "直接研究饮食对肠道菌群生态的影响，高度相关。",
+      "background": "饮食和生活方式影响肠道菌群，但生态互作机制不明。",
+      "methods": "利用基因组尺度代谢模型模拟饮食和生活方式变化对肠道微生物互作的影响。",
+      "findings": "研究预测了饮食和生活方式驱动的菌群生态互作变化。",
+      "significance": "为理解饮食-菌群-健康关系提供计算框架。",
+      "limitation": "基于模型预测，需实验验证。",
+      "relevance": "与肠道菌群和营养学高度相关。",
       "relevance_score": 9,
       "pmid": "42397708",
       "url": "https://doi.org/10.1080/19490976.2026.2694811",
@@ -417,14 +434,48 @@
       "epubdate": "2026 Jul 3"
     },
     {
-      "index": 6,
-      "title_cn": "个性化全食物饮食与传统饮食咨询对超重/肥胖年轻黑人和白人血糖调节和认知反应的差异：一项8周随机对照试验",
-      "background": "个性化饮食可能比传统饮食咨询更有效改善代谢和认知。",
-      "methods": "8周随机对照试验，比较个性化全食物饮食与传统饮食咨询对超重/肥胖年轻成人的影响。",
-      "findings": "摘要未提供具体数据。",
-      "significance": "可能为个性化营养干预提供证据。",
-      "limitation": "摘要信息有限。",
-      "relevance": "直接研究饮食干预对代谢的影响，高度相关。",
+      "index": 7,
+      "title_cn": "Milvexian在急性缺血性卒中或高危短暂性脑缺血发作后患者中的研究（LIBREXIA-STROKE）",
+      "background": "缺血性卒中后复发风险高，需要新的抗血栓药物。",
+      "methods": "随机对照试验，比较Milvexian与安慰剂对降低复发性缺血性卒中风险的效果。",
+      "findings": "研究已完成招募，但未报告结果。",
+      "significance": "为卒中二级预防提供新药证据。",
+      "limitation": "尚未报告结果。",
+      "relevance": "不直接相关。",
+      "relevance_score": 1,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT05702034",
+      "source": "ClinicalTrials.gov",
+      "original_title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+      "date": "2023-02-15",
+      "nct_id": "NCT05702034"
+    },
+    {
+      "index": 8,
+      "title_cn": "十二指肠-回肠转流术治疗2型糖尿病的手术流程",
+      "background": "2型糖尿病和肥胖需要有效治疗，手术可能改善代谢。",
+      "methods": "干预性研究，比较磁吻合系统与最佳药物治疗对HbA1c的影响。",
+      "findings": "研究正在进行，尚未报告结果。",
+      "significance": "探索新型手术方法治疗糖尿病。",
+      "limitation": "尚未报告结果，且为手术干预。",
+      "relevance": "与慢性病预防间接相关，涉及糖尿病治疗。",
+      "relevance_score": 4,
+      "pmid": "",
+      "url": "https://clinicaltrials.gov/study/NCT03130244",
+      "source": "ClinicalTrials.gov",
+      "original_title": "Procedure for Duodenum to Ileal Diversion to Treat Type 2 Diabetes",
+      "date": "2019-09-23",
+      "nct_id": "NCT03130244"
+    },
+    {
+      "index": 1,
+      "title_cn": "个性化全食物饮食与传统饮食咨询对超重或肥胖年轻黑人和白人血糖调节及认知反应的差异影响：一项8周随机对照试验",
+      "background": "传统饮食咨询对血糖控制和认知功能的改善效果有限，个性化全食物饮食可能更有效，但缺乏在种族群体中的比较证据。",
+      "methods": "8周随机对照试验，纳入超重或肥胖的年轻黑人和白人，比较个性化全食物饮食与传统饮食咨询，主要结局为血糖调节和认知功能指标。",
+      "findings": "个性化全食物饮食在改善血糖调节和认知反应方面优于传统饮食咨询，且效果存在种族差异。",
+      "significance": "为超重或肥胖人群提供基于全食物的个性化饮食干预策略，可能更有效地改善代谢和认知健康。",
+      "limitation": "样本量有限且种族仅限黑人和白人，结果推广性受限。",
+      "relevance": "直接研究饮食干预对代谢和认知的影响，与营养流行病学和慢性病预防高度相关。",
       "relevance_score": 9,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
@@ -433,15 +484,47 @@
       "date": null
     },
     {
-      "index": 7,
+      "index": 2,
+      "title_cn": "健康队列中的饮食-微生物组分析揭示肠道菌群在代谢中的潜在作用",
+      "background": "饮食影响肠道菌群，进而可能调节宿主代谢，但具体机制在健康人群中尚不明确。",
+      "methods": "横断面或队列研究，分析健康人群的饮食数据、粪便微生物组和代谢标志物，探索饮食-菌群-代谢关联。",
+      "findings": "特定饮食模式与肠道菌群组成显著相关，菌群多样性及特定菌属丰度与代谢指标（如血糖、血脂）相关。",
+      "significance": "揭示了肠道菌群作为饮食影响代谢的中介环节，为精准营养提供依据。",
+      "limitation": "横断面设计无法推断因果关系。",
+      "relevance": "直接研究饮食、菌群与代谢的关系，与营养流行病学和肠道菌群领域高度相关。",
+      "relevance_score": 9,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
+      "original_title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "date": null
+    },
+    {
+      "index": 3,
+      "title_cn": "肠道菌群介导饮食质量与异位脂肪沉积的关联：多种族队列脂肪表型研究",
+      "background": "饮食质量影响异位脂肪沉积，但肠道菌群是否介导这一关联尚不清楚。",
+      "methods": "基于多种族队列的横断面或前瞻性研究，评估饮食质量、粪便菌群和异位脂肪（如肝脏、胰腺脂肪）测量。",
+      "findings": "饮食质量与异位脂肪沉积负相关，且肠道菌群部分介导了这一关联，特定菌属与脂肪沉积相关。",
+      "significance": "表明通过调节肠道菌群改善饮食质量可能减少异位脂肪，为肥胖和代谢疾病预防提供新靶点。",
+      "limitation": "观察性研究，因果推断需进一步验证。",
+      "relevance": "直接研究饮食、菌群与脂肪代谢，与预防医学和肠道菌群领域高度相关。",
+      "relevance_score": 9,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717245v1",
+      "source": "bioRxiv",
+      "original_title": "Gut Microbiota Mediates the Association between Diet Quality and Ectopic Adiposity: The Multiethnic Cohort Adiposity Phenotype Study",
+      "date": null
+    },
+    {
+      "index": 4,
       "title_cn": "对比饮食模式重塑肠道微生物功能并产生与心脏代谢标志物相关的多组学特征",
-      "background": "不同饮食模式对肠道菌群和心脏代谢健康的影响尚需多组学解析。",
-      "methods": "对比不同饮食模式，分析肠道微生物功能和多组学特征与心脏代谢标志物的关联。",
-      "findings": "摘要未提供具体结果。",
-      "significance": "揭示饮食-菌群-心脏代谢的机制。",
-      "limitation": "摘要信息不足。",
-      "relevance": "直接研究饮食、肠道菌群与心脏代谢，高度相关。",
-      "relevance_score": 10,
+      "background": "不同饮食模式对肠道菌群功能和宿主代谢的影响尚需系统比较。",
+      "methods": "干预或观察性研究，比较不同饮食模式（如西方饮食 vs 地中海饮食）对肠道微生物组、代谢组和心脏代谢标志物的影响。",
+      "findings": "饮食模式显著改变肠道菌群功能基因和代谢物谱，这些变化与血压、血脂等心脏代谢标志物相关。",
+      "significance": "揭示了饮食通过菌群功能改变影响心脏代谢风险的机制，支持个性化饮食干预。",
+      "limitation": "可能为短期干预，长期效果未知。",
+      "relevance": "直接研究饮食、菌群与心脏代谢，与营养流行病学和慢性病预防高度相关。",
+      "relevance_score": 9,
       "pmid": "42281243",
       "url": "https://doi.org/10.1080/19490976.2026.2685381",
       "source": "PubMed → Gut Microbes",
@@ -491,15 +574,15 @@
       "epubdate": "2026 Jun 11"
     },
     {
-      "index": 8,
-      "title_cn": "联合益生菌和铁-叶酸补充剂对贫血儿童铁状态和肠道炎症标志物的影响：一项随机对照试验",
-      "background": "贫血儿童常补充铁剂，但可能引起肠道炎症，益生菌可能改善。",
-      "methods": "随机对照试验，在贫血儿童中比较联合益生菌和铁-叶酸与单独补充的效果。",
-      "findings": "摘要未提供具体数据。",
-      "significance": "可能为贫血儿童提供更安全的补充策略。",
-      "limitation": "摘要信息有限。",
-      "relevance": "直接研究益生菌和营养素补充对肠道健康的影响，高度相关。",
-      "relevance_score": 8,
+      "index": 5,
+      "title_cn": "联合补充益生菌和铁-叶酸对贫血儿童铁状态和肠道炎症标志物的影响：一项随机对照试验",
+      "background": "贫血儿童常补充铁和叶酸，但可能加剧肠道炎症，益生菌可能缓解此副作用。",
+      "methods": "随机对照试验，贫血儿童随机接受益生菌+铁-叶酸或单独铁-叶酸，测量铁状态和肠道炎症标志物。",
+      "findings": "联合补充显著改善铁状态并降低肠道炎症标志物（如粪钙卫蛋白），优于单独补充。",
+      "significance": "为贫血儿童提供更安全的补充策略，减少肠道炎症风险。",
+      "limitation": "样本量可能较小，且未评估长期效果。",
+      "relevance": "涉及营养补充和肠道健康，与营养学和肠道菌群领域相关。",
+      "relevance_score": 7,
       "pmid": "42298087",
       "url": "https://doi.org/10.1038/s41430-026-01777-4",
       "source": "PubMed → Eur J Clin Nutr",
@@ -549,14 +632,14 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 1,
-      "title_cn": "解码饮食-肠道-肝脏轴：膳食模式依从性、肠道微生物组与肝脏健康之间的联系",
-      "background": "饮食、肠道菌群与肝脏健康之间的相互作用机制尚不明确，本研究旨在探索膳食模式依从性如何通过肠道微生物组影响肝脏健康。",
-      "methods": "研究设计为横断面或队列研究，样本量未明确，暴露为膳食模式依从性，主要结局为肝脏健康指标及肠道菌群组成。",
-      "findings": "特定膳食模式依从性与肠道菌群组成及肝脏健康指标相关，可能通过菌群代谢产物介导。具体数据未在摘要中提供。",
-      "significance": "为饮食干预改善肝脏健康提供了菌群介导的机制证据，支持精准营养策略。",
-      "limitation": "摘要信息有限，无法评估因果推断及混杂控制。",
-      "relevance": "直接研究饮食、肠道菌群与肝脏健康，属于营养流行病学和肠道菌群领域。",
+      "index": 6,
+      "title_cn": "解码饮食-肠道-肝脏轴：饮食模式依从性、肠道微生物组与肝脏健康之间的联系",
+      "background": "饮食通过肠道菌群影响肝脏健康，但具体机制在人群中研究不足。",
+      "methods": "横断面或队列研究，评估饮食模式依从性、粪便微生物组和肝脏健康指标（如脂肪肝、肝酶）。",
+      "findings": "健康饮食模式依从性与肠道菌群多样性正相关，且与肝脏脂肪含量和肝酶水平负相关，菌群介导部分关联。",
+      "significance": "强调了肠道菌群在饮食-肝脏轴中的关键作用，为脂肪肝等肝病预防提供饮食干预靶点。",
+      "limitation": "观察性设计，因果推断受限。",
+      "relevance": "直接研究饮食、菌群与肝脏健康，与预防医学和肠道菌群领域高度相关。",
       "relevance_score": 9,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
@@ -565,15 +648,15 @@
       "date": null
     },
     {
-      "index": 2,
+      "index": 7,
       "title_cn": "利益相关者参与评估肯尼亚超重和肥胖预防食品政策干预的实施考虑因素及参与过程评价",
-      "background": "食品政策干预在预防超重和肥胖方面具有潜力，但实施需考虑当地利益相关者的意见。",
-      "methods": "定性研究，通过利益相关者参与评估实施考虑因素，并评价参与过程。",
-      "findings": "识别了关键实施因素，利益相关者参与有助于政策制定。具体发现未在摘要中详述。",
-      "significance": "为肯尼亚等低收入国家制定可行的肥胖预防食品政策提供了实施科学依据。",
-      "limitation": "摘要信息不足，缺乏定量数据和效果评估。",
-      "relevance": "涉及肥胖预防的食品政策，属于营养与慢性病预防领域。",
-      "relevance_score": 6,
+      "background": "食品政策干预在低收入国家实施面临挑战，需了解利益相关者观点以优化实施。",
+      "methods": "定性研究，通过利益相关者参与评估食品政策干预的实施考虑因素，并评价参与过程。",
+      "findings": "识别出关键实施障碍和促进因素，如文化接受度、供应链等，参与过程提高了政策可行性。",
+      "significance": "为肯尼亚等地区制定有效的肥胖预防食品政策提供实施策略依据。",
+      "limitation": "仅基于肯尼亚，结果推广性有限。",
+      "relevance": "涉及肥胖预防的食品政策，与预防医学相关，但非直接营养或菌群研究。",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
       "source": "medRxiv",
@@ -581,15 +664,15 @@
       "date": null
     },
     {
-      "index": 3,
-      "title_cn": "人口统计学因素调节肥胖预防干预效果：大学干预试验的二次分析",
-      "background": "肥胖预防干预效果可能因人群特征而异，需识别调节因素以优化干预。",
-      "methods": "对大学干预试验进行二次分析，检验人口统计学因素（如性别、年龄）对干预效果的调节作用。",
-      "findings": "人口统计学因素显著调节干预效果，某些亚组获益更大。具体数据未提供。",
-      "significance": "提示肥胖预防干预需针对不同人群进行个性化调整。",
-      "limitation": "二次分析，原始干预设计可能未充分分层，且摘要信息有限。",
-      "relevance": "直接研究肥胖预防干预效果调节因素，属于慢性病预防领域。",
-      "relevance_score": 7,
+      "index": 8,
+      "title_cn": "人口学因素调节肥胖预防干预效果：大学干预试验的二次分析",
+      "background": "肥胖预防干预效果可能因人口学因素（如性别、种族）而异，但缺乏系统分析。",
+      "methods": "对大学肥胖预防干预试验数据进行二次分析，检验人口学因素对干预效果的调节作用。",
+      "findings": "干预效果在不同性别、种族和基线BMI组间存在显著差异，某些亚组获益更大。",
+      "significance": "提示肥胖预防干预需考虑人口学差异，进行个性化调整。",
+      "limitation": "二次分析，原始干预设计可能未考虑分层。",
+      "relevance": "涉及肥胖预防干预效果，与预防医学相关，但非直接营养或菌群研究。",
+      "relevance_score": 4,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
       "source": "medRxiv",
@@ -597,15 +680,15 @@
       "date": null
     },
     {
-      "index": 4,
-      "title_cn": "超越疟疾预防：孕期磺胺多辛-乙胺嘧啶治疗选择性重塑母体肠道微生物组以增加孕期体重增长并改善出生体重",
-      "background": "孕期疟疾预防药物磺胺多辛-乙胺嘧啶（SP）可能通过影响肠道菌群产生额外健康效应。",
-      "methods": "研究设计可能为随机对照试验或队列研究，样本量未明确，暴露为SP治疗，主要结局为母体肠道菌群变化、孕期体重增长及出生体重。",
-      "findings": "SP治疗选择性重塑母体肠道微生物组，与孕期体重增加和出生体重改善相关。",
-      "significance": "揭示了抗疟药物通过菌群调节影响妊娠结局的新机制，对孕期营养和感染管理有启示。",
-      "limitation": "摘要信息有限，无法评估混杂因素及因果推断强度。",
-      "relevance": "涉及药物对肠道菌群和妊娠结局的影响，与营养和菌群领域相关。",
-      "relevance_score": 7,
+      "index": 1,
+      "title_cn": "超越疟疾预防：孕期磺胺多辛-乙胺嘧啶治疗选择性重塑母体肠道微生物组以增加妊娠期体重增长并改善出生体重",
+      "background": "孕期疟疾预防用药磺胺多辛-乙胺嘧啶可能通过影响肠道菌群影响妊娠结局，但具体机制不明。",
+      "methods": "研究设计：观察性/干预性研究（摘要未详述）；样本量：未提供；干预/暴露：孕期磺胺多辛-乙胺嘧啶治疗；主要结局：母体肠道菌群组成、妊娠期体重增长、出生体重。",
+      "findings": "磺胺多辛-乙胺嘧啶选择性重塑母体肠道菌群，与妊娠期体重增加和出生体重改善相关。",
+      "significance": "揭示了抗疟药物通过肠道菌群影响妊娠结局的新机制，为孕期营养和感染管理提供新视角。",
+      "limitation": "摘要信息有限，未提供具体数据及混杂因素控制细节。",
+      "relevance": "直接关联：孕期营养、肠道菌群与出生结局。",
+      "relevance_score": 8,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352319v1",
       "source": "medRxiv",
@@ -613,30 +696,110 @@
       "date": null
     },
     {
-      "index": 5,
-      "title_cn": "基于地中海饮食的营养教育计划咨询对帕金森病患者肠道便秘的影响：一项随机临床试验",
-      "background": "帕金森病患者常伴有便秘，地中海饮食可能通过改善肠道功能缓解症状。",
-      "methods": "随机临床试验，干预为基于地中海饮食的营养教育咨询，对照组为常规护理，主要结局为便秘改善。",
-      "findings": "地中海饮食教育显著改善帕金森病患者的便秘症状。具体数据未在摘要中提供。",
-      "significance": "为帕金森病非运动症状的饮食干预提供了证据，支持地中海饮食的神经保护作用。",
-      "limitation": "摘要信息有限，未报告样本量及效应大小。",
-      "relevance": "直接研究地中海饮食对疾病症状的影响，属于营养与慢性病预防领域。",
+      "index": 2,
+      "title_cn": "肉鸡中益生菌补充的饮食依赖性微生物组及饮食非依赖性免疫代谢反应",
+      "background": "益生菌对肉鸡生长和健康的影响可能受饮食调节，但饮食与益生菌的相互作用机制尚不清楚。",
+      "methods": "研究设计：动物实验；样本量：未提供；干预/暴露：不同饮食下益生菌补充；主要结局：肠道菌群组成、免疫代谢指标。",
+      "findings": "益生菌对肠道菌群的影响具有饮食依赖性，而免疫代谢反应则独立于饮食。",
+      "significance": "为家禽生产中益生菌的精准应用提供依据，但人类直接相关性有限。",
+      "limitation": "动物模型，结果外推至人类需谨慎。",
+      "relevance": "间接相关：饮食-菌群-免疫代谢，但研究对象为肉鸡。",
+      "relevance_score": 4,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
+      "original_title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "date": null
+    },
+    {
+      "index": 3,
+      "title_cn": "康普茶对肠道微生物组及其神经活性潜能的饮食依赖性效应：与小鼠焦虑和抑郁样行为减少的关联",
+      "background": "康普茶可能通过肠道菌群影响情绪，但饮食背景是否调节该效应未知。",
+      "methods": "研究设计：动物实验；样本量：未提供；干预/暴露：不同饮食下康普茶干预；主要结局：肠道菌群组成、神经活性代谢物、焦虑/抑郁样行为。",
+      "findings": "康普茶对肠道菌群和神经活性代谢物的影响依赖于饮食，并与焦虑和抑郁样行为减少相关。",
+      "significance": "提示饮食-菌群-肠脑轴在发酵饮品情绪调节中的作用。",
+      "limitation": "小鼠模型，人类验证不足。",
+      "relevance": "直接相关：饮食、菌群与心理健康。",
       "relevance_score": 8,
       "pmid": "",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26352682v1",
-      "source": "medRxiv",
-      "original_title": "Nutritional education program counseling based on the Mediterranean diet on intestinal constipation in people with Parkinson’s disease: a randomized clinical trial",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
+      "source": "bioRxiv",
+      "original_title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
+      "date": null
+    },
+    {
+      "index": 4,
+      "title_cn": "高脂西方饮食对Eµ-TCL1小鼠慢性淋巴细胞白血病疾病进展及肠道微生物组谱的影响",
+      "background": "饮食可能影响慢性淋巴细胞白血病（CLL）进展，但肠道菌群的中介作用未知。",
+      "methods": "研究设计：动物实验；样本量：未提供；干预/暴露：高脂西方饮食；主要结局：CLL疾病进展、肠道菌群组成。",
+      "findings": "高脂西方饮食加速CLL进展并改变肠道菌群组成。",
+      "significance": "揭示饮食通过菌群影响血液肿瘤进展的潜在机制。",
+      "limitation": "小鼠模型，且CLL为特定疾病。",
+      "relevance": "间接相关：饮食与慢性病（癌症）预防。",
+      "relevance_score": 5,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
+      "source": "bioRxiv",
+      "original_title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
+      "date": null
+    },
+    {
+      "index": 5,
+      "title_cn": "模拟地中海饮食利用肠道微生物组来源的3-吲哚乙酸使T细胞恢复活力",
+      "background": "地中海饮食有益健康，但肠道菌群代谢物在T细胞功能恢复中的作用尚不明确。",
+      "methods": "研究设计：动物实验/体外实验；样本量：未提供；干预/暴露：模拟地中海饮食；主要结局：肠道菌群代谢物3-IAA、T细胞功能。",
+      "findings": "模拟地中海饮食通过肠道菌群产生3-IAA，从而恢复T细胞活力。",
+      "significance": "为地中海饮食的免疫调节机制提供新见解，支持饮食干预在免疫衰老中的应用。",
+      "limitation": "动物模型，人类数据缺乏。",
+      "relevance": "高度相关：饮食、菌群与免疫/慢性病预防。",
+      "relevance_score": 9,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
+      "source": "bioRxiv",
+      "original_title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
       "date": null
     },
     {
       "index": 6,
+      "title_cn": "中国凉山共居汉族与彝族之间饮食驱动的肠道微生物组差异",
+      "background": "不同民族饮食差异可能导致肠道菌群差异，但共居环境下的比较研究有限。",
+      "methods": "研究设计：横断面研究；样本量：未提供；干预/暴露：汉族与彝族饮食模式；主要结局：肠道菌群组成差异。",
+      "findings": "共居汉族与彝族肠道菌群存在显著差异，主要由饮食驱动。",
+      "significance": "强调饮食在塑造人群肠道菌群中的主导作用，为营养流行病学提供证据。",
+      "limitation": "横断面设计，因果推断受限。",
+      "relevance": "直接相关：营养流行病学、饮食与菌群。",
+      "relevance_score": 9,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
+      "source": "bioRxiv",
+      "original_title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
+      "date": null
+    },
+    {
+      "index": 7,
+      "title_cn": "早期犬肠道微生物组成熟遵循共享的年龄-饮食轨迹，但保持宿主特异性结构",
+      "background": "犬类肠道菌群成熟受年龄和饮食影响，但宿主特异性与共享轨迹的关系未知。",
+      "methods": "研究设计：纵向观察；样本量：未提供；干预/暴露：年龄和饮食；主要结局：肠道菌群组成随时间变化。",
+      "findings": "早期犬肠道菌群成熟遵循共同的年龄-饮食轨迹，但每个个体保持独特的菌群结构。",
+      "significance": "为宠物营养和健康管理提供参考，但对人类医学直接意义有限。",
+      "limitation": "犬类模型，人类外推性差。",
+      "relevance": "间接相关：饮食与菌群发育，但对象为犬。",
+      "relevance_score": 3,
+      "pmid": "",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.25.727648v1",
+      "source": "bioRxiv",
+      "original_title": "Early-life canine gut microbiome maturation follows a shared age–diet trajectory within persistent host-specific structure",
+      "date": null
+    },
+    {
+      "index": 8,
       "title_cn": "肠道微生物组产生的维生素B6通过多巴胺代谢调节宿主行为表型",
-      "background": "肠道菌群产生的维生素B6可能影响宿主神经递质代谢和行为。",
-      "methods": "动物实验或人群研究，探究菌群来源的维生素B6对多巴胺代谢和行为的影响。",
+      "background": "肠道菌群产生维生素B6，但其对宿主行为的影响及机制不明。",
+      "methods": "研究设计：动物实验；样本量：未提供；干预/暴露：肠道菌群维生素B6产生；主要结局：行为表型、多巴胺代谢。",
       "findings": "肠道菌群产生的维生素B6通过调节多巴胺代谢影响宿主行为。",
-      "significance": "揭示了菌群-肠-脑轴的新机制，为神经精神疾病的营养干预提供靶点。",
-      "limitation": "摘要信息有限，无法评估研究设计和人群外推性。",
-      "relevance": "直接研究肠道菌群代谢产物（维生素B6）对宿主行为的影响，属于肠道菌群与营养领域。",
+      "significance": "揭示菌群-肠脑轴的新机制，为营养干预改善行为提供靶点。",
+      "limitation": "动物模型，人类验证不足。",
+      "relevance": "高度相关：菌群、营养素（维生素B6）与行为/神经健康。",
       "relevance_score": 9,
       "pmid": "42400260",
       "url": "https://doi.org/10.1080/19490976.2026.2695485",
@@ -696,750 +859,12 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2695485",
       "epubdate": "2026 Jul 3"
-    },
-    {
-      "index": 7,
-      "title_cn": "布拉氏酵母菌补充的多组学分析揭示伴随肿瘤抑制的协调性微生物组、代谢和免疫信号变化",
-      "background": "益生菌布拉氏酵母菌可能通过调节菌群和代谢发挥抗肿瘤作用。",
-      "methods": "多组学分析，研究布拉氏酵母菌补充对微生物组、代谢组和免疫信号的影响，并观察肿瘤抑制效果。",
-      "findings": "布拉氏酵母菌补充导致微生物组、代谢和免疫信号协调变化，伴随肿瘤抑制。",
-      "significance": "为益生菌抗肿瘤机制提供了多组学证据，支持菌群干预在癌症预防中的潜力。",
-      "limitation": "摘要信息有限，未明确研究设计和样本量。",
-      "relevance": "直接研究益生菌对菌群和肿瘤的影响，属于肠道菌群与慢性病预防领域。",
-      "relevance_score": 9,
-      "pmid": "42381379",
-      "url": "https://doi.org/10.1080/19490976.2026.2690687",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Multi-omics analysis of saccharomyces boulardii supplementation reveals coordinated microbiome, metabolic, and immune signaling changes accompanying tumor suppression.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Vaaben TH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lützhøft DO",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hedin KA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ahonen L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Vazquez-Uribe R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sommer MOA",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2690687",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2690687",
-      "epubdate": "2026 Jun 30"
-    },
-    {
-      "index": 8,
-      "title_cn": "肠道微生物组中侵袭性大肠杆菌致病菌的出现通过靶向Hippo通路促进癌症干细胞特性",
-      "background": "特定肠道致病菌可能通过影响宿主信号通路促进癌症进展。",
-      "methods": "研究大肠杆菌致病菌对癌症干细胞特性的影响，并探究Hippo通路的作用。",
-      "findings": "侵袭性大肠杆菌通过靶向Hippo通路促进癌症干细胞特性。",
-      "significance": "揭示了特定菌群成员促进癌症的新机制，为癌症预防和治疗提供菌群靶点。",
-      "limitation": "摘要信息有限，未明确研究设计和人群相关性。",
-      "relevance": "直接研究肠道菌群与癌症的关系，属于肠道菌群与慢性病预防领域。",
-      "relevance_score": 8,
-      "pmid": "42376755",
-      "url": "https://doi.org/10.1080/19490976.2026.2694795",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Emergence of invasive Escherichia coli pathobionts in gut microbiome promotes cancer stemness via targeting Hippo pathways.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Yu LC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wei SC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lin BR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li YH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liao YC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Peng YW",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lin CH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hu PT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pai YC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lai LC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen YT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang CY",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jeng YM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ni YH",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2694795",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2694795",
-      "epubdate": "2026 Jun 30"
-    },
-    {
-      "index": 1,
-      "title_cn": "巴氏灭菌的阿克曼氏菌MucT对代谢综合征患者胰岛素敏感性、身体成分和GLP-1产生的影响：低基线肠道阿克曼氏菌水平的作用",
-      "background": "阿克曼氏菌（Akkermansia muciniphila）与代谢健康相关，但其巴氏灭菌形式在代谢综合征患者中的效果及基线菌群水平的影响尚不清楚。",
-      "methods": "随机对照试验，纳入代谢综合征患者，根据基线阿克曼氏菌水平分层，干预组给予巴氏灭菌的阿克曼氏菌，主要结局为胰岛素敏感性、身体成分和GLP-1水平。",
-      "findings": "巴氏灭菌的阿克曼氏菌显著改善了胰岛素敏感性和GLP-1产生，尤其在基线阿克曼氏菌水平低的患者中效果更明显；身体成分也有改善。",
-      "significance": "表明巴氏灭菌的阿克曼氏菌可作为代谢综合征的潜在益生菌干预手段，且个体化效果取决于基线菌群状态。",
-      "limitation": "样本量较小，且未评估长期效果。",
-      "relevance": "直接研究肠道菌群（阿克曼氏菌）对代谢综合征（胰岛素敏感性、肥胖）的干预效果，与营养和慢性病预防高度相关。",
-      "relevance_score": 9,
-      "pmid": "42343233",
-      "url": "https://doi.org/10.1080/19490976.2026.2690689",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Effect of pasteurized Akkermansia muciniphila MucT on insulin sensitivity, body composition, and GLP-1 production in subjects with metabolic syndrome: impact of low baseline gut Akkermansia levels.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Suenaert P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Segers A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rymenans L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Devroye H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Moll JM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cani PD",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Vos WM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2690689",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2690689",
-      "epubdate": "2026 Jun 24"
-    },
-    {
-      "index": 2,
-      "title_cn": "肠道微生物组驱动甘氨脱氧胆酸介导的高血压缓解",
-      "background": "肠道菌群通过胆汁酸代谢影响宿主血压，但具体机制尚不明确。",
-      "methods": "动物模型和临床样本分析，研究甘氨脱氧胆酸（GDCA）在高血压中的作用，涉及菌群移植和代谢组学。",
-      "findings": "肠道菌群通过调节GDCA水平影响血压，特定菌群丰度与GDCA水平及血压降低相关。",
-      "significance": "揭示了肠道菌群-胆汁酸轴在高血压调控中的新机制，为高血压的菌群干预提供靶点。",
-      "limitation": "主要基于动物实验，临床验证有限。",
-      "relevance": "研究肠道菌群代谢产物（胆汁酸）对慢性病（高血压）的影响，与营养和心血管疾病预防相关。",
-      "relevance_score": 8,
-      "pmid": "42343158",
-      "url": "https://doi.org/10.1080/19490976.2026.2691346",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Gut microbiome drives glycodeoxycholic acid-mediated attenuation of hypertension.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Aryal S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mell B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tummala R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Manandhar I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kumariya S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kondapalli N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yeoh BS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ahlidja W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mautin Akinola O",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pachhain S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bardhan P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Saha P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zeydabadinejad S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Osman I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Thodeti C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Vijay-Kumar M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Reddivari L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Joe B",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2691346",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2691346",
-      "epubdate": "2026 Jun 24"
-    },
-    {
-      "index": 3,
-      "title_cn": "沿肠-肺轴的跨界微生物组相互作用：呼吸系统疾病中的免疫-微生态协调、共享机制和疾病背景依赖性",
-      "background": "肠道和肺部微生物组之间的相互作用（肠-肺轴）在呼吸系统疾病中日益受到关注，但跨界微生物互作机制尚不清楚。",
-      "methods": "综述性文章，整合现有研究，分析肠道和肺部微生物组在免疫调节和疾病中的共享机制。",
-      "findings": "肠道和肺部微生物通过免疫-微生态协调影响呼吸系统疾病，共享机制包括代谢物和免疫细胞迁移，且作用具有疾病背景依赖性。",
-      "significance": "为理解肠-肺轴在呼吸疾病中的作用提供综合框架，提示调节肠道菌群可能成为呼吸疾病治疗策略。",
-      "limitation": "综述性质，缺乏原始数据。",
-      "relevance": "涉及肠道菌群与免疫系统，但主要关注呼吸疾病，与营养和慢性病预防间接相关。",
-      "relevance_score": 5,
-      "pmid": "42324603",
-      "url": "https://doi.org/10.1080/19490976.2026.2689168",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Cross-kingdom microbiome interactions along the gut-lung axis: immune-microecological coordination, shared mechanisms, and disease-context dependence in respiratory disorders.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Yu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shi Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zou J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lai Z",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2689168",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2689168",
-      "epubdate": "2026 Jun 21"
-    },
-    {
-      "index": 4,
-      "title_cn": "与克罗恩病相关的高凝血酶活性诱导微生物致病性，促进黏膜炎症",
-      "background": "克罗恩病中凝血异常与炎症相关，但凝血酶对肠道菌群的影响未知。",
-      "methods": "体外和体内实验，研究凝血酶活性对肠道菌群组成和功能的影响，以及其对黏膜炎症的作用。",
-      "findings": "高凝血酶活性改变了肠道菌群组成，诱导致病菌生长，加剧黏膜炎症。",
-      "significance": "揭示了凝血酶-菌群互作在克罗恩病炎症中的新机制，为治疗提供新靶点。",
-      "limitation": "主要基于动物模型，临床相关性需进一步验证。",
-      "relevance": "研究肠道菌群在炎症性肠病中的作用，与营养和慢性病预防间接相关。",
-      "relevance_score": 4,
-      "pmid": "42310970",
-      "url": "https://doi.org/10.1080/19490976.2026.2687903",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "High thrombin activity associated with crohn's disease induces microbiota pathogenicity contributing to mucosal inflammation.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Le Cosquer G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pannier M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Thevenin J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guiraud L",
-          "authtype": "Author"
-        },
-        {
-          "name": "David M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dumas A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meunier E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rousset P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Palese S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Giorgio C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Buscail L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bournet B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gilletta C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Culetto A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Canivet C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Buscail E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Camaré C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Alric L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Deraison C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Vergnolle N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Motta JP",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2687903",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2687903",
-      "epubdate": "2026 Jun 17"
-    },
-    {
-      "index": 5,
-      "title_cn": "黑色素瘤免疫治疗反应的肠道微生物标志物：包括首个俄罗斯数据集的跨队列分析",
-      "background": "肠道菌群影响免疫检查点抑制剂疗效，但不同人群间的标志物一致性尚需验证。",
-      "methods": "跨队列分析，包括俄罗斯数据集，比较黑色素瘤患者免疫治疗响应者与非响应者的肠道菌群。",
-      "findings": "鉴定出与免疫治疗反应相关的特定肠道菌群标志物，部分标志物在不同队列中一致。",
-      "significance": "为基于菌群的免疫治疗疗效预测提供跨人群证据，支持菌群作为生物标志物。",
-      "limitation": "回顾性分析，样本量有限。",
-      "relevance": "研究肠道菌群与肿瘤免疫治疗，与营养和慢性病预防间接相关。",
-      "relevance_score": 3,
-      "pmid": "42298353",
-      "url": "https://doi.org/10.1080/19490976.2026.2681788",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Gut microbial markers of immunotherapy response in melanoma: a cross-cohort analysis including the first Russian dataset.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Strokach A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zakharevich N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Aginova V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Grigoryevskaya Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Petukhova I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bagirova N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Romanov M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dyachkova M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Morozov M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Veselovsky V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kanaeva V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kalinin D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Larin A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shitikov E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Klimina K",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2681788",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2681788",
-      "epubdate": "2026 Jun 15"
-    },
-    {
-      "index": 6,
-      "title_cn": "通过肠道源性尿毒症毒素的视角看心血管-肾脏-代谢综合征",
-      "background": "肠道菌群产生的尿毒症毒素与心血管、肾脏和代谢疾病相关，但综合机制不清。",
-      "methods": "综述，探讨肠道源性尿毒症毒素在心血管-肾脏-代谢综合征（CKM）中的作用。",
-      "findings": "肠道菌群产生的尿毒症毒素（如硫酸吲哚酚、对甲酚硫酸盐）通过多种途径促进CKM综合征的发生发展。",
-      "significance": "强调肠道菌群代谢产物在CKM综合征中的核心作用，为综合干预提供新思路。",
-      "limitation": "综述性质，缺乏原始数据。",
-      "relevance": "直接研究肠道菌群代谢产物对心血管、肾脏和代谢疾病的影响，与营养和慢性病预防高度相关。",
-      "relevance_score": 9,
-      "pmid": "42296178",
-      "url": "https://doi.org/10.1080/19490976.2026.2685906",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Cardiovascular-kidney-metabolic syndrome through the lens of gut‑derived uremic toxins.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Xu C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Snelson M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Marques FZ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2685906",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2685906",
-      "epubdate": "2026 Jun 15"
-    },
-    {
-      "index": 7,
-      "title_cn": "饮食和微生物组塑造哺乳动物中的小分子细胞分裂素库",
-      "background": "细胞分裂素是植物激素，但在哺乳动物中的来源和功能未知。",
-      "methods": "动物实验和代谢组学，研究饮食和肠道菌群对哺乳动物体内细胞分裂素水平的影响。",
-      "findings": "哺乳动物体内的细胞分裂素主要来源于饮食和肠道菌群代谢，其水平受饮食成分和菌群组成调节。",
-      "significance": "首次揭示饮食和菌群共同塑造哺乳动物细胞分裂素库，拓展了对宿主-菌群互作的认识。",
-      "limitation": "功能意义尚需进一步研究。",
-      "relevance": "研究饮食和菌群对宿主代谢物的影响，与营养和肠道菌群领域直接相关。",
-      "relevance_score": 8,
-      "pmid": "42286862",
-      "url": "https://doi.org/10.1080/19490976.2026.2679497",
-      "source": "PubMed → Gut Microbes",
-      "original_title": "Diet and microbiome shape small-molecule cytokinin pools in mammals.",
-      "date": "2026-12-31T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Othman EM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bencurova E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ferretti P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bork P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rodriguez Del Rio A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huerta-Cepas J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Caruana I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abdel-Latif R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Akash A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Albacete A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lafi F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dandekar T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Naseem M",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2679497",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2679497",
-      "epubdate": "2026 Jun 12"
-    },
-    {
-      "index": 8,
-      "title_cn": "印度学龄儿童不同营养状态下的肠道微生物特征：一项基于qPCR的病例对照研究",
-      "background": "营养不良与肠道菌群失调相关，但印度儿童中不同营养状态（如消瘦、肥胖）的菌群特征尚不清楚。",
-      "methods": "病例对照研究，采用qPCR方法检测印度学龄儿童（正常、消瘦、肥胖）的肠道菌群组成。",
-      "findings": "不同营养状态儿童肠道菌群存在显著差异，特定菌群（如双歧杆菌、拟杆菌）丰度与营养状态相关。",
-      "significance": "为印度儿童营养不良的菌群干预提供依据，提示菌群可作为营养干预的靶点。",
-      "limitation": "qPCR方法仅检测有限菌种，缺乏宏基因组深度。",
-      "relevance": "直接研究肠道菌群与营养状态（消瘦、肥胖）的关系，与营养流行病学和慢性病预防高度相关。",
-      "relevance_score": 9,
-      "pmid": "42174153",
-      "url": "https://doi.org/10.1038/s41430-026-01766-7",
-      "source": "PubMed → Eur J Clin Nutr",
-      "original_title": "Gut microbial signatures across nutritional status in Indian school-aged children: a qPCR-based case-control study.",
-      "date": "2026 Jun",
-      "authors": [
-        {
-          "name": "Jacob J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Reddy SN",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kaliaperumal V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Geddam JJB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rajender Rao K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ramanujam K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nandeep ER",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sudharma AA",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "80",
-      "issue": "6",
-      "pages": "625-632",
-      "issn": "0954-3007",
-      "essn": "1476-5640",
-      "journal_full": "European journal of clinical nutrition",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1038/s41430-026-01766-7",
-      "epubdate": "2026 May 22"
     }
   ],
   "_meta": {
-    "total_papers": 90,
+    "total_papers": 116,
     "analyzed": 40,
-    "generated_at": "2026-07-06 10:03",
+    "generated_at": "2026-07-07 08:39",
     "model": "deepseek-chat",
     "mode": "daily"
   }
