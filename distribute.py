@@ -300,6 +300,24 @@ def process_users():
         if not papers:
             continue
 
+        # 排除已推送给该用户的论文（防止同日及跨日重复）
+        sent_history = _supa(
+            f"push_history?select=paper_ids&user_id=eq.{user_id}"
+            f"&pushed_at=gte.{(datetime.now(TZ) - timedelta(days=7)).isoformat()}"
+        ) or []
+        sent_ids: set[int] = set()
+        for h in sent_history:
+            ids = h.get("paper_ids") or []
+            sent_ids.update(ids)
+        if sent_ids:
+            before = len(papers)
+            papers = [p for p in papers if p.get("id") not in sent_ids]
+            if len(papers) < before:
+                print(f"  [dedup] 排除 {before - len(papers)} 篇已推送论文")
+
+        if not papers:
+            continue
+
         if not _should_send_now(push_time, push_freq, push_days, last_push, True):
             continue
 
@@ -348,6 +366,24 @@ def process_recipients():
         min_relevance = r.get("relevance_threshold") or 1
 
         papers = _match_papers(areas, quartiles, min_relevance)
+        if not papers:
+            continue
+
+        # 排除已推送给该邮箱的论文
+        sent_history = _supa(
+            f"push_history?select=paper_ids&report_content=ilike.*{email}*"
+            f"&pushed_at=gte.{(datetime.now(TZ) - timedelta(days=7)).isoformat()}"
+        ) or []
+        sent_ids: set[int] = set()
+        for h in sent_history:
+            ids = h.get("paper_ids") or []
+            sent_ids.update(ids)
+        if sent_ids:
+            before = len(papers)
+            papers = [p for p in papers if p.get("id") not in sent_ids]
+            if len(papers) < before:
+                print(f"  [dedup] 排除 {before - len(papers)} 篇已推送论文")
+
         if not papers:
             continue
 

@@ -67,10 +67,9 @@ def sync_papers(papers: list[dict], mode: str) -> int:
         if not title:
             continue
 
-        # 检查是否已存在 → 刷新 fetched_at 保持新鲜度
+        # 检查是否已存在 → 跳过（不刷新 fetched_at，防止旧论文永不过期）
         existing_id = _find_existing_id(pmid, title)
         if existing_id:
-            _refresh_fetched_at(existing_id)
             count += 1
             continue
 
