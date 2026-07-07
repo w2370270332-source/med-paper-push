@@ -60,7 +60,8 @@ CREATE TABLE paper_pool (
     relevance_score INTEGER,
     research_area TEXT,
     pub_date DATE,
-    fetched_at TIMESTAMPTZ DEFAULT now()
+    fetched_at TIMESTAMPTZ DEFAULT now(),
+    deep_analysis JSONB
 );
 
 -- 推送历史表

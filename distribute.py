@@ -92,6 +92,148 @@ def _match_papers(areas: list[str], quartiles: list[str],
     return matched[:20]
 
 
+# ═══════════════════════════════════════════════════════════════
+# Deep Analysis (Plan A — on-demand, only for pushed papers)
+# ═══════════════════════════════════════════════════════════════
+
+DEEP_SYSTEM = """你是一位预防医学与营养学领域的研究方法学家。对这篇论文进行深度结构化提炼。
+
+输出以下字段（每个字段必须详尽，禁止只写一两句话敷衍）：
+- title_cn: 中文标题（准确概括研究内容）
+- background: 研究背景（3-5句：领域现状→知识缺口→研究假设）
+- objective: 研究目的（1句，明确具体）
+- design: 研究设计（设计类型+盲法+随访时长+注册号）
+- population: 研究对象（样本量+来源+入排标准+基线特征）
+- intervention: 干预/暴露详情（剂量/频率/对照/依从性）
+- outcomes: 结局指标（主要结局+次要结局+检测方法）
+- findings: 核心发现（5-8句，必须包含效应量+置信区间+p值+亚组分析+敏感性分析，无数据的字段标注"未报告"）
+- mechanism: 生物学机制（2-3句，解释观察到效应的生物学通路）
+- comparison: 与同类研究对比（2-3句，与已有证据的一致/矛盾之处）
+- significance: 学术/临床意义（2-3句，对领域/指南/实践的具体影响）
+- limitation: 局限性（2-3个主要局限：偏倚风险/混杂控制/外推性/样本代表性）
+- relevance: 与预防医学/营养流行病学/肠道菌群/慢性病预防的关联（1-2句）
+- relevance_score: 相关性评分（1-10整数）
+
+严格按照 JSON 格式输出，relevance_score 必须是整数。"""
+
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
+MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-chat")
+
+
+def _call_llm(system: str, user: str) -> dict | None:
+    """调用 DeepSeek API (JSON mode)."""
+    body = {
+        "model": MODEL,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+        "temperature": 0.3,
+        "max_tokens": 4096,
+        "response_format": {"type": "json_object"},
+    }
+    req = urllib.request.Request(
+        f"{BASE_URL}/chat/completions",
+        data=json.dumps(body).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {API_KEY}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=180) as resp:
+            data = json.loads(resp.read())
+            content = data["choices"][0]["message"]["content"]
+            return json.loads(content)
+    except Exception as e:
+        print(f"  [LLM ERROR] {e}")
+        return None
+
+
+def deep_analyze_papers(papers: list[dict]) -> list[dict]:
+    """对论文进行深度分析（方案A），结果回存 paper_pool。跳过已有深度分析的论文."""
+    if not API_KEY:
+        print("  [deep] DEEPSEEK_API_KEY 未设置，使用浅层分析")
+        return papers
+
+    need_deep: list[dict] = []
+    enriched: list[dict] = []
+
+    for p in papers:
+        pid = p.get("id")
+        existing = p.get("deep_analysis")
+        if existing and isinstance(existing, dict) and existing.get("background"):
+            enriched.append(p)
+            continue
+        if pid:
+            need_deep.append(p)
+
+    if not need_deep:
+        print(f"  [deep] {len(papers)} 篇均已有深度分析，跳过")
+        return papers
+
+    print(f"  [deep] {len(need_deep)} 篇需要深度分析...")
+    BATCH = min(4, len(need_deep))
+
+    for bi in range(0, len(need_deep), BATCH):
+        batch = need_deep[bi:bi + BATCH]
+        lines = ["请逐篇分析以下论文，返回 JSON 数组：\n"]
+        for j, p in enumerate(batch, 1):
+            title = (p.get("original_title") or p.get("title") or "")
+            source = p.get("source", "")
+            abstract = (p.get("findings") or p.get("abstract") or "")[:800]
+            lines.append(f"## 论文 {j}")
+            lines.append(f"标题: {title}")
+            lines.append(f"来源: {source}")
+            lines.append(f"摘要/初步发现: {abstract}")
+            lines.append("")
+        lines.append('输出格式: {"papers": [{"index": 1, "title_cn": "...", ...}, ...]}')
+
+        print(f"    [{bi // BATCH + 1}/{ (len(need_deep) + BATCH - 1) // BATCH}] {len(batch)} 篇...", end=" ", flush=True)
+        resp = _call_llm(DEEP_SYSTEM, "\n".join(lines))
+
+        if resp and "papers" in resp:
+            for item in resp["papers"]:
+                idx = item.get("index", 0) - 1
+                if 0 <= idx < len(batch):
+                    original = batch[idx]
+                    pid = original.get("id")
+                    # 存回 paper_pool
+                    payload = {
+                        k: v for k, v in item.items()
+                        if k in ["background", "objective", "design", "population",
+                                  "intervention", "outcomes", "findings", "mechanism",
+                                  "comparison", "significance", "limitation", "relevance"]
+                    }
+                    if pid:
+                        _supa(f"paper_pool?id=eq.{pid}", "PATCH", {"deep_analysis": payload})
+                    # 合并到原始 dict
+                    original["deep_analysis"] = payload
+                    enriched.append(original)
+            print(f"OK")
+        else:
+            print("FAIL")
+            enriched.extend(batch)
+
+        if bi + BATCH < len(need_deep):
+            import time
+            time.sleep(1)
+
+    return enriched
+
+
+def _deep_field(p: dict, key: str) -> str:
+    """优先从 deep_analysis 取字段，回退到顶级字段."""
+    da = p.get("deep_analysis")
+    if isinstance(da, dict):
+        val = da.get(key, "")
+        if val:
+            return str(val)
+    return (p.get(key) or "").strip()
+
+
 def render_html_email(papers: list[dict], user_email: str, date_str: str) -> str:
     """Render paper list into mobile-friendly academic HTML email."""
 
@@ -153,9 +295,19 @@ def render_html_email(papers: list[dict], user_email: str, date_str: str) -> str
         pages = (paper.get("pages") or "").strip()
         url = (paper.get("url") or "").strip()
         pmid = (paper.get("pmid") or "").strip()
-        background = (paper.get("background") or "").strip()
-        findings = (paper.get("findings") or "").strip()
-        significance = (paper.get("significance") or "").strip()
+
+        # 优先使用深度分析字段
+        background = _deep_field(paper, "background")
+        findings = _deep_field(paper, "findings")
+        significance = _deep_field(paper, "significance")
+        limitation = _deep_field(paper, "limitation")
+        mechanism = _deep_field(paper, "mechanism")
+        comparison = _deep_field(paper, "comparison")
+        objective = _deep_field(paper, "objective")
+        design = _deep_field(paper, "design")
+        population = _deep_field(paper, "population")
+        intervention = _deep_field(paper, "intervention")
+        outcomes = _deep_field(paper, "outcomes")
 
         citation = source_clean or source_raw
         if volume:
@@ -192,12 +344,32 @@ def render_html_email(papers: list[dict], user_email: str, date_str: str) -> str
         if pmid:
             url_abs = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}"
             parts.append(f'<div style="margin-bottom:12px;font-size:13px;"><span style="color:#5a6a7a;font-weight:600;">PMID：</span><a href="{html.escape(url_abs, quote=True)}" target="_blank" style="color:#2563eb;text-decoration:none;">{_h(pmid)}</a></div>\n')
+
+        # 研究方法（深度分析字段）
+        methods_parts = []
+        if design:
+            methods_parts.append(f"<b>设计：</b>{_h(design)}")
+        if population:
+            methods_parts.append(f"<b>对象：</b>{_h(population)}")
+        if intervention:
+            methods_parts.append(f"<b>干预：</b>{_h(intervention)}")
+        if outcomes:
+            methods_parts.append(f"<b>结局：</b>{_h(outcomes)}")
+        if methods_parts:
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f8fafc;border-radius:6px;border:1px dashed #cbd5e1;"><div style="font-size:11px;font-weight:700;color:#64748b;margin-bottom:6px;">研究方法</div>{"<br>".join(methods_parts)}</div>\n')
+
         if background:
             parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #4a90d9;"><div style="font-size:11px;font-weight:700;color:#4a90d9;margin-bottom:4px;">研究背景</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(background)}</p></div>\n')
         if findings:
             parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #16a34a;"><div style="font-size:11px;font-weight:700;color:#16a34a;margin-bottom:4px;">核心发现</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(findings)}</p></div>\n')
+        if mechanism:
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f0f4ff;border-radius:6px;border-left:3px solid #7c3aed;"><div style="font-size:11px;font-weight:700;color:#7c3aed;margin-bottom:4px;">生物学机制</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(mechanism)}</p></div>\n')
+        if comparison:
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#fefce8;border-radius:6px;border-left:3px solid #ca8a04;"><div style="font-size:11px;font-weight:700;color:#ca8a04;margin-bottom:4px;">与同类研究对比</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(comparison)}</p></div>\n')
         if significance:
-            parts.append(f'<div style="margin-bottom:0;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #9333ea;"><div style="font-size:11px;font-weight:700;color:#9333ea;margin-bottom:4px;">研究意义</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(significance)}</p></div>\n')
+            parts.append(f'<div style="margin-bottom:12px;padding:12px 14px;background:#f7f8fa;border-radius:6px;border-left:3px solid #9333ea;"><div style="font-size:11px;font-weight:700;color:#9333ea;margin-bottom:4px;">研究意义</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(significance)}</p></div>\n')
+        if limitation:
+            parts.append(f'<div style="margin-bottom:0;padding:12px 14px;background:#fef2f2;border-radius:6px;border-left:3px solid #dc2626;"><div style="font-size:11px;font-weight:700;color:#dc2626;margin-bottom:4px;">局限性</div><p style="margin:0;font-size:14px;color:#2a3a4a;">{_h(limitation)}</p></div>\n')
         parts.append("</div>\n")
 
     parts.append(f"""<div style="text-align:center;padding:20px 16px 8px;">
@@ -300,6 +472,9 @@ def process_users():
         if not papers:
             continue
 
+        # 深度分析（仅对确定将被推送的论文）
+        papers = deep_analyze_papers(papers)
+
         # 排除已推送给该用户的论文（防止同日及跨日重复）
         sent_history = _supa(
             f"push_history?select=paper_ids&user_id=eq.{user_id}"
@@ -368,6 +543,9 @@ def process_recipients():
         papers = _match_papers(areas, quartiles, min_relevance)
         if not papers:
             continue
+
+        # 深度分析（仅对确定将被推送的论文）
+        papers = deep_analyze_papers(papers)
 
         # 排除已推送给该邮箱的论文
         sent_history = _supa(

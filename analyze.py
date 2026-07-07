@@ -85,20 +85,16 @@ def call_llm(system: str, user: str, json_mode: bool = True) -> dict | None:
 
 
 # ═══════════════════════════════════════════════════════════════
-# Daily mode: per-paper deep analysis
+# Quick mode: light screening (cheap, all papers)
 # ═══════════════════════════════════════════════════════════════
 
-DAILY_SYSTEM = """你是一位预防医学与营养学领域的研究方法学家。你的任务是对每篇论文做深度结构化提炼。
+QUICK_SYSTEM = """你是一位预防医学与营养学领域的研究方法学家。快速筛查论文相关性。
 
 对于每篇论文，输出以下字段：
-- title_cn: 中文标题（准确概括研究内容）
-- background: 研究背景（1-2句，说明为什么做这个研究）
-- methods: 方法简述（研究设计、样本量、干预/暴露、主要结局）
+- title_cn: 中文标题（准确概括）
 - findings: 核心发现（2-3句，包含关键数据）
-- significance: 学术/临床意义（1-2句）
-- limitation: 主要局限性（1句）
 - relevance: 与你关注领域的关联（预防医学/营养流行病学/肠道菌群/慢性病预防，1句；如不相关则写"不直接相关"）
-- relevance_score: 相关性评分（1-10整数，10=高度相关，1=几乎不相关）。评分标准：直接研究营养/膳食/菌群对疾病预防/代谢的影响→8-10分；涉及营养但非核心→5-7分；仅间接相关或主题距离较远→1-4分
+- relevance_score: 相关性评分（1-10整数）。直接研究营养/膳食/菌群对疾病预防/代谢的影响→8-10分；涉及营养但非核心→5-7分；仅间接相关→1-4分
 
 严格按照 JSON 格式输出，relevance_score 必须是整数。"""
 
@@ -130,8 +126,9 @@ def build_daily_batch(papers: list[dict]) -> str:
 
 
 def analyze_daily(papers: list[dict]) -> dict:
+    """快速筛选模式 — 轻量分析全部论文（约 100 tokens/篇），深度分析在分发阶段按需进行."""
     papers_sorted = sorted(papers, key=priority_key, reverse=True)
-    top = papers_sorted[:40]  # 每天最多分析 40 篇
+    top = papers_sorted[:40]
     if not top:
         return {"papers": [], "_meta": {"analyzed": 0}}
 
@@ -143,9 +140,9 @@ def analyze_daily(papers: list[dict]) -> dict:
                    "nct_id"]
 
     for bi, batch in enumerate(batches):
-        print(f"  [{bi + 1}/{len(batches)}] 分析 {len(batch)} 篇...", end=" ", flush=True)
+        print(f"  [{bi + 1}/{len(batches)}] 快速筛选 {len(batch)} 篇...", end=" ", flush=True)
         prompt = build_daily_batch(batch)
-        resp = call_llm(DAILY_SYSTEM, prompt)
+        resp = call_llm(QUICK_SYSTEM, prompt, json_mode=True)
         if resp and "papers" in resp:
             batch_results = resp["papers"]
             # 补上原始数据（包括论文元数据）
@@ -170,11 +167,7 @@ def analyze_daily(papers: list[dict]) -> dict:
                 fb = {
                     "index": bi * BATCH_SIZE + j + 1,
                     "title_cn": p.get("title", ""),
-                    "background": "",
-                    "methods": "",
                     "findings": p.get("abstract", "")[:300],
-                    "significance": "",
-                    "limitation": "",
                     "relevance": "",
                     "relevance_score": 5,
                     "pmid": p.get("pmid", ""),

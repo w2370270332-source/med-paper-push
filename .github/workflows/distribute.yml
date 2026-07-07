@@ -44,5 +44,6 @@ jobs:
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DISTRIBUTE_FORCE: ${{ inputs.force && '1' || '' }}
-        timeout-minutes: 10
+        timeout-minutes: 15
