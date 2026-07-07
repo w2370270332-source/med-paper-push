@@ -128,7 +128,8 @@ def build_daily_batch(papers: list[dict]) -> str:
 def analyze_daily(papers: list[dict]) -> dict:
     """快速筛选模式 — 轻量分析全部论文（约 100 tokens/篇），深度分析在分发阶段按需进行."""
     papers_sorted = sorted(papers, key=priority_key, reverse=True)
-    top = papers_sorted[:40]
+    MAX_QUICK = 120  # quick 模式极省 token，全量覆盖不遗漏
+    top = papers_sorted[:MAX_QUICK]
     if not top:
         return {"papers": [], "_meta": {"analyzed": 0}}
 
