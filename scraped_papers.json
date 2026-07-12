@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T01:27:43.795308",
+    "generated_at": "2026-07-12T00:23:50.346680",
     "days_back": 1,
-    "total_papers": 105,
+    "total_papers": 109,
     "sources": {
       "pubmed": 66,
-      "rss": 6,
-      "preprints": 10,
+      "rss": 0,
+      "preprints": 20,
       "trials": 25
     }
   },
@@ -2014,54 +2014,6 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Impact of socioeconomic, demographic, maternal, infant and healthcare factors on early initiation of breastfeeding in Bangladesh: Evidence from Bangladesh demographic health survey (BDHS) 2022 data",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353716",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Corrosion assessment in aluminum pipe based on nonlinear ultrasonic technique using macro fiber composite transducers",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353469",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Phytochemical and biological evaluation of methanolic extracts as a preventive measure for antioxidant and Anticoccidial Eimeria columbae Oocysts",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353429",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Characteristics, management, and outcomes of segmental and subsegmental pulmonary embolism in ICU patients: A retrospective cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353422",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Clinical characteristics and outcomes of Hodgkin Lymphoma: A single institution retrospective cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353363",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Degree of hypertension and subclinical coronary atherosclerosis in asymptomatic individuals without cardiovascular disease",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353359",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-10T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
       "title": "Adjuvant Nitrate to Boost Exercise-induced Health Benefits in Older Adults",
       "url": "https://clinicaltrials.gov/study/NCT07572266",
       "source": "ClinicalTrials.gov",
@@ -3821,6 +3773,86 @@
       "source_type": "preprint",
       "date": null,
       "abstract": "Andreea Waltmann , Sydney M."
+    },
+    {
+      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Lauren E. Anderson , Anne L."
+    },
+    {
+      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
+    },
+    {
+      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kenneth T Trang , Dalia Arafat"
+    },
+    {
+      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Noor E Huma , Samuel"
+    },
+    {
+      "title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Sydney A Skupa , Jordan B"
+    },
+    {
+      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Xin Yu , Wenge"
+    },
+    {
+      "title": "Probiotic formula intervention in infants leads to colonization and competitive strain displacement independent of IgA binding",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.03.729775v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Michael Vig Merino , Svenja"
+    },
+    {
+      "title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Chenglu Jiang , Bin"
+    },
+    {
+      "title": "Gut Microbiota Mediates the Association between Diet Quality and Ectopic Adiposity: The Multiethnic Cohort Adiposity Phenotype Study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717245v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Songran Wang , Meredith A."
+    },
+    {
+      "title": "Early-life canine gut microbiome maturation follows a shared age–diet trajectory within persistent host-specific structure",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.25.727648v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Tamás Járay , Gábor"
     }
   ]
 }
