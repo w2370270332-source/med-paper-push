@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T01:29:13.026229",
+    "generated_at": "2026-07-13T00:54:19.546751",
     "days_back": 1,
-    "total_papers": 109,
+    "total_papers": 111,
     "sources": {
-      "pubmed": 66,
+      "pubmed": 68,
       "rss": 0,
       "preprints": 20,
       "trials": 25
@@ -20,6 +20,98 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Fermented Food, Inflammation; Interventions: Unfermented chickpea, Fermented chickpea; The goal of this clinical trial is to learn about the effects of consuming fermented pulses (certain types of legumes like chickpeas or lentils) in healthy people. The main questions it aims to answer are:\n\n1. How does consuming the fermented foods impact the gut microbiome?\n2. Does this interaction; Study Type: INTERVENTIONAL",
       "nct_id": "NCT06134076",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Glycodeoxycholic and deoxycholic bile acids impair recognition and spatial memory in adult mice, and reduce central CREB-BDNF signaling and cytokine expression with neuroanatomical specificity.",
+      "url": "https://doi.org/10.1080/19490976.2026.2701471",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42435326",
+      "authors": [
+        {
+          "name": "Garcia A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Trivedi D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Anthony DC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Swann JR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Burnet PWJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2701471",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2701471",
+      "epubdate": "2026 Jul 11"
+    },
+    {
+      "title": "Christensenella massiliensis reduces kynurenine levels and alleviates obesity and related metabolic disorders in model mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2701382",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42434935",
+      "authors": [
+        {
+          "name": "Du M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang MZ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun XW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu SJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2701382",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2701382",
+      "epubdate": "2026 Jul 11"
     },
     {
       "title": "Genetic and enzymatic basis of xylooligosaccharide metabolism by Bifidobacterium longum.",
@@ -1856,94 +1948,6 @@
       "epubdate": "2026 Jun 21"
     },
     {
-      "title": "Indole-3-acetic acid production is rare among gut bacteria and reflects OFOR-driven amino acid oxidation in acetogens.",
-      "url": "https://doi.org/10.1080/19490976.2026.2689610",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42324626",
-      "authors": [
-        {
-          "name": "DeFeo ME",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhou Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Higginbottom SK",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dodd D",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2689610",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2689610",
-      "epubdate": "2026 Jun 21"
-    },
-    {
-      "title": "Mapping the metagenomic landscape: combined shotgun sequencing and quantitative PCR to profile gut metagenome-assembled genomes in marmosets following treatment with a broad-spectrum antibiotic cocktail.",
-      "url": "https://doi.org/10.1080/19490976.2026.2687925",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42324618",
-      "authors": [
-        {
-          "name": "Hernandez JB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abiodun M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hayer SS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dickson T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ayayee P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Clayton JB",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2687925",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2687925",
-      "epubdate": "2026 Jun 21"
-    },
-    {
       "title": "The Effects of Mango on Gut Health Markers",
       "url": "https://clinicaltrials.gov/study/NCT07559604",
       "source": "ClinicalTrials.gov",
@@ -2032,6 +2036,113 @@
       "abstract": "Status: RECRUITING; Conditions: Weight Management; Interventions: Elecoglipron, Placebo; This master study protocol, Study D7260C00015, covers 2 independent, pivotal studies, Study 1 and Study 2. Each study is a global, randomized, double-blind, parallel-group, multicenter, Phase III study to assess the efficacy and safety of elecoglipron compared with placebo adjunct to diet and exerci; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07667803",
       "status": "RECRUITING"
+    },
+    {
+      "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108626",
+      "source": "PubMed → Prev Med",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: Prev Med",
+      "pmid": "42331703",
+      "authors": [
+        {
+          "name": "Park EJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahn JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Noh J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hwang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jung SJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "210",
+      "issue": "",
+      "pages": "108626",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108626",
+      "epubdate": "2026 Jun 22"
+    },
+    {
+      "title": "Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108625",
+      "source": "PubMed → Prev Med",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: Prev Med",
+      "pmid": "42303108",
+      "authors": [
+        {
+          "name": "Zhang T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nong T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mo X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "210",
+      "issue": "",
+      "pages": "108625",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108625",
+      "epubdate": "2026 Jun 16"
     },
     {
       "title": "A Model for 21st Century Public Health Education: FDA's \"The Real Cost\" Youth Tobacco Prevention Campaigns.",
