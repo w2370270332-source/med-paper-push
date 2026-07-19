@@ -1,16 +1,116 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T01:20:39.706215",
+    "generated_at": "2026-07-19T01:15:08.451295",
     "days_back": 1,
-    "total_papers": 106,
+    "total_papers": 93,
     "sources": {
-      "pubmed": 69,
-      "rss": 12,
+      "pubmed": 68,
+      "rss": 0,
       "preprints": 10,
       "trials": 20
     }
   },
   "papers": [
+    {
+      "title": "Lactobacillus johnsonii mediates the protective effects of pristimerin against ulcerative colitis and concomitant liver injury through remodeling hepatic lipid metabolism via LXRα-SCD1 axis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2701349",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42470108",
+      "authors": [
+        {
+          "name": "Cheng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu ZE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2701349",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2701349",
+      "epubdate": "2026 Jul 17"
+    },
+    {
+      "title": "Dynamic flexibility of the murine gut microbiota during morphine disturbance enables escape from the stable dysbiosis that is associated with addiction-like behavior.",
+      "url": "https://doi.org/10.1080/19490976.2026.2691347",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42470107",
+      "authors": [
+        {
+          "name": "Sall I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Foxall R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Felth L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gaur A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Whistler JL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Whistler CA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2691347",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2691347",
+      "epubdate": "2026 Jul 17"
+    },
     {
       "title": "Eukaryotic and bacterial gut communities vary along a lifestyle-associated urbanization gradient: comparative analysis of Germany and Madagascar.",
       "url": "https://doi.org/10.1080/19490976.2026.2701492",
@@ -2004,192 +2104,6 @@
       "epubdate": "2026 Jul 3"
     },
     {
-      "title": "Genome-scale metabolic models predict diet- and lifestyle-driven shifts of ecological interactions in the gut microbiome.",
-      "url": "https://doi.org/10.1080/19490976.2026.2694811",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42397708",
-      "authors": [
-        {
-          "name": "Marinos G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Moors KA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Schlicht K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rühlemann M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Waschina S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lieb W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Franke A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Laudes M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Groussin M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Poyet M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kaleta C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kadibalban AS",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2694811",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2694811",
-      "epubdate": "2026 Jul 3"
-    },
-    {
-      "title": "Early risk stratification of late-onset sepsis in very preterm infants by intestinal microbiota profiling: a multicenter case-control validation study.",
-      "url": "https://doi.org/10.1080/19490976.2026.2693365",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42393826",
-      "authors": [
-        {
-          "name": "Frerichs NM",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Kroon RR",
-          "authtype": "Author"
-        },
-        {
-          "name": "van Schajik Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "El Manouni El Hassani S",
-          "authtype": "Author"
-        },
-        {
-          "name": "van Wesemael AJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Boode WP",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cossey V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hulzebos CV",
-          "authtype": "Author"
-        },
-        {
-          "name": "van den Akker CHP",
-          "authtype": "Author"
-        },
-        {
-          "name": "Raets MMA",
-          "authtype": "Author"
-        },
-        {
-          "name": "d'Haens EJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Vijlbrief D",
-          "authtype": "Author"
-        },
-        {
-          "name": "van Weissenbruch MM",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Jonge WJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Boer NK",
-          "authtype": "Author"
-        },
-        {
-          "name": "van Goudoever JB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Beggs AD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Quraishi MN",
-          "authtype": "Author"
-        },
-        {
-          "name": "Davids M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mondal S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Acharjee A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Niemarkt HJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Meij TGJ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2693365",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Validation Study"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2693365",
-      "epubdate": "2026 Jul 2"
-    },
-    {
       "title": "TCP-600 Supplementation and Performance Response in Professional Football Players",
       "url": "https://clinicaltrials.gov/study/NCT07710547",
       "source": "ClinicalTrials.gov",
@@ -2208,128 +2122,6 @@
       "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
       "nct_id": "NCT06274749",
       "status": "RECRUITING"
-    },
-    {
-      "title": "Anette Ziegler: breaking through boundaries in type 1 diabetes.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01387-5",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-07-18T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42462729",
-      "authors": [
-        {
-          "name": "Kirby T",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10551",
-      "pages": "205",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01387-5",
-      "epubdate": ""
-    },
-    {
-      "title": "Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004825",
-      "source": "PLOS Medicine RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Difference in excess mortality during the COVID-19 pandemic depending on marital status in Japan",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354263",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correction: Modelling Hepatitis B virus related hospital discharges in Spain: ARIMAX based liver disease forecasting tool for hospital workload and mortality progression",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354253",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Long-term medical and surgical treatment patterns in Korean patients newly diagnosed with primary open-angle glaucoma: A 10-year retrospective cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354241",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Applying Brazilian front-of-pack nutrition labeling and PAHO nutritional criteria to digital food advertising: regulatory implications for protecting children and adolescents",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354180",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Malnutrition in maintenance hemodialysis: Prevalence, patterns, and clinical implications in Bangladesh",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354173",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Herpesvirus reactivation is associated with mortality in critically ill ICU patients with COVID-19: Insights from a retrospective single-center analysis of 455 cases",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354153",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Physical measures of physical functioning as prognostic factors in predicting outcomes for neck pain: Protocol for a prospective longitudinal cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354102",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Surveillance of hepatocellular carcinoma (HCC) patients using Protein Induced by Vitamin K (PIVKA-II): A cost-utility analysis for Hong Kong",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353882",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Rates and predictors of hospital visits after “Possible AF” alerts from a home ECG monitor in older adults with hypertension: A sub-analysis of the Omron Heart Study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353867",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "The epidemiology of the viral hepatitis in Brazil: A scoping review",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353840",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Do common dopaminergic variants modulate processing speed in cognitive aging? A longitudinal candidate gene study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353790",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-07-17T14:00:00+00:00",
-      "abstract": ""
     },
     {
       "title": "AMPLIFI: Adaptive Modulation of Plasticity Through Lactate and Fitness Interventions",
