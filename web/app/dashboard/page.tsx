@@ -48,6 +48,7 @@ const RESEARCH_AREAS = [
   "流行病学",
   "生物统计学",
   "AI驱动的健康研究",
+  "咖啡风味化学与品质",
 ];
 
 const CAS_QUARTILES = [

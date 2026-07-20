@@ -42,6 +42,16 @@ AREA_KEYWORDS = {
     "药食同源与植物化学物": ["药食同源", "植物化学", "类黄酮", "黄酮", "多酚", "柑橘", "柚皮苷", "橙皮苷", "生物活性成分", "天然产物", "flavonoid", "polyphenol", "citrus", "naringin", "hesperidin", "phytochemical", "bioactive", "medicinal food", "functional food"],
     "高尿酸血症与痛风": ["高尿酸", "尿酸", "痛风", "嘌呤", "黄嘌呤氧化酶", "hyperuricemia", "uric acid", "gout", "purine", "xanthine oxidase"],
     "炎症与免疫调节": ["炎症", "抗炎", "免疫", "细胞因子", "炎症因子", "抗炎活性", "inflammation", "anti-inflammatory", "immune", "cytokine", "inflammatory", "NF-kB", "NLRP3"],
+    "咖啡风味化学与品质": ["咖啡", "coffee", "风味", "flavor", "aroma", "香气", "杯测", "cupping",
+        "咖啡豆", "生豆", "烘焙", "roasting", "品种", "variety", "产地", "origin", "terroir",
+        "加工方式", "processing", "阿拉比卡", "arabica", "罗布斯塔", "robusta",
+        "绿原酸", "chlorogenic", "葫芦巴碱", "trigonelline", "咖啡因", "caffeine",
+        "吡嗪", "pyrazine", "呋喃", "furan", "硫化物", "sulfide",
+        "HS-SPME", "GC-MS", "GC×GC", "代谢组学", "metabolomics", "感官", "sensory",
+        "分子感官", "molecular sensory", "气味活性", "OAV", "AEDA",
+        "美拉德", "Maillard", "焦糖化", "caramelization",
+        "食品化学", "food chemistry", "风味化学", "flavor chemistry",
+        "香气重组", "aroma recombination", "香气缺失", "omission"],
 }
 
 
@@ -116,9 +126,37 @@ DEEP_SYSTEM = """你是一位预防医学与营养学领域的研究方法学家
 
 严格按照 JSON 格式输出，relevance_score 必须是整数。"""
 
+# 咖啡风味化学深度分析提示词（针对匹配到咖啡领域的论文进行二次深度分析）
+COFFEE_DEEP_SYSTEM = """你是一位咖啡风味化学与食品代谢组学领域的专家。这篇论文与咖啡研究高度相关，请进行专业深度的结构化提炼。
+
+输出以下字段（详尽程度要达到学科同行能直接引用）：
+- title_cn: 中文标题
+- coffee_context: 该研究在咖啡科学中的定位（3-5句：与咖啡品种/产地/加工/风味品质的关系，填补了什么空白）
+- coffee_species: 研究的咖啡品种/种（Arabica/Robusta/Liberica/Stenophylla 等，未提及标注"未报告"）
+- sample_info: 样品信息（产地/海拔/加工方式/烘焙程度/样品量，越详细越好）
+- analytical_methods: 分析方法（GC-MS/LC-MS/GC×GC-TOFMS/NIR/感官杯测等，列出具体仪器和条件）
+- key_compounds: 关键化合物发现（列出具体化合物名称+浓度范围+统计学显著性+风味描述）
+- sensory_link: 化学-感官关联（化合物如何影响风味/香气/口感，OAV值，感官评分关联性）
+- processing_impact: 加工/烘焙影响（加工方式或烘焙程度对化合物的影响，如有）
+- mechanism: 形成机制（关键化合物的生物合成或热反应形成途径）
+- comparison: 与已有咖啡文献的对比（2-3句，与咖啡风味化学领域已有共识的一致/矛盾）
+- practical_implication: 实践意义（对咖啡品种选育/产地鉴别/品质分级/加工优化的指导价值，2-3句）
+- limitation: 局限性（2-3个，从咖啡研究角度）
+- relevance_score: 相关性评分（1-10整数）
+
+严格按照 JSON 格式输出。"""
+
 API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
 MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-chat")
+
+# 咖啡论文关键词（用于判断是否需要特化深度分析）
+COFFEE_KEYWORDS = [
+    "coffee", "arabica", "robusta", "咖啡", "roasting", "烘焙",
+    "barista", "cappuccino", "latte", "caffeine", "咖啡因",
+    "chlorogenic", "绿原酸", "trigonelline", "葫芦巴碱",
+    "coffee flavor", "coffee aroma", "coffee metabolomics",
+]
 
 
 def _call_llm(system: str, user: str) -> dict | None:
@@ -153,23 +191,110 @@ def _call_llm(system: str, user: str) -> dict | None:
 
 
 def deep_analyze_papers(papers: list[dict]) -> list[dict]:
-    """对论文进行深度分析（方案A），结果回存 paper_pool。跳过已有深度分析的论文."""
+    """对论文进行深度分析（方案A），咖啡论文使用特化深度分析。结果回存 paper_pool."""
     if not API_KEY:
         print("  [deep] DEEPSEEK_API_KEY 未设置，使用浅层分析")
         return papers
 
-    need_deep: list[dict] = []
-    enriched: list[dict] = []
+    # 分离咖啡论文和普通论文
+    coffee_papers = [p for p in papers if _is_coffee_paper(p)]
+    normal_papers = [p for p in papers if p not in coffee_papers]
 
+    enriched = []
+    if normal_papers:
+        enriched.extend(_deep_analyze_normal(normal_papers))
+    if coffee_papers:
+        enriched.extend(_deep_analyze_coffee(coffee_papers))
+    return enriched
+
+
+def _is_coffee_paper(p: dict) -> bool:
+    """判断论文是否属于咖啡风味化学领域."""
+    combined = " ".join([
+        p.get("title_cn") or "", p.get("original_title") or "",
+        p.get("title") or "", p.get("findings") or "",
+        p.get("abstract") or "", p.get("source") or "",
+    ]).lower()
+    return any(kw.lower() in combined for kw in COFFEE_KEYWORDS)
+
+
+def _deep_analyze_coffee(papers: list[dict]) -> list[dict]:
+    """咖啡论文特化深度分析."""
+    need_deep = _filter_needs_deep(papers)
+    if not need_deep:
+        return papers
+
+    print(f"  [coffee-deep] {len(need_deep)} 篇咖啡论文需要特化深度分析...")
+    BATCH = min(3, len(need_deep))
+
+    for bi in range(0, len(need_deep), BATCH):
+        batch = need_deep[bi:bi + BATCH]
+        lines = ["请逐篇深度分析以下咖啡相关论文，返回 JSON 数组：\n"]
+        for j, p in enumerate(batch, 1):
+            title = (p.get("original_title") or p.get("title") or "")
+            source = p.get("source", "")
+            abstract = (p.get("findings") or p.get("abstract") or "")[:800]
+            lines.append(f"## 论文 {j}")
+            lines.append(f"标题: {title}")
+            lines.append(f"来源: {source}")
+            lines.append(f"摘要/初步发现: {abstract}")
+            lines.append("")
+        lines.append('输出格式: {"papers": [{"index": 1, "title_cn": "...", ...}, ...]}')
+
+        total_batches = (len(need_deep) + BATCH - 1) // BATCH
+        print(f"    [{bi // BATCH + 1}/{total_batches}] {len(batch)} 篇...", end=" ", flush=True)
+        resp = _call_llm(COFFEE_DEEP_SYSTEM, "\n".join(lines))
+
+        if resp and "papers" in resp:
+            for item in resp["papers"]:
+                idx = item.get("index", 0) - 1
+                if 0 <= idx < len(batch):
+                    original = batch[idx]
+                    pid = original.get("id")
+                    payload = {k: v for k, v in item.items()
+                               if k in ["coffee_context", "coffee_species", "sample_info",
+                                         "analytical_methods", "key_compounds", "sensory_link",
+                                         "processing_impact", "mechanism", "comparison",
+                                         "practical_implication", "limitation"]}
+                    # 合并到 deep_analysis
+                    existing = original.get("deep_analysis") or {}
+                    if isinstance(existing, dict):
+                        existing.update(payload)
+                    else:
+                        existing = payload
+                    existing["_coffee_special"] = True  # 标记为咖啡特化分析
+                    if pid:
+                        _supa(f"paper_pool?id=eq.{pid}", "PATCH", {"deep_analysis": existing})
+                    original["deep_analysis"] = existing
+            print(f"OK")
+        else:
+            print("FAIL")
+            # Fallback: use normal deep analysis
+            for p in batch:
+                p["deep_analysis"] = p.get("deep_analysis") or {}
+
+        if bi + BATCH < len(need_deep):
+            import time
+            time.sleep(1)
+
+    return papers
+
+
+def _filter_needs_deep(papers: list[dict]) -> list[dict]:
+    """筛选需要深度分析的论文（跳过已有完整深度分析的）."""
+    need = []
     for p in papers:
-        pid = p.get("id")
         existing = p.get("deep_analysis")
-        if existing and isinstance(existing, dict) and existing.get("background"):
-            enriched.append(p)
+        if isinstance(existing, dict) and existing.get("background"):
             continue
-        if pid:
-            need_deep.append(p)
+        if p.get("id"):
+            need.append(p)
+    return need
 
+
+def _deep_analyze_normal(papers: list[dict]) -> list[dict]:
+    """普通论文深度分析（原逻辑）."""
+    need_deep = _filter_needs_deep(papers)
     if not need_deep:
         print(f"  [deep] {len(papers)} 篇均已有深度分析，跳过")
         return papers
@@ -319,12 +444,25 @@ def render_html_email(papers: list[dict], user_email: str, date_str: str) -> str
 
         star_html = _stars(score)
 
-        parts.append(f"""<div style="background:#fff;border-radius:10px;padding:24px;margin-bottom:16px;border:1px solid #e2e6ec;">
+        # 咖啡论文特殊标记
+        is_coffee = bool(
+            isinstance(paper.get("deep_analysis"), dict)
+            and paper["deep_analysis"].get("_coffee_special")
+        )
+        coffee_badge = "☕ " if is_coffee else ""
+        card_border = "2px solid #d4a574" if is_coffee else "1px solid #e2e6ec"
+        card_bg = "#fffbf5" if is_coffee else "#fff"
 
+        parts.append(f"""<div style="background:{card_bg};border-radius:10px;padding:24px;margin-bottom:16px;border:{card_border};">""")
+
+        if is_coffee:
+            parts.append('<div style="display:inline-block;background:linear-gradient(135deg,#d4a574,#8b6914);color:#fff;border-radius:20px;padding:2px 12px;font-size:11px;font-weight:700;margin-bottom:14px;">☕ 咖啡风味化学 · 重点标注</div>')
+
+        parts.append(f"""
 <div style="display:flex;align-items:flex-start;gap:12px;margin-bottom:14px;">
 <span style="flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;background:#1a365d;color:#fff;border-radius:50%;font-size:13px;font-weight:700;">{idx}</span>
 <div style="flex:1;min-width:0;">
-<h2 style="margin:0 0 4px;font-size:16px;font-weight:700;color:#1a365d;line-height:1.5;">{_h(title_cn)}</h2>
+<h2 style="margin:0 0 4px;font-size:16px;font-weight:700;color:#1a365d;line-height:1.5;">{coffee_badge}{_h(title_cn)}</h2>
 <p style="margin:0;font-size:13px;color:#5a6a7a;font-style:italic;">{_h(original_title)}</p>
 </div>
 </div>

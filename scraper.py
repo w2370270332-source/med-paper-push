@@ -65,6 +65,13 @@ TARGET_JOURNALS: list[str] = [
     # 肠道菌群
     "Gut Microbes",
     "Microbiome",
+    # 食品化学与咖啡风味
+    "Food Chem",
+    "J Agric Food Chem",
+    "Food Res Int",
+    "J Food Sci",
+    "npj Sci Food",
+    "LWT",
 ]
 
 # ---------- RSS/Atom 源（比 PubMed 快 0-1 天）----------
