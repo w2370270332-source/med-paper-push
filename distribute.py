@@ -295,9 +295,11 @@ def _filter_needs_deep(papers: list[dict]) -> list[dict]:
 def _deep_analyze_normal(papers: list[dict]) -> list[dict]:
     """普通论文深度分析（原逻辑）."""
     need_deep = _filter_needs_deep(papers)
+    enriched: list[dict] = [p for p in papers if p not in need_deep]  # 已有深度分析的直接保留
+
     if not need_deep:
         print(f"  [deep] {len(papers)} 篇均已有深度分析，跳过")
-        return papers
+        return enriched
 
     print(f"  [deep] {len(need_deep)} 篇需要深度分析...")
     BATCH = min(4, len(need_deep))
@@ -325,7 +327,6 @@ def _deep_analyze_normal(papers: list[dict]) -> list[dict]:
                 if 0 <= idx < len(batch):
                     original = batch[idx]
                     pid = original.get("id")
-                    # 存回 paper_pool
                     payload = {
                         k: v for k, v in item.items()
                         if k in ["background", "objective", "design", "population",
@@ -333,14 +334,16 @@ def _deep_analyze_normal(papers: list[dict]) -> list[dict]:
                                   "comparison", "significance", "limitation", "relevance"]
                     }
                     if pid:
-                        _supa(f"paper_pool?id=eq.{pid}", "PATCH", {"deep_analysis": payload})
-                    # 合并到原始 dict
+                        try:
+                            _supa(f"paper_pool?id=eq.{pid}", "PATCH", {"deep_analysis": payload})
+                        except Exception:
+                            pass  # deep_analysis 列可能未创建
                     original["deep_analysis"] = payload
-                    enriched.append(original)
             print(f"OK")
         else:
             print("FAIL")
-            enriched.extend(batch)
+            # 不丢失论文，即使分析失败也保留
+        enriched.extend(batch)
 
         if bi + BATCH < len(need_deep):
             import time
