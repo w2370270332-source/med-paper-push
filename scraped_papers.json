@@ -1,16 +1,172 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T01:53:08.984060",
+    "generated_at": "2026-07-24T00:39:39.239816",
     "days_back": 1,
-    "total_papers": 82,
+    "total_papers": 157,
     "sources": {
-      "pubmed": 67,
-      "rss": 0,
-      "preprints": 0,
-      "trials": 20
+      "pubmed": 124,
+      "rss": 7,
+      "preprints": 10,
+      "trials": 17
     }
   },
   "papers": [
+    {
+      "title": "Probiotic Lactobacillus casei improves immune microenvironment in rheumatoid arthritis via gut microbiota-butyrate-HDAC/NF-κB signaling.",
+      "url": "https://doi.org/10.1080/19490976.2026.2698969",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42482368",
+      "authors": [
+        {
+          "name": "Ma Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jian L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peng J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wen Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Song Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peng T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhou R",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2698969",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2698969",
+      "epubdate": "2026 Jul 21"
+    },
+    {
+      "title": "Peptide LKLKLL is a more effective component of Akkermansia muciniphila which regulate glucolipid metabolism through GLP-1/GIP dual modulation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2687937",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42473065",
+      "authors": [
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ye D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ma Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Song P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kong C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qiao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2687937",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2687937",
+      "epubdate": "2026 Jul 19"
+    },
     {
       "title": "Prevalence of primary Helicobacter pylori antibiotic resistance in Europe over the past four decades.",
       "url": "https://doi.org/10.1080/19490976.2026.2704245",
@@ -1917,142 +2073,1161 @@
       "epubdate": "2026 Jul 7"
     },
     {
-      "title": "Isolation of Bacteria and Fungi from Human Pancreatic Tumors and Duodenum.",
-      "url": "https://doi.org/10.1080/19490976.2026.2695522",
-      "source": "PubMed → Gut Microbes",
+      "title": "From dark-brown to yellow: metabolomics reveals ROS alterations regulating glutathione metabolism to control cap color changes in Flammulina filiformis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119637",
+      "source": "PubMed → Food Res Int",
       "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42411381",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409572",
       "authors": [
         {
-          "name": "Awad D",
+          "name": "Liang X",
           "authtype": "Author"
         },
         {
-          "name": "Attebury H",
+          "name": "Han J",
           "authtype": "Author"
         },
         {
-          "name": "Hong R",
+          "name": "Liu T",
           "authtype": "Author"
         },
         {
-          "name": "Kim K",
+          "name": "Yu Y",
           "authtype": "Author"
         },
         {
-          "name": "Zhang L",
+          "name": "Wang D",
           "authtype": "Author"
         },
         {
-          "name": "Bischoff A",
+          "name": "Wang B",
           "authtype": "Author"
         },
         {
-          "name": "Achi S",
+          "name": "Jia D",
           "authtype": "Author"
         },
         {
-          "name": "denDekker A",
+          "name": "Peng W",
           "authtype": "Author"
         },
         {
-          "name": "Lesniak N",
+          "name": "He X",
           "authtype": "Author"
         },
         {
-          "name": "The S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nieto Carrion JA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nelson NS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Strayhorn C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Griffith BD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Watkoske HR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Espinoza CE",
-          "authtype": "Author"
-        },
-        {
-          "name": "Peterson N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lenard M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Muir A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sahai V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Frankel TL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pasca di Magliano M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lyssiotis CA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Schmidt TM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Daley D",
+          "name": "Liu X",
           "authtype": "Author"
         }
       ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2695522",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
+      "volume": "240",
+      "issue": "",
+      "pages": "119637",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
       "pub_types": [
         "Journal Article"
       ],
-      "elocationid": "doi: 10.1080/19490976.2026.2695522",
-      "epubdate": "2026 Jul 7"
+      "elocationid": "doi: 10.1016/j.foodres.2026.119637",
+      "epubdate": "2026 Jun 4"
     },
     {
-      "title": "Vitamin B6 produced by gut microbiome regulates host behavioral phenotypes through dopaminergic metabolism.",
-      "url": "https://doi.org/10.1080/19490976.2026.2695485",
-      "source": "PubMed → Gut Microbes",
+      "title": "Erratum to \"From foodborne to environmental Yersinia enterocolitica: Comparative insights into antimicrobial resistance and virulence for food safety\" [Food Res. Int. 238 (2026) 119442].",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119635",
+      "source": "PubMed → Food Res Int",
       "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42400260",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409571",
       "authors": [
         {
-          "name": "Kim D",
+          "name": "Lou X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xia Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fang Z",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119635",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119635",
+      "epubdate": "2026 Jun 12"
+    },
+    {
+      "title": "Microalgal co-cultivation meets media recycling: A pathway to serum and amino-acid reduction in cultivated meat.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119627",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409570",
+      "authors": [
+        {
+          "name": "Oey M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Schlieker ML",
+          "authtype": "Author"
+        },
+        {
+          "name": "Marx UC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Agustinus B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vargas Reyes DM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chandar M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hankamer B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lo HP",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119627",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119627",
+      "epubdate": "2026 Jun 8"
+    },
+    {
+      "title": "Genomics-driven risk assessment of antimicrobial resistance: Current status, challenges, and future perspectives.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119632",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409569",
+      "authors": [
+        {
+          "name": "Cheng P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "He W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cheng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dong Q",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119632",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119632",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Genomic and phenotypic analysis of stress-tolerant, aroma-producing yeast screened under low-a(w), low-moisture content for low-salt chili fermentation.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119634",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409568",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dai L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mah JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qin W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119634",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119634",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Inhibition of thermal formation of advanced glycation end products and acrylamide by gluten-bound betulonic acid and alphitolic acid: Mechanistic insights from spectroscopy and computation.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119624",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409567",
+      "authors": [
+        {
+          "name": "Zhu Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Le Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Feng L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yuan H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sheng J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xue C",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119624",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119624",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "A bioactive lysate of Corynebacterium glutamicum orchestrates intestinal barrier repair mainly through L-arginine-mediated FOXO pathway.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119630",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409566",
+      "authors": [
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meng Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ren K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yuan Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tian J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Luo Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yue T",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119630",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119630",
+      "epubdate": "2026 Jun 6"
+    },
+    {
+      "title": "Comprehensive metabolomics and flavoromics analysis reveal the changes in muscle flavor quality of turbot (Scophthalmus maximus) during low-temperature waterless live transport.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119625",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409565",
+      "authors": [
+        {
+          "name": "Wang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xue Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cao R",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119625",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119625",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "The meatball matchup: Plant vs. animal proteins on campus.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119631",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409564",
+      "authors": [
+        {
+          "name": "St Pierre SR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Koosis AO",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kuhl E",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119631",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119631",
+      "epubdate": "2026 Jun 6"
+    },
+    {
+      "title": "Effects of different processing methods on the nutritional components and in vitro digestion and fermentation characteristics of foxtail millet (Setaria italica).",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119626",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409563",
+      "authors": [
+        {
+          "name": "Li Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiao Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119626",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119626",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Controlled regulation of endogenous enzymatic browning reshapes gel network formation and functional properties of edible insect Antheraea pernyi pupa protein.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119628",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409562",
+      "authors": [
+        {
+          "name": "She Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiong Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shao JH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119628",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119628",
+      "epubdate": "2026 Jun 4"
+    },
+    {
+      "title": "A comparative analysis of protein oxidation, digestibility and metabolite profiles in animal-based and plant-based chicken nuggets.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119622",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409561",
+      "authors": [
+        {
+          "name": "Zhang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119622",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119622",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Development of a comprehensive food phenolic acids database and its application: associations between dietary phenolic acids and risk of mortality.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119623",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409560",
+      "authors": [
+        {
+          "name": "Zhang W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kang M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yuan Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ling W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119623",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119623",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Reduction in fungal viability, mycotoxicity, and cytotoxicity in green coffee beans treated with plasma nitric oxide water.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119620",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409559",
+      "authors": [
+        {
+          "name": "Kifle R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Amsalu K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Khanam S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bhatnagar A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim CT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choi EH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119620",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119620",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Natural occurrence and dietary risk assessment of Alternaria toxins in wheat flour and its products in Shanghai, China.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119619",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409558",
+      "authors": [
+        {
+          "name": "Xue J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nie D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fan K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meng J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cheng M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lin X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han Z",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119619",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119619",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Insights into the fate and dynamics of antibiotic resistance in multidrug-resistant Bacillus cereus during in vitro simulated gastrointestinal digestion.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119618",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409557",
+      "authors": [
+        {
+          "name": "Shi WL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qi Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ding Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan JJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhou Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen ZH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen ZH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang AM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ai MM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu WL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119618",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119618",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Strain-dependent bioactive-lipid interactions govern oxidative stability and antimicrobial functionality in Lentinula edodes.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119617",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409556",
+      "authors": [
+        {
+          "name": "Makkar S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nehra K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Annepu SK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Singh A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119617",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119617",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Sporulation kinetics of Bacillus subtilis under dynamic temperature conditions: impact on gene expression and spore properties.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119616",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409555",
+      "authors": [
+        {
+          "name": "Hafdane K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Desriac N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Trunet C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Le Marc Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bellot L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rahmani A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mathot AG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Coroller L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119616",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119616",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Mechanisms of enhanced sesame protein recovery via cold plasma pretreatment: Impact of surface etching and oxidative hydrophilization.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119615",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409554",
+      "authors": [
+        {
+          "name": "Peng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hou Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lasrichan S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119615",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119615",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Deacetylation-dependent ice crystal growth inhibition of konjac glucomannan through water-activity regulation and interfacial-water reorganization.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119613",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409553",
+      "authors": [
+        {
+          "name": "Xiao M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cheng X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu K",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119613",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119613",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Use of Lacticaseibacillus rhamnosus LRB in high-protein multifunctional fermented milk targeted for older adults.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119612",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409552",
+      "authors": [
+        {
+          "name": "Munhoz BA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Angelo CG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Silva NC",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Sousa VC",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Souza Lopes A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Baptista DP",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119612",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119612",
+      "epubdate": "2026 Jun 5"
+    },
+    {
+      "title": "Controlling the properties of 3D-printed sodium caseinate emulsion gels by tuning starch-induced network architecture.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119611",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409551",
+      "authors": [
+        {
+          "name": "Zhang K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tian F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ge S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qin Y",
           "authtype": "Author"
         },
         {
@@ -2060,89 +3235,584 @@
           "authtype": "Author"
         },
         {
-          "name": "Nguyen TH",
+          "name": "Fan R",
           "authtype": "Author"
         },
         {
-          "name": "Choi YJ",
+          "name": "Sun Q",
           "authtype": "Author"
         },
         {
-          "name": "Jang S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kim M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kim YK",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shin MK",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Guzman ACV",
-          "authtype": "Author"
-        },
-        {
-          "name": "Park S",
+          "name": "Ji N",
           "authtype": "Author"
         }
       ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2695485",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
+      "volume": "240",
+      "issue": "",
+      "pages": "119611",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
       "pub_types": [
         "Journal Article"
       ],
-      "elocationid": "doi: 10.1080/19490976.2026.2695485",
-      "epubdate": "2026 Jul 3"
+      "elocationid": "doi: 10.1016/j.foodres.2026.119611",
+      "epubdate": "2026 Jun 2"
     },
     {
-      "title": "TCP-600 Supplementation and Performance Response in Professional Football Players",
-      "url": "https://clinicaltrials.gov/study/NCT07710547",
+      "title": "Food-derived antimicrobial peptides: advances in sources, mechanisms, structure-activity relationships, and AI-assisted design.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119610",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409550",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "An JL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xi J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119610",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119610",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Pickering emulsion stabilized by immobilized lipase for OPO synthesis and acyl migration inhibition.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119609",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409549",
+      "authors": [
+        {
+          "name": "Guo R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Du X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119609",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119609",
+      "epubdate": "2026 Jun 2"
+    },
+    {
+      "title": "Metabolic effects of dietary edible bird's nest intake: A 12-week double-blind randomized controlled metabolomics study.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119608",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409548",
+      "authors": [
+        {
+          "name": "Zhou S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fan Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ma G",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119608",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119608",
+      "epubdate": "2026 Jun 4"
+    },
+    {
+      "title": "Anti-inflammatory and barrier-protective effects of metabolites from Lactobacillus co-fermentation with linoleic acid and human fecal microbiota.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119607",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409547",
+      "authors": [
+        {
+          "name": "Jin C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gao X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mu G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tuo Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119607",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119607",
+      "epubdate": "2026 Jun 6"
+    },
+    {
+      "title": "Egg white protein foams: formation and stabilization mechanisms, modification strategies, and applications from foods to functional materials.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119605",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409546",
+      "authors": [
+        {
+          "name": "Han Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ju X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xia N",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119605",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119605",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Synergistic self-assembly of white beeswax and carnauba wax in Zanthoxylum bungeanum oil oleogels: Enhanced structural stability and controlled flavor release.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119606",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409545",
+      "authors": [
+        {
+          "name": "Song J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cui Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hou X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119606",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119606",
+      "epubdate": "2026 Jun 3"
+    },
+    {
+      "title": "Enhancing the bioactivity of sea cucumber powder through ultrafine grinding: Zebrafish xenograft tumor model reveals regulation of oxidative stress and inhabitation of the human colon cancer cell line growth.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119604",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409544",
+      "authors": [
+        {
+          "name": "Wang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dong X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119604",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119604",
+      "epubdate": "2026 Jun 6"
+    },
+    {
+      "title": "Advanced smart nonwovens for food quality monitoring: ultrathin and highly porous polymer fibers via electrically-assisted supersonic solution blow-spinning.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119602",
+      "source": "PubMed → Food Res Int",
+      "source_type": "journal",
+      "date": "2026-09-30T00:00:00+00:00",
+      "abstract": "Journal: Food Res Int",
+      "pmid": "42409543",
+      "authors": [
+        {
+          "name": "Oliveira Filho JG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Robles JR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sentanin L",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Azeredo HMC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tonon RV",
+          "authtype": "Author"
+        },
+        {
+          "name": "Abiade J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mattoso LHC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yarin AL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "240",
+      "issue": "",
+      "pages": "119602",
+      "issn": "0963-9969",
+      "essn": "1873-7145",
+      "journal_full": "Food research international (Ottawa, Ont.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.foodres.2026.119602",
+      "epubdate": "2026 Jun 5"
+    },
+    {
+      "title": "A Physical Activity Programme Focussed on Step Volume and Intensity for People With Cardiovascular Disease: Getting Active and Staying Active After Cardiac Rehabilitation",
+      "url": "https://clinicaltrials.gov/study/NCT07723274",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Athletic Performance, Cognitive Fatigue, Exercise Recovery, Football-Specific Performance, Perceptual-cognitive Performance; Interventions: TCP-600 Supplementation, Placebo, Taurine + Caffeine; This study will examine whether a 14-day supplementation protocol containing taurine, caffeine, and phosphatidylserine can help professional male football players maintain physical performance, cognitive function, recovery-related readiness, and selected football-specific perceptual-cognitive perfor; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07710547",
+      "date": "2026-09-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Coronary Artery Disease; Interventions: STEP COACH intervention group; The goal of this clinical trial is to learn about the effect of a physical activity program, focussing on increasing step volume and step intensity (STEP COACH program), compared to usual care in patients with coronary heart problems. The main question it aims to answer is: What is the effect of the; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07723274",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
-      "url": "https://clinicaltrials.gov/study/NCT06274749",
+      "title": "The Effect of Channa Striata and Curcuma Supplementation on Nutritional Status, Interleukin-6 Levels, and Quality of Life in Patients With Breast Cancer.",
+      "url": "https://clinicaltrials.gov/study/NCT07722156",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-07-22",
-      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06274749",
+      "date": "2026-08-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Breast Cancer; Interventions: channa striata and curcuma, Maltodextrin (Placebo); Breast cancer is frequently accompanied by chronic inflammation, malnutrition, and reduced quality of life, all of which may compromise treatment response and clinical outcomes. Nutritional interventions with immunomodulatory and anti-inflammatory properties have the potential to improve these condi; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07722156",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Supporting Just-In-Time Consent for Prenatal Screening: The INFORM Study",
+      "url": "https://clinicaltrials.gov/study/NCT07557303",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Delivery of Health Care, Genetic Testing, Humans, Pregnancy, Noninvasive Prenatal Testing; Interventions: Mobile-based Educational Intervention; This clinical trial is about prenatal genetic screening. It will test an intervention to help people make decisions about screening. The intervention is a short set of information cards about screening. This intervention is for pregnant participants. They will use the intervention on their mobile ph; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07557303",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "The Effect of Autonomic Neuropathy Status on the Endpoint Events in Diabetes Patients With Coronary Heart Disease and Sleep Apnea.",
+      "url": "https://clinicaltrials.gov/study/NCT07723222",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Coronary Heart Disease, Diabetes, Sleep Apnea Syndrome, Cardiovascular Autonomic Neuropathy (CAN); Interventions: The total score of Ewing test (i.e. cardiovascular autonomic reflex test and heart rate variability) was ≥1, which was divided into cardiac autonomic neuropathy group (CAN grou; Background: diabetes combined with cardiac autonomic neuropathy (CAN) can denervate the heart, which may prevent patients with sleep apnea syndrome from bradycardia in the early stage, and directly show an increased risk of tachyarrhythmia and sudden cardiac death. This means that many diabetes pati; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07723222",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
+      "url": "https://clinicaltrials.gov/study/NCT06690294",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-07-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06690294",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study",
+      "url": "https://clinicaltrials.gov/study/NCT05652478",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-07-28",
+      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer, Weight Gain, Metabolic Effects, Integrase Strand Transfer Inhibitors; Interventions: Dolutegravir (DTG) AND Tenofovir alafenamide (TAF), Tenofovir Disoproxil Fumarate, Dolutegravir, Tenofovir alafenamide; Background:\n\nPeople with HIV take drugs to keep the amount of virus in their body low. One type of these drugs, called integrase strand transfer inhibitors (INSTIs), can cause weight gain over time. Weight gain can cause diabetes, heart disease, and other serious issues. Researchers want to understa; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05652478",
       "status": "RECRUITING"
     },
     {
-      "title": "AMPLIFI: Adaptive Modulation of Plasticity Through Lactate and Fitness Interventions",
-      "url": "https://clinicaltrials.gov/study/NCT06950060",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-07-15",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Stroke, Chronic, Aging, Cognitive Decline, Motor Dysfunction, Neuroplasticity; Interventions: High intensity cycling, Low-intensity cycling, Health education session, Moderate Intensity Aerobic Exercise; The AMPLIFI study (Adaptive Modulation of Plasticity through Lactate and Fitness Interventions) investigates how short-term aerobic exercise influences brain plasticity and learning in older adults and stroke survivors. The study compares three groups: one performing aerobic cycling at an intensity ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06950060",
-      "status": "ACTIVE_NOT_RECRUITING"
+      "title": "Exploring parental prenatal influences on child health: A multicohort study and data visualisation tool",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005153",
+      "source": "PLOS Medicine RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
     },
     {
-      "title": "Effects of Exercise Sequence and Meal Sequence on Weight Management Among Children and Adolescents With Overweight or Obesity: The STEP Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07712068",
+      "title": "Functional-level analysis of post-stroke social participation: A nationwide cohort study using the ICF framework",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354691",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Efficacy and limitations of diffusion-weighted imaging with background suppression-based whole-body magnetic resonance imaging in high-risk prostate cancer staging: A retrospective study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354601",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Cardiometabolic risk pathways in adults with disabilities: A structural equation model of diet quality and functional ability",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354600",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Myocardial microvascular patterns in histological sections from patients with and without type 2 diabetes",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354451",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Global lung cancer burden, trends, and projections from 2010 to 2050: A population-level severity framework integrating DALYs-per-case and mortality-to-incidence ratio",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354350",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Lipid-modifying pharmacotherapy in diabetes mellitus: A protocol for a systematic review and network meta-analysis of randomised trials",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354259",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-07-23T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Open-Label Clinical Trial Evaluating the Impact of a Multi-Strain Commensal Probiotic Dietary Supplement on Gastrointestinal Microbiota Composition, Functional Gastrointestinal Markers, and Gastrointestinal Symptoms",
+      "url": "https://clinicaltrials.gov/study/NCT07720362",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-07-21",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Gastrointestinal, Microbiota; Interventions: Complete Commensal Probiotic; A single-arm, open-label prospective study will be conducted evaluating the impact of 8 weeks of supplementation at the manufacturer-recommended dose of Complete Commensal Probiotic™ on the GI-MAP stool test panel (Diagnostic Solutions Laboratory, Alpharetta, GA), gastrointestinal symptoms, digestio; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07720362",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Blackcurrants Modify Gut Microbiota and Reduce Osteoporosis Risk in Postmenopausal Females",
+      "url": "https://clinicaltrials.gov/study/NCT07365514",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-07",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity & Overweight, Insulin Resistance, Inflamation; Interventions: Carbohydrate-last eating, Sequential training; The goal of this clinical trial is to learn how the order of exercise and the order of eating food affect weight management in overweight and obese children and adolescents. The main questions it aims to answer are whether doing aerobic or anaerobic exercise first changes weight loss results, and wh; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07712068",
-      "status": "NOT_YET_RECRUITING"
+      "abstract": "Status: RECRUITING; Conditions: Postmenopausal Osteoporosis, Gut Microbiome, Menopause; Interventions: Blackcurrant (BC) extract, Blackcurrant (BC) extract, Placebo; The goal of this clinical trial is to evaluate the effects of blackcurrant (BC) supplementation on changes in bone density and gut microbiome composition in postmenopausal females.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07365514",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Community-Based Time-Restricted Eating and Health Education for Adults With Stage 1-2 Cardiovascular-Kidney-Metabolic Syndrome in Can Tho City",
+      "url": "https://clinicaltrials.gov/study/NCT07722338",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-05-01",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: CKM; Interventions: 10-Hour Time-Restricted Eating With Health Education and Behavioral Support; This study evaluates the effectiveness of a community-based intervention for adults aged 30 years and older with stage 1-2 cardiovascular-kidney-metabolic syndrome who do not currently have an indication for pharmacotherapy in Can Tho City, Vietnam. The study uses a cluster-controlled community inte; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07722338",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "A Study to Evaluate ALN-2232 in Participants With Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT07463846",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-03-02",
+      "abstract": "Status: RECRUITING; Conditions: Obesity; Interventions: ALN-2232, Placebo, Tirzepatide; The purpose of this study is to:\n\n* evaluate the safety, tolerability, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD) of single ascending doses of ALN-2232 in patients with obesity\n* evaluate the safety, tolerability, efficacy, PK, and PD of multiple doses of ALN-2232 in patients with ob; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07463846",
+      "status": "RECRUITING"
     },
     {
       "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
@@ -2504,65 +4174,6 @@
       ],
       "elocationid": "doi: 10.1038/s41430-026-01761-y",
       "epubdate": "2026 May 21"
-    },
-    {
-      "title": "Associations between socio-demographic factors and diet patterns among Indian women in a low-income urban setting.",
-      "url": "https://doi.org/10.1038/s41430-026-01739-w",
-      "source": "PubMed → Eur J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jun",
-      "abstract": "Journal: Eur J Clin Nutr",
-      "pmid": "42091676",
-      "authors": [
-        {
-          "name": "Kehoe SH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chopra H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shivshankaran D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Di Gravio C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sahariah SA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gandhi M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Margetts BM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Potdar RD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fall CHD",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "80",
-      "issue": "6",
-      "pages": "618-624",
-      "issn": "0954-3007",
-      "essn": "1476-5640",
-      "journal_full": "European journal of clinical nutrition",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "elocationid": "doi: 10.1038/s41430-026-01739-w",
-      "epubdate": "2026 May 7"
     },
     {
       "title": "Biological aging clocks in health and disease.",
@@ -2993,107 +4604,6 @@
       "epubdate": "2026 Jun 8"
     },
     {
-      "title": "Microbiome-Based Precision Interventions in Type 2 Diabetes Mellitus: Mechanisms, Modulators, and Translational Opportunities.",
-      "url": "https://doi.org/10.1016/j.tjnut.2026.101596",
-      "source": "PubMed → J Nutr",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Nutr",
-      "pmid": "42414020",
-      "authors": [
-        {
-          "name": "Clister D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chandra QM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tan MW",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gunawan MC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bibi A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ahmed A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bastian M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meesakul P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cao S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kim B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nurkolis F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Syahputra RA",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "156",
-      "issue": "7",
-      "pages": "101596",
-      "issn": "0022-3166",
-      "essn": "1541-6100",
-      "journal_full": "The Journal of nutrition",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1016/j.tjnut.2026.101596",
-      "epubdate": "2026 Jun 15"
-    },
-    {
-      "title": "Introducing Profiles in Nutrition: Capturing the Voices Shaping the Field.",
-      "url": "https://doi.org/10.1016/j.tjnut.2026.101615",
-      "source": "PubMed → J Nutr",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Nutr",
-      "pmid": "42414019",
-      "authors": [
-        {
-          "name": "McGuire MK",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lei XG",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "156",
-      "issue": "7",
-      "pages": "101615",
-      "issn": "0022-3166",
-      "essn": "1541-6100",
-      "journal_full": "The Journal of nutrition",
-      "pub_types": [
-        "Editorial"
-      ],
-      "elocationid": "doi: 10.1016/j.tjnut.2026.101615",
-      "epubdate": "2026 Jun 18"
-    },
-    {
       "title": "Nutraceuticals as modulators of genetic, epigenetic and hormonal factors in obesity.",
       "url": "https://doi.org/10.1038/s41430-026-01751-0",
       "source": "PubMed → Eur J Clin Nutr",
@@ -3305,6 +4815,1387 @@
       ],
       "elocationid": "doi: 10.1016/j.ypmed.2026.108584",
       "epubdate": "2026 Apr 22"
+    },
+    {
+      "title": "Ultrasonication of Sorghum and Cowpea Slurries: Influence on Technofunctional, Rheological, and Proximate Properties.",
+      "url": "https://doi.org/10.1111/1750-3841.71310",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42487545",
+      "authors": [
+        {
+          "name": "Nkosi T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Adeyanju AA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Adebo OA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71310",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71310",
+      "epubdate": ""
+    },
+    {
+      "title": "Co-Production of Mycoprotein, Carotenoids, and B Vitamins From Cheese Whey by Neurospora intermedia.",
+      "url": "https://doi.org/10.1111/1750-3841.71294",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42487533",
+      "authors": [
+        {
+          "name": "Dianatdar F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Etemadifar Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taherzadeh MJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71294",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71294",
+      "epubdate": ""
+    },
+    {
+      "title": "Development of Crispy, Antioxidant-Rich Sultana Grape Chips via Hybrid Pre-Drying and Explosion Puff Drying.",
+      "url": "https://doi.org/10.1111/1750-3841.71307",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42487529",
+      "authors": [
+        {
+          "name": "Altay Ö",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaymak-Ertekin F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71307",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71307",
+      "epubdate": ""
+    },
+    {
+      "title": "Comprehensive Bioactivity-Guided Isolation, DeepSAT, and LC-Q-TOF-MS/MS Analysis to Reveal Hypoglycemic Constituents of Momordica charantia L.",
+      "url": "https://doi.org/10.1111/1750-3841.71315",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42487512",
+      "authors": [
+        {
+          "name": "Lv HW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fan WL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shi RH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Emam M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu MD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li XN",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71315",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71315",
+      "epubdate": ""
+    },
+    {
+      "title": "Effect of Microwave Power Cycle on Temperature Uniformity, Microbial Inactivation, and Quality: Computational Approach for Milk Thermal Processing.",
+      "url": "https://doi.org/10.1111/1750-3841.71306",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42477268",
+      "authors": [
+        {
+          "name": "Karataş O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Çakır EN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Erdoğdu F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71306",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71306",
+      "epubdate": ""
+    },
+    {
+      "title": "Spectral Pattern of Chocolate Production: Early Detection of Quality Problems.",
+      "url": "https://doi.org/10.1111/1750-3841.71269",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42474115",
+      "authors": [
+        {
+          "name": "Küçükduman Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Korkmaz İD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Çiftçi HG",
+          "authtype": "Author"
+        },
+        {
+          "name": "İpkin G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Argün S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kara ZP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bilge Özel G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taştan Ülkü Ö",
+          "authtype": "Author"
+        },
+        {
+          "name": "Toker ÖS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mutlu Z",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71269",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71269",
+      "epubdate": ""
+    },
+    {
+      "title": "Compositional and Safety Profiling of Honeys From Iraqi Kurdistan: A Multi-Indicator Analytical Approach.",
+      "url": "https://doi.org/10.1111/1750-3841.71303",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42473141",
+      "authors": [
+        {
+          "name": "Othman B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sebo NH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taha SS",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71303",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71303",
+      "epubdate": ""
+    },
+    {
+      "title": "Automation, Robotics, and Artificial Intelligence in Seafood Processing: Advancements, Challenges, and Future Prospects.",
+      "url": "https://doi.org/10.1111/1750-3841.71309",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42473126",
+      "authors": [
+        {
+          "name": "Yadav KK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sharma S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mehta NK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bansal N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mohanty S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bhalavey P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kulshrestha T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Singh A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71309",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71309",
+      "epubdate": ""
+    },
+    {
+      "title": "Vibrational Spectroscopy Predicts Antimicrobial Activity of Orange Peels: A Case Study on Batch-to-Batch Variation in Food By-Product Valorization.",
+      "url": "https://doi.org/10.1111/1750-3841.71308",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42473120",
+      "authors": [
+        {
+          "name": "Zhang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71308",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71308",
+      "epubdate": ""
+    },
+    {
+      "title": "TaBAHD Regulates Wheat Grain Quality by Modulating Starch and Protein Synthesis.",
+      "url": "https://doi.org/10.1111/1750-3841.71311",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42473114",
+      "authors": [
+        {
+          "name": "Xue Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ding J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author"
+        },
+        {
+          "name": "He J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhan S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ren Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Geng H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71311",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71311",
+      "epubdate": ""
+    },
+    {
+      "title": "Development and Validation of a Mobile Application for Real-Time Chinese Dish Classification and Nutrient Estimation.",
+      "url": "https://doi.org/10.1111/1750-3841.71297",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42473090",
+      "authors": [
+        {
+          "name": "Feng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bi J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Luo Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71297",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71297",
+      "epubdate": ""
+    },
+    {
+      "title": "From Tradition to Innovation: The Nutritional, Bioactive, and Sustainable Potential of Portulaca oleracea L.",
+      "url": "https://doi.org/10.1111/1750-3841.71288",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42464968",
+      "authors": [
+        {
+          "name": "Ramos JS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Brito NLH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Costa GB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Martins KP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Alessi ACSB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Santos TA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Silva AEMD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ferri OMP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Heleno SA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rutledge DN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Reitz Cardoso FA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71288",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71288",
+      "epubdate": ""
+    },
+    {
+      "title": "Drying Characteristics, Process Optimization, and Applied Economic Analysis of Vacuum Microwave Drying of Poria cocos.",
+      "url": "https://doi.org/10.1111/1750-3841.71305",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42464951",
+      "authors": [
+        {
+          "name": "Xu P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fan J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xie W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeng X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71305",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71305",
+      "epubdate": ""
+    },
+    {
+      "title": "Supercritical Carbon Dioxide Drying for Creating Porous Red Lentil Proteins: Effects of pH and Solvent Exchange.",
+      "url": "https://doi.org/10.1111/1750-3841.71229",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42464949",
+      "authors": [
+        {
+          "name": "Asaithambi N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ubeyitogullari A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71229",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71229",
+      "epubdate": ""
+    },
+    {
+      "title": "Industrial Peanut Oil-Cake as a Base Material for the Construction of Nanocapsules Loaded With Oregano Essential Oil for Food Delivery Applications.",
+      "url": "https://doi.org/10.1111/1750-3841.71296",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42464885",
+      "authors": [
+        {
+          "name": "Rebeca A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Paula MM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Matías PSJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lina FM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Grosso NR",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71296",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71296",
+      "epubdate": ""
+    },
+    {
+      "title": "Ultrasound-Assisted NADES-Based Extraction of Spirulina Bioactives: Bioaccessibility and Intestinal Permeability Assessment Using an In Vitro Digestion/Caco-2 Cell Model and Food Application.",
+      "url": "https://doi.org/10.1111/1750-3841.71289",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42464859",
+      "authors": [
+        {
+          "name": "Toydemir G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sanli I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ozkan G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Capanoglu E",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71289",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71289",
+      "epubdate": ""
+    },
+    {
+      "title": "Efficient Production of High-Concentration Lycopene Nanoemulsions by an Evaporation Technique: A Response Surface Optimization Approach.",
+      "url": "https://doi.org/10.1111/1750-3841.71298",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446096",
+      "authors": [
+        {
+          "name": "Kobayashi H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Murakami K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Matsuno M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shimoyamada M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71298",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71298",
+      "epubdate": ""
+    },
+    {
+      "title": "Biological Safety and Functional Properties of Açaí Seed Extract: Antioxidant Capacity and Prebiotic Potential.",
+      "url": "https://doi.org/10.1111/1750-3841.71293",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446092",
+      "authors": [
+        {
+          "name": "da Silva Junior MP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Miranda AJA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gagliardi AL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moreira IG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Camaceti MES",
+          "authtype": "Author"
+        },
+        {
+          "name": "Salgaço MK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sivieri K",
+          "authtype": "Author"
+        },
+        {
+          "name": "da Rocha CQ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Resende FA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71293",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71293",
+      "epubdate": ""
+    },
+    {
+      "title": "A Hybrid Machine Learning Framework for Interpretable Kinetics of α-Tocopherol and Myricetin Synergism.",
+      "url": "https://doi.org/10.1111/1750-3841.71291",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446086",
+      "authors": [
+        {
+          "name": "Lu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Iyer S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bayram I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Decker EA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Singh SP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Corvalan CM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71291",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71291",
+      "epubdate": ""
+    },
+    {
+      "title": "Unveiling Chouguiyu: A Review of Flavor Development, Microbial Dynamics, and Texture Formation in Fermented Mandarin Fish.",
+      "url": "https://doi.org/10.1111/1750-3841.71301",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446042",
+      "authors": [
+        {
+          "name": "Mo T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Du A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zou B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shao D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lai P",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71301",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71301",
+      "epubdate": ""
+    },
+    {
+      "title": "Sensitive Detection of Foodborne Parasitic Larvae Using a Sieving-qPCR Workflow: Application to Angiostrongylus cantonensis.",
+      "url": "https://doi.org/10.1111/1750-3841.71260",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446021",
+      "authors": [
+        {
+          "name": "Kačmaříková J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Stříbrná H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Janečková K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Červená B",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71260",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71260",
+      "epubdate": ""
+    },
+    {
+      "title": "Exploring Coffee By-Products as Alternative Protein Sources: A Comprehensive Analysis of Amino Acid Profiles (Free and Total) and Protein Quality.",
+      "url": "https://doi.org/10.1111/1750-3841.71304",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42446020",
+      "authors": [
+        {
+          "name": "Machado M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Machado S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lobo J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Oliveira MB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ferreira H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Alves RC",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71304",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71304",
+      "epubdate": ""
+    },
+    {
+      "title": "Hybrid Fractionation of Cowpea: Combining Dry and Wet Routes to Produce Versatile Protein Ingredients.",
+      "url": "https://doi.org/10.1111/1750-3841.71256",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439303",
+      "authors": [
+        {
+          "name": "Teixeira RF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Balbinot Filho CA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Oliveira J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Karatay GGB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ambiel C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zielinski AAF",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71256",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71256",
+      "epubdate": ""
+    },
+    {
+      "title": "Rechargeable N-Halamine Hydrogel Paint Coating Based on Upcycled Sesame Meal Protein for Preventing Cross-Contamination on Food-Contact Surfaces.",
+      "url": "https://doi.org/10.1111/1750-3841.71254",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439291",
+      "authors": [
+        {
+          "name": "Kim S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nitin N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Doh H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71254",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71254",
+      "epubdate": ""
+    },
+    {
+      "title": "Plasma Bubbling-Assisted Extraction of Bioactive Compounds From Shrimp Waste: Effect on Physicochemical and Quality Characteristics.",
+      "url": "https://doi.org/10.1111/1750-3841.71290",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439290",
+      "authors": [
+        {
+          "name": "Abuthahir S",
+          "authtype": "Author"
+        },
+        {
+          "name": "H S D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chandrakar S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Radhakrishnan M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71290",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71290",
+      "epubdate": ""
+    },
+    {
+      "title": "Stable Emulsions Constructed From Whey Protein Isolate-Arabinogalactan Conjugates: Preparation, Characterization, and β-Carotene Loading.",
+      "url": "https://doi.org/10.1111/1750-3841.71295",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439285",
+      "authors": [
+        {
+          "name": "Gao T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Feng A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeng S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71295",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71295",
+      "epubdate": ""
+    },
+    {
+      "title": "Pulsed Electric Field-Assisted Recovery of Phenolic Compounds From Haskap (Lonicera caerulea L.) Pomace: Influence of Processing Parameters and Cell Disintegration.",
+      "url": "https://doi.org/10.1111/1750-3841.71292",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439257",
+      "authors": [
+        {
+          "name": "Puzovic A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rinaldi M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mikulic-Petkovsek M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71292",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71292",
+      "epubdate": ""
+    },
+    {
+      "title": "Quality Characteristics and Storage Stability of Mixed Fresh Sausages Produced With Meat From Culled Sheep Fed Flaxseed for Different Periods.",
+      "url": "https://doi.org/10.1111/1750-3841.71300",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42439247",
+      "authors": [
+        {
+          "name": "Feihrmann AC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Muraro K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Steffens C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeni J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Steffens J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Backes GT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Macedo FA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cansian RL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Valduga E",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71300",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71300",
+      "epubdate": ""
+    },
+    {
+      "title": "Vacuum Pulsation Drying Kinetics and Quality Characteristics of Cracked Jun Jujubes at Different Maturity Stages.",
+      "url": "https://doi.org/10.1111/1750-3841.71226",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42433188",
+      "authors": [
+        {
+          "name": "Wang T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Deng D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hu L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yi X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71226",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71226",
+      "epubdate": ""
+    },
+    {
+      "title": "Kokumi Peptides in Salt Reduction: Preparation, Evaluation Methods, Perceptual Mechanisms, and Prospects for Food Applications.",
+      "url": "https://doi.org/10.1111/1750-3841.71267",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Jul",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42433183",
+      "authors": [
+        {
+          "name": "Sun T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Feng T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Khan MU",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yao L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Song S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu C",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71267",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71267",
+      "epubdate": ""
     },
     {
       "title": "Sedentary time and television viewing time are associated with an increased risk for all-cause mortality: A systematic review of systematic reviews.",
@@ -3708,114 +6599,144 @@
       "epubdate": "2026 May 13"
     },
     {
-      "title": "Autologous Fecal Microbiota Transplantation for Anal Function Recovery After Ileostomy Reversal in Rectal Cancer",
-      "url": "https://clinicaltrials.gov/study/NCT07711509",
+      "title": "The Florida ASCENT Study",
+      "url": "https://clinicaltrials.gov/study/NCT07042243",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-03-25",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Rectal Cancer, Low Anterior Resection Syndrome, Fecal Incontinence, Diversion Colitis, Ileostomy; Interventions: Autologous Fecal Microbiota Transplantation; This prospective, single-center, single-arm, open-label clinical study aims to evaluate whether autologous fecal microbiota transplantation can improve bowel and anal function after ileostomy reversal in patients with rectal cancer who underwent radical rectal cancer surgery with protective loop ile; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07711509",
-      "status": "ACTIVE_NOT_RECRUITING"
+      "date": "2025-12-05",
+      "abstract": "Status: RECRUITING; Conditions: Cancer, Food Deprivation, Food Habits, Food Selection, Colorectal Cancer; Interventions: MyCarePulse and ASCENT PN; The goal of this clinical trial is to adapt, implement, and evaluate MyCarePulse and ASCENT patient navigator to overcome barriers to care among patients with cancer.\n\nThe main hypotheses it aims to test are:\n\n* At the patient level, the intervention will result in higher levels of food security, se; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07042243",
+      "status": "RECRUITING"
     },
     {
-      "title": "Association of Arterio-Venous Oxygen and Carbon Dioxide Gradients With Tissue Hypoperfusion and Mortality in Sepsis",
-      "url": "https://clinicaltrials.gov/study/NCT07711405",
+      "title": "Effects of a Buriti Suplpement on Body Composition and Function in Older Adults",
+      "url": "https://clinicaltrials.gov/study/NCT07716839",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2025-08-01",
+      "abstract": "Status: COMPLETED; Conditions: Aging, Sarcopenia, Malnutrition Elderly; Interventions: Nutricer® Supplementation, Maltodextrin (Placebo), Tai Chi Chuan program; Aging is a natural process commonly associated with loss of muscle mass, reduced flexibility, and impaired balance, directly affecting the quality of life of older adults. Tai Chi Chuan, a traditional mind-body practice, has been shown to improve balance, flexibility, and overall well-being in elder; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07716839",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Physical Exercise on Metabolic Health, Gut Microbiota, Physical Fitness, and Quality of Life in Obese Breast Cancer Survivors",
+      "url": "https://clinicaltrials.gov/study/NCT07213271",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2025-03-01",
-      "abstract": "Status: COMPLETED; Conditions: Intubated ICU Patients, Sepsis and Septic Shock; In patients with sepsis who are treated in the intensive care unit under invasive mechanical ventilation, the combined evaluation of ScvO₂ and PcvCO₂ may provide a comprehensive insight into tissue oxygenation and metabolic stress, allowing a more precise hemodynamic assessment in critically ill pat; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07711405",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Triptorelin for the Prevention of Ovarian Damage in Adolescents and Young Adults With Cancer",
-      "url": "https://clinicaltrials.gov/study/NCT06513962",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-02-27",
-      "abstract": "Status: RECRUITING; Conditions: Hematopoietic and Lymphatic System Neoplasm, Malignant Solid Neoplasm; Interventions: Best Practice, Biospecimen Collection, Electronic Health Record Review, Survey Administration, Triptorelin Pamoate; This phase III trial compares the effect of giving triptorelin vs no triptorelin in preventing ovarian damage in adolescents and young adults (AYAs) with cancer receiving chemotherapy with an alkylating agents. Alkylating agents are part of standard chemotherapy, but may cause damage to the ovaries.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06513962",
+      "abstract": "Status: RECRUITING; Conditions: Breast Cancer Females; Interventions: Dance classes; The goal of this clinical trial is to evaluate whether a 3-month dance-based exercise program combined with individualized nutrition can improve health outcomes in obese breast cancer survivors in remission. The main questions it aims to answer are:\n\nWill the intervention reduce body weight, body fa; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07213271",
       "status": "RECRUITING"
     },
     {
-      "title": "Prevention of Frailty With Fisetin and Exercise in Breast Cancer Survivors",
-      "url": "https://clinicaltrials.gov/study/NCT06113016",
+      "title": "Healthy Stool Volunteer Donors for Fecal Microbiota Transplantation Trials",
+      "url": "https://clinicaltrials.gov/study/NCT06478823",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-07-23",
-      "abstract": "Status: RECRUITING; Conditions: Anatomic Stage I Breast Cancer American Joint Committee on Cancer (AJCC) v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Early Stage Breast Carcinoma; Interventions: Biospecimen Collection, Educational Intervention, Exercise Intervention, Fisetin, Physical Performance Testing; This phase II trial tests how well fisetin and exercise works in preventing frailty in breast cancer survivors. Fisetin is a natural substance found in strawberries and other foods and is available as a nutritional supplement. Nutritional supplements may be useful in eliminating cells that have unde; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06113016",
+      "date": "2024-07-08",
+      "abstract": "Status: RECRUITING; Conditions: Gastro-Intestinal Disorder; Interventions: Stools donation; Currently, ANSM recommendations govern FMT (Fecal Microbiota Transplantation) in clinical trials. The collection and validation of these stool donations as part of the trials is complex and not very efficient. It therefore seems essential to identify the limiting factors and the characteristics of H; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06478823",
       "status": "RECRUITING"
     },
     {
-      "title": "Effects of Goji vs. Fiber on Macular Degeneration",
-      "url": "https://clinicaltrials.gov/study/NCT06237127",
+      "title": "Nutritional Intervention for Endometriosis",
+      "url": "https://clinicaltrials.gov/study/NCT05175248",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-04-29",
-      "abstract": "Status: RECRUITING; Conditions: Age-Related Macular Degeneration; Interventions: Goji berry, Fiber; The goal of this project is to conduct a clinical trial in 60 participants ranging from age 65-95 who are at risk for age-related macular degeneration (AMD). The study will evaluate the effects of 14g of goji berry intake or an equivalent amount and type of fiber, five days a week for six months, on; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06237127",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Sleep Disordered Breathing, Endothelial Function, and Adverse Events in Pregnancy",
-      "url": "https://clinicaltrials.gov/study/NCT05908591",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-01-01",
-      "abstract": "Status: RECRUITING; Conditions: Pregnancy Related, Sleep-Disordered Breathing; This is a prospective longitudinal cohort study whereby pregnant individuals are asked to complete an 8-day testing protocol to measure their sleep and cardiovascular health at two timepoints during pregnancy.; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT05908591",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "A Mobile Application to Improve Procurement and Distribution of Healthful Foods & Beverages in Baltimore City",
-      "url": "https://clinicaltrials.gov/study/NCT05010018",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-10-29",
-      "abstract": "Status: COMPLETED; Conditions: Obesity; Interventions: Web-based application connecting small food store owners and suppliers of healthier foods and beverages; Low-income urban communities have many small food stores, but poor access to healthier foods and beverages. The investigators will develop, implement and evaluate the feasibility of a Baltimore Urban food Distribution (BUD) web-based application (app) to improve access to affordable, healthier produ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05010018",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Early Detection of Hepatocellular Carcinoma in a High-risk Prospective Cohort (ELEGANCE)",
-      "url": "https://clinicaltrials.gov/study/NCT04965259",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-04-15",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Liver Diseases; Hepatocellular carcinoma (HCC) is the 7th most common cause of cancer death globally but only 20% are diagnosed in its early stages where cure is possible. Current standard-of-care surveillance of patients at high risk of developing HCC with 6-monthly serum alpha-fetoprotein (AFP) and ultrasound ima; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04965259",
+      "date": "2022-03-02",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Endometriosis; Interventions: Plant-based Intervention Group; In a 12-week parallel study, women with a verified diagnosis of endometriosis will be randomly assigned to follow a low-fat plant-based diet or to stay on their usual diets for 12 weeks. Participants in both groups will be asked to make no changes to their exercise patterns for the study period. Cha; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05175248",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "Clinical Study of STI Screening to Prevent Adverse Birth and New-born Outcomes (Philani Ndiphile)",
-      "url": "https://clinicaltrials.gov/study/NCT04446611",
+      "title": "Physical and Behavioral Traits of Overweight and Obese Adults",
+      "url": "https://clinicaltrials.gov/study/NCT00428987",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2021-03-29",
-      "abstract": "Status: COMPLETED; Conditions: Sexually Transmitted Infection, HIV/AIDS, Cost-effectiveness, Birth Outcomes, Vaginal Microbiome; Interventions: First antenatal care + test-of-cure, First antenatal care + week 30-34 gestation (no test-of-cure); This study aims to evaluate different screening strategies to decrease the burden of Neisseria gonorrhoeae (NG), Chlamydia trachomatis (CT) and Trichomonas vaginalis (TV) among pregnant women, and reduce adverse birth outcomes. In turn it aims to evaluate the cost per pregnant woman screened and tre; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT04446611",
-      "status": "COMPLETED"
+      "date": "2007-03-08",
+      "abstract": "Status: RECRUITING; Conditions: Obesity, Healthy Volunteers; This study will describe the phenotype (physical and behavioral traits) of overweight and obese people. It will characterize the hormones, metabolism, food preferences, fitness and physical activity levels, sleep patterns and thought processes in people with and without weight problems. Genetic mate; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT00428987",
+      "status": "RECRUITING"
     },
     {
-      "title": "Longitudinal Changes in the Oral and Gut Microbiome of Individuals With Alcohol Dependence",
-      "url": "https://clinicaltrials.gov/study/NCT02911077",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2016-09-27",
-      "abstract": "Status: COMPLETED; Conditions: Alcoholic Intoxication, Alcohol-Related Disorders; Background:\n\nMany bacteria live in the gut. The gut is the tube that moves food from the mouth through the stomach to the intestines. Heavy alcohol use disturbs these bacteria. There is evidence that the bacteria in the gut may affect anxiety and depression. Researchers want to learn more about thes; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02911077",
-      "status": "COMPLETED"
+      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Keyong Deng , Quinten R."
     },
     {
-      "title": "Insights Into Microbiome and Environmental Contributions to Sickle Cell Disease and Leg Ulcers Study (INSIGHTS Study)",
-      "url": "https://clinicaltrials.gov/study/NCT02156102",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2014-06-16",
-      "abstract": "Status: COMPLETED; Conditions: Genetic Disease, Genomics; Background:\n\n\\- People with sickle cell disease and other blood disorders sometimes get chronic leg ulcers. These are wounds that develop on the skin and don t go away. Current treatments do not work very well, so researchers want to learn more about why the ulcers happen. They want to find out whic; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02156102",
-      "status": "COMPLETED"
+      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Vanesa Caro Miranda , Shadia Blel"
+    },
+    {
+      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Yuhao Sun , Zhuoyuan"
+    },
+    {
+      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Mary Njeri Wanjau , Lucy"
+    },
+    {
+      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Matteo Di Scipio , Alice"
+    },
+    {
+      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Onyedika G. Ani , Elaheh"
+    },
+    {
+      "title": "Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Fhadilla Amelia , Arina Nurul"
+    },
+    {
+      "title": "AI-Driven Precision Nutrition for Predicting Iron Deficiency Using Genomics, Polygenic Risk Scores, Dietary Patterns, and Personalized Dietary Recommendations",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "B Shravani , S"
+    },
+    {
+      "title": "Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Caitlyn Winn , Leah"
+    },
+    {
+      "title": "Beyond malaria prevention: sulfadoxine-pyrimethamine treatment in pregnancy selectively remodels the maternal gut microbiome to increase gestational weight gain and improve birthweight",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.03.26352319v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Andreea Waltmann , Sydney M."
     }
   ]
 }
