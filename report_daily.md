@@ -1,32 +1,12 @@
 # 预防医学与营养学文献日报
 
-**2026-07-25（周六）** | 检索到 151 篇 | 深度分析 120 篇
+**2026-07-26（周日）** | 检索到 153 篇 | 深度分析 120 篇
 
-> PubMed(125) · RSS(6) · 预印本(0) · 临床试验(21)
-
----
-
-## 1. Who owns cardiometabolic disease?
-
-**来源：**PubMed → Lancet
-**PMID：**[42492544](https://pubmed.ncbi.nlm.nih.gov/42492544)
-**DOI：**[https://doi.org/10.1016/S0140-6736(26)01497-2](https://doi.org/10.1016/S0140-6736(26)01497-2)
-
-**发现：**Journal: Lancet
+> PubMed(123) · RSS(0) · 预印本(10) · 临床试验(21)
 
 ---
 
-## 2. Pregnancy as exclusion criterion in Ebola research: not again.
-
-**来源：**PubMed → Lancet
-**PMID：**[42468542](https://pubmed.ncbi.nlm.nih.gov/42468542)
-**DOI：**[https://doi.org/10.1016/S0140-6736(26)01367-X](https://doi.org/10.1016/S0140-6736(26)01367-X)
-
-**发现：**Journal: Lancet
-
----
-
-## 3. MODERN-Dental: Pediatric Obesity, Cardiometabolic Risks, And Periodontal Disease
+## 1. MODERN-Dental: Pediatric Obesity, Cardiometabolic Risks, And Periodontal Disease
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07478653](https://clinicaltrials.gov/study/NCT07478653)
@@ -35,7 +15,7 @@
 
 ---
 
-## 4. Role of the Gut Microbiome in the Outcome of Diffuse Large B-Cell Lymphoma Patients Treated With CAR-T Cell Therapy
+## 2. Role of the Gut Microbiome in the Outcome of Diffuse Large B-Cell Lymphoma Patients Treated With CAR-T Cell Therapy
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT05725720](https://clinicaltrials.gov/study/NCT05725720)
@@ -44,7 +24,7 @@
 
 ---
 
-## 5. Pomegranate Dietary Supplements in AUD and ALD
+## 3. Pomegranate Dietary Supplements in AUD and ALD
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07678567](https://clinicaltrials.gov/study/NCT07678567)
@@ -53,7 +33,7 @@
 
 ---
 
-## 6. 3-Dimensional Optical Scanning to Assess and Monitor Malnutrition in Eating Disorders (3D-ED) Study
+## 4. 3-Dimensional Optical Scanning to Assess and Monitor Malnutrition in Eating Disorders (3D-ED) Study
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07726524](https://clinicaltrials.gov/study/NCT07726524)
@@ -62,7 +42,7 @@
 
 ---
 
-## 7. Dietary Supplement for Myopia Control
+## 5. Dietary Supplement for Myopia Control
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07406906](https://clinicaltrials.gov/study/NCT07406906)
@@ -71,7 +51,7 @@
 
 ---
 
-## 8. Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study
+## 6. Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT05652478](https://clinicaltrials.gov/study/NCT05652478)
@@ -82,7 +62,7 @@ People with HIV take drugs to k
 
 ---
 
-## 9. Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism
+## 7. Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT06690294](https://clinicaltrials.gov/study/NCT06690294)
@@ -97,7 +77,7 @@ To explore how ch
 
 ---
 
-## 10. A Study to Test How Well Different Doses of BI 3034701 Are Tolerated by Japanese Healthy People and Japanese People With Obesity or Overweight
+## 8. A Study to Test How Well Different Doses of BI 3034701 Are Tolerated by Japanese Healthy People and Japanese People With Obesity or Overweight
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07693231](https://clinicaltrials.gov/study/NCT07693231)
@@ -108,7 +88,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 11. Effects of a Six-Day Whole-Diet Intervention on Taste Perception and Dietary Behaviour in Young Adults
+## 9. Effects of a Six-Day Whole-Diet Intervention on Taste Perception and Dietary Behaviour in Young Adults
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07726394](https://clinicaltrials.gov/study/NCT07726394)
@@ -117,7 +97,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 12. Efficacy and Safety of MET097 Once-Weekly in People With Overweight or Obesity
+## 10. Efficacy and Safety of MET097 Once-Weekly in People With Overweight or Obesity
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07311850](https://clinicaltrials.gov/study/NCT07311850)
@@ -126,7 +106,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 13. Evaluating the Impact of Maridebart Cafraglutide on Cardiovascular Outcomes in Participants With Atherosclerotic Cardiovascular Disease and Overweight or Obesity
+## 11. Evaluating the Impact of Maridebart Cafraglutide on Cardiovascular Outcomes in Participants With Atherosclerotic Cardiovascular Disease and Overweight or Obesity
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07037433](https://clinicaltrials.gov/study/NCT07037433)
@@ -135,7 +115,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 14. Single Arm Trial of Menstrual Cups Among Economically Vulnerable Women to Reduce Bacterial Vaginosis and STIs
+## 12. Single Arm Trial of Menstrual Cups Among Economically Vulnerable Women to Reduce Bacterial Vaginosis and STIs
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT05666778](https://clinicaltrials.gov/study/NCT05666778)
@@ -144,7 +124,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 15. A Trial to Test if Fremanezumab is Effective in Preventing Migraine in Children and Adolescents
+## 13. A Trial to Test if Fremanezumab is Effective in Preventing Migraine in Children and Adolescents
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT04530110](https://clinicaltrials.gov/study/NCT04530110)
@@ -153,7 +133,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 16. Assessment of the Impact of Type of Probiotic, Delivery Type and Feeding Type on Baby's Microbiota After Dysbiotic Delivery
+## 14. Assessment of the Impact of Type of Probiotic, Delivery Type and Feeding Type on Baby's Microbiota After Dysbiotic Delivery
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT04304014](https://clinicaltrials.gov/study/NCT04304014)
@@ -162,7 +142,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 17. Impact of Endoscopic Sleeve Gastroplasty (ESG) in Obese Adults With Type 2 Diabetes (T2D)
+## 15. Impact of Endoscopic Sleeve Gastroplasty (ESG) in Obese Adults With Type 2 Diabetes (T2D)
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07639684](https://clinicaltrials.gov/study/NCT07639684)
@@ -171,7 +151,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 18. Weight Gain in Pediatric Leukemia Survivors
+## 16. Weight Gain in Pediatric Leukemia Survivors
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07374315](https://clinicaltrials.gov/study/NCT07374315)
@@ -180,7 +160,7 @@ To investigate safety, tolerability, pharmacokinetics (PK) and pharmacodynamics 
 
 ---
 
-## 19. Mandala Coloring, Stress, and Anxiety
+## 17. Mandala Coloring, Stress, and Anxiety
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07726186](https://clinicaltrials.gov/study/NCT07726186)
@@ -191,7 +171,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 20. GLP-1R Actions on Muscle and the Skeleton
+## 18. GLP-1R Actions on Muscle and the Skeleton
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT07154719](https://clinicaltrials.gov/study/NCT07154719)
@@ -200,7 +180,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 21. Impact of a Perioperative Physical Exercise and Respiratory Physiotherapy Program on the Patient Undergoing Bariatric Surgery
+## 19. Impact of a Perioperative Physical Exercise and Respiratory Physiotherapy Program on the Patient Undergoing Bariatric Surgery
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT06987903](https://clinicaltrials.gov/study/NCT06987903)
@@ -209,7 +189,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 22. Impact of Different Carbohydrate Feedings on a Hydrogen Breath Curve and Self-reported Gastrointestinal Complaints
+## 20. Impact of Different Carbohydrate Feedings on a Hydrogen Breath Curve and Self-reported Gastrointestinal Complaints
 
 **来源：**ClinicalTrials.gov
 **DOI：**[https://clinicaltrials.gov/study/NCT06648967](https://clinicaltrials.gov/study/NCT06648967)
@@ -218,13 +198,31 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 23. Intestinal gases as markers to study the diet-gut microbiota-host metabolism axis in humans and their relationship to metabolic health.
+## 21. Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1](https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1)
+
+**发现：**Vanesa Caro Miranda , Shadia Blel
+
+---
+
+## 22. Intestinal gases as markers to study the diet-gut microbiota-host metabolism axis in humans and their relationship to metabolic health.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42444516](https://pubmed.ncbi.nlm.nih.gov/42444516)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2701495](https://doi.org/10.1080/19490976.2026.2701495)
 
 **发现：**Journal: Gut Microbes
+
+---
+
+## 23. A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1](https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1)
+
+**发现：**Onyedika G. Ani , Elaheh
 
 ---
 
@@ -248,7 +246,34 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 26. Probiotic Lactobacillus casei improves immune microenvironment in rheumatoid arthritis via gut microbiota-butyrate-HDAC/NF-κB signaling.
+## 26. Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1](https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1)
+
+**发现：**Keyong Deng , Quinten R.
+
+---
+
+## 27. Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2](https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2)
+
+**发现：**Mary Njeri Wanjau , Lucy
+
+---
+
+## 28. Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1](https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1)
+
+**发现：**Caitlyn Winn , Leah
+
+---
+
+## 29. Probiotic Lactobacillus casei improves immune microenvironment in rheumatoid arthritis via gut microbiota-butyrate-HDAC/NF-κB signaling.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42482368](https://pubmed.ncbi.nlm.nih.gov/42482368)
@@ -258,7 +283,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 27. Dynamic flexibility of the murine gut microbiota during morphine disturbance enables escape from the stable dysbiosis that is associated with addiction-like behavior.
+## 30. Dynamic flexibility of the murine gut microbiota during morphine disturbance enables escape from the stable dysbiosis that is associated with addiction-like behavior.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42470107](https://pubmed.ncbi.nlm.nih.gov/42470107)
@@ -268,7 +293,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 28. Gut-derived genistein from Parabacteroides distasonis alleviates psoriatic inflammation via CD200-mediated NF-κB inhibition in mice.
+## 31. Gut-derived genistein from Parabacteroides distasonis alleviates psoriatic inflammation via CD200-mediated NF-κB inhibition in mice.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42461117](https://pubmed.ncbi.nlm.nih.gov/42461117)
@@ -278,7 +303,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 29. Distinct trajectories of urbanization shape the human gut microbiome across South Asia.
+## 32. Distinct trajectories of urbanization shape the human gut microbiome across South Asia.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42444491](https://pubmed.ncbi.nlm.nih.gov/42444491)
@@ -288,7 +313,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 30. Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.
+## 33. Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42444486](https://pubmed.ncbi.nlm.nih.gov/42444486)
@@ -298,7 +323,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 31. Towards standardized gut microbiota diagnostics: normobiosis beyond geographical borders.
+## 34. Towards standardized gut microbiota diagnostics: normobiosis beyond geographical borders.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42438061](https://pubmed.ncbi.nlm.nih.gov/42438061)
@@ -308,7 +333,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 32. Christensenella massiliensis reduces kynurenine levels and alleviates obesity and related metabolic disorders in model mice.
+## 35. Christensenella massiliensis reduces kynurenine levels and alleviates obesity and related metabolic disorders in model mice.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42434935](https://pubmed.ncbi.nlm.nih.gov/42434935)
@@ -318,7 +343,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 33. Beyond the gut: the multisite microbiota and its emerging role in brain health.
+## 36. Beyond the gut: the multisite microbiota and its emerging role in brain health.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42424442](https://pubmed.ncbi.nlm.nih.gov/42424442)
@@ -328,7 +353,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 34. Gut microbiomes of tribal communities in India vary with dairy and grain consumption.
+## 37. Gut microbiomes of tribal communities in India vary with dairy and grain consumption.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42424147](https://pubmed.ncbi.nlm.nih.gov/42424147)
@@ -338,7 +363,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 35. The gut microbiome and mitochondrial function in metabolism, immunity, and disease.
+## 38. The gut microbiome and mitochondrial function in metabolism, immunity, and disease.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42421295](https://pubmed.ncbi.nlm.nih.gov/42421295)
@@ -348,7 +373,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 36. Development of a comprehensive food phenolic acids database and its application: associations between dietary phenolic acids and risk of mortality.
+## 39. Development of a comprehensive food phenolic acids database and its application: associations between dietary phenolic acids and risk of mortality.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409560](https://pubmed.ncbi.nlm.nih.gov/42409560)
@@ -358,7 +383,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 37. Metabolic effects of dietary edible bird's nest intake: A 12-week double-blind randomized controlled metabolomics study.
+## 40. Metabolic effects of dietary edible bird's nest intake: A 12-week double-blind randomized controlled metabolomics study.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409548](https://pubmed.ncbi.nlm.nih.gov/42409548)
@@ -368,7 +393,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 38. Gut microbial signatures across nutritional status in Indian school-aged children: a qPCR-based case-control study.
+## 41. Gut microbial signatures across nutritional status in Indian school-aged children: a qPCR-based case-control study.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42174153](https://pubmed.ncbi.nlm.nih.gov/42174153)
@@ -378,7 +403,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 39. Food fortification in India: evidence, implementation and future directions to reduce iron and other micronutrient deficiencies.
+## 42. Food fortification in India: evidence, implementation and future directions to reduce iron and other micronutrient deficiencies.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42168590](https://pubmed.ncbi.nlm.nih.gov/42168590)
@@ -388,7 +413,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 40. Inconvenient for the investigator but convenient for science: trial registration in The American Journal of Clinical Nutrition.
+## 43. Inconvenient for the investigator but convenient for science: trial registration in The American Journal of Clinical Nutrition.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386246](https://pubmed.ncbi.nlm.nih.gov/42386246)
@@ -398,7 +423,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 41. Reply to I Jannasz et al: DIETFITS cohort, modeling, and molecules.
+## 44. Reply to I Jannasz et al: DIETFITS cohort, modeling, and molecules.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386243](https://pubmed.ncbi.nlm.nih.gov/42386243)
@@ -408,7 +433,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 42. School food interventions and nutrition-related outcomes in Europe: A scoping review.
+## 45. School food interventions and nutrition-related outcomes in Europe: A scoping review.
 
 **来源：**PubMed → Prev Med
 **PMID：**[42031164](https://pubmed.ncbi.nlm.nih.gov/42031164)
@@ -418,7 +443,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 43. Structural Characterization and Gut Microbiota Modulation of Theabrownins Prepared by Macroporous Resin AB-8 Combined With Ultrafiltration Fractionation.
+## 46. Structural Characterization and Gut Microbiota Modulation of Theabrownins Prepared by Macroporous Resin AB-8 Combined With Ultrafiltration Fractionation.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42494137](https://pubmed.ncbi.nlm.nih.gov/42494137)
@@ -428,7 +453,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 44. Industrial Peanut Oil-Cake as a Base Material for the Construction of Nanocapsules Loaded With Oregano Essential Oil for Food Delivery Applications.
+## 47. Industrial Peanut Oil-Cake as a Base Material for the Construction of Nanocapsules Loaded With Oregano Essential Oil for Food Delivery Applications.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42464885](https://pubmed.ncbi.nlm.nih.gov/42464885)
@@ -438,7 +463,34 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 45. Eukaryotic and bacterial gut communities vary along a lifestyle-associated urbanization gradient: comparative analysis of Germany and Madagascar.
+## 48. Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1](https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1)
+
+**发现：**Yuhao Sun , Zhuoyuan
+
+---
+
+## 49. Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1](https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1)
+
+**发现：**Matteo Di Scipio , Alice
+
+---
+
+## 50. AI-Driven Precision Nutrition for Predicting Iron Deficiency Using Genomics, Polygenic Risk Scores, Dietary Patterns, and Personalized Dietary Recommendations
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1](https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1)
+
+**发现：**B Shravani , S
+
+---
+
+## 51. Eukaryotic and bacterial gut communities vary along a lifestyle-associated urbanization gradient: comparative analysis of Germany and Madagascar.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42464572](https://pubmed.ncbi.nlm.nih.gov/42464572)
@@ -448,7 +500,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 46. From signals to systems: the epigenetic-microbiome-mitochondrial axis in IBD pathogenesis.
+## 52. From signals to systems: the epigenetic-microbiome-mitochondrial axis in IBD pathogenesis.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42464117](https://pubmed.ncbi.nlm.nih.gov/42464117)
@@ -458,7 +510,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 47. Longitudinal modelling of microbiome subcommunities reveals parity-dependent dynamics during pregnancy and postpartum.
+## 53. Longitudinal modelling of microbiome subcommunities reveals parity-dependent dynamics during pregnancy and postpartum.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42458733](https://pubmed.ncbi.nlm.nih.gov/42458733)
@@ -468,7 +520,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 48. Multi-omic modelling of body mass index response to a dietary weight loss intervention.
+## 54. Multi-omic modelling of body mass index response to a dietary weight loss intervention.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42458730](https://pubmed.ncbi.nlm.nih.gov/42458730)
@@ -478,7 +530,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 49. Dietary intervention through bacterial-derived butyrate elicits anti-tumor activity and increases anti-PD-1 response.
+## 55. Dietary intervention through bacterial-derived butyrate elicits anti-tumor activity and increases anti-PD-1 response.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42454784](https://pubmed.ncbi.nlm.nih.gov/42454784)
@@ -488,7 +540,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 50. Lactiplantibacillus plantarum (WJL) ameliorates chronic kidney disease by inhibiting fibroblast growth factor 21 adaptive stress response via low protein diet.
+## 56. Lactiplantibacillus plantarum (WJL) ameliorates chronic kidney disease by inhibiting fibroblast growth factor 21 adaptive stress response via low protein diet.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42438056](https://pubmed.ncbi.nlm.nih.gov/42438056)
@@ -498,7 +550,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 51. Human gut flagellome profiling using FlaPro reveals TLR5-related phenotype-specific alterations in IBD.
+## 57. Human gut flagellome profiling using FlaPro reveals TLR5-related phenotype-specific alterations in IBD.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42424228](https://pubmed.ncbi.nlm.nih.gov/42424228)
@@ -508,7 +560,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 52. Salmonella exploits a quorum-sensing family signal of the gut commensal Stenotrophomonas maltophilia to facilitate its colonization.
+## 58. Salmonella exploits a quorum-sensing family signal of the gut commensal Stenotrophomonas maltophilia to facilitate its colonization.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42421310](https://pubmed.ncbi.nlm.nih.gov/42421310)
@@ -518,7 +570,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 53. Modulation of the response to immunotherapy in triple-negative breast cancer: the role of the microbiota and microbial metabolites in the tumor microenvironment.
+## 59. Modulation of the response to immunotherapy in triple-negative breast cancer: the role of the microbiota and microbial metabolites in the tumor microenvironment.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42421228](https://pubmed.ncbi.nlm.nih.gov/42421228)
@@ -528,7 +580,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 54. Erratum to "From foodborne to environmental Yersinia enterocolitica: Comparative insights into antimicrobial resistance and virulence for food safety" [Food Res. Int. 238 (2026) 119442].
+## 60. Erratum to "From foodborne to environmental Yersinia enterocolitica: Comparative insights into antimicrobial resistance and virulence for food safety" [Food Res. Int. 238 (2026) 119442].
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409571](https://pubmed.ncbi.nlm.nih.gov/42409571)
@@ -538,7 +590,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 55. Effects of different processing methods on the nutritional components and in vitro digestion and fermentation characteristics of foxtail millet (Setaria italica).
+## 61. Effects of different processing methods on the nutritional components and in vitro digestion and fermentation characteristics of foxtail millet (Setaria italica).
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409563](https://pubmed.ncbi.nlm.nih.gov/42409563)
@@ -548,7 +600,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 56. Natural occurrence and dietary risk assessment of Alternaria toxins in wheat flour and its products in Shanghai, China.
+## 62. Natural occurrence and dietary risk assessment of Alternaria toxins in wheat flour and its products in Shanghai, China.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409558](https://pubmed.ncbi.nlm.nih.gov/42409558)
@@ -558,7 +610,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 57. Food-derived antimicrobial peptides: advances in sources, mechanisms, structure-activity relationships, and AI-assisted design.
+## 63. Food-derived antimicrobial peptides: advances in sources, mechanisms, structure-activity relationships, and AI-assisted design.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409550](https://pubmed.ncbi.nlm.nih.gov/42409550)
@@ -568,7 +620,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 58. Anti-inflammatory and barrier-protective effects of metabolites from Lactobacillus co-fermentation with linoleic acid and human fecal microbiota.
+## 64. Anti-inflammatory and barrier-protective effects of metabolites from Lactobacillus co-fermentation with linoleic acid and human fecal microbiota.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409547](https://pubmed.ncbi.nlm.nih.gov/42409547)
@@ -578,7 +630,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 59. Egg white protein foams: formation and stabilization mechanisms, modification strategies, and applications from foods to functional materials.
+## 65. Egg white protein foams: formation and stabilization mechanisms, modification strategies, and applications from foods to functional materials.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409546](https://pubmed.ncbi.nlm.nih.gov/42409546)
@@ -588,7 +640,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 60. Advanced smart nonwovens for food quality monitoring: ultrathin and highly porous polymer fibers via electrically-assisted supersonic solution blow-spinning.
+## 66. Advanced smart nonwovens for food quality monitoring: ultrathin and highly porous polymer fibers via electrically-assisted supersonic solution blow-spinning.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409543](https://pubmed.ncbi.nlm.nih.gov/42409543)
@@ -598,35 +650,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 61. Integrated computational analysis identifies FABP4, PTGS2, and HPGD as Key molecular targets linking PET microplastic exposure to metabolic dysfunction-associated steatotic liver disease
-
-**来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354607](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354607)
-
----
-
-## 62. Hidden deficiency under bright skies: Vitamin D prevalence and genetic associations in African Type 2 diabetes: A systematic review and meta-analysis
-
-**来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354518](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354518)
-
----
-
-## 63. Effects of different oral intake management during labor on maternal and neonatal outcomes: A protocol for a systematic review and network meta-analysis
-
-**来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354489](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354489)
-
----
-
-## 64. Cohort profile: Walking for harm reduction through street engagement (WHiSE 2.0)
-
-**来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354477](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354477)
-
----
-
-## 65. Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.
+## 67. Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.
 
 **来源：**PubMed → Prev Med
 **PMID：**[42303108](https://pubmed.ncbi.nlm.nih.gov/42303108)
@@ -636,7 +660,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 66. A Model for 21st Century Public Health Education: FDA's "The Real Cost" Youth Tobacco Prevention Campaigns.
+## 68. A Model for 21st Century Public Health Education: FDA's "The Real Cost" Youth Tobacco Prevention Campaigns.
 
 **来源：**PubMed → Am J Prev Med
 **PMID：**[42342323](https://pubmed.ncbi.nlm.nih.gov/42342323)
@@ -646,7 +670,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 67. Public health nutrition in India.
+## 69. Public health nutrition in India.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42218296](https://pubmed.ncbi.nlm.nih.gov/42218296)
@@ -656,7 +680,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 68. Qualitative research: a needed but neglected form of inquiry in nutrition.
+## 70. Qualitative research: a needed but neglected form of inquiry in nutrition.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42174152](https://pubmed.ncbi.nlm.nih.gov/42174152)
@@ -666,7 +690,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 69. High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.
+## 71. High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386249](https://pubmed.ncbi.nlm.nih.gov/42386249)
@@ -676,7 +700,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 70. Reply to Wu et al.: "Nitrate and nitrite food composition database: an update and extensive deep dive".
+## 72. Reply to Wu et al.: "Nitrate and nitrite food composition database: an update and extensive deep dive".
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386248](https://pubmed.ncbi.nlm.nih.gov/42386248)
@@ -686,7 +710,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 71. Reframing Basic Experimental Studies in Humans-Implications for Nutrition Science.
+## 73. Reframing Basic Experimental Studies in Humans-Implications for Nutrition Science.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386247](https://pubmed.ncbi.nlm.nih.gov/42386247)
@@ -696,7 +720,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 72. Postprandial LPS acts as a biomarker to stratify Cardiovascular disease risk and guide personalized nutrition.
+## 74. Postprandial LPS acts as a biomarker to stratify Cardiovascular disease risk and guide personalized nutrition.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386242](https://pubmed.ncbi.nlm.nih.gov/42386242)
@@ -706,7 +730,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 73. Letter to the Editor: Nitrate and nitrite food composition database: an update and extensive deep dive.
+## 75. Letter to the Editor: Nitrate and nitrite food composition database: an update and extensive deep dive.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386241](https://pubmed.ncbi.nlm.nih.gov/42386241)
@@ -716,7 +740,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 74. Letter to Editor: Rethinking dietary nitrate and urinary N-nitrosamines.
+## 76. Letter to Editor: Rethinking dietary nitrate and urinary N-nitrosamines.
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386240](https://pubmed.ncbi.nlm.nih.gov/42386240)
@@ -726,7 +750,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 75. Response to Yang et al.: "A clinical study examining the effects of dietary nitrate on urinary N-nitrosamines".
+## 77. Response to Yang et al.: "A clinical study examining the effects of dietary nitrate on urinary N-nitrosamines".
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386239](https://pubmed.ncbi.nlm.nih.gov/42386239)
@@ -736,7 +760,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 76. Letter to the Editor: Interpreting dual energy X-ray absorptiometry-derived lean soft tissue changes in Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS).
+## 78. Letter to the Editor: Interpreting dual energy X-ray absorptiometry-derived lean soft tissue changes in Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS).
 
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42386236](https://pubmed.ncbi.nlm.nih.gov/42386236)
@@ -746,7 +770,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 77. Nutraceuticals as modulators of genetic, epigenetic and hormonal factors in obesity.
+## 79. Nutraceuticals as modulators of genetic, epigenetic and hormonal factors in obesity.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42162268](https://pubmed.ncbi.nlm.nih.gov/42162268)
@@ -756,7 +780,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 78. A call for methodological rigour: suspending systematic reviews and meta-analyses of observational studies on ultra-processed foods.
+## 80. A call for methodological rigour: suspending systematic reviews and meta-analyses of observational studies on ultra-processed foods.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42156551](https://pubmed.ncbi.nlm.nih.gov/42156551)
@@ -766,7 +790,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 79. Publisher Correction: Vitamin D status and response to supplementation in very preterm infants: A prospective cohort study.
+## 81. Publisher Correction: Vitamin D status and response to supplementation in very preterm infants: A prospective cohort study.
 
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42091677](https://pubmed.ncbi.nlm.nih.gov/42091677)
@@ -776,7 +800,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 80. Nutritional and Functional Attributes of Legumes: A Review of Processing Methods and Their Impacts.
+## 82. Nutritional and Functional Attributes of Legumes: A Review of Processing Methods and Their Impacts.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42494153](https://pubmed.ncbi.nlm.nih.gov/42494153)
@@ -786,7 +810,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 81. Automation, Robotics, and Artificial Intelligence in Seafood Processing: Advancements, Challenges, and Future Prospects.
+## 83. Automation, Robotics, and Artificial Intelligence in Seafood Processing: Advancements, Challenges, and Future Prospects.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42473126](https://pubmed.ncbi.nlm.nih.gov/42473126)
@@ -796,7 +820,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 82. Vibrational Spectroscopy Predicts Antimicrobial Activity of Orange Peels: A Case Study on Batch-to-Batch Variation in Food By-Product Valorization.
+## 84. Vibrational Spectroscopy Predicts Antimicrobial Activity of Orange Peels: A Case Study on Batch-to-Batch Variation in Food By-Product Valorization.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42473120](https://pubmed.ncbi.nlm.nih.gov/42473120)
@@ -806,7 +830,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 83. Development and Validation of a Mobile Application for Real-Time Chinese Dish Classification and Nutrient Estimation.
+## 85. Development and Validation of a Mobile Application for Real-Time Chinese Dish Classification and Nutrient Estimation.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42473090](https://pubmed.ncbi.nlm.nih.gov/42473090)
@@ -816,7 +840,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 84. From Tradition to Innovation: The Nutritional, Bioactive, and Sustainable Potential of Portulaca oleracea L.
+## 86. From Tradition to Innovation: The Nutritional, Bioactive, and Sustainable Potential of Portulaca oleracea L.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42464968](https://pubmed.ncbi.nlm.nih.gov/42464968)
@@ -826,7 +850,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 85. Ultrasound-Assisted NADES-Based Extraction of Spirulina Bioactives: Bioaccessibility and Intestinal Permeability Assessment Using an In Vitro Digestion/Caco-2 Cell Model and Food Application.
+## 87. Ultrasound-Assisted NADES-Based Extraction of Spirulina Bioactives: Bioaccessibility and Intestinal Permeability Assessment Using an In Vitro Digestion/Caco-2 Cell Model and Food Application.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42464859](https://pubmed.ncbi.nlm.nih.gov/42464859)
@@ -836,7 +860,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 86. Sensitive Detection of Foodborne Parasitic Larvae Using a Sieving-qPCR Workflow: Application to Angiostrongylus cantonensis.
+## 88. Sensitive Detection of Foodborne Parasitic Larvae Using a Sieving-qPCR Workflow: Application to Angiostrongylus cantonensis.
 
 **来源：**PubMed → J Food Sci
 **PMID：**[42446021](https://pubmed.ncbi.nlm.nih.gov/42446021)
@@ -846,7 +870,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 87. Investigating the comparability of wearable accelerometer methods in the association between physical activity and cardiovascular disease: a cohort study using UK Biobank.
+## 89. Investigating the comparability of wearable accelerometer methods in the association between physical activity and cardiovascular disease: a cohort study using UK Biobank.
 
 **来源：**PubMed → Prev Med
 **PMID：**[42142761](https://pubmed.ncbi.nlm.nih.gov/42142761)
@@ -856,7 +880,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 88. Credible messengers and messages in firearm harm prevention: A systematic review.
+## 90. Credible messengers and messages in firearm harm prevention: A systematic review.
 
 **来源：**PubMed → Prev Med
 **PMID：**[42140563](https://pubmed.ncbi.nlm.nih.gov/42140563)
@@ -866,7 +890,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 89. Trends in breastfeeding indicators across Indian states and Union Territories (1993-2021): Estimating progress towards the 2030 Global Nutrition Target.
+## 91. Trends in breastfeeding indicators across Indian states and Union Territories (1993-2021): Estimating progress towards the 2030 Global Nutrition Target.
 
 **来源：**PubMed → Prev Med
 **PMID：**[42134478](https://pubmed.ncbi.nlm.nih.gov/42134478)
@@ -876,7 +900,25 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 90. Host and Helicobacter pylori HtrA protease variants converge on Wnt/β-catenin signaling to drive stomach adenocarcinoma.
+## 92. Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1](https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1)
+
+**发现：**Fhadilla Amelia , Arina Nurul
+
+---
+
+## 93. Circulating proteins altered in response to the Dietary Approaches to Stop Hypertension (DASH) diet suggest underlying molecular mechanisms and long-term health benefits
+
+**来源：**medRxiv
+**DOI：**[https://www.medrxiv.org/content/10.64898/2026.07.22.26358749v1](https://www.medrxiv.org/content/10.64898/2026.07.22.26358749v1)
+
+**发现：**Hyunju Kim , Jennifer A
+
+---
+
+## 94. Host and Helicobacter pylori HtrA protease variants converge on Wnt/β-catenin signaling to drive stomach adenocarcinoma.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42493827](https://pubmed.ncbi.nlm.nih.gov/42493827)
@@ -886,7 +928,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 91. Peptide LKLKLL is a more effective component of Akkermansia muciniphila which regulate glucolipid metabolism through GLP-1/GIP dual modulation.
+## 95. Peptide LKLKLL is a more effective component of Akkermansia muciniphila which regulate glucolipid metabolism through GLP-1/GIP dual modulation.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42473065](https://pubmed.ncbi.nlm.nih.gov/42473065)
@@ -896,7 +938,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 92. Prevalence of primary Helicobacter pylori antibiotic resistance in Europe over the past four decades.
+## 96. Prevalence of primary Helicobacter pylori antibiotic resistance in Europe over the past four decades.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42471021](https://pubmed.ncbi.nlm.nih.gov/42471021)
@@ -906,7 +948,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 93. Lactobacillus johnsonii mediates the protective effects of pristimerin against ulcerative colitis and concomitant liver injury through remodeling hepatic lipid metabolism via LXRα-SCD1 axis.
+## 97. Lactobacillus johnsonii mediates the protective effects of pristimerin against ulcerative colitis and concomitant liver injury through remodeling hepatic lipid metabolism via LXRα-SCD1 axis.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42470108](https://pubmed.ncbi.nlm.nih.gov/42470108)
@@ -916,7 +958,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 94. Enteric-colonized Cronobacter spp. can disrupt the central nervous system without translocation across the host barriers.
+## 98. Enteric-colonized Cronobacter spp. can disrupt the central nervous system without translocation across the host barriers.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42464430](https://pubmed.ncbi.nlm.nih.gov/42464430)
@@ -926,7 +968,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 95. Fusobacterium nucleatum-derived succinic acid aggravates colitis by triggering macrophage pro-inflammatory phenotypic transformation via SUCNR1/NF-κB axis.
+## 99. Fusobacterium nucleatum-derived succinic acid aggravates colitis by triggering macrophage pro-inflammatory phenotypic transformation via SUCNR1/NF-κB axis.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42454788](https://pubmed.ncbi.nlm.nih.gov/42454788)
@@ -936,7 +978,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 96. Glycodeoxycholic and deoxycholic bile acids impair recognition and spatial memory in adult mice, and reduce central CREB-BDNF signaling and cytokine expression with neuroanatomical specificity.
+## 100. Glycodeoxycholic and deoxycholic bile acids impair recognition and spatial memory in adult mice, and reduce central CREB-BDNF signaling and cytokine expression with neuroanatomical specificity.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42435326](https://pubmed.ncbi.nlm.nih.gov/42435326)
@@ -946,7 +988,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 97. Genetic and enzymatic basis of xylooligosaccharide metabolism by Bifidobacterium longum.
+## 101. Genetic and enzymatic basis of xylooligosaccharide metabolism by Bifidobacterium longum.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42430553](https://pubmed.ncbi.nlm.nih.gov/42430553)
@@ -956,7 +998,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 98. Non-absorbable antibiotics worsen alcohol-associated liver disease in gastric acid-suppressed mice.
+## 102. Non-absorbable antibiotics worsen alcohol-associated liver disease in gastric acid-suppressed mice.
 
 **来源：**PubMed → Gut Microbes
 **PMID：**[42421214](https://pubmed.ncbi.nlm.nih.gov/42421214)
@@ -966,7 +1008,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 99. From dark-brown to yellow: metabolomics reveals ROS alterations regulating glutathione metabolism to control cap color changes in Flammulina filiformis.
+## 103. From dark-brown to yellow: metabolomics reveals ROS alterations regulating glutathione metabolism to control cap color changes in Flammulina filiformis.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409572](https://pubmed.ncbi.nlm.nih.gov/42409572)
@@ -976,7 +1018,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 100. Microalgal co-cultivation meets media recycling: A pathway to serum and amino-acid reduction in cultivated meat.
+## 104. Microalgal co-cultivation meets media recycling: A pathway to serum and amino-acid reduction in cultivated meat.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409570](https://pubmed.ncbi.nlm.nih.gov/42409570)
@@ -986,7 +1028,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 101. Genomics-driven risk assessment of antimicrobial resistance: Current status, challenges, and future perspectives.
+## 105. Genomics-driven risk assessment of antimicrobial resistance: Current status, challenges, and future perspectives.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409569](https://pubmed.ncbi.nlm.nih.gov/42409569)
@@ -996,7 +1038,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 102. Genomic and phenotypic analysis of stress-tolerant, aroma-producing yeast screened under low-a(w), low-moisture content for low-salt chili fermentation.
+## 106. Genomic and phenotypic analysis of stress-tolerant, aroma-producing yeast screened under low-a(w), low-moisture content for low-salt chili fermentation.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409568](https://pubmed.ncbi.nlm.nih.gov/42409568)
@@ -1006,7 +1048,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 103. Inhibition of thermal formation of advanced glycation end products and acrylamide by gluten-bound betulonic acid and alphitolic acid: Mechanistic insights from spectroscopy and computation.
+## 107. Inhibition of thermal formation of advanced glycation end products and acrylamide by gluten-bound betulonic acid and alphitolic acid: Mechanistic insights from spectroscopy and computation.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409567](https://pubmed.ncbi.nlm.nih.gov/42409567)
@@ -1016,7 +1058,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 104. A bioactive lysate of Corynebacterium glutamicum orchestrates intestinal barrier repair mainly through L-arginine-mediated FOXO pathway.
+## 108. A bioactive lysate of Corynebacterium glutamicum orchestrates intestinal barrier repair mainly through L-arginine-mediated FOXO pathway.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409566](https://pubmed.ncbi.nlm.nih.gov/42409566)
@@ -1026,7 +1068,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 105. Comprehensive metabolomics and flavoromics analysis reveal the changes in muscle flavor quality of turbot (Scophthalmus maximus) during low-temperature waterless live transport.
+## 109. Comprehensive metabolomics and flavoromics analysis reveal the changes in muscle flavor quality of turbot (Scophthalmus maximus) during low-temperature waterless live transport.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409565](https://pubmed.ncbi.nlm.nih.gov/42409565)
@@ -1036,7 +1078,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 106. The meatball matchup: Plant vs. animal proteins on campus.
+## 110. The meatball matchup: Plant vs. animal proteins on campus.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409564](https://pubmed.ncbi.nlm.nih.gov/42409564)
@@ -1046,7 +1088,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 107. Controlled regulation of endogenous enzymatic browning reshapes gel network formation and functional properties of edible insect Antheraea pernyi pupa protein.
+## 111. Controlled regulation of endogenous enzymatic browning reshapes gel network formation and functional properties of edible insect Antheraea pernyi pupa protein.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409562](https://pubmed.ncbi.nlm.nih.gov/42409562)
@@ -1056,7 +1098,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 108. A comparative analysis of protein oxidation, digestibility and metabolite profiles in animal-based and plant-based chicken nuggets.
+## 112. A comparative analysis of protein oxidation, digestibility and metabolite profiles in animal-based and plant-based chicken nuggets.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409561](https://pubmed.ncbi.nlm.nih.gov/42409561)
@@ -1066,7 +1108,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 109. Reduction in fungal viability, mycotoxicity, and cytotoxicity in green coffee beans treated with plasma nitric oxide water.
+## 113. Reduction in fungal viability, mycotoxicity, and cytotoxicity in green coffee beans treated with plasma nitric oxide water.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409559](https://pubmed.ncbi.nlm.nih.gov/42409559)
@@ -1076,7 +1118,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 110. Insights into the fate and dynamics of antibiotic resistance in multidrug-resistant Bacillus cereus during in vitro simulated gastrointestinal digestion.
+## 114. Insights into the fate and dynamics of antibiotic resistance in multidrug-resistant Bacillus cereus during in vitro simulated gastrointestinal digestion.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409557](https://pubmed.ncbi.nlm.nih.gov/42409557)
@@ -1086,7 +1128,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 111. Strain-dependent bioactive-lipid interactions govern oxidative stability and antimicrobial functionality in Lentinula edodes.
+## 115. Strain-dependent bioactive-lipid interactions govern oxidative stability and antimicrobial functionality in Lentinula edodes.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409556](https://pubmed.ncbi.nlm.nih.gov/42409556)
@@ -1096,7 +1138,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 112. Sporulation kinetics of Bacillus subtilis under dynamic temperature conditions: impact on gene expression and spore properties.
+## 116. Sporulation kinetics of Bacillus subtilis under dynamic temperature conditions: impact on gene expression and spore properties.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409555](https://pubmed.ncbi.nlm.nih.gov/42409555)
@@ -1106,7 +1148,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 113. Mechanisms of enhanced sesame protein recovery via cold plasma pretreatment: Impact of surface etching and oxidative hydrophilization.
+## 117. Mechanisms of enhanced sesame protein recovery via cold plasma pretreatment: Impact of surface etching and oxidative hydrophilization.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409554](https://pubmed.ncbi.nlm.nih.gov/42409554)
@@ -1116,7 +1158,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 114. Deacetylation-dependent ice crystal growth inhibition of konjac glucomannan through water-activity regulation and interfacial-water reorganization.
+## 118. Deacetylation-dependent ice crystal growth inhibition of konjac glucomannan through water-activity regulation and interfacial-water reorganization.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409553](https://pubmed.ncbi.nlm.nih.gov/42409553)
@@ -1126,7 +1168,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 115. Use of Lacticaseibacillus rhamnosus LRB in high-protein multifunctional fermented milk targeted for older adults.
+## 119. Use of Lacticaseibacillus rhamnosus LRB in high-protein multifunctional fermented milk targeted for older adults.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409552](https://pubmed.ncbi.nlm.nih.gov/42409552)
@@ -1136,7 +1178,7 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 116. Controlling the properties of 3D-printed sodium caseinate emulsion gels by tuning starch-induced network architecture.
+## 120. Controlling the properties of 3D-printed sodium caseinate emulsion gels by tuning starch-induced network architecture.
 
 **来源：**PubMed → Food Res Int
 **PMID：**[42409551](https://pubmed.ncbi.nlm.nih.gov/42409551)
@@ -1146,41 +1188,4 @@ Although pregnancy is a physiological process, it also involves various risks th
 
 ---
 
-## 117. Pickering emulsion stabilized by immobilized lipase for OPO synthesis and acyl migration inhibition.
-
-**来源：**PubMed → Food Res Int
-**PMID：**[42409549](https://pubmed.ncbi.nlm.nih.gov/42409549)
-**DOI：**[https://doi.org/10.1016/j.foodres.2026.119609](https://doi.org/10.1016/j.foodres.2026.119609)
-
-**发现：**Journal: Food Res Int
-
----
-
-## 118. Synergistic self-assembly of white beeswax and carnauba wax in Zanthoxylum bungeanum oil oleogels: Enhanced structural stability and controlled flavor release.
-
-**来源：**PubMed → Food Res Int
-**PMID：**[42409545](https://pubmed.ncbi.nlm.nih.gov/42409545)
-**DOI：**[https://doi.org/10.1016/j.foodres.2026.119606](https://doi.org/10.1016/j.foodres.2026.119606)
-
-**发现：**Journal: Food Res Int
-
----
-
-## 119. Enhancing the bioactivity of sea cucumber powder through ultrafine grinding: Zebrafish xenograft tumor model reveals regulation of oxidative stress and inhabitation of the human colon cancer cell line growth.
-
-**来源：**PubMed → Food Res Int
-**PMID：**[42409544](https://pubmed.ncbi.nlm.nih.gov/42409544)
-**DOI：**[https://doi.org/10.1016/j.foodres.2026.119604](https://doi.org/10.1016/j.foodres.2026.119604)
-
-**发现：**Journal: Food Res Int
-
----
-
-## 120. Clinical and microbiological epidemiology of Candida infections in a high-complexity hospital in Tolima, Colombia (2014–2024)
-
-**来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354684](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354684)
-
----
-
-*日报生成于 2026-07-25 · 模型：deepseek-chat*
+*日报生成于 2026-07-26 · 模型：deepseek-chat*
