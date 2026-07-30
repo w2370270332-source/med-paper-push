@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T00:22:25.485976",
+    "generated_at": "2026-07-30T01:18:39.344414",
     "days_back": 1,
-    "total_papers": 163,
+    "total_papers": 153,
     "sources": {
-      "pubmed": 128,
+      "pubmed": 125,
       "rss": 7,
       "preprints": 10,
       "trials": 22
@@ -4114,6 +4114,68 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
+      "title": "Sex Hormone Influences on Cardiovascular Risk. Reply.",
+      "url": "https://doi.org/10.1056/NEJMc2606372",
+      "source": "PubMed → N Engl J Med",
+      "source_type": "journal",
+      "date": "2026-07-30T00:00:00+00:00",
+      "abstract": "Journal: N Engl J Med",
+      "pmid": "42526042",
+      "authors": [
+        {
+          "name": "Skeith L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bates SM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "395",
+      "issue": "5",
+      "pages": "",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "journal_full": "The New England journal of medicine",
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "elocationid": "pii: 10.1056/NEJMc2606372#sa3. doi: 10.1056/NEJMc2606372doi: 10.1056/NEJMc2606372#sa3",
+      "epubdate": ""
+    },
+    {
+      "title": "LDL Cholesterol Targeting in Cardiovascular Disease. Reply.",
+      "url": "https://doi.org/10.1056/NEJMc2606270",
+      "source": "PubMed → N Engl J Med",
+      "source_type": "journal",
+      "date": "2026-07-30T00:00:00+00:00",
+      "abstract": "Journal: N Engl J Med",
+      "pmid": "42526036",
+      "authors": [
+        {
+          "name": "Lee YJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim BK",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "395",
+      "issue": "5",
+      "pages": "516",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "journal_full": "The New England journal of medicine",
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "elocationid": "doi: 10.1056/NEJMc2606270",
+      "epubdate": ""
+    },
+    {
       "title": "Neck circumference as an anthropometric marker of overweight among school-aged children in Bharatpur, Nepal: A community-based study",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354997",
       "source": "PLOS ONE RSS",
@@ -4198,113 +4260,6 @@
       "abstract": "Status: RECRUITING; Conditions: Sepsis, Acute Kidney Injury Due to Sepsis, Gastrointestinal Microbiome, Sepsis-Associated Liver Injury, Intensive Care Medicine; Sepsis is a major cause of morbidity and mortality in intensive care units. Sepsis-associated liver injury (SALI) and sepsis-associated acute kidney injury (S-AKI) are common complications associated with adverse clinical outcomes. Altered gut microbial diversity, microbial metabolites, intestinal b; Study Type: OBSERVATIONAL",
       "nct_id": "NCT07735182",
       "status": "RECRUITING"
-    },
-    {
-      "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108626",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42331703",
-      "authors": [
-        {
-          "name": "Park EJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ahn JH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kim L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Noh J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hwang C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lee W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jung SJ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "210",
-      "issue": "",
-      "pages": "108626",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Published Erratum"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108626",
-      "epubdate": "2026 Jun 22"
-    },
-    {
-      "title": "Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108625",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42303108",
-      "authors": [
-        {
-          "name": "Zhang T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nong T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mo X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zheng H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu Y",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "210",
-      "issue": "",
-      "pages": "108625",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108625",
-      "epubdate": "2026 Jun 16"
     },
     {
       "title": "A Model for 21st Century Public Health Education: FDA's \"The Real Cost\" Youth Tobacco Prevention Campaigns.",
@@ -4892,60 +4847,6 @@
       ],
       "elocationid": "doi: 10.1016/j.ajcnut.2026.101365",
       "epubdate": "2026 Jun 11"
-    },
-    {
-      "title": "The epidemiology of physical activity guideline adherence among 35,633 adults: Findings from the South Australian Population Health Survey.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108587",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42055195",
-      "authors": [
-        {
-          "name": "Bennie JA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Venugopal K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Burnell S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Krumeich B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Taylor E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Maher C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sincovich A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nolan R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "208",
-      "issue": "",
-      "pages": "108587",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108587",
-      "epubdate": "2026 Apr 27"
     },
     {
       "title": "Impact of Moringa oleifera Leaf Powder Addition on the Properties of Cranberry‑Based Gummies and Marshmallows With Low-Glycemic Sweeteners.",
@@ -6271,407 +6172,6 @@
       ],
       "elocationid": "doi: 10.1111/1750-3841.71289",
       "epubdate": ""
-    },
-    {
-      "title": "Sedentary time and television viewing time are associated with an increased risk for all-cause mortality: A systematic review of systematic reviews.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108610",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42217831",
-      "authors": [
-        {
-          "name": "Shivgulam ME",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu H",
-          "authtype": "Author"
-        },
-        {
-          "name": "MacDonald E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Courish M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huerta-Domínguez A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Theou O",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tovar-Díaz J",
-          "authtype": "Author"
-        },
-        {
-          "name": "O'Brien MW",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108610",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108610",
-      "epubdate": "2026 May 29"
-    },
-    {
-      "title": "Prevalence and associated social determinants of health for pregestational and gestational diabetes mellitus in California by disaggregated racial and ethnic groups and subgroups.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108609",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42176957",
-      "authors": [
-        {
-          "name": "Hsieh CT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ren X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chehab RF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108609",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108609",
-      "epubdate": "2026 May 22"
-    },
-    {
-      "title": "Corrigendum to \"Clustering of unhealthy lifestyle behaviors, self-rated health and disability\" [Preventive Medicine 55 (2022) 106911].",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108605",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42173701",
-      "authors": [
-        {
-          "name": "Ortiz C",
-          "authtype": "Author"
-        },
-        {
-          "name": "López-Cuadrado T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rodríguez-Blázquez C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pastor-Barriuso R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Galán I",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108605",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Published Erratum"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108605",
-      "epubdate": "2026 May 22"
-    },
-    {
-      "title": "Corrigendum to \"Determining the optimal cervical cancer screening exit strategy in the Netherlands\" Preventive Medicine, 197 (2025) 108329.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108602",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42167996",
-      "authors": [
-        {
-          "name": "Schevenhoven VJC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jansen EEL",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Kok IMCM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108602",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Published Erratum"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108602",
-      "epubdate": "2026 May 22"
-    },
-    {
-      "title": "Suicide mortality in United States urban career firefighters and emergency medical service providers.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108608",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42167545",
-      "authors": [
-        {
-          "name": "Singh A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zeig-Owens R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Moline T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cannon MF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Goldfarb DG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Choi J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hall CB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Prezant DJ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108608",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108608",
-      "epubdate": "2026 May 20"
-    },
-    {
-      "title": "Lifetime economic burden of type 2 diabetes mellitus: A longitudinal analysis of adults in the Wasatch Front Region of Utah, United States.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108606",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42155638",
-      "authors": [
-        {
-          "name": "Meeks HD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Smith KR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Curtis DS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kowaleski-Jones L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108606",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108606",
-      "epubdate": "2026 May 18"
-    },
-    {
-      "title": "Investigating the comparability of wearable accelerometer methods in the association between physical activity and cardiovascular disease: a cohort study using UK Biobank.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108603",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42142761",
-      "authors": [
-        {
-          "name": "Lapointe Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kapur A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sharma A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Panter J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fuller D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mamiya H",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108603",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108603",
-      "epubdate": "2026 May 15"
-    },
-    {
-      "title": "Credible messengers and messages in firearm harm prevention: A systematic review.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108601",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42140563",
-      "authors": [
-        {
-          "name": "Walsh CS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Collins CJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bond AE",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gastineau KAB",
-          "authtype": "Author"
-        },
-        {
-          "name": "O'Connor KE",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108601",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108601",
-      "epubdate": "2026 May 14"
-    },
-    {
-      "title": "Trends in breastfeeding indicators across Indian states and Union Territories (1993-2021): Estimating progress towards the 2030 Global Nutrition Target.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108600",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42134478",
-      "authors": [
-        {
-          "name": "Rai RK",
-          "authtype": "Author"
-        },
-        {
-          "name": "De Neve JW",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bromage S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kim R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Subramanian SV",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108600",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108600",
-      "epubdate": "2026 May 13"
     },
     {
       "title": "DSD-Guided Ultrasound-Assisted Protein Recovery From Chlamydomonas reinhardtii: Modeling, Optimization, and Enzyme Inhibitory Activity Assessment.",
