@@ -1,0 +1,24 @@
+---
+pmid: 
+title: "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Mask"
+title_cn: "尿石素A补充对健康老年人葡萄糖代谢的影响：随机三盲对照临床试验"
+source: "ClinicalTrials.gov"
+url: "https://clinicaltrials.gov/study/NCT06274749"
+date: 2026-07-30
+type: 
+tags: [文献, 营养, 临床试验, Meta分析]
+---
+
+#文献 #营养 #临床试验 #Meta分析
+
+# 尿石素A补充对健康老年人葡萄糖代谢的影响：随机三盲对照临床试验
+
+**原文：**Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial
+**来源：**ClinicalTrials.gov
+**链接：**[DOI](https://clinicaltrials.gov/study/NCT06274749)
+
+## 核心发现
+该试验评估天然营养补充剂尿石素A对55岁以上健康成人血糖控制的影响，旨在改善胰岛素分泌和血糖水平。目前正在招募。
+
+## 与研究方向关联
+直接研究营养补充剂对血糖代谢和糖尿病预防的影响，与营养流行病学和慢性病预防高度相关。
