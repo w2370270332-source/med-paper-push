@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T01:23:51.299528",
+    "generated_at": "2026-08-07T01:03:23.707621",
     "days_back": 1,
-    "total_papers": 161,
+    "total_papers": 157,
     "sources": {
-      "pubmed": 123,
-      "rss": 7,
+      "pubmed": 120,
+      "rss": 4,
       "preprints": 10,
-      "trials": 24
+      "trials": 25
     }
   },
   "papers": [
@@ -2077,23 +2077,13 @@
       "epubdate": "2026 Jul 9"
     },
     {
-      "title": "Navigating Hypertension and Food Insecurity",
-      "url": "https://clinicaltrials.gov/study/NCT07544836",
+      "title": "Chorioretinal Imaging, Vascular Biomarkers, and Ultra-Trail: A Pilot Study",
+      "url": "https://clinicaltrials.gov/study/NCT07748936",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-10-26",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Hypertension (HTN), Food Insecurity; Interventions: Produce Prescription Only, Community Health Worker navigated Produce Prescription; This multi-site randomized controlled trial uses a community-based approach to evaluate a Food as Medicine program for Native Hawaiian and Pacific Islander (NHPI) adults in Hawaii who have high blood pressure and difficulty affording healthy food. The study has two main goals: (1) to implement a pro; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07544836",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Placebo Effect on Cycling Performance: Laboratory Crossover Study",
-      "url": "https://clinicaltrials.gov/study/NCT07748429",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-10-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Physical Performance, Placebo Effect, Cognitive Performance; Interventions: Caffeine (6mg/kg), Placebo (Starch capsule); This study aims to determine the impact of the placebo (PLA) effect on physical and cognitive performance in a controlled laboratory setting. The study investigates how expectations and beliefs about substance intake (caffeine vs. placebo) interact with actual consumption to influence performance an; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07748429",
+      "date": "2026-10",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: OCT Angiography, Retinal Microcirculation, Choroidal Microcirculation, Physical Exercion; Interventions: Retinal imaging evaluation of both eyes without dilation before and after the Mont Afrique Ultra Trail, Retinal imaging evaluation of both eyes without dilation, performed in two stages (T0 and T0+11/24H); Retinal and choroidal microcirculation is a relevant biomarker of systemic vascular health and lies at the heart of eye-heart interactions. Noninvasive retinal imaging, particularly OCT angiography (OCT-A), now makes it possible to examine retinal and choroidal microvascularization in vivo and to st; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07748936",
       "status": "NOT_YET_RECRUITING"
     },
     {
@@ -3683,26 +3673,6 @@
       "epubdate": "2026 Jun 5"
     },
     {
-      "title": "Safety of a Healthy Plant-based Diet With Higher Potassium Content, Compared to a Healthy Plant-based Diet With Limited Potassium Content in Patients With Chronic Kidney Disease: A Pilot Study",
-      "url": "https://clinicaltrials.gov/study/NCT07494266",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-10",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Hyperkalemia, Chronic Kidney Disease (Stages 4 and 5); Interventions: Healthy plant-based diet (healthy-PBD), Potassium-restricted plant-based diet; For many years, people with moderate to advanced chronic kidney disease (CKD) have been advised to limit their intake of potassium, a mineral found in many foods such as fruit, vegetables, legumes, whole grains, and nuts. The reason for this has been the risk of hyperkalemia, a condition in which th; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07494266",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Microbiome-targeted Diet Therapy in Ulcerative Colitis",
-      "url": "https://clinicaltrials.gov/study/NCT07520461",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-07",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Ulcerative Colitis; Interventions: High Protein, High Fiber (HPHF) Diet; The central objective of this proposal is to test a novel diet capable of meeting the elevated protein requirements in ulcerative colitis (UC), while simultaneously decreasing microbial hydrogen sulfide (H2S) production in the colon with fiber.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07520461",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
       "title": "Transporting Results from a Trial to an External Target Population When Trial Participation Impacts Adherence: Erratum.",
       "url": "https://doi.org/10.1097/EDE.0000000000001971",
       "source": "PubMed → Epidemiology",
@@ -4052,208 +4022,145 @@
       "epubdate": "2026 Jun 1"
     },
     {
+      "title": "Treatment and Secondary Prevention of Venous Thromboembolism (VTE) in Adult Participants With Solid and Hematologic Cancers",
+      "url": "https://clinicaltrials.gov/study/NCT07493304",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-31",
+      "abstract": "Status: RECRUITING; Conditions: Venous Thromboembolism (VTE); Interventions: REGN7508, Apixaban; This study is researching an experimental drug called REGN7508 (called \"study drug\") and will consist of 2 parts: Part 1 and Part 2. The study is focused on participants with or without cancer who develop blood clots in certain veins (called Deep Vein Thrombosis \\[DVT\\]) that block blood flow (Part ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07493304",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Gut Microbiota and Tryptophan Metabolites in Parkinson's Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07749261",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-08-20",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: PARKINSON DISEASE (Disorder); Interventions: Stool Microbiome and Targeted Tryptophan Metabolite Profiling; Parkinson's disease is a progressive neurological disorder that can also affect the digestive system. Changes in gut microorganisms and tryptophan metabolites may be associated with Parkinson's disease, but these relationships are not fully understood. This exploratory observational study will compa; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07749261",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
       "title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
       "url": "https://clinicaltrials.gov/study/NCT06274749",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
       "nct_id": "NCT06274749",
       "status": "RECRUITING"
     },
     {
-      "title": "A Natural History of Genetic and Environmental Predictors of Pubertal Timing Among Youth With Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT07437976",
+      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
+      "url": "https://clinicaltrials.gov/study/NCT06690294",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-10",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity; Interventions: Weight loss intervention, No Weight loss intervention; Background:\n\nObesity affects 1 in 5 children in the United States. Childhood obesity often persists into adolescence and adulthood. It can also raise the risk of sleep apnea, fatty liver disease, and fluid buildup in the brain and lead to early-onset puberty. This natural history study will explore ; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07437976",
+      "date": "2026-08-11",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06690294",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Mineralocorticoid Receptor Antagonism - FINDing Another Benefit.",
-      "url": "https://doi.org/10.1056/NEJMe2608321",
-      "source": "PubMed → N Engl J Med",
-      "source_type": "journal",
-      "date": "2026-08-06T00:00:00+00:00",
-      "abstract": "Journal: N Engl J Med",
-      "pmid": "42555937",
-      "authors": [
-        {
-          "name": "Toto R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "395",
-      "issue": "6",
-      "pages": "600-601",
-      "issn": "0028-4793",
-      "essn": "1533-4406",
-      "journal_full": "The New England journal of medicine",
-      "pub_types": [
-        "Editorial"
-      ],
-      "elocationid": "doi: 10.1056/NEJMe2608321",
-      "epubdate": ""
-    },
-    {
-      "title": "Consumed with Inflammation.",
-      "url": "https://doi.org/10.1056/NEJMcps2516922",
-      "source": "PubMed → N Engl J Med",
-      "source_type": "journal",
-      "date": "2026-08-06T00:00:00+00:00",
-      "abstract": "Journal: N Engl J Med",
-      "pmid": "42555936",
-      "authors": [
-        {
-          "name": "Cho HL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Berliner N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Babcock S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sun YP",
-          "authtype": "Author"
-        },
-        {
-          "name": "Levy B",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "395",
-      "issue": "6",
-      "pages": "593-598",
-      "issn": "0028-4793",
-      "essn": "1533-4406",
-      "journal_full": "The New England journal of medicine",
-      "pub_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1056/NEJMcps2516922",
-      "epubdate": ""
-    },
-    {
-      "title": "Fresh fruit surface: A potential source for multidrug-resistant biofilm-forming Enterococcus faecalis having potential public health significance",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355410",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Implementation of school-feeding programme and its effect on dietary adequacy among primary school children in Kisarawe district, Tanzania",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355391",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Advancing mental health and well-being of Nigerian children through public health screening for Fragile X disorders (CHAMP-FX): protocol of a prospective multicentre screening study with longitudinal follow-up",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355384",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Factors influencing community pharmacists’ provision of health promotion and disease prevention services in Jordan: Qualitative thematic analysis and deductive mapping to the COM-B model",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355315",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Evaluating cord blood S100B protein concentration as a potential biomarker associated with fetal hypoxia in late fetal growth restriction: A prospective cohort study protocol",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355156",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Feasibility, safety and tolerability of intradialytic creatine supplementation in hemodialysis: A double-blind, randomized, placebo-controlled pilot study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354883",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "TokenUNet: A new case for transformers integration in efficient and interpretable 3D UNets for brain imaging segmentation",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354511",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-05T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Swap Anesthetic Versus Continuous Desflurane in Adults Undergoing Bariatric Surgery",
-      "url": "https://clinicaltrials.gov/study/NCT07748247",
+      "title": "Effects of Meal Macronutrients on Postprandial Lipids",
+      "url": "https://clinicaltrials.gov/study/NCT07313787",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-03",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity, Bariatric Surgery; Interventions: Desflurane, Sevoflurane-Desflurane; This randomized, parallel-group, non-inferiority clinical trial aims to evaluate whether an anesthetic swap strategy consisting of sevoflurane followed by desflurane 30 minutes before the end of surgery is non-inferior to continuous desflurane anesthesia with respect to extubation time in adults und; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07748247",
+      "date": "2026-08-11",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Nephrotic Syndrome, Lipodystrophy, Metabolic Syndrome, Healthy Volunteer, Diabetes; Interventions: High carb then high fat breakfast, High fat then high carb breakfast; Background:\n\nAbnormal fats in the blood can lead to many problems, including heart disease. Researchers want to learn more about how eating meals with different levels of nutrients affects fats in the blood. Specifically, they want to study people with too much body fat, too little body fat, and a k; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07313787",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Rosuvastatin and Losartan Pharmacokinetics After Bariatric Surgery",
-      "url": "https://clinicaltrials.gov/study/NCT07748273",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-02",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity & Overweight, Bariatric Surgery, Pharmacokinetics After Oral Intake, Drug Absorption; Interventions: Rosuvastatin, Losartan (Control); This prospective, open-label, non-randomized pharmacokinetic study will evaluate how Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy affect systemic exposure to single oral test doses of rosuvastatin and losartan. Sixty adults scheduled for bariatric surgery will enter one of two parallel gro; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07748273",
-      "status": "NOT_YET_RECRUITING"
+      "title": "Measuring trust in public health authorities in the United States: An item response theory analysis",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355498",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-08-06T14:00:00+00:00",
+      "abstract": ""
     },
     {
-      "title": "Advancing Female University Students' Health Through Mobile Technology in Ethiopia",
-      "url": "https://clinicaltrials.gov/study/NCT07746791",
+      "title": "Guazuma ulmifolia butanol extract protects against cadmium-induced hepatotoxicity via HO-1/Sirt-1 activation, miRNA–lncRNA modulation, and metabolic reprogramming",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355464",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-08-06T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Vitamin B12 combined with methylene blue alleviates experimental septic shock and is associated with modulation of KCNMB1 and the cGMP-PRKG pathway",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355117",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-08-06T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Teacher-reported kindergarten development among children exposed to prescription opioids during pregnancy",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355101",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-08-06T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Growth Hormone Resistance of Beta-cells",
+      "url": "https://clinicaltrials.gov/study/NCT07581860",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-08-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Dietary Intake, Sexual and Reproductive Health, Psychosocial Wellbeing; Interventions: Behavioural change intervention will be provided through mobile application, Routine care; Background: Female university students in Ethiopia experience a high burden of sexual and reproductive health, nutrition, and psychosocial problems, exacerbated by limited access to essential health services and support. Mobile technology provides an opportunity to deliver accessible, evidence-based; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07746791",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy, Obesity & Overweight, Impaired Fasting Glucose (IFG), Impaired Glucose Tolerance (Prediabetes); The purpose of the research study is to better understand how beta-cells (cells in the pancreas that make insulin and help regulate blood sugar) respond to growth hormone in people with impaired fasting glucose or impaired glucose tolerance at the University of Missouri. The aim of the study is to a; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07581860",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Comparison of Core Stability, Body Awareness, Pelvic Health, Sleep, and Quality of Life in Physically Active Women With and Without Polyendocrine Metabolic Ovarian Syndrome",
-      "url": "https://clinicaltrials.gov/study/NCT07747259",
+      "title": "High Cardiovascular Risk Intervention With Cardio-Oncology Consultation for Prostate Cancer Following Androgen Receptor Pathway Inhibitor (ARPI) Therapy (Heart-Safe)",
+      "url": "https://clinicaltrials.gov/study/NCT07223385",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Polyendocrine Metabolic Ovarian Syndrome; Aim of the study was to compare physically active women with and without Polyendocrine Metabolic Ovarian Syndrome (PMOS) in terms of core stability, body awareness, pelvic health, sleep, and quality of life, and to reveal the possible effects of the presence of PMOS on these parameters despite physi; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07747259",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "OPTION-EMEA Clinical Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07349121",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-06-18",
-      "abstract": "Status: RECRUITING; Conditions: Atrial Fibrillation (AF), Stroke Prevention in Patients With Atrial Fibrillation, Left Atrial Appendage Closure, Pulsed Field Ablation, Atrial Fibrillation Ablation Procedure; Interventions: Concomitant pulsed field ablation (PFA) and left atrial appendage closure (LAAC) during one interventional case, Concomitant Pulsed Field Ablation and Left Atrial Appendage Closure; The OPTION-EMEA post-market study is intended to gather real world clinical data for patients undergoing AF ablation with the FARAPULSE™ Pulsed Field Ablation (PFA) System and subsequent left atrial appendage closure (LAAC) with a WATCHMAN FLX™ Pro or WATCHMAN FLX device during one interventional ca; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07349121",
+      "date": "2026-08-01",
+      "abstract": "Status: RECRUITING; Conditions: Prostate Cancer (Diagnosis), Prostate Cancer Stage IV, CV Risk; Interventions: Cardio-Oncology Referral, Notification to PCP/General Cardiologist; In patients with prostate cancer (PC), cardiovascular disease (CVD) causes significant morbidity and is the second leading cause of death. Both pre-existing CVD and the use of androgen deprivation therapy (ADT)-a key cornerstone of treatment for men with locally advanced or metastatic PC1,2 contribu; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07223385",
       "status": "RECRUITING"
     },
     {
-      "title": "Families Implementing Good Health Traditions for Life",
-      "url": "https://clinicaltrials.gov/study/NCT07441655",
+      "title": "Online Nutrition Education to Decrease the Side Effects of Chemotherapy in Patients With Breast Cancer",
+      "url": "https://clinicaltrials.gov/study/NCT05874297",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-07-15",
+      "abstract": "Status: RECRUITING; Conditions: Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8; Interventions: Best Practice, Internet-Based Intervention, Questionnaire Administration; This trial tests an online nutrition education program focused on decreasing nutrition-related side effects of chemotherapy in patients with breast cancer. Patients undergoing chemotherapy are at risk for complications such as diarrhea or constipation which can lead to poor nutritional intake and ma; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05874297",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Effects of Peanut Consumption on Adults With Metabolic Associated Fatty Liver Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07646197",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-06-09",
+      "abstract": "Status: RECRUITING; Conditions: MASLD, Fatty Liver; Interventions: Peanut consumption; The aim of this randomized interventional trial is to understand the effects of peanut consumption on patients with metabolic associated fatty liver. The main goal is to investigate if patients who consume peanuts have improved liver marker tests as well as metabolic profile. We will also investigat; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07646197",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "A Study of Brenipatide in Participants With Opioid Use Disorder",
+      "url": "https://clinicaltrials.gov/study/NCT07420283",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-02-13",
+      "abstract": "Status: RECRUITING; Conditions: Opioid Use Disorder; Interventions: Brenipatide, Placebo, Buprenorphine; The purpose of this study is to see if brenipatide, when compared to placebo, is safe and effective for participants with opioid use disorder, when used with buprenorphine with or without naloxone.\n\nThe maximum potential duration of study participation for a participant in Part A is approximately 14; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07420283",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Cognitive Effects of Hesperidin in Overweight/Obese Older Adults",
+      "url": "https://clinicaltrials.gov/study/NCT07750223",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-02-01",
-      "abstract": "Status: RECRUITING; Conditions: Diabetes, Chronic Disease, Type 2 Diabetes, Healthy Lifestyle, Nutrition, Healthy; Interventions: Families Implementing Good Health Traditions for Life; This study will provide evidence for the utility of using a community-engaged research approach to implement a tailored, family-oriented adaptation of the Diabetes Prevention Program that will have positive effects on risk factors associated with type 2 diabetes morbidity and mortality among Black f; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07441655",
+      "abstract": "Status: RECRUITING; Conditions: Cognitive Dysfunction, Overweight and Obesity; Interventions: Hesperidin; A randomized, double-blind, placebo-controlled trial was designed to test whether two doses of hesperidin (a natural flavonoid from citrus fruits) improve cognitive function in overweight and obese older adults.\n\nA total of 105 participants, aged 55-75 years with a BMI ≥24 kg/m² or elevated waist ci; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07750223",
       "status": "RECRUITING"
     },
     {
@@ -4555,60 +4462,6 @@
       ],
       "elocationid": "doi: 10.1016/j.ajcnut.2026.101358",
       "epubdate": "2026 Jun 11"
-    },
-    {
-      "title": "The epidemiology of physical activity guideline adherence among 35,633 adults: Findings from the South Australian Population Health Survey.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108587",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42055195",
-      "authors": [
-        {
-          "name": "Bennie JA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Venugopal K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Burnell S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Krumeich B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Taylor E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Maher C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sincovich A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nolan R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "208",
-      "issue": "",
-      "pages": "108587",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108587",
-      "epubdate": "2026 Apr 27"
     },
     {
       "title": "Impact of Moringa oleifera Leaf Powder Addition on the Properties of Cranberry‑Based Gummies and Marshmallows With Low-Glycemic Sweeteners.",
@@ -5550,44 +5403,6 @@
       "epubdate": ""
     },
     {
-      "title": "Vibrational Spectroscopy Predicts Antimicrobial Activity of Orange Peels: A Case Study on Batch-to-Batch Variation in Food By-Product Valorization.",
-      "url": "https://doi.org/10.1111/1750-3841.71308",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42473120",
-      "authors": [
-        {
-          "name": "Zhang X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shu C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li D",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71308",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71308",
-      "epubdate": ""
-    },
-    {
       "title": "Letter to the Editor: Teaching to the test and differential reporting bias undermine inferences from the MyPlanetDiet randomized controlled trial.",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101368",
       "source": "PubMed → Am J Clin Nutr",
@@ -6356,6 +6171,56 @@
       "epubdate": "2026 May 13"
     },
     {
+      "title": "Zein/Hyaluronic Acid/Propylene Glycol Alginate Nanoparticle-Stabilized Pickering Emulsion for the Encapsulation of Astaxanthin as a Delivery System.",
+      "url": "https://doi.org/10.1111/1750-3841.71274",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42557773",
+      "authors": [
+        {
+          "name": "Wang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Niu F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71274",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71274",
+      "epubdate": ""
+    },
+    {
       "title": "Machine Learning-Based Prediction of Post-Harvest Losses in Egyptian Strawberry Exports: Cold Chain Analytics, Shelf-Life Estimation, and Export Rejection Risk Modeling.",
       "url": "https://doi.org/10.1111/1750-3841.71320",
       "source": "PubMed → J Food Sci",
@@ -6702,93 +6567,113 @@
       "epubdate": ""
     },
     {
-      "title": "Prophylactic Effect of Probiotic Streptococcus Salivarius eK12 Against Recurrent Streptococcus Pyogenes Pharyngotonsillitis Infection in Pediatrics",
-      "url": "https://clinicaltrials.gov/study/NCT06370208",
+      "title": "Weight Loss in People Living With Overweight or Obesity Following Treatment With Cagrilintide",
+      "url": "https://clinicaltrials.gov/study/NCT07220642",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-12-01",
-      "abstract": "Status: COMPLETED; Conditions: Streptococcus Pyogenes Pharyngotonsillitis; Interventions: Probiotic Bactoblis® EVOL (Streptococcus salivarius eK12), Oral vit D3; Recurrent Group A Streptococcus (GAS) infections, primarily presenting as strep throat, are a significant health concern in pediatric populations, leading to symptoms like sore throat, fever, and swollen lymph nodes. GAS is highly contagious and can spread easily among children in close-contact envi; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06370208",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Youth-Onset Type 2 Diabetes and Heart Disease: The Young at Heart Prospective Cohort Study",
-      "url": "https://clinicaltrials.gov/study/NCT06730113",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-03-12",
-      "abstract": "Status: RECRUITING; Conditions: Obesity, Type 2 Diabetes; Background:\n\nType 2 diabetes is a disease that affects blood sugar levels. Complications can include heart and blood vessel (vascular) diseases. Rates of type 2 diabetes have tripled in children and young adults over the last 40 years. Vascular diseases are also increasing in young people.\n\nObjectiv; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT06730113",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Fecal Microbiota Transplantation for Obese Women With Polyendocrine Metabolic Ovarian Syndrome",
-      "url": "https://clinicaltrials.gov/study/NCT07746635",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-02-21",
-      "abstract": "Status: RECRUITING; Conditions: PCOS (Polycystic Ovary Syndrome); Interventions: oral Fecal Microbiota Transplantation; This single-center, prospective, two-stage clinical trial aims to evaluate the safety, preliminary efficacy, and reproductive outcomes of oral Fecal Microbiota Transplantation (FMT) freeze-dried capsules in overweight and obese patients with Polyendocrine Metabolic Ovarian Syndrome (PMOS) undergoing; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07746635",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Comparison of Hormonal Response to a Mixed-Meal Tolerance Test After Laparoscopic Roux-en-Y Gastric Bypass Versus Laparoscopic Sleeve Gastrectomy With Duodenojejunal Bypass in Patients With Super Morbid Obesity: A Prospective Single-Center Non-Inferiority Randomized Clinical Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07747779",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-08-08",
-      "abstract": "Status: RECRUITING; Conditions: Bariatric Surgery, Hormonal Response, Post Bariatric Hypoglycemia; Interventions: Sleeve gastrectomy with duodenojejunal bypass, Roux-en-Y gastric bypass; Obesity is a major global health problem. Bariatric surgery is the most effective treatment, leading to substantial weight loss and improvement in obesity-related comorbidities. The most commonly performed procedures are Laparoscopic Roux-en-Y gastric bypass (LRYGB) and Laparoscopic sleeve gastrecto; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07747779",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Effect of Sleep Extension on Ceramides in People With Overweight and Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT06180837",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-02-12",
-      "abstract": "Status: RECRUITING; Conditions: Lifestyle Factors, Overweight and Obesity, Insulin Sensitivity, Eating Habit, Sleep Hygiene; Interventions: Sleep Extension Intervention; The overall goal is to determine how a sleep extension intervention (increasing time in bed) in individuals who maintain less than 6.5 hours sleep per night affects their plasma ceramides and insulin sensitivity. Participants will undergo a randomized controlled trial, with sleep extension (interven; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06180837",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "The Effect of SGLT2 Inhibition on Adipose Inflammation and Endothelial Function",
-      "url": "https://clinicaltrials.gov/study/NCT05972564",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-09-06",
-      "abstract": "Status: RECRUITING; Conditions: Obesity, Metabolic Syndrome; Interventions: Empagliflozin 25 MG, Placebo; Obesity is associated with increased cardiometabolic disease risk due, in part, to heightened chronic inflammation arising from adipose tissue. There are no current targeted therapies to prevent or reverse the chronic inflammation of obesity, and a better understanding of these inflammatory pathways; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05972564",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "A Phase 2 Study of the Ketogenic Diet vs Standard Anti-cancer Diet Guidance for Patients With Glioblastoma in Combination With Standard-of-care Treatment",
-      "url": "https://clinicaltrials.gov/study/NCT05708352",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-06-27",
-      "abstract": "Status: RECRUITING; Conditions: Glioblastoma Multiforme; Interventions: Keto Diet, Standard Anti-Cancer Diet; This is a Phase 2, randomized two-armed, multi-site study of 170 patients with newly diagnosed glioblastoma multiforme. Patients will be randomized 1:1 to receive Keto Diet, or Standard Anti-Cancer Diet. All patients will receive standard of care treatment for their glioblastoma. The Keto Diet inter; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05708352",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Project HOPE 1000: Health Outcomes Pregnancy Exposures",
-      "url": "https://clinicaltrials.gov/study/NCT04417283",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2018-11-21",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Pregnant; The purpose of this study is to collect biological samples from pregnant women and their babies and to collect data on long-term health, school outcomes, and the use of state and county services. The information learned from this study may help identify important factors that may influence the healt; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04417283",
+      "date": "2025-11-05",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Obesity, Overweight; Interventions: Cagrilintide, Placebo; This study will look at how much cagrilintide helps people with overweight or obesity lower their body weight. Cagrilintide is a new investigational medicine. Doctors may not yet prescribe cagrilintide. Participants will either get cagrilintide or placebo. Which treatment participants get is decided; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07220642",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "Protein Need and Interest of \" Quick Proteins \" to the Obese Subject Operated by Bariatric Surgery (BIBOP)",
-      "url": "https://clinicaltrials.gov/study/NCT01249326",
+      "title": "Exercise and Diet Responses in Adult Men With Obesity by MC4R Genotype and Metabolic Health",
+      "url": "https://clinicaltrials.gov/study/NCT07750197",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2010-12",
-      "abstract": "Status: COMPLETED; Conditions: Obesity, Bariatric Surgery; Interventions: bariatric surgery; The main objective of the study is to evaluate the protein requirement associated with postoperative weight loss caused by by-pass (shunt which leads to a certain degree of malabsorption) or sleeve gastrectomy (more technically conservative with less malabsorption), through the study of nitrogen bal; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT01249326",
+      "date": "2025-03-01",
+      "abstract": "Status: COMPLETED; Conditions: Obesity, Metabolically Healthy Obesity, Metabolically Unhealthy Obesity; Interventions: Supervised Aerobic and Resistance Exercise; This study evaluated whether differences in the MC4R rs17782313 gene variant and metabolic health status were associated with different responses to a 12-week exercise and dietary intervention in adult men with obesity.\n\nA total of 40 men aged 18 to 59 years with obesity participated in the study. A; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07750197",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Functional Status for Surgically and Non-surgically Treated Patients With Acute Achilles Tendon Rupture Following a Public Municipal Rehabilitation",
+      "url": "https://clinicaltrials.gov/study/NCT06602908",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-09-15",
+      "abstract": "Status: COMPLETED; Conditions: Achilles Tendon Rupture; A total Achilles tendon rupture is a common injury most often occuring in people aged between 30 and 50 years. The injury is more common amongst men than women (ratio 3:1) and typically occur during sports activities involving excentric and/or plyometric muscle work in plantar flexion of the foot (e; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06602908",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Substance Use Prevention for Youth With Parents in Recovery",
+      "url": "https://clinicaltrials.gov/study/NCT05397691",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-08-29",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Substance Use Disorders; Interventions: Modified Family Talk, Control-like parameter estimation; Risk for substance use disorder (SUD) begins early in the life course. Although preventing and decreasing illicit and nonmedical drug use among youth is an urgent public health priority, there are currently few evidence-based prevention strategies feasible for delivery in the primary care setting. T; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05397691",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "Motivating Increases in Physical Activity for Prevention of Weight Regain After Metabolic Bariatric Surgery",
+      "url": "https://clinicaltrials.gov/study/NCT06484621",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-08-08",
+      "abstract": "Status: RECRUITING; Conditions: Obesity; Interventions: Acceptance and Commitment Therapy-Based Physical Activity Intervention, Physical Activity Education Control; The goal of this clinical trial is to learn if a psychological intervention can increase regular physical activity to help prevent weight regain after metabolic bariatric surgery in adults. The main questions it aims to answer are:\n\n1. Does the psychological intervention increase physical activity?\n; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06484621",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Surgical Site Infections and the Microbiome: Understanding the Pathogenesis of Surgical Site Infections",
+      "url": "https://clinicaltrials.gov/study/NCT06300892",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-04-01",
+      "abstract": "Status: COMPLETED; Conditions: Open GI Surgery; Interventions: No intervention; This is a prospective, observational study of patients undergoing open GI surgery. At the time of operation, samples will be collected from the incision site and GI tract. The study will follow patients up to 30 days postoperatively, monitoring for signs of SSI. Samples will be taken from all patien; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06300892",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "A Trial to Evaluate Safety, Feasibility and Efficacy of Endoscopic Duodenal PEF Therapy",
+      "url": "https://clinicaltrials.gov/study/NCT05984238",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2023-08-03",
+      "abstract": "Status: COMPLETED; Conditions: Diabetes Mellitus, Type 2; Interventions: PEF therapy using the Endogenex Device, Semaglutide, 1.0 mg/mL, Sham procedure; The objective of this study is to evaluate the safety, feasibility and efficacy of pulsed electric field induced duodenal mucosal regeneration (with the Endogenex System en Gen 2 Device) combined with a GLP-1 receptor agonist (Semaglutide, Ozempic) in subjects with insulin-dependent type 2 diabetes ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05984238",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "QBSafe: a Randomized Trial of a Novel Intervention to Improve Care for People Living With Type 2 Diabetes.",
+      "url": "https://clinicaltrials.gov/study/NCT05553912",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2022-11-02",
+      "abstract": "Status: COMPLETED; Conditions: Type2Diabetes, Diabetes; Interventions: QBSafe; Glycemic control is often the main indicator of successful diabetes care, but a singular focus on glycemic control may lead to patients' overall health and wellbeing being overlooked or undervalued. The investigators have previously developed an intervention comprised of (a) a set of conversation ca; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05553912",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "The Path Study: Cognitive and Inflammation Targeted Gut-brain Interventions in Alcohol; Probiotics, Alcohol, Transcutaneous Vagus Nerve Stimulation, and HIV Study",
+      "url": "https://clinicaltrials.gov/study/NCT05090267",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2022-06-01",
+      "abstract": "Status: RECRUITING; Conditions: Cognition, Gut Microbiome; Interventions: Probiotic Supplement, Transcutaneous Vagal Nerve Stimulation (tVNS); This project uses a hybrid trial design to evaluate two biomedical interventions targeting the gut-brain axis. One intervention is portable Transcutaneous Vagus Nerve Stimulator, tVNS, that is hypothesized to stimulate the autonomic nervous system, resulting in decreased inflammation and improved co; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05090267",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Recreational Basketball to Increase Participation in Diabetes Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT05066542",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2021-06-11",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Type 2 Diabetes, PreDiabetes; Interventions: NDPP + Basketball (BB), NDPP Standard of Care SOC; The purpose of this study is to assess the efficacy of adapting the National Diabetes Prevention Program (NDPP) to include recreational sports in effort to increase physical activity (PA) and promote lifestyle changes that can help reduce the risk of developing Type 2 Diabetes Mellitus. The hypothes; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05066542",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "Exploring the Anti-inflammatory Properties of Cannabis and Their Relevance to Insulin Sensitivity",
+      "url": "https://clinicaltrials.gov/study/NCT04114903",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2019-11-08",
+      "abstract": "Status: COMPLETED; Conditions: Type 2 Diabetes, Obesity, Cannabis Use, Insulin Sensitivity; Interventions: Study A: Single use of cannabis flower product, Study B: Ad libitum cannabis use for four weeks or no cannabis use; This study tests the effects of cannabinoid levels in blood on inflammation and insulin sensitivity both acutely and chronically in individuals across the weight spectrum. To that end, the study employs two observational designs: 1) A study of acute effects with intermittent cannabis users and 2) A ; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT04114903",
       "status": "COMPLETED"
     },
     {
