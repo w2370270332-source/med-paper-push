@@ -1,0 +1,24 @@
+---
+pmid: 
+title: "A Randomized, Open-Label, Multi-Center Study of Vestibular Migraine Prevention: Rimegepant Versus Flunarizine Non-inferi"
+title_cn: "前庭性偏头痛预防的随机、开放标签、多中心研究：Rimegepant与氟桂利嗪非劣效性研究"
+source: "ClinicalTrials.gov"
+url: "https://clinicaltrials.gov/study/NCT07751497"
+date: 2026-08-08
+type: 
+tags: [文献, 预防医学]
+---
+
+#文献 #预防医学
+
+# 前庭性偏头痛预防的随机、开放标签、多中心研究：Rimegepant与氟桂利嗪非劣效性研究
+
+**原文：**A Randomized, Open-Label, Multi-Center Study of Vestibular Migraine Prevention: Rimegepant Versus Flunarizine Non-inferiority Study
+**来源：**ClinicalTrials.gov
+**链接：**[DOI](https://clinicaltrials.gov/study/NCT07751497)
+
+## 核心发现
+该研究比较Rimegepant和氟桂利嗪预防前庭性偏头痛的效果，但摘要未提供结果数据。
+
+## 与研究方向关联
+不直接相关
