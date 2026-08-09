@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T00:46:16.947263",
+    "generated_at": "2026-08-09T00:55:48.639971",
     "days_back": 1,
-    "total_papers": 156,
+    "total_papers": 149,
     "sources": {
-      "pubmed": 120,
-      "rss": 5,
+      "pubmed": 118,
+      "rss": 0,
       "preprints": 10,
       "trials": 23
     }
@@ -4052,76 +4052,6 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Ralinepag in pulmonary arterial hypertension: a step forward.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01556-4",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-08-08T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42561965",
-      "authors": [
-        {
-          "name": "Balasubramanian A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mathai SC",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10554",
-      "pages": "492-493",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01556-4",
-      "epubdate": ""
-    },
-    {
-      "title": "Influence of pelleting and β-mannanase on nutrient digestibility and metabolizable energy of DDGS, copra meal, palm kernel meal, and jatropha meal in precision-fed Single Comb White Leghorn roosters",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355743",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-07T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "The PROGAIN trial: A randomized controlled trial of high-protein peripheral parenteral nutrition on nitrogen balance and recovery after gastric cancer surgery — study protocol",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355677",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-07T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Understanding primary care physicians’ perceptions of large language model adoption in clinical practice: A qualitative research protocol leveraging the technology adoption behavior framework",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355491",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-07T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "The association between atherogenic index of plasma, cumulative atherogenic index of plasma and type 2 diabetes mellitus with chronic kidney disease among older Chinese adults: Findings from the CHARLS study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355200",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-07T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Effectiveness of web-based educational videos on enhancing diabetes knowledge and empowerment among type 2 diabetes patients in primary care: A randomized controlled trial",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355192",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-07T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
       "title": "Ketogenic Diet and Neuromodulation in Treatment Resistant Depression",
       "url": "https://clinicaltrials.gov/study/NCT07376018",
       "source": "ClinicalTrials.gov",
@@ -4345,40 +4275,6 @@
       ],
       "elocationid": "doi: 10.1016/j.ajcnut.2026.101323",
       "epubdate": "2026 Jun 8"
-    },
-    {
-      "title": "Reply to Wu et al.: \"Nitrate and nitrite food composition database: an update and extensive deep dive\".",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101358",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386248",
-      "authors": [
-        {
-          "name": "Bondonno CP",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhong L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hodgson JM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "124",
-      "issue": "1",
-      "pages": "101358",
-      "issn": "0002-9165",
-      "essn": "1938-3207",
-      "journal_full": "The American journal of clinical nutrition",
-      "pub_types": [
-        "Letter"
-      ],
-      "elocationid": "doi: 10.1016/j.ajcnut.2026.101358",
-      "epubdate": "2026 Jun 11"
     },
     {
       "title": "Impact of Moringa oleifera Leaf Powder Addition on the Properties of Cranberry‑Based Gummies and Marshmallows With Low-Glycemic Sweeteners.",
@@ -6660,20 +6556,20 @@
       "abstract": "Fhadilla Amelia , Arina Nurul"
     },
     {
-      "title": "AI-Driven Precision Nutrition for Predicting Iron Deficiency Using Genomics, Polygenic Risk Scores, Dietary Patterns, and Personalized Dietary Recommendations",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "B Shravani , S"
-    },
-    {
       "title": "Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
       "source": "medRxiv",
       "source_type": "preprint",
       "date": null,
       "abstract": "Caitlyn Winn , Leah"
+    },
+    {
+      "title": "AI-Driven Precision Nutrition for Predicting Iron Deficiency Using Genomics, Polygenic Risk Scores, Dietary Patterns, and Personalized Dietary Recommendations",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "B Shravani , S"
     }
   ]
 }
