@@ -1,26 +1,16 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T00:26:29.519822",
+    "generated_at": "2026-08-10T00:52:29.424933",
     "days_back": 1,
-    "total_papers": 158,
+    "total_papers": 127,
     "sources": {
       "pubmed": 117,
       "rss": 0,
-      "preprints": 20,
-      "trials": 23
+      "preprints": 10,
+      "trials": 0
     }
   },
   "papers": [
-    {
-      "title": "Food DNA Digestion",
-      "url": "https://clinicaltrials.gov/study/NCT06687226",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2027-01-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Digestion Rate; Interventions: Reconstitutable food powder; This pilot study investigates the digestion rate of naturally occurring food DNA through the human digestive tract by detecting residual food DNA in stool samples. The investigators hypothesize that food DNA primarily transits through the digestive system within 24 hours, with maximal detection in s; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06687226",
-      "status": "NOT_YET_RECRUITING"
-    },
     {
       "title": "Mechanistic pathways linking gut microbial metabolites, microbial structural products, and host-microbe co-metabolites to mitochondrial function.",
       "url": "https://doi.org/10.1080/19490976.2026.2694140",
@@ -2053,16 +2043,6 @@
       "epubdate": "2026 Jul 9"
     },
     {
-      "title": "A Randomized, Open-Label, Multi-Center Study of Vestibular Migraine Prevention: Rimegepant Versus Flunarizine Non-inferiority Study",
-      "url": "https://clinicaltrials.gov/study/NCT07751497",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-12-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Vestibular Migraine; Interventions: Rimegepant, Flunarizine; Vestibular migraine is a common condition that causes repeated episodes of dizziness or vertigo, often with migraine headaches, sensitivity to light and sound, and nausea. It affects 1% to 2.7% of the general population and is one of the most frequent diagnoses in dizziness clinics. Despite its prev; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07751497",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
       "title": "Corrigendum to \"Adaptive laboratory evolution of Lactobacillus helveticus enhances acid tolerance for food-grade, non-GMO applications\" [Food Res. Int. 241 (2026) 119730].",
       "url": "https://doi.org/10.1016/j.foodres.2026.120111",
       "source": "PubMed → Food Res Int",
@@ -3990,76 +3970,6 @@
       ],
       "elocationid": "doi: 10.1097/EDE.0000000000001998",
       "epubdate": "2026 Jun 1"
-    },
-    {
-      "title": "Probiotic Research for Mental Health in Adult Volunteers",
-      "url": "https://clinicaltrials.gov/study/NCT07751614",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Adult Participants; Interventions: Probiotic, Placebo; This randomized, double-blind, placebo-controlled pilot study will evaluate the effects of four weeks of supplementation with a probiotic on mental health in healthy adults aged 18-30 years. Participants will be randomized to receive either probiotic or placebo and will complete study assessments at; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07751614",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Atomoxetine in Melanocortin Obesity Syndrome",
-      "url": "https://clinicaltrials.gov/study/NCT06899178",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-01",
-      "abstract": "Status: RECRUITING; Conditions: Melanocortin Obesity Syndrome, MCOS; Interventions: Atomoxetine, Placebo; This is a phase 2 randomized placebo-controlled crossover trial to determine the safety and efficacy of atomoxetine for treating obesity caused by loss-of-function variants in the melanocortin-4 receptor (MC4R), the most common cause of genetic obesity disorders. Atomoxetine was selected for this pi; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06899178",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "GUT-FEELINGS: Using Citizen Science for Large-Scale Prebiotic Clinical Trials for Mental Health in Adults",
-      "url": "https://clinicaltrials.gov/study/NCT07752823",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-20",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Sleep Disturbance, Stress, Feeling Anxious; Interventions: Active Gut Feeling Product 1, Active Gut Feeling Product 2, Placebo Gut Feeling Control Product; The goal of this study is to evaluate the effects of different products in participants experiencing feelings of anxiety. The main question it aims to answer is:\n\n\\- Do these products affect feelings of anxiety and related wellness outcomes compared with a placebo?\n\nResearchers will compare particip; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07752823",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Plasma Lipids-Dependent Vitamin E Metabolism During Dynamic Hyperlipidemia",
-      "url": "https://clinicaltrials.gov/study/NCT07715890",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-12",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Lipid Metabolism Disorders; Interventions: High fat liquid shake; Background:\n\nObesity is known to lead to diseases such as diabetes and high cholesterol (or fats) in the blood (hyperlipidemia). But no one knows why. Researchers think that high levels of fat in the blood may block important nutrients, such as vitamin E, from reaching places they are needed in the ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07715890",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
-      "url": "https://clinicaltrials.gov/study/NCT06274749",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-12",
-      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06274749",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Effects of Meal Macronutrients on Postprandial Lipids",
-      "url": "https://clinicaltrials.gov/study/NCT07313787",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-12",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Nephrotic Syndrome, Lipodystrophy, Metabolic Syndrome, Healthy Volunteer, Diabetes; Interventions: High carb then high fat breakfast, High fat then high carb breakfast; Background:\n\nAbnormal fats in the blood can lead to many problems, including heart disease. Researchers want to learn more about how eating meals with different levels of nutrients affects fats in the blood. Specifically, they want to study people with too much body fat, too little body fat, and a k; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07313787",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "Ketogenic Diet and Neuromodulation in Treatment Resistant Depression",
-      "url": "https://clinicaltrials.gov/study/NCT07376018",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Major Depressive Disorder (MDD), Treatment Resistant Depression (TRD); Interventions: Accelerated Intermittent Theta Burst Stimulation (iTBS), Ketogenic Diet, Canadian Food Guide-Aligned Diet; The goal of this clinical trial is to learn if combining a ketogenic diet with a personalized, accelerated brain stimulation treatment (iTBS) works better than iTBS with a standard healthy diet to reduce depression symptoms in adults with treatment-resistant depression. The main questions it aims to; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07376018",
-      "status": "NOT_YET_RECRUITING"
     },
     {
       "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
@@ -6293,126 +6203,6 @@
       "epubdate": ""
     },
     {
-      "title": "The Short Sleep Study",
-      "url": "https://clinicaltrials.gov/study/NCT07567560",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-10-23",
-      "abstract": "Status: RECRUITING; Conditions: Short Sleepers; Natural Short Sleepers are defined as individuals who sleep fewer than 6 hours per night without any impact on health or daytime mental fatigue levels. Emerging evidence suggests that, in the general population, the gut microbiota would be negatively influenced by this sleep duration. It is possible; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07567560",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "A Study to Better Understand the Biological and Molecular Mechanisms Involved in Glioblastoma Recurrence and Progression",
-      "url": "https://clinicaltrials.gov/study/NCT07173829",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-10-22",
-      "abstract": "Status: RECRUITING; Conditions: Glioblastoma; Interventions: samples; BORDEAUX-GLIO is a prospective, monocentric study which will describe the molecular, immune and metabolic pathways involved in the progression and relapse of glioblastoma, using blood and tumor samples from patients who have undergone surgery for newly diagnosed or recurrent glioblastoma in the cent; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07173829",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Safety and Efficacy of a Topical Cream in Mild-to-Moderate Seborrheic Dermatitis",
-      "url": "https://clinicaltrials.gov/study/NCT07063615",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-07-21",
-      "abstract": "Status: COMPLETED; Conditions: Seborrheic Dermatitis; Interventions: Microbiome-Powered Cream, Placebo Hair Cream; A Randomized, Double-Blind, Placebo-Controlled Clinical Study to Evaluate the safety and efficacy of scalp cream for Symptom Relief and Microbiome Balance in mild-moderate Seborrheic Dermatitis patients.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07063615",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Effect of Walnuts on Cognitive Function and Gut Microbiome in Older Adults",
-      "url": "https://clinicaltrials.gov/study/NCT06942351",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-06-09",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Aging, Inflammation Biomarkers; Interventions: Walnuts, Crackers; The purpose of this study is to examine the impact of daily consumption of walnuts for 12 weeks on cognitive function, markers of inflammation and oxidative stress, and the gut microbiome in healthy adults age 55 years and older.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06942351",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Descriptive Study of Pathogens Involved in Summer Diarrhea in Children Leading to Pediatric Emergency Room Visits (PE-DIA)",
-      "url": "https://clinicaltrials.gov/study/NCT04209751",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2020-06-01",
-      "abstract": "Status: COMPLETED; Conditions: Diarrhea, Infantile; Interventions: Stool removal; Acute diarrhea in children is a public health problem. It is estimated that children under 3 years are subject to 1 or 2 episodes of diarrhea per year in Europe. These diarrheal episodes are frequent, expensive and responsible for many consultations and hospitalizations in developed countries. The o; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04209751",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Microbiome and Immunosuppression: The Mission Study",
-      "url": "https://clinicaltrials.gov/study/NCT04953715",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2020-02-12",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Kidney Transplant Rejection, Kidney Transplant; Interventions: collection of body microbiome; The purpose of this research is to study immunosuppression drugs, certain foods, and how they can change the microbiome (the natural microorganisms inside the body) of the individual taking the immunosuppressive medications. The study team wants to study how the microbiome affects how the body proce; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04953715",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Evaluation of Children With Endocrine and Metabolic-Related Conditions",
-      "url": "https://clinicaltrials.gov/study/NCT02769975",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2016-07-12",
-      "abstract": "Status: RECRUITING; Conditions: Adrenal Insufficiency, Growth Disorder, Endocrine Diseases, Metabolic Disease, Bone Diseases, Metabolic; Background:\n\nEndocrine glands give off hormones. Researchers want to learn more about the disorders that affect these glands in children. These disorders might be caused by changes in genes. Genes contain DNA, which is the blueprint of how a cell works. Researchers want to identify the genes involve; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02769975",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Mucosal and Microbiota Changes During Acute Campylobacteriosis",
-      "url": "https://clinicaltrials.gov/study/NCT03223077",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2014-10-31",
-      "abstract": "Status: RECRUITING; Conditions: Irritable Bowel Syndrome; Gastrointestinal (GI) infection with Campylobacter causes inflammation in the bowel and can change bacteria in the gut. Certain individuals with Campylobacter infection are also known to develop chronic bowel problems such as Irritable Bowel Syndrome (IBS). The researchers are doing this study to un; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT03223077",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Effects of Treatments on Atopic Dermatitis",
-      "url": "https://clinicaltrials.gov/study/NCT01631617",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2012-09-18",
-      "abstract": "Status: RECRUITING; Conditions: Eczema, Dermatitis, Skin Diseases, Genetic, Dermatitis, Atopic, Skin Diseases; Interventions: Trimethoprim/sulfamethoxazole (TMP/SMZ), Cephalexin, Doxycycline, Sodium hypochlorite, Placebo capsules; Background:\n\n\\- Atopic dermatitis, or eczema, is a chronic skin disorder. Patients sometimes have infections with S. aureus bacteria. Researchers want to study how eczema treatments affect the number and the type of bacteria on the skin.\n\nObjectives:\n\n\\- To study the effect of eczema treatments on s; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT01631617",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Study of the Effect of Innate on the Inflammatory Response to Endotoxin",
-      "url": "https://clinicaltrials.gov/study/NCT01143480",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2012-07-30",
-      "abstract": "Status: RECRUITING; Conditions: Asthma, Atherosclerosis, Metabolic Syndrome, Insulin Resistance, Cancer; Background:\n\n\\- Innate immunity is the process by which white blood cells and other parts of the immune system sense and respond to potential infections by causing an inflammation. Researchers are interested in studying how the body responds to certain environmental factors, and whether the body s r; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT01143480",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "LungVITamin D and OmegA-3 Trial (lungVITAL)",
-      "url": "https://clinicaltrials.gov/study/NCT01728571",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2010-07",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: COPD, Asthma, Pulmonary Function, Pneumonia; Interventions: Vitamin D3, fish oil, Vitamin D3 placebo, Fish oil placebo; The VITamin D and OmegA-3 TriaL (VITAL; NCT 01169259) is an ongoing randomized clinical trial in 25,871 U.S. men and women investigating whether taking daily dietary supplements of vitamin D3 (2000 IU) or omega-3 fatty acids (Omacor® fish oil, 1 gram) reduces the risk of developing cancer, heart dis; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT01728571",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Diabetes and Heart Disease Risk in Blacks",
-      "url": "https://clinicaltrials.gov/study/NCT00001853",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "1998-10-21",
-      "abstract": "Status: RECRUITING; Conditions: Cardiovascular Diseases, Diabetes, Obesity, Hypertension; It is unknown if obesity contributes to the development of heart disease in African American men and women.\n\nThis study was created to determine whether there is a relationship between sex and body size and the incidence of heart disease in African American men and women. Researchers will attempt to; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT00001853",
-      "status": "RECRUITING"
-    },
-    {
       "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
       "source": "medRxiv",
@@ -6491,86 +6281,6 @@
       "source_type": "preprint",
       "date": null,
       "abstract": "B Shravani , S"
-    },
-    {
-      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Lauren E. Anderson , Anne L."
-    },
-    {
-      "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
-      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Kai R Trepka , Erin L"
-    },
-    {
-      "title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Mohamed Mokrani , Romain"
-    },
-    {
-      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
-    },
-    {
-      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Kenneth T Trang , Dalia Arafat"
-    },
-    {
-      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Noor E Huma , Samuel"
-    },
-    {
-      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Xin Yu , Wenge"
-    },
-    {
-      "title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Sydney A Skupa , Jordan B"
-    },
-    {
-      "title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Chenglu Jiang , Bin"
-    },
-    {
-      "title": "An Engineered Live Biotherapeutic Restores Gut–Liver–Brain Axis Function by Reducing Inflammatory Pathways from Diet-Induced Stress",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737804v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Andrea Verdugo-Meza , Jessica K."
     }
   ]
 }

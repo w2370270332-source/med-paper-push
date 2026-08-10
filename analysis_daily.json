@@ -2,283 +2,10 @@
   "papers": [
     {
       "index": 1,
-      "title_cn": "肠道感觉：利用公民科学进行大规模益生元临床试验以改善成人心理健康",
-      "findings": "该研究旨在评估不同益生元产品对焦虑感及相关健康结果的影响，与安慰剂相比。研究将招募有焦虑感的参与者，并比较活性产品与安慰剂的效果。",
-      "relevance": "直接涉及益生元（营养干预）对心理健康的影响，与肠道菌群和慢性病预防相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07752823",
-      "source": "ClinicalTrials.gov",
-      "original_title": "GUT-FEELINGS: Using Citizen Science for Large-Scale Prebiotic Clinical Trials for Mental Health in Adults",
-      "date": "2026-08-20",
-      "nct_id": "NCT07752823"
-    },
-    {
-      "index": 2,
-      "title_cn": "核桃对老年人认知功能和肠道微生物组的影响",
-      "findings": "该研究旨在检验每日食用核桃12周对55岁及以上健康成年人认知功能、炎症和氧化应激标志物以及肠道微生物组的影响。",
-      "relevance": "直接研究核桃（膳食成分）对认知和肠道菌群的影响，与营养流行病学和慢性病预防相关。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06942351",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Effect of Walnuts on Cognitive Function and Gut Microbiome in Older Adults",
-      "date": "2025-06-09",
-      "nct_id": "NCT06942351"
-    },
-    {
-      "index": 3,
-      "title_cn": "食物DNA消化",
-      "findings": "该试点研究通过检测粪便样本中的残留食物DNA，调查食物DNA在人体消化道中的消化率。假设食物DNA主要在24小时内通过消化系统，并在粪便中达到最大检测量。",
-      "relevance": "涉及食物消化和肠道转运，但与营养干预或疾病预防的直接关联较弱。",
-      "relevance_score": 3,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06687226",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Food DNA Digestion",
-      "date": "2027-01-01",
-      "nct_id": "NCT06687226"
-    },
-    {
-      "index": 4,
-      "title_cn": "前庭性偏头痛预防的随机、开放标签、多中心研究：Rimegepant与氟桂利嗪非劣效性研究",
-      "findings": "该研究比较Rimegepant和氟桂利嗪在预防前庭性偏头痛方面的疗效，前庭性偏头痛影响1%至2.7%的普通人群，是头晕诊所最常见的诊断之一。",
-      "relevance": "不直接相关，涉及药物干预而非营养或菌群。",
-      "relevance_score": 1,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07751497",
-      "source": "ClinicalTrials.gov",
-      "original_title": "A Randomized, Open-Label, Multi-Center Study of Vestibular Migraine Prevention: Rimegepant Versus Flunarizine Non-inferiority Study",
-      "date": "2026-12-01",
-      "nct_id": "NCT07751497"
-    },
-    {
-      "index": 5,
-      "title_cn": "阿托莫西汀治疗黑皮质素肥胖综合征",
-      "findings": "这是一项2期随机安慰剂对照交叉试验，评估阿托莫西汀治疗由黑皮质素-4受体功能缺失变异引起的肥胖的安全性和有效性，这是最常见的遗传性肥胖疾病。",
-      "relevance": "不直接相关，涉及遗传性肥胖的药物干预，与营养或菌群无直接关联。",
-      "relevance_score": 1,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06899178",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Atomoxetine in Melanocortin Obesity Syndrome",
-      "date": "2026-09-01",
-      "nct_id": "NCT06899178"
-    },
-    {
-      "index": 6,
-      "title_cn": "尿石素A补充对55岁及以上健康成人血糖代谢的影响：随机三盲对照临床试验",
-      "findings": "该研究旨在评估尿石素A（一种天然营养补充剂）对改善血糖控制的影响，因为随着年龄增长，胰腺胰岛素分泌减少，血糖升高，可能导致糖尿病。",
-      "relevance": "直接研究营养补充剂（尿石素A）对血糖代谢的影响，与营养流行病学和慢性病预防相关。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT06274749",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
-      "date": "2026-08-12",
-      "nct_id": "NCT06274749"
-    },
-    {
-      "index": 7,
-      "title_cn": "膳食宏量营养素对餐后血脂的影响",
-      "findings": "该研究旨在了解不同营养素组成的餐食如何影响血液中的脂肪，研究对象包括体脂过多、过少和健康志愿者，涉及肾病综合征、脂肪营养不良、代谢综合征和糖尿病等状况。",
-      "relevance": "直接研究膳食宏量营养素对血脂的影响，与营养和代谢疾病预防相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07313787",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Effects of Meal Macronutrients on Postprandial Lipids",
-      "date": "2026-08-12",
-      "nct_id": "NCT07313787"
-    },
-    {
-      "index": 8,
-      "title_cn": "生酮饮食和神经调控在难治性抑郁症中的应用",
-      "findings": "该临床试验旨在比较生酮饮食联合加速间歇性θ爆发刺激（iTBS）与标准健康饮食联合iTBS对难治性抑郁症成人抑郁症状的改善效果。",
-      "relevance": "涉及饮食干预（生酮饮食）对心理健康的影响，与营养和慢性病预防相关。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07376018",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Ketogenic Diet and Neuromodulation in Treatment Resistant Depression",
-      "date": "2026-08",
-      "nct_id": "NCT07376018"
-    },
-    {
-      "index": 1,
-      "title_cn": "微生物组与免疫抑制：Mission研究",
-      "findings": "该观察性研究旨在探讨免疫抑制药物和特定食物如何改变肾移植受者的微生物组，以及微生物组如何影响药物代谢和免疫反应。目前研究正在进行中，尚未公布结果。",
-      "relevance": "直接涉及肠道菌群与药物和饮食的相互作用，与营养和菌群对慢性病预防相关，但重点在移植排斥，非直接预防。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT04953715",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Microbiome and Immunosuppression: The Mission Study",
-      "date": "2020-02-12",
-      "nct_id": "NCT04953715"
-    },
-    {
-      "index": 2,
-      "title_cn": "儿童内分泌和代谢相关疾病评估",
-      "findings": "该观察性研究旨在识别儿童内分泌和代谢疾病（如肾上腺功能不全、生长障碍、代谢性骨病）的遗传原因，通过基因分析探索疾病机制。",
-      "relevance": "涉及代谢性疾病，但主要关注遗传机制，不直接涉及营养或菌群干预。",
-      "relevance_score": 3,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT02769975",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Evaluation of Children With Endocrine and Metabolic-Related Conditions",
-      "date": "2016-07-12",
-      "nct_id": "NCT02769975"
-    },
-    {
-      "index": 3,
-      "title_cn": "急性弯曲菌感染期间的黏膜和微生物群变化",
-      "findings": "该观察性研究调查弯曲菌感染引起的肠道炎症和菌群变化，以及这些变化与肠易激综合征（IBS）发展的关联。",
-      "relevance": "直接研究肠道菌群变化与胃肠道疾病（IBS）的关系，与肠道菌群和慢性病预防高度相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT03223077",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Mucosal and Microbiota Changes During Acute Campylobacteriosis",
-      "date": "2014-10-31",
-      "nct_id": "NCT03223077"
-    },
-    {
-      "index": 4,
-      "title_cn": "肺维生素D和Omega-3试验（lungVITAL）",
-      "findings": "该随机对照试验在25871名美国男性和女性中评估每日补充维生素D3（2000 IU）和/或鱼油（1克）对癌症、心脏病和肺部疾病风险的影响，目前正在进行中。",
-      "relevance": "直接研究维生素D和Omega-3补充剂对慢性病预防的影响，与营养流行病学高度相关。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT01728571",
-      "source": "ClinicalTrials.gov",
-      "original_title": "LungVITamin D and OmegA-3 Trial (lungVITAL)",
-      "date": "2010-07",
-      "nct_id": "NCT01728571"
-    },
-    {
-      "index": 5,
-      "title_cn": "益生菌对成人心理健康影响的随机对照试验",
-      "findings": "该随机双盲安慰剂对照试验将评估4周益生菌补充对18-30岁健康成人心理健康的影响，结果尚未公布。",
-      "relevance": "直接研究益生菌（肠道菌群调节）对心理健康的影响，与肠道菌群和健康相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07751614",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Probiotic Research for Mental Health in Adult Volunteers",
-      "date": "2026-09-01",
-      "nct_id": "NCT07751614"
-    },
-    {
-      "index": 6,
-      "title_cn": "动态高脂血症中血浆脂质依赖性维生素E代谢",
-      "findings": "该干预性研究探讨高脂饮食后血脂水平升高如何影响维生素E的代谢和分布，以解释肥胖相关疾病机制。",
-      "relevance": "涉及营养（维生素E）和脂质代谢，与营养流行病学和代谢疾病预防相关。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07715890",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Plasma Lipids-Dependent Vitamin E Metabolism During Dynamic Hyperlipidemia",
-      "date": "2026-08-12",
-      "nct_id": "NCT07715890"
-    },
-    {
-      "index": 7,
-      "title_cn": "短睡眠研究",
-      "findings": "该观察性研究调查自然短睡眠者（每晚<6小时）的肠道菌群组成，探讨睡眠时长对菌群的影响。",
-      "relevance": "直接研究睡眠与肠道菌群的关系，与肠道菌群和健康相关。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07567560",
-      "source": "ClinicalTrials.gov",
-      "original_title": "The Short Sleep Study",
-      "date": "2025-10-23",
-      "nct_id": "NCT07567560"
-    },
-    {
-      "index": 8,
-      "title_cn": "胶质母细胞瘤复发和进展的生物学和分子机制研究",
-      "findings": "该观察性研究旨在描述胶质母细胞瘤进展和复发中的分子、免疫和代谢途径，使用血液和肿瘤样本。",
-      "relevance": "涉及肿瘤代谢，但非营养或菌群核心，与预防医学间接相关。",
-      "relevance_score": 2,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07173829",
-      "source": "ClinicalTrials.gov",
-      "original_title": "A Study to Better Understand the Biological and Molecular Mechanisms Involved in Glioblastoma Recurrence and Progression",
-      "date": "2025-10-22",
-      "nct_id": "NCT07173829"
-    },
-    {
-      "index": 1,
-      "title_cn": "外用乳膏治疗轻中度脂溢性皮炎的安全性和有效性",
-      "findings": "该研究评估了一种微生物组驱动的头皮乳膏与安慰剂相比在轻中度脂溢性皮炎患者中的安全性和有效性，但未提供具体数据。",
-      "relevance": "涉及皮肤微生物组，但与营养或慢性病预防不直接相关。",
-      "relevance_score": 2,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT07063615",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Safety and Efficacy of a Topical Cream in Mild-to-Moderate Seborrheic Dermatitis",
-      "date": "2025-07-21",
-      "nct_id": "NCT07063615"
-    },
-    {
-      "index": 2,
-      "title_cn": "夏季儿童腹泻病原体描述性研究（PE-DIA）",
-      "findings": "该观察性研究旨在描述导致儿童急诊就诊的夏季腹泻病原体，但未提供具体结果。",
-      "relevance": "涉及肠道感染，但与营养或慢性病预防不直接相关。",
-      "relevance_score": 2,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT04209751",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Descriptive Study of Pathogens Involved in Summer Diarrhea in Children Leading to Pediatric Emergency Room Visits (PE-DIA)",
-      "date": "2020-06-01",
-      "nct_id": "NCT04209751"
-    },
-    {
-      "index": 3,
-      "title_cn": "特应性皮炎治疗方法的效果",
-      "findings": "该研究旨在探讨不同治疗（抗生素、漂白剂等）对特应性皮炎患者皮肤细菌数量和类型的影响，但未提供具体数据。",
-      "relevance": "涉及皮肤菌群，但与营养或慢性病预防不直接相关。",
-      "relevance_score": 2,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT01631617",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Effects of Treatments on Atopic Dermatitis",
-      "date": "2012-09-18",
-      "nct_id": "NCT01631617"
-    },
-    {
-      "index": 4,
-      "title_cn": "先天免疫对内毒素炎症反应的影响研究",
-      "findings": "该观察性研究旨在研究先天免疫对环境因素的反应，但未提供具体结果。",
-      "relevance": "涉及免疫和炎症，但与营养或慢性病预防不直接相关。",
-      "relevance_score": 2,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT01143480",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Study of the Effect of Innate on the Inflammatory Response to Endotoxin",
-      "date": "2012-07-30",
-      "nct_id": "NCT01143480"
-    },
-    {
-      "index": 5,
-      "title_cn": "黑人糖尿病和心脏病风险研究",
-      "findings": "该观察性研究旨在探讨肥胖与非洲裔美国人心脏病发病率的关系，但未提供具体数据。",
-      "relevance": "涉及肥胖和慢性病风险，但未直接涉及营养或菌群。",
-      "relevance_score": 3,
-      "pmid": "",
-      "url": "https://clinicaltrials.gov/study/NCT00001853",
-      "source": "ClinicalTrials.gov",
-      "original_title": "Diabetes and Heart Disease Risk in Blacks",
-      "date": "1998-10-21",
-      "nct_id": "NCT00001853"
-    },
-    {
-      "index": 6,
-      "title_cn": "花青素膳食摄入与心脏代谢健康：随机试验和前瞻性队列研究的系统综述和荟萃分析",
-      "findings": "该研究系统综述和荟萃分析了花青素摄入与心脏代谢健康的关系，但未提供具体数据。",
-      "relevance": "直接研究膳食成分（花青素）与慢性病预防（心脏代谢健康）的关系。",
-      "relevance_score": 9,
+      "title_cn": "Dietary intakes of anthocyanins and cardiometabolic health: a systematic review and meta-analysis of randomized trials and prospective cohort studies in healthy participants.",
+      "findings": "Journal: Am J Clin Nutr",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42547104",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101304",
       "source": "PubMed → Am J Clin Nutr",
@@ -345,11 +72,11 @@
       "epubdate": "2026 Jun 18"
     },
     {
-      "index": 7,
-      "title_cn": "基于微生物组测试的低成本精准营养建议改善哥伦比亚肥胖人群的食物选择和肠道健康指标",
-      "findings": "该研究显示基于微生物组测试的精准营养建议改善了肥胖人群的食物选择和肠道健康指标，但未提供具体数据。",
-      "relevance": "直接研究营养、肠道菌群与肥胖管理，高度相关。",
-      "relevance_score": 9,
+      "index": 2,
+      "title_cn": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
+      "findings": "Vanesa Caro Miranda , Shadia Blel",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
       "source": "medRxiv",
@@ -357,11 +84,11 @@
       "date": null
     },
     {
-      "index": 8,
-      "title_cn": "肠道气体作为研究饮食-肠道微生物群-宿主代谢轴的标记及其与代谢健康的关系",
-      "findings": "该研究探讨了肠道气体作为饮食-菌群-代谢轴标记物的潜力，但未提供具体数据。",
-      "relevance": "直接研究饮食、肠道菌群与代谢健康的关系。",
-      "relevance_score": 9,
+      "index": 3,
+      "title_cn": "Intestinal gases as markers to study the diet-gut microbiota-host metabolism axis in humans and their relationship to metabolic health.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42444516",
       "url": "https://doi.org/10.1080/19490976.2026.2701495",
       "source": "PubMed → Gut Microbes",
@@ -399,11 +126,11 @@
       "epubdate": "2026 Jul 14"
     },
     {
-      "index": 1,
-      "title_cn": "个性化全食物饮食与传统饮食咨询对超重或肥胖年轻黑人和白人成年人的血糖调节和认知反应的影响：一项为期8周的随机对照试验",
-      "findings": "该研究比较了个性化全食物饮食与传统饮食咨询对超重或肥胖年轻成人的血糖调节和认知功能的影响。结果显示个性化全食物饮食可能更有效地改善血糖控制和认知表现，但具体数据未在摘要中提供。",
-      "relevance": "直接研究饮食干预对肥胖和代谢的影响，与营养流行病学和慢性病预防高度相关。",
-      "relevance_score": 9,
+      "index": 4,
+      "title_cn": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
+      "findings": "Onyedika G. Ani , Elaheh",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
       "source": "medRxiv",
@@ -411,35 +138,11 @@
       "date": null
     },
     {
-      "index": 2,
-      "title_cn": "葡萄籽低聚原花青素提取物通过肠道菌群重塑和GLP-1、肠-脑及肠-肝信号恢复逆转饮食诱导的肥胖",
-      "findings": "该研究表明葡萄籽低聚原花青素提取物能够通过重塑肠道菌群并恢复GLP-1信号，逆转饮食诱导的肥胖，并改善肠-脑和肠-肝轴功能。",
-      "relevance": "直接研究膳食成分通过肠道菌群影响肥胖和代谢，与营养和肠道菌群领域高度相关。",
-      "relevance_score": 10,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
-      "source": "bioRxiv",
-      "original_title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
-      "date": null
-    },
-    {
-      "index": 3,
-      "title_cn": "健康人群中的饮食-微生物组分析揭示肠道菌群在代谢中的潜在作用",
-      "findings": "该研究分析了健康人群的饮食与肠道微生物组的关系，发现特定肠道菌群可能参与代谢调节，但具体发现未在摘要中详述。",
-      "relevance": "直接研究饮食与肠道菌群对代谢的影响，与营养流行病学和肠道菌群领域高度相关。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
-      "source": "bioRxiv",
-      "original_title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
-      "date": null
-    },
-    {
-      "index": 4,
-      "title_cn": "肥胖中非细菌粪便微生物组的生态重构：跨人类队列研究",
-      "findings": "该研究探讨了肥胖个体中非细菌粪便微生物组的生态变化，发现肥胖与微生物组组成改变相关，但具体数据未提供。",
-      "relevance": "研究肠道微生物组与肥胖的关系，与肠道菌群和慢性病预防相关。",
-      "relevance_score": 8,
+      "index": 5,
+      "title_cn": "Ecological restructuring of the nonbacterial fecal microbiome in obesity across human cohorts.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42458961",
       "url": "https://doi.org/10.1080/19490976.2026.2701446",
       "source": "PubMed → Gut Microbes",
@@ -500,11 +203,11 @@
       "epubdate": "2026 Jul 15"
     },
     {
-      "index": 5,
-      "title_cn": "印度尼西亚婴儿的肠道健康、全身炎症和线性生长：来自“反发育迟缓中心”观察队列的发现：勘误",
-      "findings": "该文为勘误，无实质研究发现。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "index": 6,
+      "title_cn": "Gut Health, Systemic Inflammation, and Linear Growth Among Indonesian Infants: Findings From the Action Against Stunting Hub Observation Cohort: Erratum.",
+      "findings": "Journal: Epidemiology",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42302276",
       "url": "https://doi.org/10.1097/EDE.0000000000002015",
       "source": "PubMed → Epidemiology",
@@ -523,11 +226,11 @@
       "epubdate": "2026 Jun 22"
     },
     {
-      "index": 6,
-      "title_cn": "解码饮食-肠道-肝脏轴：饮食模式依从性、肠道微生物组和肝脏健康之间的联系",
-      "findings": "该研究探讨了饮食模式依从性与肠道微生物组及肝脏健康的关系，发现饮食模式可能通过肠道菌群影响肝脏健康，但具体数据未提供。",
-      "relevance": "直接研究饮食、肠道菌群和肝脏健康，与营养和肠道菌群领域高度相关。",
-      "relevance_score": 9,
+      "index": 7,
+      "title_cn": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
+      "findings": "Keyong Deng , Quinten R.",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
       "source": "medRxiv",
@@ -535,11 +238,11 @@
       "date": null
     },
     {
-      "index": 7,
-      "title_cn": "利益相关者参与评估肯尼亚预防超重和肥胖的食品政策干预实施考虑因素及参与过程评估",
-      "findings": "该研究评估了利益相关者参与食品政策干预实施的过程，但未涉及具体健康结果。",
-      "relevance": "涉及肥胖预防政策，但非直接营养或菌群研究，相关性较低。",
-      "relevance_score": 4,
+      "index": 8,
+      "title_cn": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
+      "findings": "Mary Njeri Wanjau , Lucy",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
       "source": "medRxiv",
@@ -547,10 +250,10 @@
       "date": null
     },
     {
-      "index": 8,
-      "title_cn": "人口统计学因素调节肥胖预防干预的有效性：大学干预试验的二次分析",
-      "findings": "该研究分析了人口统计学因素对肥胖预防干预效果的影响，发现不同人群反应不同，但具体数据未提供。",
-      "relevance": "涉及肥胖预防干预，但非直接营养或菌群研究，相关性中等。",
+      "index": 9,
+      "title_cn": "Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials",
+      "findings": "Caitlyn Winn , Leah",
+      "relevance": "",
       "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
@@ -559,83 +262,11 @@
       "date": null
     },
     {
-      "index": 1,
-      "title_cn": "肉鸡益生菌补充的饮食依赖性微生物群和饮食非依赖性免疫代谢反应",
-      "findings": "研究表明益生菌对肉鸡肠道微生物群的影响依赖于饮食，而免疫代谢反应则与饮食无关。具体数据未在摘要中提供。",
-      "relevance": "涉及饮食与菌群及免疫代谢，但研究对象为肉鸡，与人类预防医学关联有限。",
+      "index": 10,
+      "title_cn": "Early-life microbiota in the LIMIT cohort: unveiling meconium microbiota types beyond maternal lifestyle.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
       "relevance_score": 5,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
-      "source": "bioRxiv",
-      "original_title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
-      "date": null
-    },
-    {
-      "index": 2,
-      "title_cn": "癌症化疗期间人类肠道微生物组的转变依赖于饮食",
-      "findings": "研究发现化疗期间肠道微生物组的改变受饮食影响，提示饮食干预可能调节化疗相关菌群变化。具体数据未提供。",
-      "relevance": "直接关联营养与菌群在疾病治疗中的作用，对预防医学有参考价值。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
-      "source": "bioRxiv",
-      "original_title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
-      "date": null
-    },
-    {
-      "index": 3,
-      "title_cn": "康普茶对肠道微生物组及其神经活性潜力的饮食依赖性效应：与小鼠焦虑和抑郁样行为减少的关联",
-      "findings": "康普茶对肠道菌群和神经活性代谢物的影响依赖于饮食，并与小鼠焦虑和抑郁样行为减少相关。具体数据未提供。",
-      "relevance": "涉及饮食、菌群与心理健康，与预防医学中的生活方式干预相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
-      "source": "bioRxiv",
-      "original_title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
-      "date": null
-    },
-    {
-      "index": 4,
-      "title_cn": "模拟地中海饮食利用肠道微生物衍生的3-IAA恢复T细胞功能",
-      "findings": "模拟地中海饮食通过肠道微生物产生的3-IAA恢复T细胞功能，可能增强免疫。具体数据未提供。",
-      "relevance": "直接关联饮食、菌群与免疫，对慢性病预防有重要意义。",
-      "relevance_score": 9,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
-      "source": "bioRxiv",
-      "original_title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
-      "date": null
-    },
-    {
-      "index": 5,
-      "title_cn": "高脂西方饮食对Eµ-TCL1小鼠慢性淋巴细胞白血病进展和肠道微生物组的影响",
-      "findings": "高脂西方饮食可能加速慢性淋巴细胞白血病进展并改变肠道微生物组。具体数据未提供。",
-      "relevance": "涉及饮食与癌症进展及菌群，对预防医学有参考价值。",
-      "relevance_score": 7,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
-      "source": "bioRxiv",
-      "original_title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
-      "date": null
-    },
-    {
-      "index": 6,
-      "title_cn": "中国凉山汉族和彝族共居人群的饮食驱动肠道微生物组差异",
-      "findings": "研究发现共居的汉族和彝族人群肠道微生物组差异主要由饮食驱动，提示饮食对菌群的重要影响。具体数据未提供。",
-      "relevance": "直接关联饮食与菌群，对营养流行病学和预防医学有参考价值。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
-      "source": "bioRxiv",
-      "original_title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
-      "date": null
-    },
-    {
-      "index": 7,
-      "title_cn": "LIMIT队列中的早期微生物群：揭示胎粪微生物群类型超越母亲生活方式",
-      "findings": "研究揭示了胎粪微生物群类型与母亲生活方式的关系，可能影响婴儿早期菌群建立。具体数据未提供。",
-      "relevance": "涉及早期菌群与母亲生活方式，与预防医学中的母婴健康相关。",
-      "relevance_score": 6,
       "pmid": "42552739",
       "url": "https://doi.org/10.1080/19490976.2026.2712811",
       "source": "PubMed → Gut Microbes",
@@ -728,11 +359,11 @@
       "epubdate": "2026 Aug 4"
     },
     {
-      "index": 8,
-      "title_cn": "益生菌干酪乳杆菌通过肠道微生物-丁酸盐-HDAC/NF-κB信号改善类风湿关节炎免疫微环境",
-      "findings": "干酪乳杆菌通过调节肠道菌群产生丁酸盐，抑制HDAC/NF-κB信号，改善类风湿关节炎免疫微环境。具体数据未提供。",
-      "relevance": "直接关联益生菌、菌群与免疫疾病，对预防医学有参考价值。",
-      "relevance_score": 8,
+      "index": 11,
+      "title_cn": "Probiotic Lactobacillus casei improves immune microenvironment in rheumatoid arthritis via gut microbiota-butyrate-HDAC/NF-κB signaling.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42482368",
       "url": "https://doi.org/10.1080/19490976.2026.2698969",
       "source": "PubMed → Gut Microbes",
@@ -813,11 +444,11 @@
       "epubdate": "2026 Jul 21"
     },
     {
-      "index": 1,
-      "title_cn": "吗啡干扰期间小鼠肠道菌群的动态灵活性使其能够逃脱与成瘾样行为相关的稳定失调",
-      "findings": "该研究探讨了吗啡干扰下小鼠肠道菌群的动态变化，发现菌群能够灵活调整以逃避与成瘾样行为相关的稳定失调。具体机制和关键数据未在摘要中提供。",
-      "relevance": "涉及肠道菌群与行为（成瘾）的关系，与慢性病预防中的神经精神疾病相关，但非直接营养干预。",
-      "relevance_score": 6,
+      "index": 12,
+      "title_cn": "Dynamic flexibility of the murine gut microbiota during morphine disturbance enables escape from the stable dysbiosis that is associated with addiction-like behavior.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42470107",
       "url": "https://doi.org/10.1080/19490976.2026.2691347",
       "source": "PubMed → Gut Microbes",
@@ -862,11 +493,11 @@
       "epubdate": "2026 Jul 17"
     },
     {
-      "index": 2,
-      "title_cn": "来自狄氏副拟杆菌的肠道来源染料木素通过CD200介导的NF-κB抑制减轻小鼠银屑病炎症",
-      "findings": "研究发现狄氏副拟杆菌产生的染料木素（一种植物雌激素）通过CD200介导的NF-κB抑制减轻银屑病炎症，提示肠道菌群代谢物对免疫调节的作用。",
-      "relevance": "涉及肠道菌群代谢物（染料木素）对炎症性疾病的缓解，与营养和菌群相关，但主要针对银屑病而非典型慢性病。",
-      "relevance_score": 7,
+      "index": 13,
+      "title_cn": "Gut-derived genistein from Parabacteroides distasonis alleviates psoriatic inflammation via CD200-mediated NF-κB inhibition in mice.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42461117",
       "url": "https://doi.org/10.1080/19490976.2026.2701386",
       "source": "PubMed → Gut Microbes",
@@ -919,10 +550,10 @@
       "epubdate": "2026 Jul 16"
     },
     {
-      "index": 3,
-      "title_cn": "南亚地区城市化不同轨迹塑造人类肠道微生物组",
-      "findings": "该研究分析了南亚不同城市化轨迹对肠道微生物组的影响，可能揭示城市化与菌群组成变化的关系，但具体发现未在摘要中给出。",
-      "relevance": "涉及环境因素（城市化）对肠道菌群的影响，与预防医学中的环境暴露和菌群健康相关，但非直接营养干预。",
+      "index": 14,
+      "title_cn": "Distinct trajectories of urbanization shape the human gut microbiome across South Asia.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
       "relevance_score": 5,
       "pmid": "42444491",
       "url": "https://doi.org/10.1080/19490976.2026.2700042",
@@ -1096,11 +727,11 @@
       "epubdate": "2026 Jul 14"
     },
     {
-      "index": 4,
-      "title_cn": "支链氨基酸与肠道菌群：通过肠脑轴对神经功能的共同调节及影响",
-      "findings": "该研究探讨了支链氨基酸（BCAAs）与肠道菌群的相互作用，以及它们通过肠脑轴对神经功能的影响，可能涉及代谢和神经调节机制。",
-      "relevance": "直接涉及支链氨基酸（营养相关）与肠道菌群及神经功能，与营养流行病学和慢性病预防（如代谢性疾病）相关。",
-      "relevance_score": 8,
+      "index": 15,
+      "title_cn": "Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42444486",
       "url": "https://doi.org/10.1080/19490976.2026.2698204",
       "source": "PubMed → Gut Microbes",
@@ -1178,11 +809,11 @@
       "epubdate": "2026 Jul 14"
     },
     {
-      "index": 5,
-      "title_cn": "迈向标准化肠道菌群诊断：超越地理边界的正常菌群",
-      "findings": "该研究旨在建立标准化的肠道菌群诊断方法，定义跨地理区域的正常菌群范围，可能涉及菌群作为疾病预防的生物标志物。",
-      "relevance": "涉及肠道菌群诊断标准化，与预防医学中的疾病风险预测和菌群健康评估相关，但非直接营养干预。",
-      "relevance_score": 6,
+      "index": 16,
+      "title_cn": "Towards standardized gut microbiota diagnostics: normobiosis beyond geographical borders.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42438061",
       "url": "https://doi.org/10.1080/19490976.2026.2701485",
       "source": "PubMed → Gut Microbes",
@@ -1227,10 +858,10 @@
       "epubdate": "2026 Jul 12"
     },
     {
-      "index": 6,
-      "title_cn": "Christensenella massiliensis降低犬尿氨酸水平并减轻模型小鼠的肥胖及相关代谢紊乱",
-      "findings": "该研究发现Christensenella massiliensis通过降低犬尿氨酸水平减轻肥胖和相关代谢紊乱，提示特定菌群对代谢健康的保护作用。",
-      "relevance": "直接涉及肠道菌群对肥胖和代谢紊乱的改善，与营养和慢性病预防高度相关。",
+      "index": 1,
+      "title_cn": "Christensenella massiliensis降低犬尿氨酸水平并缓解模型小鼠的肥胖及相关代谢紊乱",
+      "findings": "该研究探讨了Christensenella massiliensis对肥胖小鼠的影响，发现其通过降低犬尿氨酸水平来缓解肥胖及相关代谢紊乱，可能通过调节肠道菌群改善代谢健康。",
+      "relevance": "直接研究肠道菌群对肥胖和代谢紊乱的改善作用，与营养流行病学和慢性病预防高度相关。",
       "relevance_score": 9,
       "pmid": "42434935",
       "url": "https://doi.org/10.1080/19490976.2026.2701382",
@@ -1280,11 +911,11 @@
       "epubdate": "2026 Jul 11"
     },
     {
-      "index": 7,
-      "title_cn": "超越肠道：多位点微生物群及其在大脑健康中的新兴作用",
-      "findings": "该研究探讨了肠道以外多个部位的微生物群（如口腔、皮肤等）对大脑健康的影响，可能涉及菌群-肠-脑轴的多位点调节。",
-      "relevance": "涉及微生物群与大脑健康，与预防医学中的神经精神疾病预防相关，但非直接营养干预。",
-      "relevance_score": 5,
+      "index": 2,
+      "title_cn": "超越肠道：多部位微生物组及其在脑健康中的新兴作用",
+      "findings": "综述了肠道以外多个部位的微生物组（如口腔、皮肤等）对脑健康的影响，探讨了微生物-肠-脑轴的潜在机制。",
+      "relevance": "涉及微生物组与脑健康，但主要关注非肠道部位，与营养和慢性病预防关联较弱。",
+      "relevance_score": 4,
       "pmid": "42424442",
       "url": "https://doi.org/10.1080/19490976.2026.2702091",
       "source": "PubMed → Gut Microbes",
@@ -1330,11 +961,11 @@
       "epubdate": "2026 Jul 9"
     },
     {
-      "index": 8,
-      "title_cn": "一种新型L-β-半乳葡聚糖通过肠肌轴调节负荷特异性代谢途径缓解身体疲劳",
-      "findings": "该研究发现一种新型L-β-半乳葡聚糖（一种膳食纤维）通过肠肌轴调节代谢途径缓解身体疲劳，可能涉及营养干预对体能恢复的作用。",
-      "relevance": "直接涉及膳食纤维（营养）对疲劳和代谢的调节，与营养流行病学和慢性病预防（如代谢综合征）相关。",
-      "relevance_score": 8,
+      "index": 3,
+      "title_cn": "一种新型L-β-半乳葡聚糖通过肠-肌轴调节负荷特异性代谢途径缓解身体疲劳",
+      "findings": "该新型多糖通过调节肠道菌群和代谢途径，在动物模型中显著缓解身体疲劳，可能通过肠-肌轴发挥作用。",
+      "relevance": "研究营养多糖对疲劳和代谢的影响，涉及肠道菌群，与营养和代谢健康相关。",
+      "relevance_score": 7,
       "pmid": "42562534",
       "url": "https://doi.org/10.1016/j.foodres.2026.119769",
       "source": "PubMed → Food Res Int",
@@ -1398,11 +1029,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 1,
-      "title_cn": "大孔树脂AB-8结合超滤分级制备的茶褐素的结构表征及其对肠道菌群的调节作用",
-      "findings": "该研究通过大孔树脂AB-8和超滤分级制备茶褐素，并表征其结构，发现不同组分对肠道菌群具有调节作用。具体数据未在摘要中提供，但表明茶褐素可能通过调节肠道菌群发挥健康效应。",
-      "relevance": "直接涉及茶褐素对肠道菌群的调节，与营养和肠道菌群领域高度相关。",
-      "relevance_score": 8,
+      "index": 4,
+      "title_cn": "大孔树脂AB-8结合超滤分级制备的茶褐素的结构表征及肠道菌群调节作用",
+      "findings": "表征了茶褐素的结构，并发现其能调节肠道菌群组成，可能对宿主健康产生有益影响。",
+      "relevance": "研究茶褐素对肠道菌群的调节，属于营养与菌群相互作用，与慢性病预防相关。",
+      "relevance_score": 7,
       "pmid": "42494137",
       "url": "https://doi.org/10.1111/1750-3841.71314",
       "source": "PubMed → J Food Sci",
@@ -1458,11 +1089,11 @@
       "elocationid": "doi: 10.1111/1750-3841.71314"
     },
     {
-      "index": 2,
+      "index": 5,
       "title_cn": "致编辑的信：应试教学和差异报告偏倚削弱了MyPlanetDiet随机对照试验的推断",
-      "findings": "该信指出MyPlanetDiet随机对照试验存在应试教学和差异报告偏倚，可能影响试验结果的可靠性。",
-      "relevance": "涉及营养干预试验的方法学问题，但非直接研究营养与疾病预防。",
-      "relevance_score": 3,
+      "findings": "该信指出MyPlanetDiet试验存在方法学问题，如应试教学和报告偏倚，可能影响结果的有效性。",
+      "relevance": "涉及营养干预试验的方法学批评，与营养流行病学相关，但非直接研究。",
+      "relevance_score": 5,
       "pmid": "42547105",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101368",
       "source": "PubMed → Am J Clin Nutr",
@@ -1499,11 +1130,11 @@
       "epubdate": "2026 Jun 22"
     },
     {
-      "index": 3,
+      "index": 6,
       "title_cn": "基于机器学习预测食物血糖反应的精准营养的进展、挑战和未来方向：叙述性综述",
-      "findings": "综述了机器学习在预测食物血糖反应中的应用，讨论了精准营养的进展、挑战和未来方向，强调个性化饮食建议的潜力。",
-      "relevance": "直接涉及精准营养和血糖反应预测，与营养流行病学和慢性病预防相关。",
-      "relevance_score": 9,
+      "findings": "综述了机器学习在预测血糖反应中的应用，讨论了精准营养的潜力、挑战和未来方向。",
+      "relevance": "直接涉及精准营养和血糖反应预测，与营养流行病学和慢性病预防高度相关。",
+      "relevance_score": 8,
       "pmid": "42547103",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101322",
       "source": "PubMed → Am J Clin Nutr",
@@ -1589,11 +1220,11 @@
       "epubdate": "2026 Jun 25"
     },
     {
-      "index": 4,
+      "index": 7,
       "title_cn": "花青素与心血管代谢风险：预防、治疗还是风险依赖性效应？",
-      "findings": "探讨花青素对心血管代谢风险的影响，可能具有预防或治疗作用，且效应可能依赖于个体风险水平。具体数据未在摘要中提供。",
-      "relevance": "直接研究花青素（膳食成分）与心血管代谢风险，与营养和慢性病预防高度相关。",
-      "relevance_score": 9,
+      "findings": "探讨了花青素对心血管代谢风险的影响，可能具有预防或治疗作用，但效果可能依赖于个体风险水平。",
+      "relevance": "研究膳食成分花青素对心血管代谢风险的影响，与营养和慢性病预防直接相关。",
+      "relevance_score": 8,
       "pmid": "42547102",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101343",
       "source": "PubMed → Am J Clin Nutr",
@@ -1622,11 +1253,11 @@
       "epubdate": "2026 Jun 18"
     },
     {
-      "index": 5,
-      "title_cn": "膳食指南依从性与妊娠期暴露于10类优先化学物质：环境对儿童健康结局队列的观察性研究",
-      "findings": "该研究调查了膳食指南依从性与妊娠期化学物质暴露的关系，发现依从性可能影响暴露水平，但具体数据未提供。",
-      "relevance": "涉及膳食指南和化学暴露，与预防医学相关，但非直接研究营养与疾病。",
-      "relevance_score": 5,
+      "index": 8,
+      "title_cn": "膳食指南依从性与孕期暴露于10类优先化学物质：环境对儿童健康结局影响队列的观察性研究",
+      "findings": "研究发现孕期膳食指南依从性与某些化学物质暴露水平相关，可能影响母婴健康。",
+      "relevance": "涉及膳食指南和化学暴露对健康的影响，与营养流行病学相关，但非直接研究菌群或代谢。",
+      "relevance_score": 6,
       "pmid": "42419693",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101393",
       "source": "PubMed → Am J Clin Nutr",
@@ -1744,11 +1375,11 @@
       "epubdate": "2026 Jul 8"
     },
     {
-      "index": 6,
-      "title_cn": "人工智能在食品-营养-健康研究中的应用：从多模态数据整合到精准干预",
-      "findings": "综述了人工智能在食品、营养和健康研究中的应用，包括多模态数据整合和精准干预，强调AI在个性化营养中的潜力。",
-      "relevance": "直接涉及精准营养和AI应用，与营养流行病学和慢性病预防相关。",
-      "relevance_score": 8,
+      "index": 25,
+      "title_cn": "Artificial Intelligence in Food-Nutrition-Health Research: From Multimodal Data Integration to Precision Intervention.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42535509",
       "url": "https://doi.org/10.1111/1750-3841.71334",
       "source": "PubMed → J Food Sci",
@@ -1777,11 +1408,11 @@
       "elocationid": "doi: 10.1111/1750-3841.71334"
     },
     {
-      "index": 7,
-      "title_cn": "地中海-得舒饮食干预神经退行性延迟饮食与炎症性肠病相关手术风险降低相关：一项前瞻性队列研究",
-      "findings": "该前瞻性队列研究发现，地中海-得舒饮食干预神经退行性延迟饮食与炎症性肠病相关手术风险降低相关，具体风险比等数据未在摘要中提供。",
-      "relevance": "直接研究饮食模式与炎症性肠病风险，与营养和慢性病预防高度相关。",
-      "relevance_score": 9,
+      "index": 26,
+      "title_cn": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
+      "findings": "Yuhao Sun , Zhuoyuan",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
       "source": "medRxiv",
@@ -1789,11 +1420,11 @@
       "date": null
     },
     {
-      "index": 8,
-      "title_cn": "生物样本库规模的基因-饮食相互作用调查为精准营养多基因评分提供信息",
-      "findings": "该研究利用生物样本库数据调查基因-饮食相互作用，开发了精准营养多基因评分，可能用于个性化饮食建议。具体数据未在摘要中提供。",
-      "relevance": "直接涉及基因-饮食相互作用和精准营养，与营养流行病学和慢性病预防高度相关。",
-      "relevance_score": 9,
+      "index": 27,
+      "title_cn": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
+      "findings": "Matteo Di Scipio , Alice",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
       "source": "medRxiv",
@@ -1801,11 +1432,11 @@
       "date": null
     },
     {
-      "index": 1,
-      "title_cn": "肯尼亚卡贾多县怀孕青少年的饮食实践与营养状况",
-      "findings": "该研究调查了肯尼亚卡贾多县怀孕青少年的饮食实践和营养状况，可能揭示了该群体中营养不良和饮食不足的高发率。具体数据未在摘要中提供，但研究强调了针对这一脆弱群体进行营养干预的必要性。",
-      "relevance": "直接相关，涉及孕期营养和青少年健康，属于营养流行病学范畴。",
-      "relevance_score": 8,
+      "index": 28,
+      "title_cn": "DIETARY PRACTICES AND NUTRITION STATUS OF PREGNANT ADOLESCENTS’ IN KAJIADO COUNTY, KENYA",
+      "findings": "Caroline Wambui Wandu , Joseph",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.07.28.26359156v1",
       "source": "medRxiv",
@@ -1813,11 +1444,11 @@
       "date": null
     },
     {
-      "index": 2,
-      "title_cn": "基于人工智能的精准营养预测缺铁性贫血：利用基因组学、多基因风险评分、饮食模式和个性化饮食建议",
-      "findings": "该研究利用AI整合基因组学、多基因风险评分和饮食模式来预测缺铁性贫血，并可能提供个性化饮食建议。具体数据未提供，但展示了精准营养在预防缺铁性贫血中的潜力。",
-      "relevance": "直接相关，涉及精准营养和疾病预防，属于营养基因组学和个性化营养领域。",
-      "relevance_score": 9,
+      "index": 29,
+      "title_cn": "AI-Driven Precision Nutrition for Predicting Iron Deficiency Using Genomics, Polygenic Risk Scores, Dietary Patterns, and Personalized Dietary Recommendations",
+      "findings": "B Shravani , S",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.07.06.26357351v1",
       "source": "medRxiv",
@@ -1825,35 +1456,11 @@
       "date": null
     },
     {
-      "index": 3,
-      "title_cn": "亚洲象胃肠道不适中的肠道菌群改变与益生菌干预",
-      "findings": "该研究探讨了亚洲象胃肠道不适时肠道菌群的改变，并评估了益生菌干预的效果。具体数据未提供，但可能显示益生菌对改善大象肠道健康有益。",
-      "relevance": "不直接相关，研究对象为动物，但涉及肠道菌群和益生菌，可能间接相关。",
-      "relevance_score": 3,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
-      "source": "bioRxiv",
-      "original_title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
-      "date": null
-    },
-    {
-      "index": 4,
-      "title_cn": "工程化活体生物治疗通过减少饮食诱导应激的炎症通路恢复肠-肝-脑轴功能",
-      "findings": "该研究开发了一种工程化活体生物治疗，通过减少饮食诱导的炎症通路来恢复肠-肝-脑轴功能。具体数据未提供，但可能显示该治疗对代谢和炎症相关疾病有潜在益处。",
-      "relevance": "直接相关，涉及肠道菌群、饮食和炎症通路，与慢性病预防相关。",
-      "relevance_score": 8,
-      "pmid": "",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737804v1",
-      "source": "bioRxiv",
-      "original_title": "An Engineered Live Biotherapeutic Restores Gut–Liver–Brain Axis Function by Reducing Inflammatory Pathways from Diet-Induced Stress",
-      "date": null
-    },
-    {
-      "index": 5,
-      "title_cn": "肠道微生物代谢产物、微生物结构产物和宿主-微生物共代谢物与线粒体功能的机制通路",
-      "findings": "该综述探讨了肠道微生物代谢产物和结构产物如何影响线粒体功能，可能揭示了微生物-宿主互作的新机制。具体数据未提供，但强调了肠道菌群在代谢健康中的重要性。",
-      "relevance": "直接相关，涉及肠道菌群和代谢功能，与慢性病预防相关。",
-      "relevance_score": 8,
+      "index": 30,
+      "title_cn": "Mechanistic pathways linking gut microbial metabolites, microbial structural products, and host-microbe co-metabolites to mitochondrial function.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42563439",
       "url": "https://doi.org/10.1080/19490976.2026.2694140",
       "source": "PubMed → Gut Microbes",
@@ -1884,11 +1491,11 @@
       "epubdate": "2026 Aug 6"
     },
     {
-      "index": 6,
-      "title_cn": "益生菌对老年人COVID-19疫苗接种体液反应的影响：随机安慰剂对照试验（PIRATES-COV研究）",
-      "findings": "该随机对照试验评估了益生菌对老年人COVID-19疫苗体液反应的影响，可能显示益生菌能增强疫苗抗体反应。具体数据未提供，但可能具有免疫调节作用。",
-      "relevance": "相关，涉及益生菌和免疫反应，但主要关注疫苗，与营养和慢性病预防间接相关。",
-      "relevance_score": 6,
+      "index": 31,
+      "title_cn": "Effect of probiotics on humoral responses to COVID-19 vaccination in older adults: a randomized, placebo-controlled trial (PIRATES-COV study).",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42520140",
       "url": "https://doi.org/10.1080/19490976.2026.2699456",
       "source": "PubMed → Gut Microbes",
@@ -1974,11 +1581,11 @@
       "epubdate": "2026 Jul 28"
     },
     {
-      "index": 7,
-      "title_cn": "利用肠芯片和自动化图像分析评估溃疡性结肠炎患者无菌粪便微生物组滤液的前炎症潜力",
-      "findings": "该研究使用肠芯片平台评估溃疡性结肠炎患者粪便微生物组滤液的前炎症潜力，可能揭示了微生物组在炎症性肠病中的作用。具体数据未提供，但可能显示患者滤液诱导更强的炎症反应。",
-      "relevance": "相关，涉及肠道菌群和炎症，与慢性病预防相关，但主要针对特定疾病。",
-      "relevance_score": 7,
+      "index": 32,
+      "title_cn": "Assessing the proinflammatory potential of sterile fecal microbiome filtrate from ulcerative colitis patients using an intestine-on-chip platform and automated image analysis.",
+      "findings": "Journal: Gut Microbes",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42520137",
       "url": "https://doi.org/10.1080/19490976.2026.2701400",
       "source": "PubMed → Gut Microbes",
@@ -2047,11 +1654,11 @@
       "epubdate": "2026 Jul 28"
     },
     {
-      "index": 8,
-      "title_cn": "真核和细菌肠道群落随生活方式相关的城市化梯度变化：德国和马达加斯加的比较分析",
-      "findings": "该研究比较了德国和马达加斯加人群的肠道真核和细菌群落，发现城市化程度与肠道菌群组成相关。具体数据未提供，但可能显示城市化生活方式改变肠道菌群多样性。",
-      "relevance": "相关，涉及肠道菌群和生活方式，与营养流行病学相关。",
-      "relevance_score": 7,
+      "index": 1,
+      "title_cn": "真核生物和细菌肠道群落随生活方式相关的城市化梯度变化：德国与马达加斯加的比较分析",
+      "findings": "该研究比较了德国和马达加斯加人群的肠道微生物组，发现城市化程度与肠道真核生物和细菌群落的组成显著相关。具体数据未在摘要中提供，但表明生活方式相关的城市化梯度对肠道微生物多样性有影响。",
+      "relevance": "直接关联：探讨城市化与生活方式对肠道菌群的影响，属于营养流行病学和预防医学范畴。",
+      "relevance_score": 8,
       "pmid": "42464572",
       "url": "https://doi.org/10.1080/19490976.2026.2701492",
       "source": "PubMed → Gut Microbes",
@@ -2125,11 +1732,11 @@
       "epubdate": "2026 Jul 16"
     },
     {
-      "index": 1,
+      "index": 2,
       "title_cn": "从信号到系统：表观遗传-微生物组-线粒体轴在IBD发病机制中的作用",
-      "findings": "该研究探讨了表观遗传、微生物组和线粒体之间的相互作用在炎症性肠病（IBD）发病机制中的角色，可能揭示了新的治疗靶点。",
-      "relevance": "涉及肠道菌群与慢性病（IBD）的关联，但未直接涉及营养或膳食干预，相关性中等。",
-      "relevance_score": 6,
+      "findings": "该论文综述了表观遗传、微生物组和线粒体之间的相互作用在炎症性肠病（IBD）发病机制中的关键作用，提出三者构成一个整合的调控网络。",
+      "relevance": "直接关联：涉及肠道菌群与慢性病（IBD）的机制研究，与预防医学和营养学相关。",
+      "relevance_score": 7,
       "pmid": "42464117",
       "url": "https://doi.org/10.1080/19490976.2026.2692755",
       "source": "PubMed → Gut Microbes",
@@ -2171,11 +1778,11 @@
       "epubdate": "2026 Jul 16"
     },
     {
-      "index": 2,
-      "title_cn": "微生物亚群落的纵向建模揭示妊娠期和产后依赖胎次的变化动态",
-      "findings": "通过纵向建模分析了妊娠期和产后微生物亚群落的动态变化，发现胎次（parity）影响微生物组成，可能对母婴健康有影响。",
-      "relevance": "涉及肠道菌群动态，但与营养或疾病预防的直接关联较弱，相关性一般。",
-      "relevance_score": 5,
+      "index": 3,
+      "title_cn": "微生物亚群落的纵向建模揭示妊娠期和产后依赖胎次数的动态变化",
+      "findings": "该研究通过纵向建模分析了妊娠期和产后肠道微生物亚群落的动态变化，发现这些变化与胎次（生育次数）相关，提示微生物群落动态受生殖历史影响。",
+      "relevance": "直接关联：涉及肠道菌群与妊娠相关的健康问题，与营养和预防医学相关。",
+      "relevance_score": 7,
       "pmid": "42458733",
       "url": "https://doi.org/10.1080/19490976.2026.2690907",
       "source": "PubMed → Gut Microbes",
@@ -2220,10 +1827,10 @@
       "epubdate": "2026 Jul 15"
     },
     {
-      "index": 3,
-      "title_cn": "多组学建模对饮食减重干预的体重指数反应",
-      "findings": "利用多组学方法建模了饮食减重干预对体重指数（BMI）的反应，可能识别出预测个体化减重效果的生物标志物。",
-      "relevance": "直接研究饮食干预与代谢（BMI）的关系，属于营养流行病学范畴，相关性高。",
+      "index": 4,
+      "title_cn": "饮食减重干预中体重指数反应的多组学建模",
+      "findings": "该研究利用多组学数据建模预测饮食减重干预中BMI的反应，可能识别出与个体差异相关的微生物和代谢标志物。",
+      "relevance": "直接关联：核心研究饮食干预对体重和代谢的影响，属于营养流行病学和精准营养。",
       "relevance_score": 9,
       "pmid": "42458730",
       "url": "https://doi.org/10.1080/19490976.2026.2696645",
@@ -2313,10 +1920,10 @@
       "epubdate": "2026 Jul 15"
     },
     {
-      "index": 4,
-      "title_cn": "通过细菌源性丁酸盐的饮食干预引发抗肿瘤活性并增加抗PD-1反应",
-      "findings": "饮食干预通过细菌产生的丁酸盐增强了抗肿瘤免疫反应，并提高了抗PD-1治疗的效果，提示丁酸盐作为潜在辅助治疗。",
-      "relevance": "涉及饮食、菌群代谢物（丁酸盐）与疾病（肿瘤）预防/治疗，相关性高。",
+      "index": 5,
+      "title_cn": "通过细菌来源的丁酸盐进行饮食干预可引发抗肿瘤活性并增加抗PD-1反应",
+      "findings": "该研究表明，通过饮食干预增加细菌产生的丁酸盐可以增强抗肿瘤免疫反应，并提高抗PD-1治疗的效果。",
+      "relevance": "直接关联：涉及饮食、肠道菌群代谢物（丁酸盐）与疾病（癌症）预防和治疗，高度相关。",
       "relevance_score": 9,
       "pmid": "42454784",
       "url": "https://doi.org/10.1080/19490976.2026.2699457",
@@ -2414,11 +2021,11 @@
       "epubdate": "2026 Jul 15"
     },
     {
-      "index": 5,
+      "index": 6,
       "title_cn": "植物乳杆菌（WJL）通过低蛋白饮食抑制成纤维细胞生长因子21适应性应激反应改善慢性肾病",
-      "findings": "植物乳杆菌WJL联合低蛋白饮食通过抑制FGF21应激反应改善了慢性肾病，可能提供新的干预策略。",
-      "relevance": "涉及益生菌、饮食干预与慢性病（肾病）管理，相关性高。",
-      "relevance_score": 8,
+      "findings": "该研究发现植物乳杆菌WJL联合低蛋白饮食可改善慢性肾病，机制涉及抑制FGF21的适应性应激反应。",
+      "relevance": "直接关联：涉及益生菌、饮食干预与慢性病（肾病）管理，与营养和预防医学高度相关。",
+      "relevance_score": 9,
       "pmid": "42438056",
       "url": "https://doi.org/10.1080/19490976.2026.2696622",
       "source": "PubMed → Gut Microbes",
@@ -2556,11 +2163,11 @@
       "epubdate": "2026 Jul 12"
     },
     {
-      "index": 6,
-      "title_cn": "使用FlaPro对人类肠道鞭毛组进行谱分析揭示IBD中TLR5相关的表型特异性改变",
-      "findings": "开发了FlaPro工具分析人类肠道鞭毛蛋白，发现IBD患者中TLR5相关的表型特异性改变，可能作为疾病标志物。",
-      "relevance": "涉及肠道菌群与IBD，但未涉及营养或膳食，相关性中等。",
-      "relevance_score": 5,
+      "index": 7,
+      "title_cn": "使用FlaPro对人类肠道鞭毛组进行谱分析揭示IBD中TLR5相关的表型特异性变化",
+      "findings": "该研究开发了FlaPro工具分析人类肠道菌群鞭毛蛋白，发现IBD患者中TLR5相关鞭毛蛋白组成有特异性改变。",
+      "relevance": "直接关联：涉及肠道菌群与IBD的机制研究，但主要聚焦于免疫受体，与营养干预关联较弱。",
+      "relevance_score": 6,
       "pmid": "42424228",
       "url": "https://doi.org/10.1080/19490976.2026.2698917",
       "source": "PubMed → Gut Microbes",
@@ -2597,10 +2204,10 @@
       "epubdate": "2026 Jul 9"
     },
     {
-      "index": 7,
-      "title_cn": "更正：瑞士乳杆菌的适应性实验室进化增强酸耐受性用于食品级非转基因应用",
-      "findings": "这是一篇更正，内容涉及乳酸菌的适应性进化以提高酸耐受性，用于食品工业，但无具体研究结果。",
-      "relevance": "涉及食品微生物，但与营养或疾病预防无直接关联，相关性低。",
+      "index": 8,
+      "title_cn": "勘误：瑞士乳杆菌的适应性实验室进化增强酸耐受性用于食品级非转基因应用",
+      "findings": "这是对先前发表的关于瑞士乳杆菌酸耐受性进化研究的勘误，未提供新的研究发现。",
+      "relevance": "不直接相关：涉及食品微生物学，与营养流行病学或疾病预防关联不大。",
       "relevance_score": 2,
       "pmid": "42562549",
       "url": "https://doi.org/10.1016/j.foodres.2026.120111",
@@ -2649,11 +2256,11 @@
       "epubdate": "2026 Jul 28"
     },
     {
-      "index": 8,
-      "title_cn": "更正：食用昆虫：不同物种的化学成分、蛋白质消化率、生物活性化合物、功能及热性质",
-      "findings": "这是一篇更正，内容涉及食用昆虫的营养成分和功能性质，但无具体研究结果。",
-      "relevance": "涉及食品成分，但与疾病预防或菌群关联不直接，相关性低。",
-      "relevance_score": 2,
+      "index": 1,
+      "title_cn": "勘误：食用昆虫的化学成分、蛋白质消化率、生物活性化合物、功能及热性质",
+      "findings": "本文为勘误，更正了原论文中的错误，未提供新的研究数据。",
+      "relevance": "不直接相关",
+      "relevance_score": 1,
       "pmid": "42562548",
       "url": "https://doi.org/10.1016/j.foodres.2026.119947",
       "source": "PubMed → Food Res Int",
@@ -2721,9 +2328,9 @@
       "epubdate": "2026 Jul 23"
     },
     {
-      "index": 1,
+      "index": 2,
       "title_cn": "勘误：甜茶中生物活性化合物的时间动态：收获阶段与风味和健康益处的关联",
-      "findings": "该文为勘误，无具体研究发现。",
+      "findings": "本文为勘误，更正了原论文中的错误，未提供新的研究数据。",
       "relevance": "不直接相关",
       "relevance_score": 1,
       "pmid": "42562547",
@@ -2789,11 +2396,11 @@
       "epubdate": "2026 Jul 4"
     },
     {
-      "index": 2,
+      "index": 3,
       "title_cn": "多功能EC-SERS平台用于食品安全：灵敏选择性农药检测策略综述",
-      "findings": "综述了EC-SERS平台在农药检测中的策略，强调灵敏度和选择性。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "findings": "综述了基于电化学表面增强拉曼散射（EC-SERS）的农药检测平台，强调其高灵敏度和选择性，用于食品安全监测。",
+      "relevance": "涉及食品安全检测，与营养流行病学中的食品污染物暴露评估间接相关。",
+      "relevance_score": 3,
       "pmid": "42562539",
       "url": "https://doi.org/10.1016/j.foodres.2026.119778",
       "source": "PubMed → Food Res Int",
@@ -2842,11 +2449,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 3,
-      "title_cn": "选定的食品加工副产物作为天然抗氧化剂来源：成分、生物利用度、食品应用和法规转化",
-      "findings": "综述了食品副产物中天然抗氧化剂的成分、生物利用度及应用，强调其健康潜力。",
-      "relevance": "涉及食品副产物中的抗氧化剂，与营养和慢性病预防间接相关。",
-      "relevance_score": 5,
+      "index": 4,
+      "title_cn": "食品加工副产物作为天然抗氧化剂来源：成分、生物利用度、食品应用及法规转化",
+      "findings": "探讨了食品加工副产物中天然抗氧化剂的组成、生物利用度及其在食品中的应用，并讨论了法规转化问题。",
+      "relevance": "涉及食品成分与健康，与营养学中抗氧化剂摄入和慢性病预防相关。",
+      "relevance_score": 6,
       "pmid": "42562537",
       "url": "https://doi.org/10.1016/j.foodres.2026.119775",
       "source": "PubMed → Food Res Int",
@@ -2915,11 +2522,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 4,
+      "index": 5,
       "title_cn": "恩施玉露茶工业化加工：蒸汽杀青是风味形成的关键步骤",
-      "findings": "研究发现蒸汽杀青对恩施玉露茶风味形成至关重要，影响其品质。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "findings": "研究了蒸汽杀青对恩施玉露茶风味形成的影响，确定了关键工艺参数。",
+      "relevance": "涉及食品加工对风味的影响，与营养学中食品加工与健康关联间接相关。",
+      "relevance_score": 2,
       "pmid": "42562536",
       "url": "https://doi.org/10.1016/j.foodres.2026.119772",
       "source": "PubMed → Food Res Int",
@@ -2991,11 +2598,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 5,
-      "title_cn": "猪肉品质的品种、区域和生产决定因素的系统荟萃分析",
-      "findings": "荟萃分析显示品种、区域和生产因素显著影响猪肉品质。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "index": 6,
+      "title_cn": "品种、地区和养殖方式对猪肉品质影响的系统Meta分析",
+      "findings": "通过Meta分析系统评估了品种、地区和养殖方式对猪肉品质的影响，发现这些因素显著影响肉质的多个指标。",
+      "relevance": "涉及食品品质与生产因素，与营养流行病学中膳食质量评估间接相关。",
+      "relevance_score": 3,
       "pmid": "42562530",
       "url": "https://doi.org/10.1016/j.foodres.2026.119761",
       "source": "PubMed → Food Res Int",
@@ -3065,11 +2672,11 @@
       "epubdate": "2026 Jun 14"
     },
     {
-      "index": 6,
-      "title_cn": "Macauba仁蛋白水解物调节鸡胚肠道发育、抗氧化反应和肝脏代谢基因表达",
-      "findings": "Macauba仁蛋白水解物在鸡胚模型中调节肠道发育、抗氧化反应和肝脏代谢基因表达，提示其潜在健康益处。",
-      "relevance": "涉及食物蛋白水解物对肠道和代谢的影响，与营养和慢性病预防相关。",
-      "relevance_score": 6,
+      "index": 7,
+      "title_cn": "Macauba果仁蛋白水解物调节鸡胚肠道发育、抗氧化反应和肝脏代谢基因表达",
+      "findings": "在鸡胚模型中，Macauba蛋白水解物促进了肠道发育，增强了抗氧化反应，并调节了肝脏代谢基因表达。",
+      "relevance": "涉及食物成分对肠道和代谢的影响，与营养学和肠道菌群研究相关。",
+      "relevance_score": 7,
       "pmid": "42562528",
       "url": "https://doi.org/10.1016/j.foodres.2026.119758",
       "source": "PubMed → Food Res Int",
@@ -3121,10 +2728,10 @@
       "epubdate": "2026 Jun 13"
     },
     {
-      "index": 7,
-      "title_cn": "新型益生菌发酵乳通过微生物-代谢物-免疫轴增强消化功能并减轻葡聚糖硫酸钠诱导的结肠炎",
-      "findings": "发酵乳通过调节肠道菌群和代谢物增强消化功能，减轻结肠炎，表明其预防肠道疾病的潜力。",
-      "relevance": "直接研究益生菌发酵乳对肠道健康的影响，与肠道菌群和慢性病预防高度相关。",
+      "index": 8,
+      "title_cn": "新型益生菌发酵乳通过微生物-代谢物-免疫轴增强消化功能并减轻DSS诱导的结肠炎",
+      "findings": "该发酵乳改善了消化功能，并通过调节肠道菌群和代谢物减轻了结肠炎症状，机制涉及免疫轴。",
+      "relevance": "直接研究益生菌发酵乳对肠道健康和疾病预防的作用，与肠道菌群和慢性病预防高度相关。",
       "relevance_score": 9,
       "pmid": "42562527",
       "url": "https://doi.org/10.1016/j.foodres.2026.119757",
@@ -3177,11 +2784,11 @@
       "epubdate": "2026 Jun 14"
     },
     {
-      "index": 8,
-      "title_cn": "ε-聚赖氨酸对产气荚膜梭菌孢子的阶段依赖性抑制机制：内膜损伤介导的代谢失衡",
-      "findings": "ε-聚赖氨酸通过损伤内膜导致代谢失衡，抑制产气荚膜梭菌孢子，揭示其抗菌机制。",
-      "relevance": "不直接相关",
-      "relevance_score": 1,
+      "index": 49,
+      "title_cn": "Stage-dependent inhibitory mechanism of ε-polylysine against Clostridium perfringens spores: inner membrane damage-mediated metabolic imbalance.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562524",
       "url": "https://doi.org/10.1016/j.foodres.2026.119753",
       "source": "PubMed → Food Res Int",
@@ -3233,11 +2840,11 @@
       "epubdate": "2026 Jun 13"
     },
     {
-      "index": 1,
-      "title_cn": "中国猪肉消费中沙门氏菌暴露风险分析：结合Meta分析和定量微生物风险评估模型",
-      "findings": "该研究通过Meta分析和定量微生物风险评估模型，评估了中国猪肉消费中沙门氏菌的暴露风险，发现猪肉消费是沙门氏菌感染的重要来源，风险水平受消费习惯和加工方式影响。",
-      "relevance": "与食品安全和食源性疾病预防相关，但非直接涉及营养或菌群对慢性病预防，属于间接相关。",
-      "relevance_score": 4,
+      "index": 50,
+      "title_cn": "Analysis of risk profiles for Salmonella exposure from pork consumption in China: A combined Meta-analysis and quantitative microbial risk assessment model.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562523",
       "url": "https://doi.org/10.1016/j.foodres.2026.119751",
       "source": "PubMed → Food Res Int",
@@ -3294,11 +2901,11 @@
       "epubdate": "2026 Jun 13"
     },
     {
-      "index": 2,
-      "title_cn": "生长阶段与叶际微生物群对发酵苜蓿品质和细菌群落的影响",
-      "findings": "研究发现生长阶段和叶际微生物群对发酵苜蓿的品质和细菌群落有显著影响，不同生长阶段和微生物组成导致发酵品质差异。",
-      "relevance": "涉及微生物群与食品发酵，但主要针对饲料，与人类营养和疾病预防不直接相关。",
-      "relevance_score": 2,
+      "index": 51,
+      "title_cn": "Growth stage vs. phyllosphere microbiota: dissecting their contributions to fermentation quality and bacterial community of fermented alfalfa.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562520",
       "url": "https://doi.org/10.1016/j.foodres.2026.119748",
       "source": "PubMed → Food Res Int",
@@ -3354,11 +2961,11 @@
       "epubdate": "2026 Jun 14"
     },
     {
-      "index": 3,
-      "title_cn": "试验参与影响依从性时试验结果向外部目标人群的转化：勘误",
-      "findings": "该文为勘误，更正了关于试验结果向外部人群推广时考虑依从性影响的统计方法。",
-      "relevance": "涉及流行病学方法，与营养或菌群无直接关联，但可能对预防医学研究设计有间接帮助。",
-      "relevance_score": 3,
+      "index": 52,
+      "title_cn": "Transporting Results from a Trial to an External Target Population When Trial Participation Impacts Adherence: Erratum.",
+      "findings": "Journal: Epidemiology",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42525478",
       "url": "https://doi.org/10.1097/EDE.0000000000001971",
       "source": "PubMed → Epidemiology",
@@ -3399,11 +3006,11 @@
       "epubdate": "2026 Jul 28"
     },
     {
-      "index": 4,
-      "title_cn": "嵌套队列中结果的泛化",
-      "findings": "该文讨论了在嵌套队列研究中如何将结果推广到更广泛人群的方法学问题，提出了统计方法改进。",
-      "relevance": "涉及流行病学方法，与营养或菌群无直接关联，但可能对预防医学研究设计有间接帮助。",
-      "relevance_score": 3,
+      "index": 53,
+      "title_cn": "Generalizing Findings in Nested Cohorts.",
+      "findings": "Journal: Epidemiology",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42525474",
       "url": "https://doi.org/10.1097/EDE.0000000000002012",
       "source": "PubMed → Epidemiology",
@@ -3440,10 +3047,10 @@
       "epubdate": "2026 May 25"
     },
     {
-      "index": 5,
-      "title_cn": "全球1型糖尿病诊断时糖尿病酮症酸中毒的患病率：系统综述和Meta分析",
-      "findings": "该Meta分析汇总了全球数据，发现1型糖尿病诊断时糖尿病酮症酸中毒的患病率较高，且在不同地区存在差异。",
-      "relevance": "与慢性病预防相关，但主要关注糖尿病并发症，未直接涉及营养或菌群，属于间接相关。",
+      "index": 54,
+      "title_cn": "Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.",
+      "findings": "Journal: Prev Med",
+      "relevance": "",
       "relevance_score": 5,
       "pmid": "42303108",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108625",
@@ -3498,11 +3105,11 @@
       "epubdate": "2026 Jun 16"
     },
     {
-      "index": 6,
-      "title_cn": "21世纪公共卫生教育模型：FDA的“真实成本”青少年烟草预防运动",
-      "findings": "该文介绍了FDA的青少年烟草预防运动，评估了其教育效果，强调公共卫生教育在预防烟草使用中的作用。",
-      "relevance": "与预防医学相关，但主要涉及烟草控制，与营养或菌群无直接关联。",
-      "relevance_score": 3,
+      "index": 55,
+      "title_cn": "A Model for 21st Century Public Health Education: FDA's \"The Real Cost\" Youth Tobacco Prevention Campaigns.",
+      "findings": "Journal: Am J Prev Med",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42342323",
       "url": "https://doi.org/10.1016/j.amepre.2026.108423",
       "source": "PubMed → Am J Prev Med",
@@ -3531,11 +3138,11 @@
       "epubdate": "2026 Jun 24"
     },
     {
-      "index": 7,
-      "title_cn": "豆类的营养和功能特性：加工方法及其影响综述",
-      "findings": "该综述总结了不同加工方法对豆类营养成分和功能特性的影响，指出加工可改善豆类的消化率和生物活性成分。",
-      "relevance": "直接涉及豆类营养和加工，与营养流行病学和慢性病预防相关，但未涉及菌群。",
-      "relevance_score": 7,
+      "index": 56,
+      "title_cn": "Nutritional and Functional Attributes of Legumes: A Review of Processing Methods and Their Impacts.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42494153",
       "url": "https://doi.org/10.1111/1750-3841.71318",
       "source": "PubMed → J Food Sci",
@@ -3568,11 +3175,11 @@
       "elocationid": "doi: 10.1111/1750-3841.71318"
     },
     {
-      "index": 8,
-      "title_cn": "饮食与可持续性：近期发现和未来方向",
-      "findings": "该文回顾了饮食与可持续性的关系，讨论了可持续饮食模式对健康和环境影响，提出未来研究方向。",
-      "relevance": "直接涉及饮食模式与健康，与营养流行病学和慢性病预防高度相关。",
-      "relevance_score": 8,
+      "index": 1,
+      "title_cn": "饮食与可持续性：近期发现与未来方向",
+      "findings": "该综述总结了饮食与可持续性关系的最新研究，强调饮食模式对环境的影响及可持续饮食的潜在健康益处。",
+      "relevance": "直接涉及营养与慢性病预防，但主要聚焦可持续性，与预防医学和营养流行病学相关。",
+      "relevance_score": 7,
       "pmid": "42547100",
       "url": "https://doi.org/10.1016/j.ajcnut.2026.101394",
       "source": "PubMed → Am J Clin Nutr",
@@ -3597,9 +3204,9 @@
       "epubdate": "2026 Jun 25"
     },
     {
-      "index": 1,
+      "index": 2,
       "title_cn": "可穿戴加速度计方法在体力活动与心血管疾病关联中的可比性研究：基于英国生物样本库的队列研究",
-      "findings": "该研究比较了不同可穿戴加速度计数据处理方法在评估体力活动与心血管疾病风险关联中的一致性，发现不同方法可能影响关联估计的稳健性。具体数据未在摘要中提供。",
+      "findings": "该研究比较了不同加速度计数据处理方法在评估体力活动与心血管疾病风险关联中的一致性，发现方法选择可能影响关联强度。",
       "relevance": "涉及体力活动与慢性病预防，但非营养或菌群核心，间接相关。",
       "relevance_score": 4,
       "pmid": "42142761",
@@ -3645,10 +3252,10 @@
       "epubdate": "2026 May 15"
     },
     {
-      "index": 2,
+      "index": 3,
       "title_cn": "枪支伤害预防中的可信信使与信息：系统综述",
-      "findings": "系统综述评估了在枪支伤害预防中可信信使和信息的有效性，但未提供具体数据。",
-      "relevance": "不直接相关。",
+      "findings": "系统综述评估了可信信使在枪支伤害预防中的有效性，发现可信信使能提高信息接受度，但效果因情境而异。",
+      "relevance": "不直接相关，属于公共卫生伤害预防领域。",
       "relevance_score": 1,
       "pmid": "42140563",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108601",
@@ -3690,11 +3297,11 @@
       "epubdate": "2026 May 14"
     },
     {
-      "index": 3,
+      "index": 4,
       "title_cn": "印度各邦和联邦属地母乳喂养指标趋势（1993-2021）：评估2030年全球营养目标进展",
-      "findings": "该研究分析了印度母乳喂养指标的变化趋势，并评估了与2030年全球营养目标的差距，但具体数据未在摘要中提供。",
-      "relevance": "涉及营养流行病学和母婴健康，与预防医学相关。",
-      "relevance_score": 7,
+      "findings": "该研究分析了印度母乳喂养指标的变化趋势，发现整体改善但各邦差异显著，距离2030年目标仍有差距。",
+      "relevance": "直接涉及营养与儿童健康，与预防医学和营养流行病学相关。",
+      "relevance_score": 8,
       "pmid": "42134478",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108600",
       "source": "PubMed → Prev Med",
@@ -3734,10 +3341,10 @@
       "epubdate": "2026 May 13"
     },
     {
-      "index": 4,
+      "index": 5,
       "title_cn": "亚马逊水果类胡萝卜素作为活性与智能食品包装中的功能性色素：材料、稳定性与技术性能",
-      "findings": "该研究探讨了亚马逊水果中类胡萝卜素在食品包装中的应用，包括其稳定性与技术性能，但未提供具体数据。",
-      "relevance": "涉及食品科学和营养功能成分，但非疾病预防或菌群核心，间接相关。",
+      "findings": "该研究探讨了亚马逊水果类胡萝卜素在食品包装中的应用，评估了其作为功能性色素的稳定性和技术性能。",
+      "relevance": "涉及食品科学，但非营养流行病学或菌群，间接相关。",
       "relevance_score": 3,
       "pmid": "42548247",
       "url": "https://doi.org/10.1111/1750-3841.71335",
@@ -3787,11 +3394,11 @@
       "elocationid": "doi: 10.1111/1750-3841.71335"
     },
     {
-      "index": 5,
+      "index": 6,
       "title_cn": "中国中低收入家庭食物不安全与食物过敏的关联：三省横断面调查",
-      "findings": "该横断面调查在中国三个省份进行，发现食物不安全与食物过敏之间存在关联，但具体数据未在摘要中提供。",
-      "relevance": "涉及食物安全与过敏，与营养流行病学相关。",
-      "relevance_score": 6,
+      "findings": "该横断面调查发现食物不安全与食物过敏风险增加相关，尤其在低收入家庭中。",
+      "relevance": "直接涉及营养与健康，与预防医学和营养流行病学相关。",
+      "relevance_score": 8,
       "pmid": "42528295",
       "url": "https://doi.org/10.1111/1750-3841.71299",
       "source": "PubMed → J Food Sci",
@@ -3835,11 +3442,11 @@
       "elocationid": "doi: 10.1111/1750-3841.71299"
     },
     {
-      "index": 6,
-      "title_cn": "人类发展指数与营养状况的映射：识别印度尼西亚营养不良的相关因素",
-      "findings": "该研究分析了印度尼西亚营养不良的相关因素，包括人类发展指数等，但具体数据未在摘要中提供。",
-      "relevance": "涉及营养流行病学和公共卫生，与预防医学相关。",
-      "relevance_score": 7,
+      "index": 7,
+      "title_cn": "绘制人类发展指数与营养状况：识别印度尼西亚营养不良相关因素",
+      "findings": "该研究分析了人类发展指数与营养不良的关系，发现HDI较低地区营养不良率更高，且与多种社会经济因素相关。",
+      "relevance": "直接涉及营养与公共卫生，与预防医学和营养流行病学相关。",
+      "relevance_score": 8,
       "pmid": "",
       "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
       "source": "medRxiv",
@@ -3847,11 +3454,11 @@
       "date": null
     },
     {
-      "index": 7,
+      "index": 8,
       "title_cn": "具核梭杆菌黏附素在结直肠癌中的作用——结构视角",
-      "findings": "该研究从结构角度探讨了具核梭杆菌黏附素在结直肠癌中的作用，但具体数据未在摘要中提供。",
-      "relevance": "涉及肠道菌群与癌症，与菌群和慢性病预防高度相关。",
-      "relevance_score": 8,
+      "findings": "该研究从结构生物学角度探讨了具核梭杆菌黏附素在结直肠癌发生中的作用，揭示了黏附素与宿主细胞相互作用的分子机制。",
+      "relevance": "直接涉及肠道菌群与癌症预防，与肠道菌群和慢性病预防高度相关。",
+      "relevance_score": 9,
       "pmid": "42525450",
       "url": "https://doi.org/10.1080/19490976.2026.2709265",
       "source": "PubMed → Gut Microbes",
@@ -3885,11 +3492,11 @@
       "epubdate": "2026 Jul 29"
     },
     {
-      "index": 8,
-      "title_cn": "宿主与幽门螺杆菌HtrA蛋白酶变体汇聚于Wnt/β-catenin信号通路驱动胃腺癌",
-      "findings": "该研究发现宿主和幽门螺杆菌的HtrA蛋白酶变体通过Wnt/β-catenin信号通路促进胃腺癌发生，但具体数据未在摘要中提供。",
-      "relevance": "涉及菌群与胃癌，与菌群和慢性病预防高度相关。",
-      "relevance_score": 8,
+      "index": 1,
+      "title_cn": "宿主和幽门螺杆菌HtrA蛋白酶变体汇聚于Wnt/β-catenin信号通路驱动胃腺癌",
+      "findings": "该研究揭示了宿主和幽门螺杆菌的HtrA蛋白酶变体通过激活Wnt/β-catenin信号通路促进胃腺癌的发生。具体机制可能涉及蛋白酶对信号通路的调控，但摘要未提供具体数据。",
+      "relevance": "不直接相关，主要涉及胃癌机制，与营养或菌群预防慢性病关联较弱。",
+      "relevance_score": 2,
       "pmid": "42493827",
       "url": "https://doi.org/10.1080/19490976.2026.2704244",
       "source": "PubMed → Gut Microbes",
@@ -3946,10 +3553,10 @@
       "epubdate": "2026 Jul 23"
     },
     {
-      "index": 1,
-      "title_cn": "肽LKLKLL是Akkermansia muciniphila中通过GLP-1/GIP双重调节糖脂代谢的更有效成分",
-      "findings": "该研究鉴定出Akkermansia muciniphila中的肽LKLKLL是调节糖脂代谢的关键成分，通过GLP-1/GIP双重调节发挥作用。具体数据未提供，但表明该肽比完整菌株更有效。",
-      "relevance": "直接研究肠道菌群成分对代谢的调节，与营养流行病学和慢性病预防高度相关。",
+      "index": 2,
+      "title_cn": "肽LKLKLL是Akkermansia muciniphila中更有效的成分，通过GLP-1/GIP双重调节调控糖脂代谢",
+      "findings": "该研究发现Akkermansia muciniphila中的肽LKLKLL通过GLP-1/GIP双重调节改善糖脂代谢，可能对代谢性疾病有预防作用。具体数据未在摘要中提供。",
+      "relevance": "直接相关，涉及肠道菌群代谢产物对糖脂代谢的调节，与营养流行病学和慢性病预防高度相关。",
       "relevance_score": 9,
       "pmid": "42473065",
       "url": "https://doi.org/10.1080/19490976.2026.2687937",
@@ -4023,11 +3630,11 @@
       "epubdate": "2026 Jul 19"
     },
     {
-      "index": 2,
-      "title_cn": "过去四十年欧洲原发性幽门螺杆菌抗生素耐药率",
-      "findings": "该研究总结了欧洲过去四十年幽门螺杆菌抗生素耐药率的流行情况，但未提供具体数据。",
-      "relevance": "涉及肠道病原菌耐药性，与营养和慢性病预防关联较弱。",
-      "relevance_score": 2,
+      "index": 3,
+      "title_cn": "过去四十年欧洲原发性幽门螺杆菌抗生素耐药性的流行情况",
+      "findings": "该研究总结了欧洲过去四十年幽门螺杆菌抗生素耐药性的流行趋势，但摘要未提供具体数据。",
+      "relevance": "不直接相关，主要关注抗生素耐药性，与营养和菌群预防慢性病关联较弱。",
+      "relevance_score": 1,
       "pmid": "42471021",
       "url": "https://doi.org/10.1080/19490976.2026.2704245",
       "source": "PubMed → Gut Microbes",
@@ -4077,10 +3684,10 @@
       "epubdate": "2026 Jul 18"
     },
     {
-      "index": 3,
-      "title_cn": "约氏乳杆菌介导雷公藤红素对溃疡性结肠炎及伴随肝损伤的保护作用：通过LXRα-SCD1轴重塑肝脏脂质代谢",
-      "findings": "研究发现约氏乳杆菌介导雷公藤红素的保护作用，通过LXRα-SCD1轴重塑肝脏脂质代谢，改善溃疡性结肠炎和肝损伤。具体数据未提供。",
-      "relevance": "直接研究肠道菌群与肝脏脂质代谢及疾病保护，与营养和慢性病预防相关。",
+      "index": 4,
+      "title_cn": "约氏乳杆菌介导雷公藤红素对溃疡性结肠炎及伴随肝损伤的保护作用，通过LXRα-SCD1轴重塑肝脏脂质代谢",
+      "findings": "该研究发现约氏乳杆菌介导雷公藤红素通过LXRα-SCD1轴重塑肝脏脂质代谢，从而保护溃疡性结肠炎和肝损伤。具体数据未提供。",
+      "relevance": "直接相关，涉及肠道菌群、肝脏脂质代谢和炎症性肠病，与营养和菌群预防慢性病相关。",
       "relevance_score": 8,
       "pmid": "42470108",
       "url": "https://doi.org/10.1080/19490976.2026.2701349",
@@ -4134,11 +3741,11 @@
       "epubdate": "2026 Jul 17"
     },
     {
-      "index": 4,
+      "index": 5,
       "title_cn": "肠道定植的克罗诺杆菌可不穿越宿主屏障而破坏中枢神经系统",
-      "findings": "该研究表明肠道定植的克罗诺杆菌无需穿越宿主屏障即可影响中枢神经系统，具体机制未详述。",
-      "relevance": "涉及肠道菌群与神经系统相互作用，但与营养和慢性病预防关联较弱。",
-      "relevance_score": 3,
+      "findings": "该研究发现肠道定植的克罗诺杆菌无需穿越宿主屏障即可影响中枢神经系统，但具体机制和数据未在摘要中提供。",
+      "relevance": "不直接相关，主要涉及病原菌对神经系统的影响，与营养和菌群预防慢性病关联较弱。",
+      "relevance_score": 2,
       "pmid": "42464430",
       "url": "https://doi.org/10.1080/19490976.2026.2694805",
       "source": "PubMed → Gut Microbes",
@@ -4211,10 +3818,10 @@
       "epubdate": "2026 Jul 16"
     },
     {
-      "index": 5,
+      "index": 6,
       "title_cn": "具核梭杆菌来源的琥珀酸通过SUCNR1/NF-κB轴触发巨噬细胞促炎表型转化加重结肠炎",
-      "findings": "具核梭杆菌产生的琥珀酸通过SUCNR1/NF-κB轴诱导巨噬细胞促炎转化，加重结肠炎。具体数据未提供。",
-      "relevance": "直接研究肠道菌群代谢物与炎症性肠病，与慢性病预防相关。",
+      "findings": "该研究发现具核梭杆菌产生的琥珀酸通过SUCNR1/NF-κB轴促进巨噬细胞促炎转化，加重结肠炎。具体数据未提供。",
+      "relevance": "直接相关，涉及肠道菌群代谢物与炎症性肠病，与菌群和慢性病预防相关。",
       "relevance_score": 7,
       "pmid": "42454788",
       "url": "https://doi.org/10.1080/19490976.2026.2702183",
@@ -4312,10 +3919,10 @@
       "epubdate": "2026 Jul 15"
     },
     {
-      "index": 6,
-      "title_cn": "甘氨脱氧胆酸和脱氧胆酸损害成年小鼠的识别和空间记忆，并降低中枢CREB-BDNF信号和细胞因子表达，具有神经解剖特异性",
-      "findings": "胆汁酸甘氨脱氧胆酸和脱氧胆酸损害小鼠记忆，降低中枢CREB-BDNF信号和细胞因子表达，且具有神经解剖特异性。",
-      "relevance": "涉及肠道菌群代谢物（胆汁酸）对认知功能的影响，与营养和慢性病预防间接相关。",
+      "index": 7,
+      "title_cn": "甘氨脱氧胆酸和脱氧胆酸损害成年小鼠的识别和空间记忆，并降低中枢CREB-BDNF信号和细胞因子表达，具有神经解剖学特异性",
+      "findings": "该研究发现甘氨脱氧胆酸和脱氧胆酸损害小鼠认知功能，并影响中枢信号通路，具体数据未提供。",
+      "relevance": "间接相关，涉及胆汁酸与认知功能，与肠道菌群和代谢相关，但非直接营养干预。",
       "relevance_score": 5,
       "pmid": "42435326",
       "url": "https://doi.org/10.1080/19490976.2026.2701471",
@@ -4357,11 +3964,11 @@
       "epubdate": "2026 Jul 11"
     },
     {
-      "index": 7,
+      "index": 8,
       "title_cn": "长双歧杆菌代谢低聚木糖的遗传和酶学基础",
-      "findings": "该研究揭示了长双歧杆菌代谢低聚木糖的遗传和酶学机制，具体数据未提供。",
-      "relevance": "直接研究益生菌对膳食纤维的代谢，与营养和肠道菌群相关。",
-      "relevance_score": 7,
+      "findings": "该研究揭示了长双歧杆菌代谢低聚木糖的遗传和酶学机制，但具体数据未在摘要中提供。",
+      "relevance": "直接相关，涉及益生菌对膳食纤维的代谢，与营养和菌群相关。",
+      "relevance_score": 8,
       "pmid": "42430553",
       "url": "https://doi.org/10.1080/19490976.2026.2701440",
       "source": "PubMed → Gut Microbes",
@@ -4414,11 +4021,11 @@
       "epubdate": "2026 Jul 10"
     },
     {
-      "index": 8,
-      "title_cn": "脉冲喷动微波真空干燥过程中姜黄品质形成的揭示：基于收缩-塌陷模型的见解",
-      "findings": "该研究通过收缩-塌陷模型揭示了脉冲喷动微波真空干燥过程中姜黄品质形成机制，具体数据未提供。",
-      "relevance": "涉及食品加工技术，与营养流行病学和慢性病预防关联较弱。",
-      "relevance_score": 2,
+      "index": 73,
+      "title_cn": "Revealing quality formation in turmeric (Curcuma longa L.) during pulse-spouted microwave vacuum drying: Insights from a shrinkage-collapse model.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562546",
       "url": "https://doi.org/10.1016/j.foodres.2026.119788",
       "source": "PubMed → Food Res Int",
@@ -4450,11 +4057,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 1,
-      "title_cn": "LC-MS/MS优于ELISA和UPLC-PDA用于人乳中25(OH)D2和25(OH)D3的靶向定量：一种实用的分析策略",
-      "findings": "该研究比较了LC-MS/MS、ELISA和UPLC-PDA三种方法在定量人乳中维生素D代谢物25(OH)D2和25(OH)D3的性能，发现LC-MS/MS具有更高的灵敏度和特异性，能够准确区分两种代谢物，而ELISA和UPLC-PDA存在交叉反应或灵敏度不足。研究提出了一种实用的分析策略，推荐LC-MS/MS作为人乳维生素D定量的首选方法。",
-      "relevance": "直接相关，涉及营养学中维生素D的检测方法，对营养流行病学中维生素D暴露评估有重要意义。",
-      "relevance_score": 8,
+      "index": 74,
+      "title_cn": "LC-MS/MS outperforms ELISA and UPLC-PDA for targeted quantification of 25(OH)D(2) and 25(OH)D(3) in human milk: A practical analytical strategy.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562545",
       "url": "https://doi.org/10.1016/j.foodres.2026.119787",
       "source": "PubMed → Food Res Int",
@@ -4503,11 +4110,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 2,
-      "title_cn": "美拉德反应驱动的干鲍鱼蛋白质结构变化及特征性中间产物积累",
-      "findings": "该研究探讨了干鲍鱼在加工过程中美拉德反应对蛋白质结构的影响，发现反应导致蛋白质交联和降解，并积累特定中间产物，这些变化可能影响鲍鱼的营养价值和风味。",
-      "relevance": "不直接相关，主要关注食品加工中的化学变化，与预防医学和营养流行病学关联较弱。",
-      "relevance_score": 2,
+      "index": 75,
+      "title_cn": "Protein structural changes and characteristic intermediate accumulations in dried abalone driven by the Maillard reaction.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562544",
       "url": "https://doi.org/10.1016/j.foodres.2026.119786",
       "source": "PubMed → Food Res Int",
@@ -4559,11 +4166,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 3,
-      "title_cn": "罗非鱼来源寡肽LSGYG通过静电锁定样保留于MMP-2催化区域并抑制HIF-1α介导的EMT样级联反应来抑制肿瘤转移",
-      "findings": "该研究发现罗非鱼来源的寡肽LSGYG能够抑制肿瘤转移，其机制是通过与MMP-2的催化区域结合，阻断其活性，并抑制HIF-1α介导的上皮-间质转化（EMT）过程。这提示该肽可能作为抗肿瘤转移的候选功能成分。",
-      "relevance": "相关，涉及食物来源生物活性肽的抗肿瘤作用，与营养学中功能食品预防慢性病（癌症）相关。",
-      "relevance_score": 7,
+      "index": 76,
+      "title_cn": "Tilapia-derived oligopeptide LSGYG inhibits tumor metastasis via electrostatic-lock-like retention at the catalytic region of MMP-2 and suppression of the HIF-1α-mediated EMT-like cascade.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562543",
       "url": "https://doi.org/10.1016/j.foodres.2026.119784",
       "source": "PubMed → Food Res Int",
@@ -4599,11 +4206,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 4,
-      "title_cn": "通过合理设计的传感器阵列解码亲核反应性指纹来智能检测热加工污染物",
-      "findings": "该研究开发了一种智能传感系统，利用传感器阵列解码热加工食品中污染物的亲核反应性指纹，能够快速检测多种热加工污染物，如丙烯酰胺等，具有高灵敏度和选择性。",
-      "relevance": "不直接相关，主要涉及食品检测技术，与营养流行病学和慢性病预防关联不大。",
-      "relevance_score": 2,
+      "index": 77,
+      "title_cn": "An intelligent sensing system for thermal processing contaminants via decoding nucleophilic reactivity fingerprints with a rationally designed sensor array.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562542",
       "url": "https://doi.org/10.1016/j.foodres.2026.119783",
       "source": "PubMed → Food Res Int",
@@ -4651,11 +4258,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 5,
-      "title_cn": "啤酒废酵母的增值利用：鲜味肽的综合感官评价、分子对接和受体结合见解",
-      "findings": "该研究从啤酒废酵母中鉴定出具有鲜味特征的肽，通过感官评价和分子对接分析，揭示了这些肽与鲜味受体的结合机制，为食品工业中废酵母的增值利用提供了新途径。",
-      "relevance": "不直接相关，主要关注食品风味和资源利用，与预防医学和营养流行病学关联较弱。",
-      "relevance_score": 2,
+      "index": 78,
+      "title_cn": "Valorization of brewer's spent yeast: Comprehensive sensory evaluation, molecular docking, and receptor binding insights into umami peptides.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562541",
       "url": "https://doi.org/10.1016/j.foodres.2026.119782",
       "source": "PubMed → Food Res Int",
@@ -4687,11 +4294,11 @@
       "epubdate": "2026 Jun 16"
     },
     {
-      "index": 6,
-      "title_cn": "合成微生物群落中乳酸菌的生态机制和功能稳定性：竞争、交叉喂养和稳态维持",
-      "findings": "该研究探讨了合成微生物群落中乳酸菌与其他菌种的相互作用，包括竞争和交叉喂养，以及这些机制如何维持群落的功能稳定性。研究发现乳酸菌通过代谢产物交叉喂养促进群落稳态，对理解肠道菌群动态有参考价值。",
-      "relevance": "相关，涉及肠道菌群生态和功能，与肠道菌群和慢性病预防领域相关。",
-      "relevance_score": 7,
+      "index": 79,
+      "title_cn": "Ecological mechanisms and functional stability of lactic acid Bacteria in synthetic microbial communities: Competition, cross-feeding, and homeostasis maintenance.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562540",
       "url": "https://doi.org/10.1016/j.foodres.2026.119779",
       "source": "PubMed → Food Res Int",
@@ -4732,11 +4339,11 @@
       "epubdate": "2026 Jun 17"
     },
     {
-      "index": 7,
-      "title_cn": "亲水性植物甾醇糖基衍生物对体外动态胃肠消化过程中脂质消化和胆固醇沉淀的影响",
-      "findings": "该研究评估了亲水性植物甾醇糖基衍生物在体外动态胃肠消化模型中对脂质消化和胆固醇沉淀的影响，发现这些衍生物能减少脂质消化和增加胆固醇沉淀，可能有助于降低胆固醇吸收。",
-      "relevance": "直接相关，涉及植物甾醇衍生物对脂质代谢和胆固醇的影响，与营养学中预防心血管疾病相关。",
-      "relevance_score": 8,
+      "index": 80,
+      "title_cn": "Effect of hydrophilic phytosterol glycosyl derivatives on lipid digestion and cholesterol precipitation during in vitro dynamic gastrointestinal digestion.",
+      "findings": "Journal: Food Res Int",
+      "relevance": "",
+      "relevance_score": 5,
       "pmid": "42562538",
       "url": "https://doi.org/10.1016/j.foodres.2026.119777",
       "source": "PubMed → Food Res Int",
@@ -4772,11 +4379,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 8,
-      "title_cn": "羊睾丸蛋白水解物与植物多糖的缀合物：结构表征、分子间相互作用、抗氧化活性和稳定性",
-      "findings": "该研究制备了羊睾丸蛋白水解物与植物多糖的缀合物，并表征了其结构、分子间相互作用、抗氧化活性和稳定性，发现缀合物具有增强的抗氧化活性和更好的稳定性，可能作为功能性食品成分。",
-      "relevance": "相关，涉及食物蛋白水解物和多糖的抗氧化活性，与营养学中抗氧化和慢性病预防相关。",
-      "relevance_score": 6,
+      "index": 1,
+      "title_cn": "羊睾丸蛋白水解物与植物多糖的偶联物：结构表征、分子间相互作用、抗氧化活性及稳定性",
+      "findings": "研究了羊睾丸蛋白水解物与植物多糖的偶联物的结构特征和抗氧化活性，发现偶联物具有增强的抗氧化性和稳定性。",
+      "relevance": "涉及食品蛋白和多糖的抗氧化活性，与营养和慢性病预防间接相关。",
+      "relevance_score": 4,
       "pmid": "42562535",
       "url": "https://doi.org/10.1016/j.foodres.2026.119770",
       "source": "PubMed → Food Res Int",
@@ -4816,10 +4423,10 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 1,
+      "index": 2,
       "title_cn": "用于复杂海藻基质中无机砷稳健选择性检测的可部署冻干无细胞生物传感器",
-      "findings": "开发了一种冻干无细胞生物传感器，可稳健、选择性地检测复杂海藻基质中的无机砷。该传感器具有现场部署能力，为食品安全监测提供了新工具。",
-      "relevance": "涉及食品安全检测，与营养流行病学或慢性病预防不直接相关。",
+      "findings": "开发了一种冻干无细胞生物传感器，可现场检测海藻中的无机砷，具有高选择性和稳健性。",
+      "relevance": "食品安全检测，与营养流行病学间接相关。",
       "relevance_score": 3,
       "pmid": "42562533",
       "url": "https://doi.org/10.1016/j.foodres.2026.119766",
@@ -4860,11 +4467,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 2,
-      "title_cn": "PSE样鸡肉蛋白分离物/羧甲基壳聚糖颗粒用于姜黄素负载Pickering乳液：包封效率和胃肠道命运",
-      "findings": "研究了PSE样鸡肉蛋白分离物与羧甲基壳聚糖颗粒稳定Pickering乳液包封姜黄素的效果，评估了包封效率和胃肠道释放行为。",
-      "relevance": "涉及功能性食品成分和营养素递送，与营养学有一定关联，但非核心。",
-      "relevance_score": 5,
+      "index": 3,
+      "title_cn": "PSE样鸡肉蛋白分离物/羧甲基壳聚糖颗粒用于姜黄素负载Pickering乳液的封装效率和胃肠道命运",
+      "findings": "制备了负载姜黄素的Pickering乳液，发现其具有高封装效率和良好的胃肠道稳定性。",
+      "relevance": "涉及姜黄素递送和生物利用度，与营养和慢性病预防相关。",
+      "relevance_score": 6,
       "pmid": "42562532",
       "url": "https://doi.org/10.1016/j.foodres.2026.119764",
       "source": "PubMed → Food Res Int",
@@ -4920,10 +4527,10 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 3,
-      "title_cn": "下一代智能预制水产菜肴：工业4.0赋能的数字热控与质量评价研究进展",
-      "findings": "综述了工业4.0技术在预制水产菜肴数字热控和质量评价中的应用进展，旨在提升产品品质和安全性。",
-      "relevance": "涉及食品加工技术，与营养流行病学或慢性病预防不直接相关。",
+      "index": 4,
+      "title_cn": "下一代智能预制水产菜肴：工业4.0赋能的数字热控和质量评价研究进展",
+      "findings": "综述了工业4.0在水产预制菜加工中的应用，包括数字热控和质量评价技术。",
+      "relevance": "食品加工技术，与营养和健康间接相关。",
       "relevance_score": 2,
       "pmid": "42562531",
       "url": "https://doi.org/10.1016/j.foodres.2026.119762",
@@ -4961,11 +4568,11 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 4,
+      "index": 5,
       "title_cn": "不同热处理对酸沉淀水牛乳蛋白组分结构和功能特性的影响",
-      "findings": "研究了不同热处理对酸沉淀水牛乳蛋白组分结构和功能特性的影响，发现热处理改变蛋白构象和功能。",
-      "relevance": "涉及乳蛋白加工，与营养学有一定关联，但非核心。",
-      "relevance_score": 4,
+      "findings": "研究了不同热处理对水牛乳蛋白结构和功能的影响，发现热处理改变蛋白的溶解性和乳化性。",
+      "relevance": "乳蛋白加工，与营养和食品科学相关。",
+      "relevance_score": 5,
       "pmid": "42562529",
       "url": "https://doi.org/10.1016/j.foodres.2026.119760",
       "source": "PubMed → Food Res Int",
@@ -5021,11 +4628,11 @@
       "epubdate": "2026 Jun 14"
     },
     {
-      "index": 5,
-      "title_cn": "基于整合代谢组学和风味定量的揉捻温度对绿茶风味的影响",
-      "findings": "通过代谢组学和风味定量分析，揭示了揉捻温度对绿茶风味特征的影响，确定了关键代谢物和风味化合物。",
-      "relevance": "涉及食品风味和代谢物，与营养流行病学或慢性病预防不直接相关。",
-      "relevance_score": 2,
+      "index": 6,
+      "title_cn": "揉捻温度对绿茶风味的影响：整合代谢组学和风味定量分析",
+      "findings": "通过代谢组学和风味定量分析，发现揉捻温度显著影响绿茶的风味化合物和感官品质。",
+      "relevance": "茶风味研究，与营养和健康间接相关。",
+      "relevance_score": 3,
       "pmid": "42562526",
       "url": "https://doi.org/10.1016/j.foodres.2026.119756",
       "source": "PubMed → Food Res Int",
@@ -5085,11 +4692,11 @@
       "epubdate": "2026 Jun 13"
     },
     {
-      "index": 6,
-      "title_cn": "机器学习和分子对接模拟揭示区分武夷岩茶“老枞水仙”等级差异的特征滋味和代谢物",
-      "findings": "利用机器学习和分子对接模拟，鉴定了区分武夷岩茶等级的特征滋味化合物和代谢物，为茶叶品质评价提供新方法。",
-      "relevance": "涉及食品品质和代谢物，与营养流行病学或慢性病预防不直接相关。",
-      "relevance_score": 2,
+      "index": 7,
+      "title_cn": "机器学习和分子对接模拟揭示武夷岩茶“老枞水仙”等级差异的特征滋味和代谢物",
+      "findings": "利用机器学习和分子对接识别了不同等级武夷岩茶的特征滋味化合物和代谢物。",
+      "relevance": "茶品质分析，与营养和健康间接相关。",
+      "relevance_score": 3,
       "pmid": "42562525",
       "url": "https://doi.org/10.1016/j.foodres.2026.119755",
       "source": "PubMed → Food Res Int",
@@ -5153,10 +4760,10 @@
       "epubdate": "2026 Jun 15"
     },
     {
-      "index": 7,
-      "title_cn": "利用HS-SPME/GC-MS鉴别传统韩国发酵醋的潜在挥发性标志物",
-      "findings": "通过HS-SPME/GC-MS分析，鉴定了传统韩国发酵醋的潜在挥发性标志物，可用于区分不同产品。",
-      "relevance": "涉及食品风味和发酵，与营养学有一定关联，但非核心。",
+      "index": 8,
+      "title_cn": "使用HS-SPME/GC-MS鉴别传统韩国发酵醋的潜在挥发性标志物",
+      "findings": "通过HS-SPME/GC-MS鉴定了传统韩国发酵醋的挥发性标志物，可用于区分不同醋样。",
+      "relevance": "发酵食品风味分析，与营养和健康间接相关。",
       "relevance_score": 3,
       "pmid": "42562522",
       "url": "https://doi.org/10.1016/j.foodres.2026.119752",
@@ -5185,11 +4792,11 @@
       "epubdate": "2026 Jun 14"
     },
     {
-      "index": 8,
-      "title_cn": "MMFNet-K：用于多个猕猴桃品种无损新鲜度评估的多模态数据融合网络",
-      "findings": "提出了一种多模态数据融合网络MMFNet-K，用于多个猕猴桃品种的无损新鲜度评估，提高了检测准确性。",
-      "relevance": "涉及食品质量检测，与营养流行病学或慢性病预防不直接相关。",
-      "relevance_score": 2,
+      "index": 1,
+      "title_cn": "MMFNet-K：用于多种猕猴桃品种无损新鲜度评估的多模态数据融合网络",
+      "findings": "该研究提出了一种多模态数据融合网络MMFNet-K，用于猕猴桃新鲜度的无损评估。具体数据未在摘要中提供，但该方法可能结合了多种传感器数据以提高评估准确性。",
+      "relevance": "不直接相关，主要涉及食品科学和机器学习，而非营养流行病学或慢性病预防。",
+      "relevance_score": 1,
       "pmid": "42562521",
       "url": "https://doi.org/10.1016/j.foodres.2026.119749",
       "source": "PubMed → Food Res Int",
@@ -5227,12 +4834,1439 @@
       ],
       "elocationid": "doi: 10.1016/j.foodres.2026.119749",
       "epubdate": "2026 Jun 13"
+    },
+    {
+      "index": 2,
+      "title_cn": "传染病干预措施避免和可避免结果的因果估计量：勘误",
+      "findings": "本文是勘误，更正了先前论文中的错误，不涉及新的研究发现。",
+      "relevance": "不直接相关，属于流行病学方法学，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42525477",
+      "url": "https://doi.org/10.1097/EDE.0000000000001976",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Causal Estimands for Analyses of Averted and Avertible Outcomes due to Infectious Disease Interventions: Erratum.",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Jia KM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Boyer CB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wallinga J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lipsitch M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "e19",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000001976",
+      "epubdate": "2026 Jul 28"
+    },
+    {
+      "index": 3,
+      "title_cn": "智能电表得出的空调普及率修正了环境温度与急诊就诊之间的关联",
+      "findings": "研究发现空调普及率可能改变环境温度对急诊就诊的影响，但未提供具体数据。",
+      "relevance": "不直接相关，涉及环境健康，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42525476",
+      "url": "https://doi.org/10.1097/EDE.0000000000002006",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Smart Meter-derived Air Conditioning Penetration Rate Modifies the Association Between Ambient Temperature and Emergency Department Visits.",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Zheng X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peplinski M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Aguilera DR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sanders KT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ebelt S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Scovronick N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kalmus P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chang HH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "719-723",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000002006",
+      "epubdate": "2026 May 18"
+    },
+    {
+      "index": 4,
+      "title_cn": "存在竞争事件时参数化G计算的分组多项逻辑回归",
+      "findings": "本文提出了一种统计方法用于处理竞争事件，但未提供具体应用数据。",
+      "relevance": "不直接相关，属于流行病学方法学，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42525475",
+      "url": "https://doi.org/10.1097/EDE.0000000000001995",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Pooled Multinomial Logistic Regression for Parametric G-computation in the Presence of Competing Events.",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Neuroth LM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Swilley-Martinez ME",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zivich PN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Edwards JK",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "591-595",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000001995",
+      "epubdate": "2026 May 1"
+    },
+    {
+      "index": 5,
+      "title_cn": "部分识别模型中估计量的评估",
+      "findings": "本文讨论了部分识别模型中的估计量评估，未提供具体数据。",
+      "relevance": "不直接相关，属于流行病学方法学，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42257248",
+      "url": "https://doi.org/10.1097/EDE.0000000000002014",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Evaluating Estimators in Partially Identified Models.",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "MacLehose RF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lash TL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Collin LJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahern TP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gustafson P",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "575-577",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000002014",
+      "epubdate": "2026 Jun 8"
+    },
+    {
+      "index": 6,
+      "title_cn": "分层与积累？解释美国企业主与非企业主之间死亡率不平等的变化（1984-2022）",
+      "findings": "研究分析了企业主与非企业主之间的死亡率不平等趋势，但未提供具体数据。",
+      "relevance": "不直接相关，涉及社会流行病学，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42223287",
+      "url": "https://doi.org/10.1097/EDE.0000000000002013",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Stratification and Accumulation?: Explaining Changing Mortality Inequities Between Business Owners and Non-owners in the United States (1984-2022).",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Eisenberg-Guyot J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prins SJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Minh A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hajat A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Renson A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "629-639",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000002013",
+      "epubdate": "2026 Jun 1"
+    },
+    {
+      "index": 7,
+      "title_cn": "警惕早发性癌症趋势中的年龄分层老化",
+      "findings": "本文讨论了早发性癌症趋势中年龄分层的问题，未提供具体数据。",
+      "relevance": "不直接相关，涉及癌症流行病学，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42223278",
+      "url": "https://doi.org/10.1097/EDE.0000000000001998",
+      "source": "PubMed → Epidemiology",
+      "original_title": "Be Wary of Age-stratum Aging in Early-onset Cancer Trends.",
+      "date": "2026-09-01T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Braggion A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cullati S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chiolero A",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "5",
+      "pages": "e14-e16",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000001998",
+      "epubdate": "2026 Jun 1"
+    },
+    {
+      "index": 8,
+      "title_cn": "勘误：客观听力损失和主观听力困难与抑郁症状谱的差异关联：韩国全国性人群研究",
+      "findings": "本文是勘误，更正了先前论文中的错误，不涉及新的研究发现。",
+      "relevance": "不直接相关，涉及听力与抑郁，但未涉及营养或菌群。",
+      "relevance_score": 1,
+      "pmid": "42331703",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108626",
+      "source": "PubMed → Prev Med",
+      "original_title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
+      "date": "2026 Sep",
+      "authors": [
+        {
+          "name": "Park EJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahn JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Noh J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hwang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jung SJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "210",
+      "pages": "108626",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108626",
+      "epubdate": "2026 Jun 22"
+    },
+    {
+      "index": 1,
+      "title_cn": "辣木叶粉添加对低血糖甜味剂蔓越莓软糖和棉花糖性质的影响",
+      "findings": "研究了辣木叶粉对蔓越莓软糖和棉花糖性质的影响，可能涉及抗氧化和营养强化，但未提供具体数据。",
+      "relevance": "涉及功能性食品开发，与营养流行病学相关但非核心",
+      "relevance_score": 5,
+      "pmid": "42521425",
+      "url": "https://doi.org/10.1111/1750-3841.71322",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Impact of Moringa oleifera Leaf Powder Addition on the Properties of Cranberry‑Based Gummies and Marshmallows With Low-Glycemic Sweeteners.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Cervera-Chiner L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Castelló ML",
+          "authtype": "Author"
+        },
+        {
+          "name": "García-Mares FJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ortolá MD",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71322",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71322"
+    },
+    {
+      "index": 2,
+      "title_cn": "酿酒酵母SC-8303减少白面包中果聚糖同时保持烘焙品质",
+      "findings": "该酵母菌株能减少白面包中的果聚糖，可能有助于改善消化耐受性，但未提供具体数据。",
+      "relevance": "涉及食品加工对营养成分的影响，与营养学间接相关",
+      "relevance_score": 4,
+      "pmid": "42521409",
+      "url": "https://doi.org/10.1111/1750-3841.71284",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Saccharomyces cerevisiae SC-8303 Reduces Fructans in White Pan Bread While Preserving Baking Quality.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Jang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Seo M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yun I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cho H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jung W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yoon S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71284",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71284"
+    },
+    {
+      "index": 3,
+      "title_cn": "通过直接蒸汽注射提升鱼胶鸡汤品质：加工条件和产品特性的比较研究",
+      "findings": "比较了不同加工条件对鱼胶鸡汤品质的影响，但未提供具体数据。",
+      "relevance": "食品加工研究，与营养流行病学不直接相关",
+      "relevance_score": 2,
+      "pmid": "42521408",
+      "url": "https://doi.org/10.1111/1750-3841.71323",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Enhancing the Quality of Fish Maw Chicken Soup Through Direct Steam Injection: A Comparative Study of Processing Conditions and Product Characteristics.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Dong J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Deng P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rahman E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "He Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeng M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71323",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71323"
+    },
+    {
+      "index": 4,
+      "title_cn": "葡萄籽提取物对豌豆蛋白挤压物和肉饼风味及功能性的影响",
+      "findings": "研究了葡萄籽提取物对豌豆蛋白产品风味和功能性的影响，可能涉及抗氧化和植物化学物，但未提供具体数据。",
+      "relevance": "涉及植物化学物在食品中的应用，与营养学相关但非核心",
+      "relevance_score": 5,
+      "pmid": "42521405",
+      "url": "https://doi.org/10.1111/1750-3841.71321",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Impact of Grape Seed Extract on Flavor and Functionality of Pea Protein Extrudates and Patties.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Lincoln L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lu W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Girard AL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71321",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71321"
+    },
+    {
+      "index": 5,
+      "title_cn": "玉米醇溶蛋白-果胶纳米颗粒递送木犀草素：理化特性、抗氧化活性和模拟胃肠道行为",
+      "findings": "开发了木犀草素递送系统，具有抗氧化活性，但未提供具体数据。",
+      "relevance": "涉及生物活性化合物递送，与营养学相关但非核心",
+      "relevance_score": 6,
+      "pmid": "42521399",
+      "url": "https://doi.org/10.1111/1750-3841.71326",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Zein-Pectin Nanoparticles for Luteolin Delivery: Physicochemical Characterization, Antioxidant Activity, and Simulated Gastrointestinal Behavior.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Pires NV",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lorenzett AKP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Marcano RGDJV",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ziebarth J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mainardes RM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71326",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71326"
+    },
+    {
+      "index": 6,
+      "title_cn": "多糖硒纳米颗粒的制备、结构、稳定性、生物活性和应用",
+      "findings": "综述了多糖硒纳米颗粒的制备和生物活性，可能涉及抗氧化和免疫调节，但未提供具体数据。",
+      "relevance": "涉及硒的营养功能，与营养学相关但非核心",
+      "relevance_score": 6,
+      "pmid": "42494193",
+      "url": "https://doi.org/10.1111/1750-3841.71328",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Preparation, Structure, Stability, Bioactivities, and Application of Polysaccharide Selenium Nanoparticles.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Sun N",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liang W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meng X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Aynigar A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71328",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71328"
+    },
+    {
+      "index": 7,
+      "title_cn": "近红外光谱结合ETs-PLS特征选择方法快速检测大豆中脱氧雪腐镰刀菌烯醇",
+      "findings": "开发了快速检测大豆中真菌毒素的方法，但未提供具体数据。",
+      "relevance": "食品安全检测，与营养流行病学不直接相关",
+      "relevance_score": 2,
+      "pmid": "42494190",
+      "url": "https://doi.org/10.1111/1750-3841.71327",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Rapid Detection of Deoxynivalenol in Soybeans by NIR Spectroscopy Coupled With ETs-PLS Feature Selection Method.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Ma Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ju Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xie G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71327",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71327"
+    },
+    {
+      "index": 8,
+      "title_cn": "富含GABA酸奶配制的冷冻酸奶工程策略和操作：综述",
+      "findings": "综述了富含GABA的冷冻酸奶的工程策略，GABA可能具有健康益处，但未提供具体数据。",
+      "relevance": "涉及功能性食品和生物活性成分，与营养学相关但非核心",
+      "relevance_score": 6,
+      "pmid": "42494182",
+      "url": "https://doi.org/10.1111/1750-3841.71258",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Engineering Strategies and Operations of Frozen Yogurt Formulated With GABA-Enriched Yogurt: A Review.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Wan-Mazlan WMF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ushidee-Radzi MA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shin-Yee C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yusof YA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wan-Mohtar WAAQI",
+          "authtype": "Author"
+        },
+        {
+          "name": "Abd Rahman N'",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71258",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71258"
+    },
+    {
+      "index": 105,
+      "title_cn": "Hypoglycemic and Hypolipidemic Potentials of Mulberry Fermented With Lactobacillus brevis YM 1301 and Lactobacillus plantarum CICC 24202.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42494166",
+      "url": "https://doi.org/10.1111/1750-3841.71317",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Hypoglycemic and Hypolipidemic Potentials of Mulberry Fermented With Lactobacillus brevis YM 1301 and Lactobacillus plantarum CICC 24202.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Wan J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gao J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ding Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guo Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tong J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71317",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71317"
+    },
+    {
+      "index": 106,
+      "title_cn": "Revalorizing Cocoa Endocarp Residues as Novel Ingredients With Potential Prebiotic Effects: A Step Toward Circular Economy.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42494161",
+      "url": "https://doi.org/10.1111/1750-3841.71313",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Revalorizing Cocoa Endocarp Residues as Novel Ingredients With Potential Prebiotic Effects: A Step Toward Circular Economy.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Carboni AD",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Albuquerque TMR",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Oliveira JN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Patrignani M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dos Santos Lima M",
+          "authtype": "Author"
+        },
+        {
+          "name": "do Nascimento HMA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Paz Pierri AA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Puppo MC",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Souza EL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71313",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71313"
+    },
+    {
+      "index": 107,
+      "title_cn": "Dissolved Oxygen Removal From Aqueous Phase of Prepared Thyme Essential Oil in Water Nanoemulsions and Assessment of Their Physico-Chemical Properties and Antibacterial Activities.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42494160",
+      "url": "https://doi.org/10.1111/1750-3841.71312",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Dissolved Oxygen Removal From Aqueous Phase of Prepared Thyme Essential Oil in Water Nanoemulsions and Assessment of Their Physico-Chemical Properties and Antibacterial Activities.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Ahmadi O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jafarizadeh-Malmiri H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71312",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71312"
+    },
+    {
+      "index": 108,
+      "title_cn": "Ultrasonication of Sorghum and Cowpea Slurries: Influence on Technofunctional, Rheological, and Proximate Properties.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42487545",
+      "url": "https://doi.org/10.1111/1750-3841.71310",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Ultrasonication of Sorghum and Cowpea Slurries: Influence on Technofunctional, Rheological, and Proximate Properties.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Nkosi T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Adeyanju AA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Adebo OA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71310",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71310"
+    },
+    {
+      "index": 109,
+      "title_cn": "Co-Production of Mycoprotein, Carotenoids, and B Vitamins From Cheese Whey by Neurospora intermedia.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42487533",
+      "url": "https://doi.org/10.1111/1750-3841.71294",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Co-Production of Mycoprotein, Carotenoids, and B Vitamins From Cheese Whey by Neurospora intermedia.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Dianatdar F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Etemadifar Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taherzadeh MJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71294",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71294"
+    },
+    {
+      "index": 110,
+      "title_cn": "Development of Crispy, Antioxidant-Rich Sultana Grape Chips via Hybrid Pre-Drying and Explosion Puff Drying.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42487529",
+      "url": "https://doi.org/10.1111/1750-3841.71307",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Development of Crispy, Antioxidant-Rich Sultana Grape Chips via Hybrid Pre-Drying and Explosion Puff Drying.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Altay Ö",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaymak-Ertekin F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71307",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71307"
+    },
+    {
+      "index": 111,
+      "title_cn": "Comprehensive Bioactivity-Guided Isolation, DeepSAT, and LC-Q-TOF-MS/MS Analysis to Reveal Hypoglycemic Constituents of Momordica charantia L.",
+      "findings": "Journal: J Food Sci",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42487512",
+      "url": "https://doi.org/10.1111/1750-3841.71315",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Comprehensive Bioactivity-Guided Isolation, DeepSAT, and LC-Q-TOF-MS/MS Analysis to Reveal Hypoglycemic Constituents of Momordica charantia L.",
+      "date": "2026 Jul",
+      "authors": [
+        {
+          "name": "Lv HW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Fan WL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shi RH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Emam M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu MD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li XN",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "7",
+      "pages": "e71315",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71315"
+    },
+    {
+      "index": 112,
+      "title_cn": "Sedentary time and television viewing time are associated with an increased risk for all-cause mortality: A systematic review of systematic reviews.",
+      "findings": "Journal: Prev Med",
+      "relevance": "",
+      "relevance_score": 5,
+      "pmid": "42217831",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108610",
+      "source": "PubMed → Prev Med",
+      "original_title": "Sedentary time and television viewing time are associated with an increased risk for all-cause mortality: A systematic review of systematic reviews.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Shivgulam ME",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "MacDonald E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Courish M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huerta-Domínguez A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Theou O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tovar-Díaz J",
+          "authtype": "Author"
+        },
+        {
+          "name": "O'Brien MW",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108610",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108610",
+      "epubdate": "2026 May 29"
+    },
+    {
+      "index": 1,
+      "title_cn": "加利福尼亚州按种族和民族群体及亚组分类的孕前和妊娠期糖尿病患病率及其社会决定因素",
+      "findings": "该研究分析了加利福尼亚州不同种族和民族群体中孕前和妊娠期糖尿病的患病率，并探讨了社会健康决定因素的影响。具体数据未在摘要中提供。",
+      "relevance": "涉及糖尿病这一慢性病的流行病学，与预防医学相关，但未直接涉及营养或菌群。",
+      "relevance_score": 5,
+      "pmid": "42176957",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108609",
+      "source": "PubMed → Prev Med",
+      "original_title": "Prevalence and associated social determinants of health for pregestational and gestational diabetes mellitus in California by disaggregated racial and ethnic groups and subgroups.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Hsieh CT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ren X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chehab RF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108609",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108609",
+      "epubdate": "2026 May 22"
+    },
+    {
+      "index": 2,
+      "title_cn": "更正：不健康生活方式行为的聚集、自评健康和残疾",
+      "findings": "这是一篇更正声明，无具体研究发现。",
+      "relevance": "不直接相关。",
+      "relevance_score": 1,
+      "pmid": "42173701",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108605",
+      "source": "PubMed → Prev Med",
+      "original_title": "Corrigendum to \"Clustering of unhealthy lifestyle behaviors, self-rated health and disability\" [Preventive Medicine 55 (2022) 106911].",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Ortiz C",
+          "authtype": "Author"
+        },
+        {
+          "name": "López-Cuadrado T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rodríguez-Blázquez C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pastor-Barriuso R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Galán I",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108605",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108605",
+      "epubdate": "2026 May 22"
+    },
+    {
+      "index": 3,
+      "title_cn": "更正：确定荷兰最佳宫颈癌筛查退出策略",
+      "findings": "这是一篇更正声明，无具体研究发现。",
+      "relevance": "不直接相关。",
+      "relevance_score": 1,
+      "pmid": "42167996",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108602",
+      "source": "PubMed → Prev Med",
+      "original_title": "Corrigendum to \"Determining the optimal cervical cancer screening exit strategy in the Netherlands\" Preventive Medicine, 197 (2025) 108329.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Schevenhoven VJC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jansen EEL",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Kok IMCM",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108602",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108602",
+      "epubdate": "2026 May 22"
+    },
+    {
+      "index": 4,
+      "title_cn": "美国城市职业消防员和急救医疗服务提供者的自杀死亡率",
+      "findings": "该研究调查了美国城市职业消防员和急救医疗服务提供者的自杀死亡率，具体数据未在摘要中提供。",
+      "relevance": "涉及职业人群的心理健康，与预防医学相关，但未涉及营养或菌群。",
+      "relevance_score": 3,
+      "pmid": "42167545",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108608",
+      "source": "PubMed → Prev Med",
+      "original_title": "Suicide mortality in United States urban career firefighters and emergency medical service providers.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Singh A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeig-Owens R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moline T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cannon MF",
+          "authtype": "Author"
+        },
+        {
+          "name": "Goldfarb DG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choi J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hall CB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prezant DJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108608",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108608",
+      "epubdate": "2026 May 20"
+    },
+    {
+      "index": 5,
+      "title_cn": "2型糖尿病的终生经济负担：美国犹他州Wasatch Front地区成年人的纵向分析",
+      "findings": "该研究分析了2型糖尿病的终生经济负担，具体数据未在摘要中提供。",
+      "relevance": "涉及糖尿病的疾病负担，与预防医学相关，但未直接涉及营养或菌群。",
+      "relevance_score": 4,
+      "pmid": "42155638",
+      "url": "https://doi.org/10.1016/j.ypmed.2026.108606",
+      "source": "PubMed → Prev Med",
+      "original_title": "Lifetime economic burden of type 2 diabetes mellitus: A longitudinal analysis of adults in the Wasatch Front Region of Utah, United States.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Meeks HD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Smith KR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Curtis DS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kowaleski-Jones L",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "209",
+      "pages": "108606",
+      "issn": "0091-7435",
+      "essn": "1096-0260",
+      "journal_full": "Preventive medicine",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1016/j.ypmed.2026.108606",
+      "epubdate": "2026 May 18"
+    },
+    {
+      "index": 6,
+      "title_cn": "预处理、熟制和冷冻复热豆腐丸的品质特性研究",
+      "findings": "该研究评估了不同处理方式对豆腐丸品质特性的影响，具体数据未在摘要中提供。",
+      "relevance": "涉及食品加工和品质，与营养学相关，但未直接涉及疾病预防或菌群。",
+      "relevance_score": 4,
+      "pmid": "42563254",
+      "url": "https://doi.org/10.1111/1750-3841.71276",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Study on the Quality Characteristics of Preprocessed, Cooked and Frozen-Reheated Tofu Balls.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Zhang B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hao Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wen X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Song F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71276",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71276"
+    },
+    {
+      "index": 7,
+      "title_cn": "纯化和改性纤维素在葡萄酒生产与分析中的应用",
+      "findings": "该研究探讨了纯化和改性纤维素在葡萄酒生产中的应用，具体数据未在摘要中提供。",
+      "relevance": "涉及食品添加剂和加工，与营养学相关，但未直接涉及疾病预防或菌群。",
+      "relevance_score": 3,
+      "pmid": "42563240",
+      "url": "https://doi.org/10.1111/1750-3841.71336",
+      "source": "PubMed → J Food Sci",
+      "original_title": "The Use of Purified and Modified Cellulose in Wine Production and Analysis.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Sommer S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71336",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71336"
+    },
+    {
+      "index": 8,
+      "title_cn": "混合果汁副产物升级再造用于面粉生产及在植物基汉堡中的应用",
+      "findings": "该研究探索了将混合果汁副产物转化为面粉并应用于植物基汉堡，具体数据未在摘要中提供。",
+      "relevance": "涉及食品副产物利用和植物基食品，与营养学相关，但未直接涉及疾病预防或菌群。",
+      "relevance_score": 4,
+      "pmid": "42563236",
+      "url": "https://doi.org/10.1111/1750-3841.71331",
+      "source": "PubMed → J Food Sci",
+      "original_title": "Upcycling of Mixed Fruit Juice By-Products for Flour Production and Application in Plant-Based Burgers.",
+      "date": "2026 Aug",
+      "authors": [
+        {
+          "name": "Espinosa LDC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Crizel TM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Souza P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Varesano GR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Corrêa ANR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Köhn CR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Brandelli A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Flôres SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Rios AO",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71331",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71331"
     }
   ],
   "_meta": {
-    "total_papers": 158,
+    "total_papers": 127,
     "analyzed": 120,
-    "generated_at": "2026-08-10 08:28",
+    "generated_at": "2026-08-10 08:54",
     "model": "deepseek-chat",
     "mode": "daily"
   }
