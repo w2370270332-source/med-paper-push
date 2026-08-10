@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T00:55:48.639971",
+    "generated_at": "2026-08-10T00:26:29.519822",
     "days_back": 1,
-    "total_papers": 149,
+    "total_papers": 158,
     "sources": {
-      "pubmed": 118,
+      "pubmed": 117,
       "rss": 0,
-      "preprints": 10,
+      "preprints": 20,
       "trials": 23
     }
   },
@@ -4198,85 +4198,6 @@
       "epubdate": "2026 Jun 24"
     },
     {
-      "title": "High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101323",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42386249",
-      "authors": [
-        {
-          "name": "Arenas-Montes J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Garcia-Fernandez H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Alcala-Diaz JF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Boughanem H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Allais A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gutierrez-Mariscal FM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Arenas-de Larriva AP",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ojeda-Rodriguez A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Malagon MM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Priego-Capote F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Delgado-Lista J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Perez-Martinez P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Camargo A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lopez-Miranda J",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "124",
-      "issue": "1",
-      "pages": "101323",
-      "issn": "0002-9165",
-      "essn": "1938-3207",
-      "journal_full": "The American journal of clinical nutrition",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "elocationid": "doi: 10.1016/j.ajcnut.2026.101323",
-      "epubdate": "2026 Jun 8"
-    },
-    {
       "title": "Impact of Moringa oleifera Leaf Powder Addition on the Properties of Cranberry‑Based Gummies and Marshmallows With Low-Glycemic Sweeteners.",
       "url": "https://doi.org/10.1111/1750-3841.71322",
       "source": "PubMed → J Food Sci",
@@ -6570,6 +6491,86 @@
       "source_type": "preprint",
       "date": null,
       "abstract": "B Shravani , S"
+    },
+    {
+      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Lauren E. Anderson , Anne L."
+    },
+    {
+      "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kai R Trepka , Erin L"
+    },
+    {
+      "title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Mohamed Mokrani , Romain"
+    },
+    {
+      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
+    },
+    {
+      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kenneth T Trang , Dalia Arafat"
+    },
+    {
+      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Noor E Huma , Samuel"
+    },
+    {
+      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Xin Yu , Wenge"
+    },
+    {
+      "title": "Impact of high-fat Western diet on chronic lymphocytic leukemia disease progression and gut microbiome profile in Eµ-TCL1 mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715124v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Sydney A Skupa , Jordan B"
+    },
+    {
+      "title": "Diet-Driven Gut Microbiome Differences Between Cohabiting Han and Yi Ethnic Groups in Liangshan, China",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698051v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Chenglu Jiang , Bin"
+    },
+    {
+      "title": "An Engineered Live Biotherapeutic Restores Gut–Liver–Brain Axis Function by Reducing Inflammatory Pathways from Diet-Induced Stress",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.10.737804v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Andrea Verdugo-Meza , Jessica K."
     }
   ]
 }
