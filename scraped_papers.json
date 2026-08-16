@@ -1,16 +1,55 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T00:35:32.748154",
+    "generated_at": "2026-08-16T00:36:31.929634",
     "days_back": 1,
-    "total_papers": 175,
+    "total_papers": 170,
     "sources": {
       "pubmed": 133,
-      "rss": 5,
+      "rss": 0,
       "preprints": 20,
       "trials": 20
     }
   },
   "papers": [
+    {
+      "title": "Synthetic microbial communities: emerging live biotherapeutics for targeted gut microbiome modulation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2719056",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42603146",
+      "authors": [
+        {
+          "name": "Zhang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang G",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2719056",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2719056",
+      "epubdate": "2026 Aug 15"
+    },
     {
       "title": "Dietary tryptophan mitigates lung ischemia-reperfusion injury in association with increased indole-3-propionate and aryl hydrocarbon receptor signaling.",
       "url": "https://doi.org/10.1080/19490976.2026.2715839",
@@ -1999,53 +2038,6 @@
       "epubdate": "2026 Jul 10"
     },
     {
-      "title": "Beyond the gut: the multisite microbiota and its emerging role in brain health.",
-      "url": "https://doi.org/10.1080/19490976.2026.2702091",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42424442",
-      "authors": [
-        {
-          "name": "Jabbari Shiadeh SM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Valles-Colomer M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wegener G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cryan J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mallard C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ardalan M",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2702091",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2702091",
-      "epubdate": "2026 Jul 9"
-    },
-    {
       "title": "Polydextrose Functional Gummies for Weight Management in Adults With Overweight or Obesity",
       "url": "https://clinicaltrials.gov/study/NCT07758387",
       "source": "ClinicalTrials.gov",
@@ -4005,46 +3997,6 @@
       "status": "RECRUITING"
     },
     {
-      "title": "Study on the relationship between soil aggregate size, electrical conductivity, organic carbon, and nutrient availability in highway slopes in alpine regions",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356363",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-14T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Maternal early warning system (MEWS) model for predicting and reducing severe maternal outcomes in Ethiopia",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356105",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-14T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Mechanical properties and freeze–thaw durability of expansive soil reinforced with polypropylene and lignin fibers",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356058",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-14T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Retraction: Chemopreventive Activity of Ferulago angulate against Breast Tumor in Rats and the Apoptotic Effect of Polycerasoidin in MCF7 Cells: A Bioassay-Guided Approach",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356047",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-14T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Retraction: AptaFluorescence: An aptamer-based fluorescent imaging protocol for biomolecule visualization",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356046",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-14T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
       "title": "Probiotics Improve Constipation",
       "url": "https://clinicaltrials.gov/study/NCT07765004",
       "source": "ClinicalTrials.gov",
@@ -4928,266 +4880,6 @@
       "epubdate": ""
     },
     {
-      "title": "Preparation, Structure, Stability, Bioactivities, and Application of Polysaccharide Selenium Nanoparticles.",
-      "url": "https://doi.org/10.1111/1750-3841.71328",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42494193",
-      "authors": [
-        {
-          "name": "Sun N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liang W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhao Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Aynigar A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu X",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71328",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71328",
-      "epubdate": ""
-    },
-    {
-      "title": "Rapid Detection of Deoxynivalenol in Soybeans by NIR Spectroscopy Coupled With ETs-PLS Feature Selection Method.",
-      "url": "https://doi.org/10.1111/1750-3841.71327",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42494190",
-      "authors": [
-        {
-          "name": "Ma Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ju Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xie G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li F",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71327",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71327",
-      "epubdate": ""
-    },
-    {
-      "title": "Engineering Strategies and Operations of Frozen Yogurt Formulated With GABA-Enriched Yogurt: A Review.",
-      "url": "https://doi.org/10.1111/1750-3841.71258",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42494182",
-      "authors": [
-        {
-          "name": "Wan-Mazlan WMF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ushidee-Radzi MA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shin-Yee C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yusof YA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wan-Mohtar WAAQI",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abd Rahman N'",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71258",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71258",
-      "epubdate": ""
-    },
-    {
-      "title": "Hypoglycemic and Hypolipidemic Potentials of Mulberry Fermented With Lactobacillus brevis YM 1301 and Lactobacillus plantarum CICC 24202.",
-      "url": "https://doi.org/10.1111/1750-3841.71317",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42494166",
-      "authors": [
-        {
-          "name": "Wan J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gao J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ding Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guo Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tong J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li F",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71317",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71317",
-      "epubdate": ""
-    },
-    {
-      "title": "Revalorizing Cocoa Endocarp Residues as Novel Ingredients With Potential Prebiotic Effects: A Step Toward Circular Economy.",
-      "url": "https://doi.org/10.1111/1750-3841.71313",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Jul",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42494161",
-      "authors": [
-        {
-          "name": "Carboni AD",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Albuquerque TMR",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Oliveira JN",
-          "authtype": "Author"
-        },
-        {
-          "name": "Patrignani M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dos Santos Lima M",
-          "authtype": "Author"
-        },
-        {
-          "name": "do Nascimento HMA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Paz Pierri AA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Puppo MC",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Souza EL",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "7",
-      "pages": "e71313",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71313",
-      "epubdate": ""
-    },
-    {
       "title": "Anti-aging interventions need less hype and more clinical evidence.",
       "url": "https://doi.org/10.1038/s41591-026-04611-3",
       "source": "PubMed → Nat Med",
@@ -6044,6 +5736,278 @@
       "epubdate": "2026 May 13"
     },
     {
+      "title": "Exploring Safety and Antioxidant Activity of Lactiplantibacillus plantarum F190 and Optimizing Its Exopolysaccharide Production Based on Genomic and In Vitro Experiments.",
+      "url": "https://doi.org/10.1111/1750-3841.71359",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603130",
+      "authors": [
+        {
+          "name": "Jia X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tuo Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jiang S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71359",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71359",
+      "epubdate": ""
+    },
+    {
+      "title": "Hericium erinaceus β-Glucan Improves Post-Prandial Glycemic Homeostasis in Association With Changes in Akkermansia muciniphila, Serum Metabolites, and Gut Hormones.",
+      "url": "https://doi.org/10.1111/1750-3841.71341",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603129",
+      "authors": [
+        {
+          "name": "Wang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gong P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yao W",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71341",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71341",
+      "epubdate": ""
+    },
+    {
+      "title": "Effects and Mechanisms of Fermentation by Nonconventional Yeast Kazachstania servazzii CDLB-YE05 on the Flavor and Texture of Fresh Noodles.",
+      "url": "https://doi.org/10.1111/1750-3841.71344",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603128",
+      "authors": [
+        {
+          "name": "Zhang L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qi Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Obadi M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu B",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71344",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71344",
+      "epubdate": ""
+    },
+    {
+      "title": "Development of Reduced-Sodium Cooked Ham Using NaCl Substitutes: Impact on Instrumental and Sensory Properties.",
+      "url": "https://doi.org/10.1111/1750-3841.71358",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603127",
+      "authors": [
+        {
+          "name": "Cardim SCM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Freire da Costa G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pollonio MAR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Behrens JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bicas JL",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71358",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71358",
+      "epubdate": ""
+    },
+    {
+      "title": "Inonotus hispidus Polysaccharides Prepared by Graded Ethanol Precipitation Modulate the Gut-Immune Axis in Cyclophosphamide-Induced Immunosuppressed Mice.",
+      "url": "https://doi.org/10.1111/1750-3841.71377",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603126",
+      "authors": [
+        {
+          "name": "Jing A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhou S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qin J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jin H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71377",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71377",
+      "epubdate": ""
+    },
+    {
+      "title": "Quality Improvement of Porcine Bone Broth via Enzyme-Driven Flavor Release and Structural Modification.",
+      "url": "https://doi.org/10.1111/1750-3841.71353",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42603125",
+      "authors": [
+        {
+          "name": "Song S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Peng T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xie L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Muhoza B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71353",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71353",
+      "epubdate": ""
+    },
+    {
       "title": "Synergistic Coagulation of Soy Milk by Glucono-δ-Lactone and Magnesium Chloride: A Model Study on the Physicochemical Factors Governing Tofu-Like Precipitate Formation.",
       "url": "https://doi.org/10.1111/1750-3841.71348",
       "source": "PubMed → J Food Sci",
@@ -6805,56 +6769,6 @@
         "Journal Article"
       ],
       "elocationid": "doi: 10.1111/1750-3841.71287",
-      "epubdate": ""
-    },
-    {
-      "title": "DSD-Guided Ultrasound-Assisted Protein Recovery From Chlamydomonas reinhardtii: Modeling, Optimization, and Enzyme Inhibitory Activity Assessment.",
-      "url": "https://doi.org/10.1111/1750-3841.71329",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42519836",
-      "authors": [
-        {
-          "name": "Li Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Peng T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mo X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Su K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhong S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cheng L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71329",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71329",
       "epubdate": ""
     },
     {
