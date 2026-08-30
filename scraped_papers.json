@@ -1,16 +1,109 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T04:38:16.534189",
+    "generated_at": "2026-08-30T00:32:38.694334",
     "days_back": 1,
-    "total_papers": 162,
+    "total_papers": 155,
     "sources": {
-      "pubmed": 129,
-      "rss": 3,
+      "pubmed": 125,
+      "rss": 0,
       "preprints": 10,
       "trials": 26
     }
   },
   "papers": [
+    {
+      "title": "Microbial epigenetic regulation as a multilevel regulatory interface in host-microbe interactions.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725428",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42666001",
+      "authors": [
+        {
+          "name": "Yizengaw Adnie L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang GH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2725428",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2725428",
+      "epubdate": "2026 Aug 28"
+    },
+    {
+      "title": "Agathobacter rectalis suppresses colorectal tumorigenesis via an epigallocatechin-SREBF2 axis controlling cholesterol metabolism.",
+      "url": "https://doi.org/10.1080/19490976.2026.2724227",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42665998",
+      "authors": [
+        {
+          "name": "Lu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zeng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lau EYT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lan Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ye S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hu R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cui C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liang JQ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2724227",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2724227",
+      "epubdate": "2026 Aug 28"
+    },
     {
       "title": "Latent tuberculosis infection shapes gut microbiome and immune-metabolic interactions in people living with HIV.",
       "url": "https://doi.org/10.1080/19490976.2026.2721739",
@@ -1648,137 +1741,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2694140",
       "epubdate": "2026 Aug 6"
-    },
-    {
-      "title": "Early-life microbiota in the LIMIT cohort: unveiling meconium microbiota types beyond maternal lifestyle.",
-      "url": "https://doi.org/10.1080/19490976.2026.2712811",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42552739",
-      "authors": [
-        {
-          "name": "El Masri D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meriggi N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Loperfido F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bianco I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ferrara C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Maccarini B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sottotetti F",
-          "authtype": "Author"
-        },
-        {
-          "name": "De Filippo C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Loddo N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cerbo RM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ghirardello S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Garofoli F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Angelini M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Monti MC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Alemayohu MA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lukassen MB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cena H",
-          "authtype": "Author"
-        },
-        {
-          "name": "De Giuseppe R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2712811",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2712811",
-      "epubdate": "2026 Aug 4"
-    },
-    {
-      "title": "The role of adhesins of Fusobacterium nucleatum in colorectal cancer - a structural perspective.",
-      "url": "https://doi.org/10.1080/19490976.2026.2709265",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42525450",
-      "authors": [
-        {
-          "name": "Schöpf F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Marongiu GL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Roderer D",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2709265",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2709265",
-      "epubdate": "2026 Jul 29"
     },
     {
       "title": "Telehealth Educational Intervention for Adults With Type 2 Diabetes in Oman",
@@ -3629,170 +3591,6 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Rethinking risk factors for global dementia prevention - Authors' reply.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01441-8",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-08-29T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42660146",
-      "authors": [
-        {
-          "name": "Livingston G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sommerlad A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mukadam N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kivimäki M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ferri CP",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10557",
-      "pages": "789-790",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Letter"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01441-8",
-      "epubdate": ""
-    },
-    {
-      "title": "Rethinking risk factors for global dementia prevention.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01440-6",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-08-29T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42660145",
-      "authors": [
-        {
-          "name": "Ibanez A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Santamaria-Garcia H",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10557",
-      "pages": "787-789",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Letter"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01440-6",
-      "epubdate": ""
-    },
-    {
-      "title": "Why is depression divisive in dementia prevention?",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01540-0",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-08-29T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42660143",
-      "authors": [
-        {
-          "name": "Costello H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hazan J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Satake Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Howard R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10557",
-      "pages": "785-786",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Letter"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01540-0",
-      "epubdate": ""
-    },
-    {
-      "title": "Public health and the politics of human thriving.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01725-3",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-08-29T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42660139",
-      "authors": [
-        {
-          "name": "Hubble TR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Devakumar D",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10557",
-      "pages": "780-781",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01725-3",
-      "epubdate": ""
-    },
-    {
-      "title": "Effect of weight loss intervention on fat metabolism including adipocytokines and enzymes in children with simple obesity",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357145",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-28T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Vitamin D supplement use in Egypt and Jordan and associated factors: A survey-based study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357029",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-28T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Colorectal Centre of Excellence (COCOE) Registry: A protocol for a prospective longitudinal cohort of children with Hirschsprung's disease and anorectal malformations in Canada",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356813",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-08-28T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
       "title": "AI-Assisted Microbiome Analysis for Evaluating the Efficacy of MPRO3 and Gut Environmental Changes in Colon Cancer Surgery Patients",
       "url": "https://clinicaltrials.gov/study/NCT07792980",
       "source": "ClinicalTrials.gov",
@@ -4190,6 +3988,56 @@
         "Letter"
       ],
       "elocationid": "doi: 10.1016/j.amepre.2026.108399",
+      "epubdate": ""
+    },
+    {
+      "title": "Dietary-Derived Corchorus olitorius L. Extract Suppresses KRAS-Mutant Pancreatic Cancer by Activating Ferritinophagy-Dependent Ferroptosis.",
+      "url": "https://doi.org/10.1111/1750-3841.71410",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42667123",
+      "authors": [
+        {
+          "name": "Tseng CY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lin HH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chyau CC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu PR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liang YH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wong Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen JH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71410",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71410",
       "epubdate": ""
     },
     {
@@ -4924,6 +4772,220 @@
       ],
       "elocationid": "doi: 10.1016/j.ypmed.2026.108601",
       "epubdate": "2026 May 14"
+    },
+    {
+      "title": "Depuration Investigation on Parasites and Bacterial Loads in Freshwater Clam (Batissa violacea) and Oyster (Crassostrea gigas) Using a Sand Filter and UV Radiation.",
+      "url": "https://doi.org/10.1111/1750-3841.71396",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42665856",
+      "authors": [
+        {
+          "name": "Singh AA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mani S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Singh V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prasad P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kumar JA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Padayachi SBR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prasad S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chetty I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kapadia BS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Darshni P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Maharaj A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kumar CK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sami A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tamani S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Taucilagi S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71396",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71396",
+      "epubdate": ""
+    },
+    {
+      "title": "Identification of Unsound Soybean Seeds Based on Hyperspectral Imaging and a Dual-Channel Residual-Squeeze-and-Excitation Network With Gramian Angular Field Fusion.",
+      "url": "https://doi.org/10.1111/1750-3841.71370",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42665843",
+      "authors": [
+        {
+          "name": "Wang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bai H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cao L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71370",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71370",
+      "epubdate": ""
+    },
+    {
+      "title": "Multi-Enzyme Hydrolysis and Ultrafiltration-Based Optimization, Identification, and Characterization of Buttermilk Peptides and Myricetin for Enhancing Antioxidant Synergy.",
+      "url": "https://doi.org/10.1111/1750-3841.71381",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Aug",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42665779",
+      "authors": [
+        {
+          "name": "Niu W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bai J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Niu T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lu W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guan K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "8",
+      "pages": "e71381",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71381",
+      "epubdate": ""
     },
     {
       "title": "Microalgal Active Peptides: Advances in Preparation, Efficacy, and Mechanisms of Hypoglycemic Action.",
@@ -6153,192 +6215,6 @@
         "Journal Article"
       ],
       "elocationid": "doi: 10.1111/1750-3841.71363",
-      "epubdate": ""
-    },
-    {
-      "title": "Comparative Assessment of Antibacterial Activity of Haskap Berry (Lonicera caerulea L.) Extract, Gallic Acid, and Combination Against Alicyclobacillus acidoterrestris for Application in Orange Juice.",
-      "url": "https://doi.org/10.1111/1750-3841.71383",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42629599",
-      "authors": [
-        {
-          "name": "Qi F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ren M",
-          "authtype": "Author"
-        },
-        {
-          "name": "He M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shi Y",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71383",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71383",
-      "epubdate": ""
-    },
-    {
-      "title": "Effects of Coffee Decaffeination on Beverage Bioactives, Antioxidant Activity, and Lipid Metabolism in Hyperlipidemic Rats.",
-      "url": "https://doi.org/10.1111/1750-3841.71340",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42627015",
-      "authors": [
-        {
-          "name": "Lima AR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Miranda JF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Freire JM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kujbida P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abrahão SA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mendes E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Silva JAAAD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Paula FBA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Duarte SMDS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pereira RGFA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Casal S",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71340",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71340",
-      "epubdate": ""
-    },
-    {
-      "title": "Correction to \"Kokumi Peptides in Salt Reduction: Preparation, Evaluation Methods, Perceptual Mechanisms, and Prospects for Food Applications\".",
-      "url": "https://doi.org/10.1111/1750-3841.71386",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42627011",
-      "authors": [],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71386",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Published Erratum"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71386",
-      "epubdate": ""
-    },
-    {
-      "title": "Methodological Modifications of the INFOGEST 2.0 Protocol in Plant-Based Food Studies: A Systematic Review.",
-      "url": "https://doi.org/10.1111/1750-3841.71356",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42627006",
-      "authors": [
-        {
-          "name": "Mendes MB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rodrigues GGG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sad MELDS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Santos GFPD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Costa JCD",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71356",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71356",
       "epubdate": ""
     },
     {
