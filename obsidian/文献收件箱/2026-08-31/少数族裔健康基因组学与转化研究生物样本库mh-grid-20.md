@@ -1,0 +1,24 @@
+---
+pmid: 
+title: "Minority Health Genomics and Translational Research Bio-Repository Database (MH-GRID)-2.0"
+title_cn: "少数族裔健康基因组学与转化研究生物样本库（MH-GRID）-2.0"
+source: "ClinicalTrials.gov"
+url: "https://clinicaltrials.gov/study/NCT02290392"
+date: 2026-08-31
+type: 
+tags: [文献]
+---
+
+#文献
+
+# 少数族裔健康基因组学与转化研究生物样本库（MH-GRID）-2.0
+
+**原文：**Minority Health Genomics and Translational Research Bio-Repository Database (MH-GRID)-2.0
+**来源：**ClinicalTrials.gov
+**链接：**[DOI](https://clinicaltrials.gov/study/NCT02290392)
+
+## 核心发现
+该研究为观察性研究，收集了超过一千名非洲裔美国人的数据，建立数据库以研究高血压等疾病。未提供具体结果数据。
+
+## 与研究方向关联
+不直接相关，主要关注基因组学和高血压，未涉及营养或菌群。

@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T02:10:31.093515",
+    "generated_at": "2026-08-31T01:09:25.508069",
     "days_back": 1,
-    "total_papers": 165,
+    "total_papers": 163,
     "sources": {
-      "pubmed": 125,
+      "pubmed": 123,
       "rss": 0,
       "preprints": 20,
       "trials": 26
@@ -4348,32 +4348,6 @@
       "epubdate": "2026 Jun 18"
     },
     {
-      "title": "Diet and sustainability: recent findings and future directions.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101394",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42547100",
-      "authors": [
-        {
-          "name": "Love DC",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "124",
-      "issue": "2",
-      "pages": "101394",
-      "issn": "0002-9165",
-      "essn": "1938-3207",
-      "journal_full": "The American journal of clinical nutrition",
-      "pub_types": [
-        "Editorial"
-      ],
-      "elocationid": "doi: 10.1016/j.ajcnut.2026.101394",
-      "epubdate": "2026 Jun 25"
-    },
-    {
       "title": "Abstracts of the International Congress on Obesity.",
       "url": "https://doi.org/10.1111/obr.70192",
       "source": "PubMed → Obes Rev",
@@ -4729,49 +4703,6 @@
       ],
       "elocationid": "doi: 10.1016/j.ypmed.2026.108603",
       "epubdate": "2026 May 15"
-    },
-    {
-      "title": "Credible messengers and messages in firearm harm prevention: A systematic review.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108601",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42140563",
-      "authors": [
-        {
-          "name": "Walsh CS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Collins CJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bond AE",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gastineau KAB",
-          "authtype": "Author"
-        },
-        {
-          "name": "O'Connor KE",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108601",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108601",
-      "epubdate": "2026 May 14"
     },
     {
       "title": "Depuration Investigation on Parasites and Bacterial Loads in Freshwater Clam (Batissa violacea) and Oyster (Crassostrea gigas) Using a Sand Filter and UV Radiation.",
