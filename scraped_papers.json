@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T02:06:13.762606",
+    "generated_at": "2026-09-01T01:15:19.741970",
     "days_back": 1,
-    "total_papers": 163,
+    "total_papers": 164,
     "sources": {
       "pubmed": 123,
-      "rss": 0,
+      "rss": 1,
       "preprints": 20,
-      "trials": 26
+      "trials": 25
     }
   },
   "papers": [
@@ -1743,13 +1743,13 @@
       "epubdate": "2026 Aug 6"
     },
     {
-      "title": "Telehealth Educational Intervention for Adults With Type 2 Diabetes in Oman",
-      "url": "https://clinicaltrials.gov/study/NCT07793292",
+      "title": "Aerobic, Strength, Kegel (ASK) Exercise Intervention Perceptions for Postpartum Health",
+      "url": "https://clinicaltrials.gov/study/NCT07790289",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-11-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Diabetes Mellitus Type 2; Interventions: Telehealth Educational Intervention; The goal of this clinical trial is to find out whether adding a nurse-led telehealth educational program to usual diabetes care can improve blood sugar control, medication-related behaviors, and quality of life in adults with type 2 diabetes in Oman.\n\nThe main question this study aims to answer is w; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07793292",
+      "date": "2026-12-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Quality of Life, Body Composition, Sleep, Physical Abilities, Cardiometabolic Health; Interventions: ASK Exercise Programme; The goal of this pilot clinical trial is to learn whether a 12-week home-based exercise programme is feasible, acceptable, and safe for postpartum women in Hong Kong who had hypertensive disorders of pregnancy. The exercise programme is called the Aerobic, Strength, and Kegel exercise programme, or ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07790289",
       "status": "NOT_YET_RECRUITING"
     },
     {
@@ -3222,13 +3222,33 @@
       "epubdate": "2026 Jul 24"
     },
     {
-      "title": "GMPA Versus PPI for Gastric Protection and aGVHD Risk",
-      "url": "https://clinicaltrials.gov/study/NCT07791849",
+      "title": "A Study to Learn About Safety and Effects of Once-monthly Treatment With Berobenatide in Adults With Obesity Disease in Japan (VESPER-JM)",
+      "url": "https://clinicaltrials.gov/study/NCT07794774",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-15",
-      "abstract": "Status: RECRUITING; Conditions: Hematopoietic Stem Cell Transplantation (HSCT), aGVHD, Infection, Mortality, Microbiome; Interventions: Teprenone, Esomeprazole; The goal of this clinical trial is to observe whether different gastric protection strategies affect the incidence of acute graft-versus-host disease (aGVHD) in patients undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT). Proton pump inhibitors (PPIs) are routinely used for ga; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07791849",
+      "date": "2026-09-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity; Interventions: Berobenatide, Placebo; The purpose of this clinical study is to learn about safety and effects of berobenatide (PF-08653944) in adults with obesity disease, a condition in which a person has too much body fat, which can harm their health and increase the risk of other medical problems. Some participants in this study may ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07794774",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "RELEASE - Reconsidering Long-Term Aspirin in the Elderly Patients With Stable Ischemic Heart Disease: A Randomized Non-Inferiority Trial",
+      "url": "https://clinicaltrials.gov/study/NCT07795398",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-14",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Ischemic Heart Disease, Ischemic Heart Disease Chronic, Chronic Coronary Syndrome, Myocardial Infarction, Percutaneous Coronary Intervention; Interventions: Continuation of daily low-dose Aspirin, Discontinuation of daily low-dose Aspirin; RELEASE is a national, randomized, registry-based trial including 7,000 participants in Denmark. The trial aims to determine whether discontinuation of long-term aspirin therapy is non-inferior to continued aspirin therapy in older adults with stable ischemic heart disease.\n\nLong-term aspirin therap; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07795398",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "FAST for DM - Fatty Acid Supplementation Trial (FAST) for Dermatomyositis (DM)",
+      "url": "https://clinicaltrials.gov/study/NCT07111065",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-03",
+      "abstract": "Status: RECRUITING; Conditions: Dermatomyositis (DM), Juvenile Dermatomyositis (JDM); Interventions: FISH OIL 500MG OMEGA-3 SOFT GEL MINIS, Placebo; Dermatomyositis (DM) is a rare autoimmune disease that causes muscle weakness, skin rashes, and other symptoms. Researchers think both genetic and environmental factors play a role in this disease. They want to find out more about how diet and lifestyle choices affect people with DM/JDM.\n\nObjective:; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07111065",
       "status": "RECRUITING"
     },
     {
@@ -3581,34 +3601,42 @@
       "epubdate": "2026 Jun 1"
     },
     {
-      "title": "Weight and Metabolic Management Study",
-      "url": "https://clinicaltrials.gov/study/NCT07789223",
+      "title": "A Study of Orforglipron in Participants With Overweight at Risk of Development of Obesity-Related Complications or Progression to Class 1 Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT07794579",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-09",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Overweight, Obesity, Weight Maintenance; Interventions: elénzia CONTROL®, Placebo; The goal of this clinical trial is to learn whether elénzia CONTROL®, a nutritional supplement, can support weight management in adults who have either never used GLP-1 weight-loss medications or have recently stopped using them. The main question it aims to answer is:\n\nDoes taking elénzia CONTROL® ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07789223",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Overweight, Prediabetic State, Prehypertension, Obesity, Abdominal; Interventions: Orforglipron, Placebo; This study will evaluate the efficacy and safety of orforglipron in participants with overweight and assess whether it helps reduce the future risk of obesity-related conditions, including type 2 diabetes, hypertension, and dyslipidemia, and progression to class 1 obesity.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07794579",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "AI-Assisted Microbiome Analysis for Evaluating the Efficacy of MPRO3 and Gut Environmental Changes in Colon Cancer Surgery Patients",
-      "url": "https://clinicaltrials.gov/study/NCT07792980",
+      "title": "Mortality and health outcomes associated with non-communicable disease risk factors: Protocol for the IRAN-STEPS Follow-Up Cohort (ISFUC) based on the 2021 national survey",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356802",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-08-31T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Group-Care for Hypertension and Diabetes Management in Nepal",
+      "url": "https://clinicaltrials.gov/study/NCT07439380",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-04",
-      "abstract": "Status: RECRUITING; Conditions: Colon Neoplasms; Interventions: Placebo, MPRO3; The goal of this clinical trial is to evaluate the effects of MPRO3(probiotics mixture) supplementation on surgical outcomes and gut health in patients undergoing surgery for colon cancer.The main question is whether MPRO3 supplementation before and after surgery can reduce postoperative infectious ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07792980",
+      "date": "2026-07-29",
+      "abstract": "Status: RECRUITING; Conditions: Hypertension, Diabetes; Interventions: Low Intensity Community-Based Group NCD Care, High Intensity Community-Based Group NCD Care; Hypertension and diabetes represent significant and growing public health challenges in Nepal, particularly in underserved communities. Traditional individual-based care approaches may not adequately address the multifaceted needs of patients with these chronic conditions in resource-limited setting; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07439380",
       "status": "RECRUITING"
     },
     {
-      "title": "Microbiological Modulation Of The Oral-Gut Axis After Treatment With Or Without Systemic Use Of Probiotics In Patients With Periodontitis: A Randomized Controlled Clinical Study.",
-      "url": "https://clinicaltrials.gov/study/NCT07792902",
+      "title": "Comparing a Healthy Beef-Centric Diet to a Healthy U.S.-Style Diet on Metabolic Health Outcomes in Pre-Diabetic Adults",
+      "url": "https://clinicaltrials.gov/study/NCT07269847",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-06-25",
-      "abstract": "Status: COMPLETED; Conditions: Periodontitis Stage IV, Periodontitis; Interventions: Probiotics Bifidobacterium animalis subsp. lactis HN019; This study aims to evaluate whether the oral administration of probiotics, in combination with conventional periodontal treatment (deep cleaning of the tooth root surfaces), can improve oral health and influence the relationship between oral and gut bacteria in individuals with periodontitis.\n\nThe s; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07792902",
-      "status": "COMPLETED"
+      "date": "2026-02-10",
+      "abstract": "Status: RECRUITING; Conditions: Metabolic Syndrome (MetS), Inflammation, Pre-Diabetes; Interventions: Healthy Beef-Centric Diet, Healthy U.S.-Style Dietary Pattern; This randomized study will be conducted to compare the effect of a healthy beef-centric diet to a healthy U.S.-style dietary pattern on inflammation and other metabolic health outcomes in a metabolic syndrome and/or pre-diabetic population.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07269847",
+      "status": "RECRUITING"
     },
     {
       "title": "Sleep and Its Impact on the Success of Weight Loss Interventions in Adults With Excess Weight: A Systematic Review.",
@@ -3988,6 +4016,302 @@
         "Letter"
       ],
       "elocationid": "doi: 10.1016/j.amepre.2026.108399",
+      "epubdate": ""
+    },
+    {
+      "title": "Perlolyrine Formation and Isoflavones Hydrolysis During Miso Fermentation Affected by Tryptophan and Tryptamine.",
+      "url": "https://doi.org/10.1111/1750-3841.71364",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42670944",
+      "authors": [
+        {
+          "name": "Chen HS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chiu PC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tsai YC",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li YJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yen MY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhan YJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chiou RY",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71364",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71364",
+      "epubdate": ""
+    },
+    {
+      "title": "Structural Basis and Molecular Mechanism of Yeast Biosorption: for Food Safety and Nutrition.",
+      "url": "https://doi.org/10.1111/1750-3841.71420",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42670883",
+      "authors": [
+        {
+          "name": "Chen Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shen J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ni L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu W",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71420",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71420",
+      "epubdate": ""
+    },
+    {
+      "title": "Potential Use of Hazelnut Beverage in Water Kefir Fermentation: Effects of Sugar Addition on Physicochemical, Microbiological, Rheological, Bioactive, Volatile, and Allergenic Properties.",
+      "url": "https://doi.org/10.1111/1750-3841.71432",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42670828",
+      "authors": [
+        {
+          "name": "Gul LB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Akgun A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Gul O",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71432",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71432",
+      "epubdate": ""
+    },
+    {
+      "title": "Thermal and Physical Properties of Gummy Candies and Marshmallows Made With Isomaltulose and Allulose.",
+      "url": "https://doi.org/10.1111/1750-3841.71415",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42669857",
+      "authors": [
+        {
+          "name": "Sorensen JR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bastarrachea LJ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71415",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71415",
+      "epubdate": ""
+    },
+    {
+      "title": "Comparative Study on the Mixed Fermentation Process of Germinated Quinoa and Lycium barbarum, and Changes in Metabolites and Microbial Community Before and After Fermentation.",
+      "url": "https://doi.org/10.1111/1750-3841.71399",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42669848",
+      "authors": [
+        {
+          "name": "Wang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wei W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ye Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71399",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71399",
+      "epubdate": ""
+    },
+    {
+      "title": "Soy Protein Isolate-β-Cyclodextrin Microencapsulation Boosts Stability and Intestinal Delivery of α-Linolenic Acid-Rich Structured Lipids: Oxidation, Digestion, and Molecular Docking Evaluation.",
+      "url": "https://doi.org/10.1111/1750-3841.71419",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42669841",
+      "authors": [
+        {
+          "name": "Wan Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guo X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu JN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Luo H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wei C",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71419",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71419",
+      "epubdate": ""
+    },
+    {
+      "title": "Tannic Acid-Based Multilayers Anchoring Anthocyanin-Loaded Mesoporous Silica Microcapsules: A Synergistic Hydrogel System for Ameliorating DSS-Induced Colitis.",
+      "url": "https://doi.org/10.1111/1750-3841.71369",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42669838",
+      "authors": [
+        {
+          "name": "Hu D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "He X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71369",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71369",
       "epubdate": ""
     },
     {
@@ -5774,518 +6098,113 @@
       "epubdate": ""
     },
     {
-      "title": "Ohmic Heating Application on Pork Burger Processing.",
-      "url": "https://doi.org/10.1111/1750-3841.71391",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42631492",
-      "authors": [
-        {
-          "name": "Balthazar CF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guimaraes JT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cavalcanti RN",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mascarenhas AG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pereira TRC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Raices RSL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Freitas MQ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Esmerino EA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cruz AG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mano SB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mársico ET",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71391",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71391",
-      "epubdate": ""
-    },
-    {
-      "title": "Molecular Omics Unveils the Antimicrobial Mechanism of UV-LED-Induced Chitosan Composite Film Against Penicillium italicum.",
-      "url": "https://doi.org/10.1111/1750-3841.71385",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42631491",
-      "authors": [
-        {
-          "name": "Xing Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lei C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fan X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Luoguo W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tian Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhou X",
-          "authtype": "Author"
-        },
-        {
-          "name": "He L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71385",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71385",
-      "epubdate": ""
-    },
-    {
-      "title": "Comparative Effects of Soybean Protein Isolate- and Myofibrillar Protein-Based Curcumin Nanocomplexes on the Freeze-Thaw Stability of Surimi.",
-      "url": "https://doi.org/10.1111/1750-3841.71400",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42631488",
-      "authors": [
-        {
-          "name": "Liu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pi T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang H",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71400",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71400",
-      "epubdate": ""
-    },
-    {
-      "title": "Prebiotic and Chemopreventive Potential of Digested Cooked Huitlacoche (Ustilago maydis) in Human HT-29 Colon Cancer Cells.",
-      "url": "https://doi.org/10.1111/1750-3841.71365",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42631483",
-      "authors": [
-        {
-          "name": "Rebollar-García A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Luzardo-Ocampo I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Arvizu-Medrano S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pool H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Loarca-Piña G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Velásquez-Jiménez D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Herrera-Hernández MG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sánchez-Quezada V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Campos-Vega R",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71365",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71365",
-      "epubdate": ""
-    },
-    {
-      "title": "Cashew-Derived Flavonoids Modulate the Th1/Th2 Balance at Peyer's Patches via a C-Ring Oxidation-Dependent Molecular Switch.",
-      "url": "https://doi.org/10.1111/1750-3841.71395",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42631481",
-      "authors": [
-        {
-          "name": "Wu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yan Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shen Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jin Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Suo M",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71395",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71395",
-      "epubdate": ""
-    },
-    {
-      "title": "Effect of Thermal and Freeze-Drying on the Volatile Composition of Mountain Horopito (Pseudowintera colorata) and Kawakawa (Piper excelsum).",
-      "url": "https://doi.org/10.1111/1750-3841.71380",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42629607",
-      "authors": [
-        {
-          "name": "Ham EE",
-          "authtype": "Author"
-        },
-        {
-          "name": "Subbaraj A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Deb-Choudhury S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Burrow K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Morton JD",
-          "authtype": "Author"
-        },
-        {
-          "name": "Torrico DD",
-          "authtype": "Author"
-        },
-        {
-          "name": "O'Connor C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Smith K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Realini CE",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71380",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71380",
-      "epubdate": ""
-    },
-    {
-      "title": "Methods for Maintaining and Using Lactic Acid Bacteria Starter Cultures for Commercial Cucumber Fermentation Brined With Low Salt.",
-      "url": "https://doi.org/10.1111/1750-3841.71363",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42629602",
-      "authors": [
-        {
-          "name": "Santos AB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Page CA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pérez-Díaz IM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Santos FBO",
-          "authtype": "Author"
-        },
-        {
-          "name": "Arroyo-López FN",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71363",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71363",
-      "epubdate": ""
-    },
-    {
-      "title": "Youth Suicide Risk Factors, Reduction of Suicide Risk Factor in Youth People",
-      "url": "https://clinicaltrials.gov/study/NCT07188506",
+      "title": "Milk Consumption and Blood Microbiome in Healthy Volunteers",
+      "url": "https://clinicaltrials.gov/study/NCT06944002",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-11-15",
-      "abstract": "Status: RECRUITING; Conditions: Mood Disorders, Suicide, Attempted, Suicidal Ideation, Suicide Prevention; Interventions: Clinical and blood parameters, Illumina Infinium Global Screening Array 4.0 (GSA 4.0), dTMS treatment; The YOU-SURF project is at the forefront of youth suicide prevention, with the goal of integrating multimodal clinical and neurobiological data to comprehensively identify risk factors and the most effective intervention strategies. Suicide is one of the leading causes of death among young people, w; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07188506",
-      "status": "RECRUITING"
+      "date": "2025-07-10",
+      "abstract": "Status: COMPLETED; Conditions: Healthy; Interventions: Milk product; The goal of this study is to learn if cfDNA of milk-associated intestinal bacteria (MAIB) is detectable in the bloodstream. The primary question it aims to answer is:\n\n\\- Does milk consumption simultaneously increase the number of MAIB cfDNA counts in blood samples, as it does in fecal samples?\n\nRes; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06944002",
+      "status": "COMPLETED"
     },
     {
-      "title": "Disease Biosignatures in ALS/FTD Spectrum: New Impactful Biological Perspectives Beyond Clinical Approaches",
-      "url": "https://clinicaltrials.gov/study/NCT06856850",
+      "title": "Brief Training Program for General Practitioners on Malnutrition and Adapted Physical Activity",
+      "url": "https://clinicaltrials.gov/study/NCT07794657",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-02-27",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: ALS (Amyotrophic Lateral Sclerosis), FTD, Neuropathic, Psychiatric Disorders, Idiopathic Intracranial Hypertension; Diagnosis of ALS/FTD disease spectrum is challenging because it largely relies on clinical symptoms. Identifying novel biomarkers is essential for a paradigm shift towards a more precise biological-based diagnosis. To achieve this aim, having access to proper specimens and analytical methods is cruc; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT06856850",
+      "date": "2025-01-13",
+      "abstract": "Status: COMPLETED; Conditions: Malnutrition Elderly, Primary Care, General Practitioner Education, Older Adults (65 Years and Older), Frailty; Interventions: Malnutrition training, Adapted physical activity training; This randomized, parallel-group interventional study evaluated the impact of brief targeted training on general practitioners' knowledge and professional practices regarding malnutrition and adapted physical activity (APA). Final-year GP residents and practicing GPs in the Pays de la Loire region we; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07794657",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "A Phase 2a/b Study of the Efficacy and Safety of Subcutaneous Amlitelimab in Adults With Nonresponsive Celiac Disease",
+      "url": "https://clinicaltrials.gov/study/NCT06557772",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-08-29",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Coeliac Disease, Celiac Disease; Interventions: Amlitelimab, Placebo, SIGE, Gluten-free product (GFP); This is a Phase 2a/b, randomized, double-blind, placebo-controlled, parallel-group, 6-arm study to evaluate the efficacy and safety of amlitelimab in adult participants with non-responsive celiac disease (NRCD) who are on a gluten free diet (GFD) with and without simulated inadvertent gluten exposur; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06557772",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "High-flow Nasal Oxygen Therapy in Obese Patients Undergoing Sedativegastrointestinal Endoscopy",
-      "url": "https://clinicaltrials.gov/study/NCT06585306",
+      "title": "Dietary Fiber Before Colorectal Cancer Surgery",
+      "url": "https://clinicaltrials.gov/study/NCT06212817",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-10-23",
-      "abstract": "Status: COMPLETED; Conditions: Hypoxia, Obesity, Gastrostomy; Interventions: jaw lift, increasing oxygen flow, mask ventilation, intubation; Obese patients often have fat accumulation in the head and neck, increased soft tissue in the oropharynx, decreased lung compliance, decreased lung volume and residual volume, and some obese patients also suffer from obstructive sleep apnea. Therefore, obese patients may experience hypoxemia during ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06585306",
+      "date": "2024-04-29",
+      "abstract": "Status: COMPLETED; Conditions: Colorectal Cancer; Interventions: Dietary intervention; The aim of this randomized controlled trial is to investigate the feasibility of increasing preoperative dietary fiber intake in individuals with colorectal cancer who will undergo surgery. This will be done using 1) digital personalized dietary advice or 2) a dried vegetable product compared to 3) ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06212817",
       "status": "COMPLETED"
     },
     {
-      "title": "A Study to Evaluate Preventive Treatments for GPRC5D-related Oral Events",
-      "url": "https://clinicaltrials.gov/study/NCT06500884",
+      "title": "A Repository to Study Host-Microbiome Interactions in Health and Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05656378",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-08-26",
-      "abstract": "Status: RECRUITING; Conditions: Multiple Myeloma; Interventions: Talquetamab, Prophylaxis A, Prophylaxis B, Prophylaxis C, Prophylaxis D; The purpose of this study is to identify preventive treatments that can minimize the occurrence, severity, and duration of talquetamab-related taste changes (dysgeusia), during the prophylaxis (preventive) treatment phase, to better characterize the signs or symptoms of talquetamab-related taste cha; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06500884",
+      "date": "2023-03-09",
+      "abstract": "Status: RECRUITING; Conditions: Healthy Controls, Pregnancy, Pediatric Illnesses, Inflammatory Diseases; Background:\n\nThe microbiome is the bacteria and other microorganisms that live inside and on the body. The microbiome is important for our health. Researchers study how the microbiome help people stay healthy. They study how the microbiome affects the body when people get sick. To do this research, ; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT05656378",
       "status": "RECRUITING"
     },
     {
-      "title": "Effects of Watermelon or Low-fat Cookie Consumption on Wellness",
-      "url": "https://clinicaltrials.gov/study/NCT06323070",
+      "title": "Constipation and Changes in the Gut Flora in Parkinson's Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05787756",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-03-01",
-      "abstract": "Status: RECRUITING; Conditions: Overweight and Obesity; Interventions: Low-fat cookies, Watermelon; The objective of the proposed research is to determine the effects of fresh watermelon consumption on physiological indicators of wellness regarding sexual, skin and gut health in adults.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06323070",
-      "status": "RECRUITING"
+      "date": "2023-01-01",
+      "abstract": "Status: COMPLETED; Conditions: Parkinson Disease; The aim of this study is to investigate the link between gut health and Parkinson's disease; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT05787756",
+      "status": "COMPLETED"
     },
     {
-      "title": "Natural History of the Human Biological Response to Environmental Exposure and Injury",
-      "url": "https://clinicaltrials.gov/study/NCT04888923",
+      "title": "A Research Study to See How Well CagriSema Helps People With Excess Body Weight Lose Weight",
+      "url": "https://clinicaltrials.gov/study/NCT05567796",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2021-11-16",
-      "abstract": "Status: RECRUITING; Conditions: Inflammation, Normal Controls, Metabolic Disease; Background:\n\nEnvironmental exposures like pollution, diet, and stress can help cause human diseases, or make them worse. Researchers want to better understand how injury and inflammation are caused by these exposures. They want to collect biological and environmental samples and other data. They may; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04888923",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Impact of Vitamin D Supplementation on the Rate of Pathologic Complete Response in Vitamin D Deficient Patients",
-      "url": "https://clinicaltrials.gov/study/NCT04677816",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-10-22",
-      "abstract": "Status: RECRUITING; Conditions: Triple Negative Breast Cancer, Vitamin D Deficiency, Invasive Breast Cancer; Interventions: Standard of Care Neoadjuvant Chemotherapy (NAC), Vitamin D3, Drug Diary; A two arm pilot study investigating the rate of pathologic complete response in patients with vitamin D deficiency and triple negative breast cancer undergoing standard neoadjuvant chemotherapy + vitamin D supplementation, including an observational arm to describe response in patients who are not d; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT04677816",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "A Study of Guselkumab and Interleukin-17 (IL-17) Inhibitor Therapies in Participants With Psoriatic Arthritis in Routine Clinical Practice",
-      "url": "https://clinicaltrials.gov/study/NCT05049798",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-08-25",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Arthritis, Psoriatic; Interventions: Guselkumab, IL-17i; The purpose of this study is to evaluate treatment persistence with guselkumab and interleukin-17 inhibitor (IL-17i) initiated at enrollment into this study (PsABIOnd).; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT05049798",
+      "date": "2022-11-01",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Obesity; Interventions: Cagrilintide, Semaglutide, Placebo cagrilintide, Placebo semaglutide; This study has 2 parts: First part is the main study and second part is the extension study. During the main study participants will receive 1 of 4 study medicines. If participants continue in the extension study, they will not receive any study medicine during the extension. The main study will loo; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05567796",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "Natural History, Physiology, Microbiome and Biochemistry Studies of Propionic Acidemia",
-      "url": "https://clinicaltrials.gov/study/NCT02890342",
+      "title": "Acetate and Age-associated Arterial Dysfunction",
+      "url": "https://clinicaltrials.gov/study/NCT05424263",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2016-11-29",
-      "abstract": "Status: RECRUITING; Conditions: Metabolic Disease, Propionic Acidemia, Organic Acidemia; Background:\n\nPeople s bodies need to break down food into the chemicals. These chemicals are used for energy and growth. Some people cannot process all chemicals very well. Too much of some chemicals can cause diseases. One of these diseases is called propionic acidemia (PA). People with PA can have; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02890342",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Williams Syndrome (WS) and Supravalvar Aortic Stenosis (SVAS) DNA and Tissue Bank",
-      "url": "https://clinicaltrials.gov/study/NCT02706639",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2016-05-11",
-      "abstract": "Status: COMPLETED; Conditions: Williams Syndrome, Supravalvular Aortic Stenosis, Cardiovascular Disease; Williams syndrome is a rare genetic disorder occurring in 1:8000-12,000 individuals. It is caused by the deletion of 25-27 coding genes, including elastin (ELN) on the 7th human chromosome. Haploinsufficiency for these genes leads to the features of the condition, including:\n\n* Distinctive facial fe; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02706639",
+      "date": "2022-09-29",
+      "abstract": "Status: COMPLETED; Conditions: Aging, Vascular Stiffness, Vascular Dilation; Interventions: Calcium Acetate Oral Solution, Calcium Carbonate Oral Suspension; Cardiovascular diseases are the leading cause of morbidity and mortality and contribute most to healthcare costs in the U.S. Age is the strongest cardiovascular disease risk factor, with \\>90% of all deaths from cardiovascular disease occurring in adults \\>50 years old. The age-associated increased ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05424263",
       "status": "COMPLETED"
     },
     {
-      "title": "Natural History and Genetics of Food Allergy and Related Conditions",
-      "url": "https://clinicaltrials.gov/study/NCT02504853",
+      "title": "Pathogenesis of Uric Acid Nephrolithiasis: Role of Pioglitazone/Weight Loss",
+      "url": "https://clinicaltrials.gov/study/NCT04370093",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2015-07-29",
-      "abstract": "Status: RECRUITING; Conditions: Food Allergy, Loeys-Dietz Syndrome, Atopic Dermatitis, Eosinophilic Esophagitis; Background:\n\n\\- About 15 million Americans have a food allergy. Because there are no cures or effective prevention or treatment for food allergies, researchers want to learn more about them.\n\nObjective:\n\n\\- To learn more about the causes and effects of food allergy and related conditions.\n\nEligibili; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02504853",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Minority Health Genomics and Translational Research Bio-Repository Database (MH-GRID)-2.0",
-      "url": "https://clinicaltrials.gov/study/NCT02290392",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2014-11-11",
-      "abstract": "Status: COMPLETED; Conditions: Hypertension; Background:\n\n\\- High blood pressure is a common problem. It can cause heart attacks, strokes, and kidney failure. It affects African Americans more than other racial groups. Data were collected from over a thousand African Americans across the country. The data were put into a database (MH-GRID). Th; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02290392",
+      "date": "2019-10-17",
+      "abstract": "Status: COMPLETED; Conditions: Nephrolithiasis, Uric Acid; Interventions: Pioglitazone 45 mg, Weight Loss, Pioglitazone + Weight Loss; The investigators will randomize overweight and obese iuan patients to Pio (45 mg/day, highest approved dose or placebo), WL (10% of body weight, following the established program used in the Diabetes Prevention Program), or Pio+WL. Participants will be evaluated at baseline and after 24 weeks of in; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT04370093",
       "status": "COMPLETED"
     },
     {
-      "title": "Genomics, Environmental Factors and Social Determinants of Cardiovascular Disease in African-Americans Study (GENE-FORECAST)",
-      "url": "https://clinicaltrials.gov/study/NCT02055209",
+      "title": "Early Childhood Obesity Programming by Intrauterine Growth Restriction",
+      "url": "https://clinicaltrials.gov/study/NCT03402139",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2014-07-23",
-      "abstract": "Status: COMPLETED; Conditions: Hypertension; Our objective is to develop a community-based cohort and novel genomic science resource for defining the biological significance of ancestry-related genomic variation in African-Americans within the GENE-FORECAST :GENomics, Environmental FactORs and the Social DEterminants of Cardiovascular Disease ; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02055209",
+      "date": "2018-09-01",
+      "abstract": "Status: COMPLETED; Conditions: Childhood Obesity, Epigenetics; The molecular mechanisms underlying developmental programming of childhood obesity remain poorly understood. Here, the investigators address major questions about early childhood obesity programming by studying CD3+ T-cells from intrauterine growth restricted (IUGR) newborns who have an increased ri; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT03402139",
       "status": "COMPLETED"
     },
     {
-      "title": "Developing Biomarkers of Dietary Intake",
-      "url": "https://clinicaltrials.gov/study/NCT01237093",
+      "title": "Pediatric Patients With Metabolic or Other Genetic Disorders",
+      "url": "https://clinicaltrials.gov/study/NCT02769949",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2010-10-24",
-      "abstract": "Status: COMPLETED; Conditions: Diet Therapy, Healthy Volunteers; Interventions: 1. Meat, no fish or soda, 2. Meat and soda, no fish, 3. Meat and fish, no soda, 4. Meat and fish and soda, 5. Fish, no meat or soda; Background:\n\n\\- Researchers who study health and nutrition are interested in developing more accurate methods of determining what people eat from day to day and how it affects their general health. In particular, better methods are needed to determine if people are accurately remembering what they a; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT01237093",
+      "date": "2016-05-03",
+      "abstract": "Status: COMPLETED; Conditions: Genetic Disorder, Asperger Disorder, Autism Spectrum Disorder, Fragile X Syndrome, Developmental Delay; Background: Some patients with unusual genetic conditions are referred to the National Institutes of Health (NIH). They may not be eligible to join current research studies. Testing such patients is a good way to improve the skills of research staff. The findings could lead to new processes and rese; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT02769949",
       "status": "COMPLETED"
     },
     {
@@ -6297,6 +6216,16 @@
       "abstract": "Status: RECRUITING; Conditions: Metabolic Disease, Obesity, Li-Fraumeni Syndrome, Cardiomyopathy, Atherosclerosis; Interventions: NSR IDE-MRI: Research pulse sequences; Background:\n\n\\- Researchers are interested in studying individuals who have known or suspected metabolic, inflammatory or genetic diseases that may put them at a high risk for heart diseases or diseases of their blood vessels. Depending on the condition being studied, both affected and nonaffected i; Study Type: OBSERVATIONAL",
       "nct_id": "NCT01143454",
       "status": "RECRUITING"
+    },
+    {
+      "title": "Genetics of Type 2 Diabetes in West Africans",
+      "url": "https://clinicaltrials.gov/study/NCT00837122",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2009-02-03",
+      "abstract": "Status: COMPLETED; Conditions: Hypertension, Diabetes; Background:\n\n* Type 2 diabetes (T2D) and associated complications are major contributors to the global disease burden. T2D is already a major health threat in populations in developed countries and is rapidly taking hold in the developing world.\n* It is believed that understanding the complex interp; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT00837122",
+      "status": "COMPLETED"
     },
     {
       "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
