@@ -1,0 +1,24 @@
+---
+pmid: 
+title: "Evaluate the Safety, Efficacy, and Pharmacokinetics of CRN04894 in Participants With Congenital Adrenal Hyperplasia (Tou"
+title_cn: "评估CRN04894在先天性肾上腺增生患者中的安全性、疗效和药代动力学（TouCAHn）"
+source: "ClinicalTrials.gov"
+url: "https://clinicaltrials.gov/study/NCT05907291"
+date: 2026-09-11
+type: 
+tags: [文献]
+---
+
+#文献
+
+# 评估CRN04894在先天性肾上腺增生患者中的安全性、疗效和药代动力学（TouCAHn）
+
+**原文：**Evaluate the Safety, Efficacy, and Pharmacokinetics of CRN04894 in Participants With Congenital Adrenal Hyperplasia (TouCAHn)
+**来源：**ClinicalTrials.gov
+**链接：**[DOI](https://clinicaltrials.gov/study/NCT05907291)
+
+## 核心发现
+该II期开放标签、序贯剂量队列研究已完成，评估atumelnant（CRN04894）在21-羟化酶缺乏导致的经典先天性肾上腺增生患者中的安全性、疗效和药代动力学。
+
+## 与研究方向关联
+不直接相关，主要涉及罕见内分泌疾病的药物干预，与营养/膳食/菌群对慢性病预防无直接关联。
