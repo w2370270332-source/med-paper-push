@@ -1,16 +1,203 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T01:54:04.302772",
+    "generated_at": "2026-09-11T00:16:49.768948",
     "days_back": 1,
-    "total_papers": 161,
+    "total_papers": 158,
     "sources": {
-      "pubmed": 115,
-      "rss": 6,
+      "pubmed": 116,
+      "rss": 5,
       "preprints": 20,
-      "trials": 22
+      "trials": 19
     }
   },
   "papers": [
+    {
+      "title": "Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial.",
+      "url": "https://doi.org/10.1080/19490976.2026.2728351",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42720258",
+      "authors": [
+        {
+          "name": "Durand C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Eveillard LA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Labouret M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Aeschlimann F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Belot A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Brochard K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chassaing B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Boizeau P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Boulkedid R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Carbasse A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cherqaoui B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dumaine C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dumay A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Frachette C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hentgen V",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kedzia C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kolta T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Koné-Paut I",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lamy-Besnier Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guilmin-Crepon S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lima-Antoine L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pillet P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Quartier P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tellier S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tourneur-Marsille J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Reumaux H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vinit C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Viennois E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Meinzer U",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2728351",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2728351",
+      "epubdate": "2026 Sep 10"
+    },
+    {
+      "title": "Why probiotics fail: gut niche tension as the missing variable?",
+      "url": "https://doi.org/10.1080/19490976.2026.2728333",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42720010",
+      "authors": [
+        {
+          "name": "Pechnikova NA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zoikidou O",
+          "authtype": "Author"
+        },
+        {
+          "name": "Denisova AR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choli-Papadopoulou T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Aggeli A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yaremenko AV",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2728333",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2728333",
+      "epubdate": "2026 Sep 10"
+    },
     {
       "title": "Towards optimizing the host response to biotics: a report of an International Scientific Association for Probiotics and Prebiotics working group.",
       "url": "https://doi.org/10.1080/19490976.2026.2728828",
@@ -1757,158 +1944,6 @@
       "epubdate": "2026 Aug 20"
     },
     {
-      "title": "Amino acid-based formula feeding is associated with increased risk of Clostridioides difficile-associated disease in children younger than two years.",
-      "url": "https://doi.org/10.1080/19490976.2026.2719259",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42622547",
-      "authors": [
-        {
-          "name": "Wang L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Luo J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Geng J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zheng X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Qiu C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhou Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tao L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2719259",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2719259",
-      "epubdate": "2026 Aug 20"
-    },
-    {
-      "title": "Human gut microbiome as a composite health biomarker.",
-      "url": "https://doi.org/10.1080/19490976.2026.2719055",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42622381",
-      "authors": [
-        {
-          "name": "Braun T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Harounian O",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hadar R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ziv A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ben-Avraham Shulman S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kalter-Leibovici O",
-          "authtype": "Author"
-        },
-        {
-          "name": "Efroni G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ziv R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fenesh M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abbas-Egbariya H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Abramovich I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Amit S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Keller N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Truman K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Segev S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Amir A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Haberman Y",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2719055",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2719055",
-      "epubdate": "2026 Aug 20"
-    },
-    {
       "title": "HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.",
       "url": "https://doi.org/10.1016/j.foodres.2026.120465",
       "source": "PubMed → Food Res Int",
@@ -3389,13 +3424,23 @@
       "epubdate": "2026 Aug 18"
     },
     {
-      "title": "Tumoral Versus Luminal Microbiome in Head and Neck Squamous Cell Carcinoma",
-      "url": "https://clinicaltrials.gov/study/NCT07809100",
+      "title": "Lactobacillus Acidophilus and Inulin for Cognitive Impairment in Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT07810517",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-10-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Squamous Cell Cancer of Head and Neck (SCCHN); Interventions: Tissue and secretion sampling via biopsy, Tissue and secretion sampling via biopsy; Head and neck squamous cell carcinoma (HNSCC), France's 5th most common cancer (15,000 annual cases), presents significant public health challenges due to high morbidity and functional/aesthetic sequelae from treatments (mutilating surgery, radiotherapy, chemotherapy). Major risk factors, tobacco an; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07809100",
+      "date": "2026-11-01",
+      "abstract": "Status: RECRUITING; Conditions: Obesity (Disorder); Interventions: Synbiotic (Lactobacillus acidophilus LA-5 and Agave Inulin); This randomized crossover clinical trial aims to evaluate the effect of a synbiotic containing Lactobacillus acidophilus and inulin on cognitive function in adults with obesity and mild cognitive impairment. Forty participants aged 30-40 years will be randomly assigned to two groups. Participants wi; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07810517",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Evaluation of Anterior Neck Ultrasound in Predicting Difficult Airway in Obese Patients",
+      "url": "https://clinicaltrials.gov/study/NCT07346768",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-20",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Ultrasonography, Airway Management, Intubation, Intratracheal, Obesity and Overweight; Interventions: None (Observational study); Obese patients are at increased risk of difficult airway management due to anatomical changes in the anterior neck soft tissues. Accurate preoperative prediction of difficult airway remains challenging using conventional clinical airway assessment tests alone.\n\nThis prospective observational study a; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07346768",
       "status": "NOT_YET_RECRUITING"
     },
     {
@@ -3403,148 +3448,110 @@
       "url": "https://clinicaltrials.gov/study/NCT05713799",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Insulin Resistance, Obesity; Interventions: Alpha-lipoic acid, Mirabegron, Placebo; Background:\n\nObesity and related illnesses cause at least 2.8 million deaths each year worldwide. Few treatments exist for obesity that are safe and widely available. A study drug (mirabegron \\[MG\\]) combined with a supplement (alpha-lipoic acid \\[ALA\\]) may help.\n\nObjective:\n\nTo learn how MG and AL; Study Type: INTERVENTIONAL",
       "nct_id": "NCT05713799",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study",
-      "url": "https://clinicaltrials.gov/study/NCT05652478",
+      "title": "A Natural History of Cardiometabolic Disease Among US Bhutanese: Developing the Cross-Sectional Bhutanese Community of Central Ohio Health Study to Understand Acculturation as Synergizing Socioenvironmental and Biobehavioral Risk Factors Propagating ...",
+      "url": "https://clinicaltrials.gov/study/NCT06991751",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-14",
-      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer, Weight Gain, Metabolic Effects, Integrase Strand Transfer Inhibitors; Interventions: Dolutegravir (DTG) AND Tenofovir alafenamide (TAF), Tenofovir Disoproxil Fumarate, Dolutegravir, Tenofovir alafenamide; Background:\n\nPeople with HIV take drugs to keep the amount of virus in their body low. One type of these drugs, called integrase strand transfer inhibitors (INSTIs), can cause weight gain over time. Weight gain can cause diabetes, heart disease, and other serious issues. Researchers want to understa; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05652478",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
-      "url": "https://clinicaltrials.gov/study/NCT06690294",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-14",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT06690294",
+      "date": "2026-09-15",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Cardiometabolic Risk Factors, Mental Health; Background:\n\nAs of 2021, almost 45 million people in the United States were foreign-born immigrants. South Asians, including people from Bhutan, are the fastest-growing immigrant subgroup in the US. Their income and education levels are higher than the US average. Yet they have worse physical and me; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06991751",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Environmental PFOA exposure and the risk of metabolic dysfunction-associated steatotic liver disease: An integrated computational toxicology and multi-omics study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357970",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Clinical, laboratory, operative, and appendiceal morphometric correlates of histopathological appendicitis severity: A retrospective cohort study from Palestine",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357811",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "UPLC-MS metabolite profiling and antioxidant efficacy of Neopestalotiopsisclavispora isolated from Oroxylum indicum (L.) Kurz Stem Bark",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357595",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Impact of GLP-1 receptor agonists on patients with intraductal papillary mucinous neoplasms: Study protocol for a multicentric cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357577",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Research neglect of root system architecture in root and tuber crops important for Sub-Saharan African Food Security",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357467",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Clinicopathological characteristics and prognosis of melanoma: A retrospective cohort study in Xinjiang, China",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357383",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Ultra-Processing and Nutritional Quality: Glycemic Response, Appetite, Dietary Energy Intake, and Eating Rate",
-      "url": "https://clinicaltrials.gov/study/NCT07808892",
+      "title": "Effects of Meal Macronutrients on Postprandial Lipids",
+      "url": "https://clinicaltrials.gov/study/NCT07313787",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-01",
-      "abstract": "Status: RECRUITING; Conditions: Eating, Anxiety, Ultra Processed Food; Interventions: Test Meals Differing in Processing Level and Nutritional Quality; The UPGRADE Study will examine how food-processing level and nutritional quality affect energy intake, eating rate, satiety, and glycemic response. In a randomized-order crossover design, each participant will consume three laboratory test meals: low processing/high nutritional quality, high process; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07808892",
-      "status": "RECRUITING"
+      "date": "2026-09-15",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Nephrotic Syndrome, Lipodystrophy, Metabolic Syndrome, Healthy Volunteer, Diabetes; Interventions: High carb then high fat breakfast, High fat then high carb breakfast; Background:\n\nAbnormal fats in the blood can lead to many problems, including heart disease. Researchers want to learn more about how eating meals with different levels of nutrients affects fats in the blood. Specifically, they want to study people with too much body fat, too little body fat, and a k; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07313787",
+      "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Serine/Glycine-Restricted Diet With Chemoradiotherapy for Rectal Cancer",
-      "url": "https://clinicaltrials.gov/study/NCT07811076",
+      "title": "Helicobacter pylori infection, hyperuricemia, and serum uric acid levels: The role of metabolic, renal, and inflammatory factors in a large health examination population",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358039",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-10T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Exploring preventive practices of newborn hypothermia among post-natal mothers in selected public health facilities in Kilimanjaro region: Qualitative descriptive study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357756",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-10T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "A scoping review protocol on digital health equity among immigrant populations: Planning and managing effective digital health services",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357612",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-10T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Intensive longitudinal assessment of stress and stress-related concepts across a weight loss program: Protocol for a longitudinal ecological momentary assessment study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357572",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-10T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Chronic disease multimorbidity and mental health among older adults in China: The moderating roles of family and social support",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357259",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-10T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "A Clinical Trial Evaluating Fecal Microbiota Transplantation (FMT) in Adolescents With ADHD",
+      "url": "https://clinicaltrials.gov/study/NCT07756255",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-08-31",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Locally Advanced Rectal Cancer (LARC); Interventions: Serine/Glycine-Restricted Diet, CAPOX Chemotherapy, PD-1 Inhibitor, Short-Course Radiotherapy; This is a Phase Ib/II seamless, open-label, randomized controlled trial evaluating the safety and efficacy of a serine/glycine-restricted diet combined with neoadjuvant chemoradiotherapy and immunotherapy in patients with locally advanced rectal cancer (LARC).\n\nThe study consists of two phases. Phas; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07811076",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: ADHD, ADHD - Attention Deficit Disorder With Hyperactivity, ADHD - Combined Type; Interventions: Fecal Microbiota Transplant (FMT), Nitazoxanide 500mg BID, Vancomycin 250mg BID, Placebo Vancomycin, Placebo Nitazoxanide; The primary goals of this phase 2 clinical trial are to determine the feasibility, safety, and tolerability of oral Fecal Microbiota Transplantation (FMT) in adolescents (aged 13-17) with Attention-Deficit/Hyperactivity Disorder (ADHD).; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07756255",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Longevity Metrics AI/ML Development Study",
-      "url": "https://clinicaltrials.gov/study/NCT07808619",
+      "title": "Study Evaluating the Effect of UCB8600 on Mast Cell Activation in the Human Gut",
+      "url": "https://clinicaltrials.gov/study/NCT07655375",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-08",
-      "abstract": "Status: RECRUITING; Conditions: Aging, Mortality, Cardiovascular Disease Prevention, Metabolic Syndrome, Cognitive Dysfunction; Interventions: AIML scored health screening battery; This study builds AI models that score diagnostic screening tests, and that predict screening results, clinical judgment, and life expectancy. Longevity Metrics collects a battery of clinical tests on each participant, in whole or in part, and follows every participant for life.\n\nThe sit-to-rise tes; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07808619",
+      "date": "2026-08-18",
+      "abstract": "Status: RECRUITING; Conditions: IBS (Irritable Bowel Syndrome); Interventions: Sample collection; Study evaluating the effect of UCB8600 on mast cell activation in the human gut:\n\nIBS is a disease characterized by abdominal pain and a change in stool. Treatment is limited to an adapted life style, dietary changes and medication to lessen cramps (spasmolytica), all of which have seen limited to n; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07655375",
       "status": "RECRUITING"
     },
     {
-      "title": "Effect of Photobiomodulation on Healing of Venous Leg Ulcers",
-      "url": "https://clinicaltrials.gov/study/NCT07123285",
+      "title": "Analysis of the Etiopathogenesis of Postoperative Complications in Orthopedic Patients Using Knee and Hip Arthroplasty as an Example",
+      "url": "https://clinicaltrials.gov/study/NCT07813832",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-03",
-      "abstract": "Status: RECRUITING; Conditions: Venous Leg Ulcer (VLU), Venous Hypertension Ulcers, Chronic Venous Insufficiency, Chronic Venous Disease; Interventions: Photobiomodulation Therapy, Sham Photobiomodulation, Compression Therapy; Venous leg ulcers are a significant public health problem because of their prolonged duration, high recurrence rates, and economic, social, and quality-of-life effects. Compression therapy is the standard treatment; however, healing may remain slow. Photobiomodulation is being investigated as an adj; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07123285",
+      "date": "2026-03-20",
+      "abstract": "Status: RECRUITING; Conditions: Periprosthetic Joint Infection (PJI), Periprosthetic Knee Infection, Periprosthetic Hip Infection, Diagnostic, Prediction; Relevance and Rationale Due to the widespread development of high-tech medical care in traumatology and orthopedics for patients with severe forms of hip and knee osteoarthritis and aseptic necrosis, and the increasing number of knee and hip arthroplasties, there is a proportional increase in seriou; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07813832",
       "status": "RECRUITING"
     },
     {
-      "title": "Collagen Supplements and Post-MBS Muscle Mass/Body Image",
-      "url": "https://clinicaltrials.gov/study/NCT07809152",
+      "title": "Exercise Methods for Overweight and Obese Individuals",
+      "url": "https://clinicaltrials.gov/study/NCT07811596",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-07-01",
-      "abstract": "Status: RECRUITING; Conditions: Obesity & Overweight, Collagen Protein, Bariatric Surgery, Metabolic and Bariatric Surgery, Body Composition; Interventions: Collagen-containing supplement; This prospective, observational cohort study aims to evaluate whether the use of collagen-containing supplements is associated with differences in muscle mass, body composition, and body image among patients who have undergone sleeve gastrectomy (SG). The study will be conducted at the General Surge; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07809152",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "AMAZE 4: A Research Study Investigating How Well the Medicine NNC0487-0111 Helps People With Excess Body Weight and Obstructive Sleep Apnoea Treated With Positive Airway Pressure Lose Weight and Improve Sleep Apnoea",
-      "url": "https://clinicaltrials.gov/study/NCT07571109",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-05-05",
-      "abstract": "Status: RECRUITING; Conditions: Obesity, Overweight, Obstructive Sleep Apnoea; Interventions: NNC0487-0111, Placebo (matched to NNC0487-0111); This study is being done to look at the efficacy and safety of NNC0487-0111 in participants with overweight or obesity, and obstructive sleep apnoea treated with positive airway pressure. There are 2 study treatments in this study taken as injections under the skin once a week. Participants will eit; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07571109",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Intermittent Cottonseed Oil Consumption",
-      "url": "https://clinicaltrials.gov/study/NCT07246408",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-01-16",
-      "abstract": "Status: RECRUITING; Conditions: Dyslipidemia, Overweight and Obesity, Nutrition, Healthy; Interventions: CSO-30, CSO-20, Control; Cardiovascular disease risk factors, including higher BMIs and poor cholesterol profiles, are on the rise and contribute to the United States' growing disease burden. Cottonseed oil (CSO) is found readily in the food supply, and the investigator's previous studies have demonstrated that incorporatin; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07246408",
-      "status": "RECRUITING"
+      "date": "2026-03-01",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Overweight and Obese Adults; Interventions: High-Intensity Interval Training (HIIT); Obesity is a complex disease and a major risk factor for cardiovascular and metabolic disorders, particularly atherosclerosis, type II diabetes, and metabolic syndrome; it is also associated with an increased risk of mortality. In addition, obesity is a multifaceted health problem that can adversely; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07811596",
+      "status": "ACTIVE_NOT_RECRUITING"
     },
     {
       "title": "Food as medicine for malnutrition and cognitive decline: lessons from the PROMED-EX trial.",
@@ -3995,6 +4002,56 @@
       "epubdate": "2026 Aug 17"
     },
     {
+      "title": "Correction: Association between body composition phenotypes and cardiovascular outcomes in patients with coronary artery disease: a retrospective cohort study.",
+      "url": "https://doi.org/10.1038/s41430-026-01807-1",
+      "source": "PubMed → Eur J Clin Nutr",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: Eur J Clin Nutr",
+      "pmid": "42552368",
+      "authors": [
+        {
+          "name": "Wu T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author"
+        },
+        {
+          "name": "He L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu C",
+          "authtype": "Author"
+        },
+        {
+          "name": "He Q",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "80",
+      "issue": "9",
+      "pages": "988",
+      "issn": "0954-3007",
+      "essn": "1476-5640",
+      "journal_full": "European journal of clinical nutrition",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "elocationid": "doi: 10.1038/s41430-026-01807-1",
+      "epubdate": ""
+    },
+    {
       "title": "Sleep and Its Impact on the Success of Weight Loss Interventions in Adults With Excess Weight: A Systematic Review.",
       "url": "https://doi.org/10.1111/obr.70199",
       "source": "PubMed → Obes Rev",
@@ -4244,6 +4301,376 @@
         "Letter"
       ],
       "elocationid": "doi: 10.1016/j.amepre.2026.108399",
+      "epubdate": ""
+    },
+    {
+      "title": "Image-Based Pore Space and Pore Network Characterization: A Review of 2D/3D Workflow in Foods.",
+      "url": "https://doi.org/10.1111/1750-3841.71450",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42720082",
+      "authors": [
+        {
+          "name": "Luka BS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ibrahim AG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Muhammed IB",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yunusa BM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Siddiqui MH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Osama K",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71450",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71450",
+      "epubdate": ""
+    },
+    {
+      "title": "Fifty Years of Non-pestis Yersinia Outbreaks in the United States: Patterns, Vehicles, and Surveillance Challenges, 1971-2024.",
+      "url": "https://doi.org/10.1111/1750-3841.71378",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42720049",
+      "authors": [
+        {
+          "name": "Weller DL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hoang ST",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wondimu MH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hast M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pendley Louis RP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Watkins LKF",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71378",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71378",
+      "epubdate": ""
+    },
+    {
+      "title": "Preparation, Structural Features, Bioactivities, and Food Application of Oyster Mushroom Polysaccharides: A Review.",
+      "url": "https://doi.org/10.1111/1750-3841.71446",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42720047",
+      "authors": [
+        {
+          "name": "Tang W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yan L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tang J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhong H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu Q",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71446",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71446",
+      "epubdate": ""
+    },
+    {
+      "title": "Air Jet Impingement Baking of Bread: Heat-Mass Transfer Dynamics and Process Optimization.",
+      "url": "https://doi.org/10.1111/1750-3841.71456",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42720033",
+      "authors": [
+        {
+          "name": "Altay Ö",
+          "authtype": "Author"
+        },
+        {
+          "name": "Filiz Ö",
+          "authtype": "Author"
+        },
+        {
+          "name": "Çavuşoğlu G",
+          "authtype": "Author"
+        },
+        {
+          "name": "Dirim SN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Şentürk U",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaymak-Ertekin F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71456",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71456",
+      "epubdate": ""
+    },
+    {
+      "title": "AI Digitized 3D-Printed Meal for Personalized Nutrition.",
+      "url": "https://doi.org/10.1111/1750-3841.71425",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42720000",
+      "authors": [
+        {
+          "name": "Lee CKW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Poon WY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chan YHT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li MG",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71425",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71425",
+      "epubdate": ""
+    },
+    {
+      "title": "Influence of a Thermostable Fungal Xylanase Combined With Multi-Enzyme Complexes on the Structure, Physicochemical, and Functional Properties of Dietary Fiber From Hawthorn Pomace.",
+      "url": "https://doi.org/10.1111/1750-3841.71464",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42719998",
+      "authors": [
+        {
+          "name": "Sun Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huo C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Teng C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qiu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71464",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71464",
+      "epubdate": ""
+    },
+    {
+      "title": "Papain- and Trypsin-Derived Spirulina Peptides: Antiproliferative and Antioxidant Profiles.",
+      "url": "https://doi.org/10.1111/1750-3841.71449",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42719993",
+      "authors": [
+        {
+          "name": "Hassan SN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ghafoor DD",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71449",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71449",
+      "epubdate": ""
+    },
+    {
+      "title": "Valorization of Camelina Seed Meal: Ethanolic Ammonium Hydroxide Extraction Coupled With Enzymatic Hydrolysis Enhances Protein Functionality.",
+      "url": "https://doi.org/10.1111/1750-3841.71406",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42719968",
+      "authors": [
+        {
+          "name": "Dissanayaka CS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tsao R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shahidi F",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71406",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71406",
       "epubdate": ""
     },
     {
@@ -5270,302 +5697,6 @@
       "epubdate": ""
     },
     {
-      "title": "Structural Basis and Molecular Mechanism of Yeast Biosorption: for Food Safety and Nutrition.",
-      "url": "https://doi.org/10.1111/1750-3841.71420",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42670883",
-      "authors": [
-        {
-          "name": "Chen Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shen J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Han J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ni L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu W",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71420",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71420",
-      "epubdate": ""
-    },
-    {
-      "title": "Potential Use of Hazelnut Beverage in Water Kefir Fermentation: Effects of Sugar Addition on Physicochemical, Microbiological, Rheological, Bioactive, Volatile, and Allergenic Properties.",
-      "url": "https://doi.org/10.1111/1750-3841.71432",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42670828",
-      "authors": [
-        {
-          "name": "Gul LB",
-          "authtype": "Author"
-        },
-        {
-          "name": "Akgun A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gul O",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71432",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71432",
-      "epubdate": ""
-    },
-    {
-      "title": "Thermal and Physical Properties of Gummy Candies and Marshmallows Made With Isomaltulose and Allulose.",
-      "url": "https://doi.org/10.1111/1750-3841.71415",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42669857",
-      "authors": [
-        {
-          "name": "Sorensen JR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bastarrachea LJ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71415",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71415",
-      "epubdate": ""
-    },
-    {
-      "title": "Comparative Study on the Mixed Fermentation Process of Germinated Quinoa and Lycium barbarum, and Changes in Metabolites and Microbial Community Before and After Fermentation.",
-      "url": "https://doi.org/10.1111/1750-3841.71399",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42669848",
-      "authors": [
-        {
-          "name": "Wang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wei W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ye Y",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71399",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71399",
-      "epubdate": ""
-    },
-    {
-      "title": "Soy Protein Isolate-β-Cyclodextrin Microencapsulation Boosts Stability and Intestinal Delivery of α-Linolenic Acid-Rich Structured Lipids: Oxidation, Digestion, and Molecular Docking Evaluation.",
-      "url": "https://doi.org/10.1111/1750-3841.71419",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42669841",
-      "authors": [
-        {
-          "name": "Wan Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guo X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu JN",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Luo H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wei C",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71419",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71419",
-      "epubdate": ""
-    },
-    {
-      "title": "Tannic Acid-Based Multilayers Anchoring Anthocyanin-Loaded Mesoporous Silica Microcapsules: A Synergistic Hydrogel System for Ameliorating DSS-Induced Colitis.",
-      "url": "https://doi.org/10.1111/1750-3841.71369",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42669838",
-      "authors": [
-        {
-          "name": "Hu D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "He X",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71369",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71369",
-      "epubdate": ""
-    },
-    {
-      "title": "Dietary-Derived Corchorus olitorius L. Extract Suppresses KRAS-Mutant Pancreatic Cancer by Activating Ferritinophagy-Dependent Ferroptosis.",
-      "url": "https://doi.org/10.1111/1750-3841.71410",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42667123",
-      "authors": [
-        {
-          "name": "Tseng CY",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lin HH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chyau CC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yu PR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liang YH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wong Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen JH",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71410",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71410",
-      "epubdate": ""
-    },
-    {
       "title": "Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108639",
       "source": "PubMed → Prev Med",
@@ -5923,176 +6054,84 @@
       "epubdate": "2026 May 20"
     },
     {
-      "title": "Depuration Investigation on Parasites and Bacterial Loads in Freshwater Clam (Batissa violacea) and Oyster (Crassostrea gigas) Using a Sand Filter and UV Radiation.",
-      "url": "https://doi.org/10.1111/1750-3841.71396",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42665856",
-      "authors": [
-        {
-          "name": "Singh AA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mani S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Singh V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Prasad P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kumar JA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Padayachi SBR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Prasad S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chetty I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kapadia BS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Darshni P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Maharaj A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kumar CK",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sami A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tamani S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Taucilagi S",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "8",
-      "pages": "e71396",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71396",
-      "epubdate": ""
-    },
-    {
-      "title": "Efficacy and Safety of Tirzepatide Versus Placebo or Lisdexamfetamine Dimesylate for Binge-Eating Disorder",
-      "url": "https://clinicaltrials.gov/study/NCT06847399",
+      "title": "Ritual Synbiotic+, a Dietary Supplement Designed to Impact Gastrointestinal Health, Mood, and Behavior in Women",
+      "url": "https://clinicaltrials.gov/study/NCT06834984",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-09-17",
-      "abstract": "Status: RECRUITING; Conditions: Obesity and Overweight, Binge Eating Disorder; Interventions: Tirzepatide, Lisdexamfetamine Dimesylate, Guided self-help cognitive behavioral therapy, Placebo (oral), Placebo (injection); The purpose of this study is to assess the efficacy and safety of tirzepatide in adults with obesity and binge-eating disorder, comparing tirzepatide against placebo and lisdexamfetamine dimesylate. All participants will receive guided self-help cognitive behavioral therapy.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06847399",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Investigation of the Effects of a Multispecies Probiotic Formulation on Perennial Allergic Rhinitis",
-      "url": "https://clinicaltrials.gov/study/NCT07157462",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-09-01",
-      "abstract": "Status: COMPLETED; Conditions: Perennial Allergic Rhinitis; Interventions: Multi-species probiotic powder for oral solution. Dietary supplement containing six bacterial strains (Lactobacillus and Bifidobacterium species), Placebo Powder for Oral Solution; The goal of this clinical trial is to learn if a probiotic formulation consisting of multiple bacterial strains has a positive effect on the quality of life of participants with chronic perennial allergic rhinitis symptoms. The researchers will also study whether the probiotic formulation influences; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07157462",
+      "date": "2025-05-01",
+      "abstract": "Status: COMPLETED; Conditions: Gastrointestinal Disease Symptoms; Interventions: Prebiotic, probiotic, postbiotic combination, Placebo; The aim of this study is to determine how regular consumption of Synbiotic+, a dietary supplement that contains prebiotics, probiotics, and postbiotics, impacts functional gastrointestinal health, markers of intestinal inflammation and immune health, and influences mood and behavior. The primary out; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06834984",
       "status": "COMPLETED"
     },
     {
-      "title": "Prevention of Lifestyle-related Disorders Based on Functional Examinations",
-      "url": "https://clinicaltrials.gov/study/NCT06309342",
+      "title": "FMT+ QL1706+Bevacizumab+ XELOX as First-line Treatment for Advanced MSS-type Colorectal Cancer With Liver Metastasis",
+      "url": "https://clinicaltrials.gov/study/NCT06801665",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2024-08-28",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Lifestyle-related Condition; Interventions: PREVFUNKTION, Control; The goal of this randomised controlled trial is to examine the effects of functional examinations and feedback/support on healthy 40-year-olds. The main questions it aims to answer are: • Does feedback and motivational interviewing after testing physical function motivate inactive middle-aged people; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06309342",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Mother-Baby Study - Eating in the Absence of Hunger (EAH)",
-      "url": "https://clinicaltrials.gov/study/NCT06072638",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-12-21",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Eating Behavior; Interventions: Eating in Absence of Hunger; The study will test a model of biobehavioral mechanisms involved in the development of a system of emotion, attachment, and nutritive intake in the mother-infant dyad and the association of this system with maternal feeding behavior, child eating behavior, dietary intake, and adiposity.\n\nTo particip; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06072638",
-      "status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "title": "Influence of Gut Microbiome in Gallstone Disease",
-      "url": "https://clinicaltrials.gov/study/NCT05732480",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-05-30",
-      "abstract": "Status: RECRUITING; Conditions: Gall Stone, Gall Stones, Common Bile Duct, Pancreatitis, Acute Cholecystitis; The goal of this prospective observational study is to explore the role of the gut microbiome in patients with gallstone disease.\n\nThe main question\\[s\\] it aims to answer are:\n\n* if there is a relationship between the gut microbiome and the development of complications associated with gallstone dis; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT05732480",
+      "date": "2025-04-17",
+      "abstract": "Status: RECRUITING; Conditions: Colorectal Cancer Liver Metastasis; Interventions: FMT+QL1706+Bevacizumab+XELOX; The investigators plan to initiate a prospective, multicenter, phase II study, recruiting 30 patients with advanced colorectal cancer patients with liver metastasis who have not received prior treatment. This study plans to reconstruct intestinal microecology through fecal microbiota transplantation; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06801665",
       "status": "RECRUITING"
     },
     {
-      "title": "A Study to Assess the Adverse Events and Change in Disease Activity of Oral Atogepant Tablets in Pediatric Participants (6-17 Years of Age) With Episodic Migraine",
-      "url": "https://clinicaltrials.gov/study/NCT05711394",
+      "title": "PRIDE III Prison Interventions and HIV Prevention Collaboration",
+      "url": "https://clinicaltrials.gov/study/NCT06962033",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2023-05-01",
-      "abstract": "Status: RECRUITING; Conditions: Episodic Migraine; Interventions: Atogepant, Placebo-Matching Atogepant; A migraine is a moderate to severe headache on one side of the head. A migraine attack is a headache that may be accompanied by throbbing, nausea, vomiting, sensitivity to light and sound, or other symptoms. A number of treatments are available for adults with migraine but there are limited approved; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05711394",
+      "date": "2024-11-05",
+      "abstract": "Status: RECRUITING; Conditions: Hiv, Opioid Use; Interventions: Opioid Agonist Therapy; The primary objective of this research project is to identify barriers to scale-up of Opioid Agonist Therapy (OAT) in the justice systems (prisons and probation) in Tajikistan, Kyrgyzstan, Moldova, and Georgia, and establish a NIATx learning collaborative to scale-up OAT, and analyze scale-up utiliz; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06962033",
       "status": "RECRUITING"
     },
     {
-      "title": "Metabolic and Bio-behavioral Effects of Following Recommendations in the Dietary Guidelines for Americans",
-      "url": "https://clinicaltrials.gov/study/NCT04293224",
+      "title": "Cessation of Somatostatin Analogues After PRRT in Mid, Hind-Gut and Pancreatic Neuroendocrine Tumours",
+      "url": "https://clinicaltrials.gov/study/NCT06345079",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2022-08-01",
-      "abstract": "Status: COMPLETED; Conditions: Obesity, Body Weight; Interventions: DGA Mediterranean diet pattern, energy balance, DGA Mediterranean diet pattern, negative energy balance, TAD diet pattern, negative energy balance; This study, at the Western Human Nutrition Research Center (WHNRC), will focus on whether or not achieving and maintaining a healthy body weight is the most important health promoting recommendation of the Dietary Guidelines for Americans (DGA).The investigators hypothesize that improvement in cardi; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT04293224",
+      "date": "2024-10-14",
+      "abstract": "Status: RECRUITING; Conditions: Neuroendocrine Tumors; Interventions: Cessation of somatostatin analogues, Continuation of somatostatin analogues; Neuroendocrine tumours (NETs) are slow growing cancers, which commonly present as metastatic incurable disease. Some neuroendocrine tumours, termed functional NETs, overproduce hormones which result in a variety of symptoms. However, approximately 75% of NETs are considered non-functional meaning th; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06345079",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Susceptibility to Infectious Diseases in Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT05975541",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2023-10-01",
+      "abstract": "Status: RECRUITING; Conditions: Obesity, Type2diabetes, Gut Microbiota, Chronic Disease; Interventions: Observational; The role of intestinal microbiota is becoming ever more important in the context of obesity, type II diabetes (T2D), and infectious disorders as represented by the emerging discipline \"therapeutic microbiology\". The gut microbiota is strictly interconnected with obesity and T2D playing also an impor; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT05975541",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Evaluate the Safety, Efficacy, and Pharmacokinetics of CRN04894 in Participants With Congenital Adrenal Hyperplasia (TouCAHn)",
+      "url": "https://clinicaltrials.gov/study/NCT05907291",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2023-07-03",
+      "abstract": "Status: COMPLETED; Conditions: Congenital Adrenal Hyperplasia, Classic Congenital Adrenal Hyperplasia; Interventions: atumelnant (CRN04894); The purpose of this Phase 2, open-label, sequential dose cohort study is to evaluate the safety, efficacy, and pharmacokinetics (PK) of atumelnant (CRN04894) in participants with classic congenital adrenal hyperplasia (CAH) caused by 21-hydroxylase deficiency.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05907291",
       "status": "COMPLETED"
     },
     {
-      "title": "Tailoring Mobile Health Technology to Reduce Obesity and Improve Cardiovascular Health in Resource-Limited Neighborhood Environments",
-      "url": "https://clinicaltrials.gov/study/NCT03288207",
+      "title": "Efficacy of a Nutrient Blend in Improving Neurocognitive and Behavioral Outcomes in Infants: a Randomized, Controlled, Intervention Study",
+      "url": "https://clinicaltrials.gov/study/NCT05310396",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2018-06-21",
-      "abstract": "Status: RECRUITING; Conditions: Obesity; Interventions: AMRA(r) Researcher Image reconstruction software, MRI: radiofrequency coils (Device Manufacturer: Siemens Medical Solutions USA, Inc.), MRI: Research pulse sequences (Device Manufacturer: NIH), MRI: Image Reconstruction and Analysis Software (Device Manufacturer: NIH), Bluetooth-enabled glucometer; Background\n\nObesity and physical inactivity contribute substantially to cardiovascular disease risk, diabetes, hypertension, and dyslipidemia. African American women experience disproportionately high rates of obesity and have among the lowest levels of physical activity and greatest sedentary time ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT03288207",
-      "status": "RECRUITING"
+      "date": "2022-10-07",
+      "abstract": "Status: COMPLETED; Conditions: Infant Nutrition, Cognitive Development; Interventions: Experimental formula, Control Formula; The purpose of this study is to demonstrate the efficacy of the nutrient blend in a starter infant formula (IF) and follow up infant formula (FUF) in improving the neurocognitive and behavioural outcomes among formula-fed infants randomized to the experimental formula (EF) versus the control formula; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05310396",
+      "status": "COMPLETED"
     },
     {
-      "title": "iCaReMe Global Registry: Multinational Real-world Evidence in Cardiorenal and Metabolic Diseases",
-      "url": "https://clinicaltrials.gov/study/NCT03549754",
+      "title": "Yoghurt Supplementation In Critically Ill Adults",
+      "url": "https://clinicaltrials.gov/study/NCT07812415",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2018-02-17",
-      "abstract": "Status: RECRUITING; Conditions: Type 2 Diabetes, Hypertension, Chronic Kidney Disease, Heart Failure; To provide real world data on patient characteristics, disease management, healthcare utilization, and outcomes in patients with type 2 diabetes, Hypertension, Heart failure and/or Chronic kidney diseases; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT03549754",
-      "status": "RECRUITING"
+      "date": "2021-06-01",
+      "abstract": "Status: COMPLETED; Conditions: Critical Illness, Systemic Inflammation; Interventions: Yoghurt; This pilot randomized controlled trial tested the feasibility of yoghurt supplementation (400 mL/day for 3 days) in critically ill adults receiving nasogastric feeds. Twelve patients were enrolled, with high adherence and no safety concerns reported. Yoghurt intake was associated with a significant ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07812415",
+      "status": "COMPLETED"
     },
     {
       "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
@@ -6239,20 +6278,20 @@
       "abstract": "regs by default Jeffrey J. Bunker"
     },
     {
-      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Noor E Huma , Samuel"
-    },
-    {
       "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
       "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
       "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
       "abstract": "Xin Yu , Wenge"
+    },
+    {
+      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Noor E Huma , Samuel"
     }
   ]
 }
