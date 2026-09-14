@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T01:50:49.473200",
+    "generated_at": "2026-09-14T00:16:46.565296",
     "days_back": 1,
-    "total_papers": 156,
+    "total_papers": 146,
     "sources": {
       "pubmed": 116,
       "rss": 0,
-      "preprints": 20,
+      "preprints": 10,
       "trials": 20
     }
   },
@@ -20,6 +20,148 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Food Insecurity, Healthy Eating; Interventions: Video Tutorial, Delivery Fee Waiver, Youth-led Wellness Program, Financial Incentive, Grocery List with Instant Shoppable SNAP-Ed Recipes; Type 2 diabetes (T2D) disproportionately affects Black and Hispanic youth compared to their White peers. Although prediabetes can rapidly progress, youth who maintain or lose weight are able to revert the condition. Youth-led online Diabetes Prevention Programs (DPP) show promise for improving healt; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07815015",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Dual screen for gut metabolites suppressing enterobacterial growth and invasiveness reveals structure-activity relationships among anti-infective indoles.",
+      "url": "https://doi.org/10.1080/19490976.2026.2728235",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42728852",
+      "authors": [
+        {
+          "name": "Bergholtz A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lin W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaur A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bhetwal A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhu S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mateus A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Di Martino ML",
+          "authtype": "Author"
+        },
+        {
+          "name": "Eriksson J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Globisch D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Sellin ME",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2728235",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2728235",
+      "epubdate": "2026 Sep 12"
+    },
+    {
+      "title": "Strain-resolved metabolomic chemotyping identifies tryptophan and γ-glutamyl peptides as MGO-AGEs breaking postbiotic compounds for carbonyl stress mitigation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2728833",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42728851",
+      "authors": [
+        {
+          "name": "Kim SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hong SM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee EY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim SA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han NS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim SY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee CH",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2728833",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2728833",
+      "epubdate": "2026 Sep 12"
+    },
+    {
+      "title": "GUTchetp: integrated prediction of gut microbial biotransformation profiles using ensemble monolingual and multilingual neural machine translation and enzyme class consistency-reaction similarity.",
+      "url": "https://doi.org/10.1080/19490976.2026.2726639",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42728849",
+      "authors": [
+        {
+          "name": "Nabhan Homsi M",
+          "authtype": "Author"
+        },
+        {
+          "name": "von Bergen M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2726639",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2726639",
+      "epubdate": "2026 Sep 12"
     },
     {
       "title": "Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial.",
@@ -1779,179 +1921,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2718589",
       "epubdate": "2026 Aug 21"
-    },
-    {
-      "title": "BIOCARD framework: integrating fecal bile acids, lipids, and metabolites to assess response to a cardiovascular health intervention.",
-      "url": "https://doi.org/10.1080/19490976.2026.2719242",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42627058",
-      "authors": [
-        {
-          "name": "Zhang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jung H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gao S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Khalsa AS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bailey MT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kelleher KJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Loman BR",
-          "authtype": "Author"
-        },
-        {
-          "name": "Spees CK",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhu J",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2719242",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2719242",
-      "epubdate": "2026 Aug 21"
-    },
-    {
-      "title": "High dietary B(12) is associated with reduced gut microbial B(12) biosynthesis capacity and lower fecal short-chain fatty acids in healthy United States adults.",
-      "url": "https://doi.org/10.1080/19490976.2026.2718567",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42625439",
-      "authors": [
-        {
-          "name": "Hilliard MA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Oliver A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wilson SMG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shahab-Ferdows S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hampel D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bennett BJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Allen LH",
-          "authtype": "Author"
-        },
-        {
-          "name": "G Lemay D",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2718567",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2718567",
-      "epubdate": "2026 Aug 21"
-    },
-    {
-      "title": "Long-term microbiome and clinical effects of a microbiome-guided personalized diet versus low-FODMAP diet in irritable bowel syndrome: A 12-month follow-up randomized controlled trial.",
-      "url": "https://doi.org/10.1080/19490976.2026.2719125",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42623122",
-      "authors": [
-        {
-          "name": "Tunali V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Arslan NÇ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Derviş Haki̇m G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gündoğdu A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ermi̇ş BH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hora M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nalbantoğlu ÖU",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2719125",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2719125",
-      "epubdate": "2026 Aug 20"
     },
     {
       "title": "HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.",
@@ -6122,86 +6091,6 @@
       "abstract": "Status: RECRUITING; Conditions: Recurrent Bacterial Vaginosis; Interventions: Vaginal microbiome transplant, Oral Metronidazole, Sterile saline; This is a randomized trial of vaginal microbiome transplant vs. saline placebo to restore a Lactobacillus dominant vaginal microbial community in women with recurrent bacterial vaginosis.; Study Type: INTERVENTIONAL",
       "nct_id": "NCT04046900",
       "status": "RECRUITING"
-    },
-    {
-      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Keyong Deng , Quinten R."
-    },
-    {
-      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Vanesa Caro Miranda , Shadia Blel"
-    },
-    {
-      "title": "NutrIA: Development and Internal Validation of a Hybrid Clinical Decision Support System for Personalized Preventive Nutrition",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359723v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Bohdan Isaiev , Iryna"
-    },
-    {
-      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Yuhao Sun , Zhuoyuan"
-    },
-    {
-      "title": "Development and Scoring of a Diet Quality Screener for Hispanic/Latino Adults Using National Health and Nutrition Examination Survey Data: The SABE Lo Que Come? Tool",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362652v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Margaret Pichardo , Vasuprada"
-    },
-    {
-      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Matteo Di Scipio , Alice"
-    },
-    {
-      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Mary Njeri Wanjau , Lucy"
-    },
-    {
-      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Onyedika G. Ani , Elaheh"
-    },
-    {
-      "title": "DIETARY PRACTICES AND NUTRITION STATUS OF PREGNANT ADOLESCENTS’ IN KAJIADO COUNTY, KENYA",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.07.28.26359156v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Caroline Wambui Wandu , Joseph"
-    },
-    {
-      "title": "Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Fhadilla Amelia , Arina Nurul"
     },
     {
       "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
