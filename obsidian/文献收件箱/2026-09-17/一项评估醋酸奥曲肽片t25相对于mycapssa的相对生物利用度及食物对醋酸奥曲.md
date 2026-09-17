@@ -1,0 +1,24 @@
+---
+pmid: 
+title: "A Phase 1 Study to Evaluate the Relative Bioavailability of Octreotide Acetate Tablets(T25) Compared to MYCAPSSA® and Th"
+title_cn: "一项评估醋酸奥曲肽片（T25）相对于MYCAPSSA®的相对生物利用度及食物对醋酸奥曲肽片（T25）药代动力学影响的1期研究"
+source: "ClinicalTrials.gov"
+url: "https://clinicaltrials.gov/study/NCT07663318"
+date: 2026-09-17
+type: 
+tags: [文献]
+---
+
+#文献
+
+# 一项评估醋酸奥曲肽片（T25）相对于MYCAPSSA®的相对生物利用度及食物对醋酸奥曲肽片（T25）药代动力学影响的1期研究
+
+**原文：**A Phase 1 Study to Evaluate the Relative Bioavailability of Octreotide Acetate Tablets(T25) Compared to MYCAPSSA® and The Food Effect on Pharmacokinetics Of Octreotide Acetate Tablets(T25)
+**来源：**ClinicalTrials.gov
+**链接：**[DOI](https://clinicaltrials.gov/study/NCT07663318)
+
+## 核心发现
+该1期研究旨在评估口服醋酸奥曲肽片（T25）相对于MYCAPSSA®的相对生物利用度，以及食物对T25药代动力学的影响。主要问题包括T25的相对生物利用度以及食物对其药代动力学的影响。
+
+## 与研究方向关联
+研究食物对药物药代动力学的影响，与营养学间接相关，但非疾病预防核心。
