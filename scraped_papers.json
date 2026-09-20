@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T02:03:38.365380",
+    "generated_at": "2026-09-20T02:07:51.991562",
     "days_back": 1,
-    "total_papers": 160,
+    "total_papers": 144,
     "sources": {
       "pubmed": 115,
-      "rss": 6,
-      "preprints": 20,
+      "rss": 0,
+      "preprints": 10,
       "trials": 22
     }
   },
@@ -30,6 +30,86 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Physical Performance, Placebo Effect, Cognitive Performance; Interventions: Caffeine (6mg/kg), Placebo (Starch capsule); This study aims to determine the impact of the placebo (PLA) effect on physical and cognitive performance in a controlled laboratory setting. The study investigates how expectations and beliefs about substance intake (caffeine vs. placebo) interact with actual consumption to influence performance an; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07748429",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Effects of Lactobacillus acidophilus on hepatic and microbial dysregulation in MASLD and diabetes.",
+      "url": "https://doi.org/10.1080/19490976.2026.2734705",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42760849",
+      "authors": [
+        {
+          "name": "Park HJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Park IG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Park JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Park HJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jung JJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Suk KT",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2734705",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2734705",
+      "epubdate": "2026 Sep 19"
+    },
+    {
+      "title": "From molecules to medicine: the gut‒heart axis comes of age.",
+      "url": "https://doi.org/10.1080/19490976.2026.2731684",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42760841",
+      "authors": [
+        {
+          "name": "Pretorius T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Marques FZ",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2731684",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Editorial"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2731684",
+      "epubdate": "2026 Sep 19"
     },
     {
       "title": "IgA deficiency reveals a microbiota-dependent pathway to gluten sensitivity.",
@@ -1733,154 +1813,6 @@
       "epubdate": "2026 Aug 28"
     },
     {
-      "title": "Agathobacter rectalis suppresses colorectal tumorigenesis via an epigallocatechin-SREBF2 axis controlling cholesterol metabolism.",
-      "url": "https://doi.org/10.1080/19490976.2026.2724227",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42665998",
-      "authors": [
-        {
-          "name": "Lu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sun Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zeng Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lau EYT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lan Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ye S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hu R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cui C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liang JQ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2724227",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2724227",
-      "epubdate": "2026 Aug 28"
-    },
-    {
-      "title": "Latent tuberculosis infection shapes gut microbiome and immune-metabolic interactions in people living with HIV.",
-      "url": "https://doi.org/10.1080/19490976.2026.2721739",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42657534",
-      "authors": [
-        {
-          "name": "Devadiga P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Batgire J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Karandikar K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bhowmick S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Birje S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kerkar S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Nagar V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Patil P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Agrawal S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Shastri J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gaikwad S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Munne K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Mukherjee N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Madan T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Patel V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bhor VM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2721739",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2721739",
-      "epubdate": "2026 Aug 27"
-    },
-    {
       "title": "HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.",
       "url": "https://doi.org/10.1016/j.foodres.2026.120465",
       "source": "PubMed → Food Res Int",
@@ -3421,54 +3353,6 @@
       "status": "RECRUITING"
     },
     {
-      "title": "Relative and absolute reliability of medial knee joint space width measurement using ultrasound imaging during valgus stress testing",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358761",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "PPARγ-dependent and -independent regulation of genes involved in hepatic methionine cycle in fasted or diet-induced obese mice",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358698",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "A microbiome–metabolome signature associated with pediatric severe asthma",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358560",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "COVID-19 mortality risk among people with HIV in Florida before and after the introduction of COVID-19 vaccines: A population-based study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358543",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Editorial Note: Development and validation of a quantitative Proximity Extension Assay instrument with 21 proteins associated with cardiovascular risk (CVD-21)",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358531",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Association of type 2 diabetes mellitus with postoperative outcomes following single-level endoscopic lumbar interbody fusion through a posterior approach: A global propensity score–matched cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358422",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-18T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
       "title": "We Want to See if There is a Correlation Between Stress and the Microbiome for Pilots and Astronauts and if we Can Find a Way to Optimize This Balance for Pilots so That They Can Maximize Aerodynamic Decision Making on the Flight Deck.",
       "url": "https://clinicaltrials.gov/study/NCT07829159",
       "source": "ClinicalTrials.gov",
@@ -4236,6 +4120,167 @@
         "Letter"
       ],
       "elocationid": "doi: 10.1016/j.amepre.2026.108399",
+      "epubdate": ""
+    },
+    {
+      "title": "Emerging Technologies in Processing of Edible Insects: Innovations in Safety Assurance and Quality Enhancement of Insect Protein-Based Food Products.",
+      "url": "https://doi.org/10.1111/1750-3841.71492",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42760797",
+      "authors": [
+        {
+          "name": "Anusha S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Negi PS",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71492",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71492",
+      "epubdate": ""
+    },
+    {
+      "title": "Physicochemical Insights Into Structuring Olive Oil With Dry-Fractionated Anhydrous Milk Fat.",
+      "url": "https://doi.org/10.1111/1750-3841.71493",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42760796",
+      "authors": [
+        {
+          "name": "Zampouni K",
+          "authtype": "Author"
+        },
+        {
+          "name": "Prodromidis P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Andriotis EG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Katsanidis E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Moschakis T",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71493",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71493",
+      "epubdate": ""
+    },
+    {
+      "title": "Study on the Nutritional Characteristics and Flavor of De-Anthocyanidin Black Rice Fermented by Multiple Compound Lactobacillus.",
+      "url": "https://doi.org/10.1111/1750-3841.71416",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42760795",
+      "authors": [
+        {
+          "name": "Yang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wei S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "He Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ma X",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71416",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71416",
+      "epubdate": ""
+    },
+    {
+      "title": "Enhancing Repeated Frying Stability of Soybean Oil by Blending With Beef Tallow.",
+      "url": "https://doi.org/10.1111/1750-3841.71473",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42760792",
+      "authors": [
+        {
+          "name": "Zhang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiang Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xu M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu P",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71473",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71473",
       "epubdate": ""
     },
     {
@@ -5505,200 +5550,6 @@
       "epubdate": ""
     },
     {
-      "title": "Recent Advances in the Study of Aroma Control and Release Through the Interaction of Matrix Components and Aroma Compounds in Soft Drinks.",
-      "url": "https://doi.org/10.1111/1750-3841.71447",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42733173",
-      "authors": [
-        {
-          "name": "Zhang W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhao W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Qi G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Luo Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang D",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sun S",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71447",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71447",
-      "epubdate": ""
-    },
-    {
-      "title": "Intermittent Drying With Heated Air and Microwaves of Dragon Fruit Foams Formulated With Different Protein Sources.",
-      "url": "https://doi.org/10.1111/1750-3841.71460",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42733170",
-      "authors": [
-        {
-          "name": "Cruz MS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Santos AAL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Leal GF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Santos JCC",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lopes GM",
-          "authtype": "Author"
-        },
-        {
-          "name": "Macedo LL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Petri Júnior I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Corrêa JLG",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71460",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71460",
-      "epubdate": ""
-    },
-    {
-      "title": "Advancing Blueberry Postharvest Management: A Paradigm Shift From Pathogen Killing to Niche Occupancy.",
-      "url": "https://doi.org/10.1111/1750-3841.71467",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42733167",
-      "authors": [
-        {
-          "name": "Wang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guo C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jiang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhao J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yi J",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71467",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71467",
-      "epubdate": ""
-    },
-    {
-      "title": "Microwave Modulation of β-Amylase Kinetics and Structure to Suppress Starch Retrogradation in Mashed Potatoes.",
-      "url": "https://doi.org/10.1111/1750-3841.71461",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42733166",
-      "authors": [
-        {
-          "name": "Peng J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huang M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cao H",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71461",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71461",
-      "epubdate": ""
-    },
-    {
       "title": "Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108639",
       "source": "PubMed → Prev Med",
@@ -6090,86 +5941,6 @@
       "abstract": "Status: RECRUITING; Conditions: Type 1 Diabetes Mellitus, T1DM, T1D; This is a multi-center, prospective, non-interventional study that focuses on the long- term effects following participation in selected ITN new-onset Type1 Diabetes Mellitus studies with immunomodulatory agents (T1DM, T1D).\n\nThis observational study will:\n\n* follow participants to determine how lon; Study Type: OBSERVATIONAL",
       "nct_id": "NCT02734277",
       "status": "RECRUITING"
-    },
-    {
-      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Keyong Deng , Quinten R."
-    },
-    {
-      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Vanesa Caro Miranda , Shadia Blel"
-    },
-    {
-      "title": "NutrIA: Development and Internal Validation of a Hybrid Clinical Decision Support System for Personalized Preventive Nutrition",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359723v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Bohdan Isaiev , Iryna"
-    },
-    {
-      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Yuhao Sun , Zhuoyuan"
-    },
-    {
-      "title": "Development and Scoring of a Diet Quality Screener for Hispanic/Latino Adults Using National Health and Nutrition Examination Survey Data: The ¿SABE Lo Que Come? Tool",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362652v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Margaret S. Pichardo , Vasu"
-    },
-    {
-      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Matteo Di Scipio , Alice"
-    },
-    {
-      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Mary Njeri Wanjau , Lucy"
-    },
-    {
-      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Onyedika G. Ani , Elaheh"
-    },
-    {
-      "title": "DIETARY PRACTICES AND NUTRITION STATUS OF PREGNANT ADOLESCENTS’ IN KAJIADO COUNTY, KENYA",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.07.28.26359156v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Caroline Wambui Wandu , Joseph"
-    },
-    {
-      "title": "Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Fhadilla Amelia , Arina Nurul"
     },
     {
       "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
