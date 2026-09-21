@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T02:07:51.991562",
+    "generated_at": "2026-09-21T02:09:05.006937",
     "days_back": 1,
-    "total_papers": 144,
+    "total_papers": 154,
     "sources": {
       "pubmed": 115,
       "rss": 0,
-      "preprints": 10,
+      "preprints": 20,
       "trials": 22
     }
   },
@@ -30,6 +30,136 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Physical Performance, Placebo Effect, Cognitive Performance; Interventions: Caffeine (6mg/kg), Placebo (Starch capsule); This study aims to determine the impact of the placebo (PLA) effect on physical and cognitive performance in a controlled laboratory setting. The study investigates how expectations and beliefs about substance intake (caffeine vs. placebo) interact with actual consumption to influence performance an; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07748429",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "A network dynamical simulation model for the study of antibiotic resistance in microbial communities.",
+      "url": "https://doi.org/10.1080/19490976.2026.2734703",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42762163",
+      "authors": [
+        {
+          "name": "Silva-Magaña MA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Mora-Flores LP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pita-Galeana MA",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hernández-Lemus E",
+          "authtype": "Author"
+        },
+        {
+          "name": "de Anda-Jáuregui G",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2734703",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2734703",
+      "epubdate": "2026 Sep 19"
+    },
+    {
+      "title": "Fungal extracellular vesicles reshape Lactobacillus rhamnosus vesicles to enhance lysosomal homeostasis and resolve intestinal inflammation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2736915",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42762160",
+      "authors": [
+        {
+          "name": "Ji Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen G",
+          "authtype": "Author"
+        },
+        {
+          "name": "He X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen B",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guo Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Han Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2736915",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2736915",
+      "epubdate": "2026 Sep 19"
+    },
+    {
+      "title": "Translational efficiency guides microbial community remodeling.",
+      "url": "https://doi.org/10.1080/19490976.2026.2736907",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42762131",
+      "authors": [
+        {
+          "name": "Xiang Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2736907",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2736907",
+      "epubdate": "2026 Sep 19"
     },
     {
       "title": "Effects of Lactobacillus acidophilus on hepatic and microbial dysregulation in MASLD and diabetes.",
@@ -1624,193 +1754,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2725430",
       "epubdate": "2026 Sep 1"
-    },
-    {
-      "title": "Parallel evolutionary trajectories rewire enteropathogenic Escherichia coli adhesion to restore host attachment.",
-      "url": "https://doi.org/10.1080/19490976.2026.2725431",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42678059",
-      "authors": [
-        {
-          "name": "Yedidi N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cohen-Yaron K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ravins M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bejerano-Sagie M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ben-Yehuda S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rosenshine I",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2725431",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2725431",
-      "epubdate": "2026 Sep 1"
-    },
-    {
-      "title": "Bacteroides cellulosilyticus-derived 2-hydroxyphenylacetic acid rectifies hepatic lipid homeostasis in MASLD by targeting the PPARγ-CD36 axis.",
-      "url": "https://doi.org/10.1080/19490976.2026.2725392",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42677827",
-      "authors": [
-        {
-          "name": "Chen K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Peng J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cai X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jung S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tian Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Rao X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Di Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lee MS",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zou Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "He N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li S",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2725392",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2725392",
-      "epubdate": "2026 Sep 1"
-    },
-    {
-      "title": "Microbial epigenetic regulation as a multilevel regulatory interface in host-microbe interactions.",
-      "url": "https://doi.org/10.1080/19490976.2026.2725428",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42666001",
-      "authors": [
-        {
-          "name": "Yizengaw Adnie L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang GH",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2725428",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2725428",
-      "epubdate": "2026 Aug 28"
     },
     {
       "title": "HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.",
@@ -5941,6 +5884,86 @@
       "abstract": "Status: RECRUITING; Conditions: Type 1 Diabetes Mellitus, T1DM, T1D; This is a multi-center, prospective, non-interventional study that focuses on the long- term effects following participation in selected ITN new-onset Type1 Diabetes Mellitus studies with immunomodulatory agents (T1DM, T1D).\n\nThis observational study will:\n\n* follow participants to determine how lon; Study Type: OBSERVATIONAL",
       "nct_id": "NCT02734277",
       "status": "RECRUITING"
+    },
+    {
+      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Keyong Deng , Quinten R."
+    },
+    {
+      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Vanesa Caro Miranda , Shadia Blel"
+    },
+    {
+      "title": "NutrIA: Development and Internal Validation of a Hybrid Clinical Decision Support System for Personalized Preventive Nutrition",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359723v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Bohdan Isaiev , Iryna"
+    },
+    {
+      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Yuhao Sun , Zhuoyuan"
+    },
+    {
+      "title": "Development and Scoring of a Diet Quality Screener for Hispanic/Latino Adults Using National Health and Nutrition Examination Survey Data: The ¿SABE Lo Que Come? Tool",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362652v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Margaret S. Pichardo , Vasu"
+    },
+    {
+      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Matteo Di Scipio , Alice"
+    },
+    {
+      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Mary Njeri Wanjau , Lucy"
+    },
+    {
+      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Onyedika G. Ani , Elaheh"
+    },
+    {
+      "title": "DIETARY PRACTICES AND NUTRITION STATUS OF PREGNANT ADOLESCENTS’ IN KAJIADO COUNTY, KENYA",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.28.26359156v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Caroline Wambui Wandu , Joseph"
+    },
+    {
+      "title": "Demographic Factors Moderate the Effectiveness of Obesity Prevention Interventions: A Secondary Analysis of College Intervention Trials",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351238v1",
+      "source": "medRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Caitlyn Winn , Leah"
     },
     {
       "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
