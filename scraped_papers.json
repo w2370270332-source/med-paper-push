@@ -1,16 +1,101 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T02:14:27.109694",
+    "generated_at": "2026-09-24T02:00:34.824083",
     "days_back": 1,
-    "total_papers": 157,
+    "total_papers": 134,
     "sources": {
-      "pubmed": 113,
-      "rss": 5,
-      "preprints": 20,
-      "trials": 19
+      "pubmed": 110,
+      "rss": 4,
+      "preprints": 0,
+      "trials": 22
     }
   },
   "papers": [
+    {
+      "title": "A probiotic Bifidobacterium pseudocatenulatum converts hesperidin to bioactive hesperetin and improves metabolic dysfunction in aging mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2736902",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42776010",
+      "authors": [
+        {
+          "name": "Shen ZQ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Thuy TTD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lu CK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Nguyen TS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tung CY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kao CY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tsai TF",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2736902",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2736902",
+      "epubdate": "2026 Sep 23"
+    },
+    {
+      "title": "The OMM(12) mice: a decade of dissecting host-microbiome interactions.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725332",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42773683",
+      "authors": [
+        {
+          "name": "Conti DE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Debarbieux L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Henrot C",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2725332",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2725332",
+      "epubdate": "2026 Sep 22"
+    },
     {
       "title": "Gut-immune-PVAT axis is involved in ethanol-induced abdominal aortic dysfunction via IL-17RA, TLR4, and FPR1 signaling.",
       "url": "https://doi.org/10.1080/19490976.2026.2734648",
@@ -1634,149 +1719,6 @@
       "epubdate": "2026 Sep 4"
     },
     {
-      "title": "Gut microbiota and metabolic alterations in participants with flatulence identify Faecalibacterium prausnitzii as a key microbial target for clinical intervention.",
-      "url": "https://doi.org/10.1080/19490976.2026.2728332",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42689867",
-      "authors": [
-        {
-          "name": "Chen R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yan S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ren Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cui S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lu W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yang B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lyu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tian P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhao J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tian F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xue Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhai Q",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2728332",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2728332",
-      "epubdate": "2026 Sep 3"
-    },
-    {
-      "title": "Antibiotic pretreatment with ampicillin or streptomycin differentially shapes Salmonella infection kinetics and associated intestinal inflammation in mice.",
-      "url": "https://doi.org/10.1080/19490976.2026.2725469",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42687710",
-      "authors": [
-        {
-          "name": "Maurer L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Enz U",
-          "authtype": "Author"
-        },
-        {
-          "name": "Gül E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kiefer P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Christen P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fuchs L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hardt WD",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2725469",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2725469",
-      "epubdate": "2026 Sep 3"
-    },
-    {
-      "title": "Efficacy of Mazdutide on Fatty Pancreas",
-      "url": "https://clinicaltrials.gov/study/NCT07803705",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-11-15",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Fatty Pancreas, Overweight, Obesity; Interventions: mazdutide, Placebo matching mazdutide; This is a randomized, double-blind, placebo-controlled, parallel-group, single-center clinical trial designed to evaluate the efficacy and safety of mazdutide in improving fatty pancreas in patients with overweight or obesity. The study plans to enroll 194 participants with overweight or obesity, wh; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07803705",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
       "title": "HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.",
       "url": "https://doi.org/10.1016/j.foodres.2026.120465",
       "source": "PubMed → Food Res Int",
@@ -3257,33 +3199,43 @@
       "epubdate": "2026 Aug 18"
     },
     {
-      "title": "Anti-Inflammatory Diet and Physical Activity for Reproductive Health in Adolescent Girls",
-      "url": "https://clinicaltrials.gov/study/NCT07834489",
+      "title": "PFAS Clinical Trial",
+      "url": "https://clinicaltrials.gov/study/NCT07836023",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-10-20",
-      "abstract": "Status: RECRUITING; Conditions: Reproductive Health; Interventions: Anti-Inflammatory Dietary Intervention, Physical Activity and Training Programme; This study will evaluate whether a 16-week anti-inflammatory dietary intervention, delivered alone or together with a physical activity programme, can improve diet quality and support reproductive health in girls aged 14-19 years. Approximately 100 participants will be recruited from two secondary s; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07834489",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Trial of the Combination of Alpha-Lipoic Acid and Mirabegron in Women and in Men With Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT05713799",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-27",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Insulin Resistance, Obesity; Interventions: Alpha-lipoic acid, Mirabegron, Placebo; Background:\n\nObesity and related illnesses cause at least 2.8 million deaths each year worldwide. Few treatments exist for obesity that are safe and widely available. A study drug (mirabegron \\[MG\\]) combined with a supplement (alpha-lipoic acid \\[ALA\\]) may help.\n\nObjective:\n\nTo learn how MG and AL; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05713799",
+      "date": "2026-11",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Environmental Exposure; Interventions: Cholestyramine, Centrum; The purpose of this study is to evaluate whether treatment with cholestyramine for either one, two, three, or four months (up to 120 days), meaningfully influences per- and polyfluoroalkyl substances (PFAS) removal from the body.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07836023",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "A Natural History of Genetic and Environmental Predictors of Pubertal Timing Among Youth With Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT07437976",
+      "title": "Optimised Cardiovascular and Renal Protection in Patients With Chronic Kidney Disease and Cardiovascular Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07835828",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-27",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity; Interventions: Weight loss intervention, No Weight loss intervention; Background:\n\nObesity affects 1 in 5 children in the United States. Childhood obesity often persists into adolescence and adulthood. It can also raise the risk of sleep apnea, fatty liver disease, and fluid buildup in the brain and lead to early-onset puberty. This natural history study will explore ; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07437976",
+      "date": "2026-10-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Chronic Kidney Disease, Heart Failure With Preserved Ejection Fraction (HFPEF), Cardiovascular Diseases; Interventions: Multidisciplinary Cardio-Renal Care; The goal of this clinical trial is to investigate whether care in a specialised Cardio-Renal Clinic can improve the health of people living with both cardiovascular disease and chronic kidney disease. The clinic brings together expertise in heart and kidney disease and provides structured treatment ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07835828",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Plasma Lipids-Dependent Vitamin E Metabolism During Dynamic Hyperlipidemia",
+      "url": "https://clinicaltrials.gov/study/NCT07715890",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Lipid Metabolism Disorders; Interventions: High fat liquid shake; Background:\n\nObesity is known to lead to diseases such as diabetes and high cholesterol (or fats) in the blood (hyperlipidemia). But no one knows why. Researchers think that high levels of fat in the blood may block important nutrients, such as vitamin E, from reaching places they are needed in the ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07715890",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
+      "url": "https://clinicaltrials.gov/study/NCT06690294",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT06690294",
       "status": "NOT_YET_RECRUITING"
     },
     {
@@ -3291,99 +3243,91 @@
       "url": "https://clinicaltrials.gov/study/NCT06274749",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
       "nct_id": "NCT06274749",
       "status": "RECRUITING"
     },
     {
-      "title": "Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study",
-      "url": "https://clinicaltrials.gov/study/NCT05652478",
+      "title": "Effects of Meal Macronutrients on Postprandial Lipids",
+      "url": "https://clinicaltrials.gov/study/NCT07313787",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-27",
-      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer, Weight Gain, Metabolic Effects, Integrase Strand Transfer Inhibitors; Interventions: Dolutegravir (DTG) AND Tenofovir alafenamide (TAF), Tenofovir Disoproxil Fumarate, Dolutegravir, Tenofovir alafenamide; Background:\n\nPeople with HIV take drugs to keep the amount of virus in their body low. One type of these drugs, called integrase strand transfer inhibitors (INSTIs), can cause weight gain over time. Weight gain can cause diabetes, heart disease, and other serious issues. Researchers want to understa; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05652478",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism",
-      "url": "https://clinicaltrials.gov/study/NCT06690294",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-09-27",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Healthy Volunteer, Obestity; Background:\n\nMany people in the United States are overweight or obese. This natural history study will look into how life events during childhood can impact eating behaviors and weight gain as adults.\n\nObjective:\n\nTo explore how childhood experiences affect adult eating behaviors.\n\nEligibility:\n\nHea; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT06690294",
+      "date": "2026-09-28",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Nephrotic Syndrome, Lipodystrophy, Metabolic Syndrome, Healthy Volunteer, Diabetes; Interventions: High carb then high fat breakfast, High fat then high carb breakfast; Background:\n\nAbnormal fats in the blood can lead to many problems, including heart disease. Researchers want to learn more about how eating meals with different levels of nutrients affects fats in the blood. Specifically, they want to study people with too much body fat, too little body fat, and a k; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07313787",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Performance of machine learning–based prediction models for hypoglycemia in Chinese patients with diabetes: A systematic review and meta-analysis",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358876",
-      "source": "PLOS ONE RSS",
+      "title": "The effect of lifestyle interventions in women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004887",
+      "source": "PLOS Medicine RSS",
       "source_type": "journal",
-      "date": "2026-09-22T14:00:00+00:00",
+      "date": "2026-09-23T14:00:00+00:00",
       "abstract": ""
     },
     {
-      "title": "Using cycling as transportation and related adverse events during pregnancy: An anonymous questionnaire survey in urban Japan",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358856",
+      "title": "Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357625",
       "source": "PLOS ONE RSS",
       "source_type": "journal",
-      "date": "2026-09-22T14:00:00+00:00",
+      "date": "2026-09-23T14:00:00+00:00",
       "abstract": ""
     },
     {
-      "title": "Maternal serum vitamin D levels and preeclampsia among Kenyan pregnant women: A matched case-control study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358781",
+      "title": "The parental intestinal microbiome modulates systemic and local glucocorticoid levels in neonatal mice",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357469",
       "source": "PLOS ONE RSS",
       "source_type": "journal",
-      "date": "2026-09-22T14:00:00+00:00",
+      "date": "2026-09-23T14:00:00+00:00",
       "abstract": ""
     },
     {
-      "title": "Glabridin content and metabolic effects of liquorice confectionaries: A secondary analysis of a randomized crossover trial in young adults",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358710",
+      "title": "Prenatal substance exposure and 5-year child protection outcomes among infants not reported at birth",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357388",
       "source": "PLOS ONE RSS",
       "source_type": "journal",
-      "date": "2026-09-22T14:00:00+00:00",
+      "date": "2026-09-23T14:00:00+00:00",
       "abstract": ""
     },
     {
-      "title": "A recurrent cancer-associated fibroblast/TGF-beta/endothelial barrier direction is associated with immune exclusion and checkpoint resistance in bladder cancer: a public multi-cohort transcriptomic study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358043",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-09-22T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Estradiol Levels According to Body Mass Index in Premenopausal Patients With Breast Cancer",
-      "url": "https://clinicaltrials.gov/study/NCT07833501",
+      "title": "Pre-hepatectomy Rehabilitation in Obese MASLD-Complicated Living Liver Donors With Mazdutide (PRIME)",
+      "url": "https://clinicaltrials.gov/study/NCT07718126",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-03",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Hormone Receptor-Positive Breast Cancer; his prospective observational study will evaluate whether body mass index (BMI) is associated with serum estradiol levels in premenopausal women with hormone receptor-positive breast cancer. Participants will already be receiving standard adjuvant treatment with an aromatase inhibitor and pharmacolo; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07833501",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "A Study of Clazakizumab (LY5724886) in Adults With Elevated hsCRP and at Increased Risk for Cardiovascular Event",
-      "url": "https://clinicaltrials.gov/study/NCT07783802",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-08-27",
-      "abstract": "Status: RECRUITING; Conditions: Atherosclerosis, Cardiovascular Disease, Obesity, Hypertension, Diabetes Mellitus, Type 2; Interventions: Clazakizumab, Placebo; The purpose of this study is to measure the change in high-sensitivity C-reactive protein (hsCRP), a marker of inflammation in the body, with clazakizumab compared with placebo in adults who have elevated hsCRP and at increased risk for cardiovascular event.\n\nParticipation in the study will last abo; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07783802",
+      "date": "2026-09-01",
+      "abstract": "Status: RECRUITING; Conditions: Metabolic Dysfunction-Associated Steatohepatitis, Hepatic Steatosis, Living Liver Donors; Interventions: Mazdutide, Placebo (Normal Saline), Lifestyle Optimization; The purpose of this study is to evaluate the efficacy and safety of a short-term (12-week) prehabilitation strategy combining mazdutide (a novel GLP-1/GCG receptor dual agonist) with lifestyle optimization, compared to lifestyle optimization alone, in potential living liver transplantation donors wi; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07718126",
       "status": "RECRUITING"
     },
     {
-      "title": "A Study of Orforglipron in Participants With Overweight at Risk of Development of Obesity-Related Complications or Progression to Class 1 Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT07794579",
+      "title": "Dietary Insights and Nutritional Education in Adults on GLP-1 Therapy",
+      "url": "https://clinicaltrials.gov/study/NCT07518407",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-08-26",
-      "abstract": "Status: RECRUITING; Conditions: Overweight, Prediabetic State, Prehypertension, Obesity, Abdominal; Interventions: Orforglipron, Placebo; This study will evaluate the efficacy and safety of orforglipron in participants with overweight and assess whether it helps reduce the future risk of obesity-related conditions, including type 2 diabetes, hypertension, and dyslipidemia, and progression to class 1 obesity.; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07794579",
+      "date": "2026-04-06",
+      "abstract": "Status: RECRUITING; Conditions: Obesity Type 2 Diabetes Mellitus, Obesity; Interventions: SWITCH Diets - Mobile Nutrition Behavioral Intervention; This pilot study will evaluate the feasibility, acceptability, and perceived usefulness of the SWITCH mobile nutrition behavioral intervention among adults receiving GLP-1 receptor agonist therapy for obesity and/or type 2 diabetes. Participants will complete baseline assessments, receive a 6-week a; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07518407",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "An Evaluation of Nutritional Status, Body Composition, and Dietary Intakes of Filipino Pediatric Patients With Inborn Errors of Intermediary Protein Metabolism",
+      "url": "https://clinicaltrials.gov/study/NCT07837336",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-03-10",
+      "abstract": "Status: RECRUITING; Conditions: Metabolism, Inborn Errors, Amino Acid Metabolism, Inborn Errors; In the Philippines, a disease is considered rare if it affects one in every 20,000 individuals. About 75% of rare diseases in the country, including Inborn Errors of Intermediary Protein Metabolism (IEIPM), are of genetic in origin with symptoms beginning in early infancy with about 30 percent of pa; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07837336",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Gut Microbiome in Gynecological Cancer Patients With Pelvic Toxicity: Controls Versus Ozone Treatment. (MicrOzoGineTox)",
+      "url": "https://clinicaltrials.gov/study/NCT07259681",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-01-15",
+      "abstract": "Status: RECRUITING; Conditions: Pelvic Toxicity, Radiation Toxicity, Chemotherapy Toxicity, Gynecological Tumors, Radiation Proctitis; Patients treated for gynecological tumors with radiotherapy (RT) and/or chemotherapy (CT) frequently develop pelvic toxicity (TPIRQT), a condition that can become persistent, progressive, and refractory to standard treatments. This toxicity, affecting the rectum (proctitis), bladder (cystitis), and ; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07259681",
       "status": "RECRUITING"
     },
     {
@@ -3885,88 +3829,6 @@
       "epubdate": ""
     },
     {
-      "title": "Sleep and Its Impact on the Success of Weight Loss Interventions in Adults With Excess Weight: A Systematic Review.",
-      "url": "https://doi.org/10.1111/obr.70199",
-      "source": "PubMed → Obes Rev",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: Obes Rev",
-      "pmid": "42478101",
-      "authors": [
-        {
-          "name": "Duan L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Berryhill J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dai N",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sica G",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chaput JP",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "27",
-      "issue": "9",
-      "pages": "e70199",
-      "issn": "1467-7881",
-      "essn": "1467-789X",
-      "journal_full": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-      "pub_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "elocationid": "doi: 10.1111/obr.70199",
-      "epubdate": "2026 Jul 20"
-    },
-    {
-      "title": "Obesity Remission: A Missing Target in Contemporary Medicine.",
-      "url": "https://doi.org/10.1111/obr.70197",
-      "source": "PubMed → Obes Rev",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: Obes Rev",
-      "pmid": "42444353",
-      "authors": [
-        {
-          "name": "Koufakis T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kokkinos A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Busetto L",
-          "authtype": "Author"
-        },
-        {
-          "name": "le Roux CW",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "27",
-      "issue": "9",
-      "pages": "e70197",
-      "issn": "1467-7881",
-      "essn": "1467-789X",
-      "journal_full": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/obr.70197",
-      "epubdate": "2026 Jul 14"
-    },
-    {
       "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108626",
       "source": "PubMed → Prev Med",
@@ -4134,6 +3996,64 @@
         "Letter"
       ],
       "elocationid": "doi: 10.1016/j.amepre.2026.108399",
+      "epubdate": ""
+    },
+    {
+      "title": "Integrating Genomics and Metabolomics to Identify Lactic Acid Bacteria With Broad-Spectrum Antimicrobial Activity and Validation in a Bread System.",
+      "url": "https://doi.org/10.1111/1750-3841.71392",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Sep",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42775524",
+      "authors": [
+        {
+          "name": "Zhang X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Cui M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shi C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zheng Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Su Z",
+          "authtype": "Author"
+        },
+        {
+          "name": "Shen Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "9",
+      "pages": "e71392",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71392",
       "epubdate": ""
     },
     {
@@ -5520,60 +5440,6 @@
       "epubdate": ""
     },
     {
-      "title": "Consumer Language-Based Sensory Descriptor Extraction and Volatile-Sensory Associations in Aged Light Flavor Baijiu.",
-      "url": "https://doi.org/10.1111/1750-3841.71490",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42746718",
-      "authors": [
-        {
-          "name": "Liao S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Han H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meng T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Song J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Han Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang B",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71490",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71490",
-      "epubdate": ""
-    },
-    {
       "title": "Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108639",
       "source": "PubMed → Prev Med",
@@ -5755,300 +5621,104 @@
       "epubdate": "2026 May 29"
     },
     {
-      "title": "Prevalence and associated social determinants of health for pregestational and gestational diabetes mellitus in California by disaggregated racial and ethnic groups and subgroups.",
-      "url": "https://doi.org/10.1016/j.ypmed.2026.108609",
-      "source": "PubMed → Prev Med",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Prev Med",
-      "pmid": "42176957",
-      "authors": [
-        {
-          "name": "Hsieh CT",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ren X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chehab RF",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen L",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "209",
-      "issue": "",
-      "pages": "108609",
-      "issn": "0091-7435",
-      "essn": "1096-0260",
-      "journal_full": "Preventive medicine",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/j.ypmed.2026.108609",
-      "epubdate": "2026 May 22"
-    },
-    {
-      "title": "BioNortHealth Project",
-      "url": "https://clinicaltrials.gov/study/NCT07833787",
+      "title": "Community-based Implementation of Adapted STAC",
+      "url": "https://clinicaltrials.gov/study/NCT06689930",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-10-01",
-      "abstract": "Status: RECRUITING; Conditions: College Students; The goal of this observational longitudinal cohort study is to identify key lifestyle-related predictors of health and disease and to understand how health trajectories develop over time in adolescents and young adults.\n\nThe main questions it aims to answer are:\n\n* How are lifestyle habits associate; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07833787",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Inclisiran Versus Placebo for the Prevention of Major Adverse Cardiovascular and Limb Events in Patients Undergoing Percutaneous Coronary Intervention or Peripheral Endovascular Intervention",
-      "url": "https://clinicaltrials.gov/study/NCT06909565",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-07-23",
-      "abstract": "Status: RECRUITING; Conditions: Percutaneous Coronary Intervention, Peripheral Endovascular Intervention; Interventions: Inclisiran sodium 300 mg (equivalent to 284 mg inclisiran) in 1.5 mL, Normal Saline (Placebo); V-INTERVENTION will evaluate the effectiveness of inclisiran in preventing major cardiovascular and limb events in patients receiving percutaneous coronary or peripheral arterial revascularization. Inclisiran is a subcutaneous, twice-yearly injection that is FDA-approved as an adjunct with statin th; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06909565",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Chinese Multicenter Cohort Study of Intracerebral Hemorrhage",
-      "url": "https://clinicaltrials.gov/study/NCT07833410",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-02-01",
-      "abstract": "Status: RECRUITING; Conditions: Intracerebral Hemorrhage; Spontaneous intracerebral hemorrhage is a severe form of stroke associated with high mortality and long-term disability. The Chinese Multicenter Cohort Study of Intracerebral Hemorrhage (CASA) is a prospective observational patient registry designed to enroll approximately 10,000 adults with imaging; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07833410",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Jejunal Luminal and Colonic Mucosa-Associated Microbiota in Metabolic Diseases: Methods, Identification and Causalities",
-      "url": "https://clinicaltrials.gov/study/NCT05186389",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2022-01-17",
-      "abstract": "Status: COMPLETED; Conditions: Diabetes Mellitus, Obesity, Metabolic Disease; This clinical study will investigate Jejunal Microbiota in Metabolic Diseases (Je-MiMe, n=45) and Colonic mucosa-associated Microbiota in Metabolic Diseases (Col-MiMe, n=45).\n\nEach cohort (Je and Col -MiMe) is composed of three groups: participants with obesity (n=15) with obesity and with type II d; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT05186389",
+      "date": "2025-05-22",
+      "abstract": "Status: COMPLETED; Conditions: Blood Pressure, Hypertension, Pregnancy Related, Health Equity; Interventions: PDSA Cycles; This study is being done to adapt the Staying Healthy After Childbirth (STAC) intervention for implementation among Black Women and Birthing Persons (WBP).; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06689930",
       "status": "COMPLETED"
     },
     {
-      "title": "Protein and Resistance Exercise to Stop Sarcopenic Obesity Now",
-      "url": "https://clinicaltrials.gov/study/NCT04014296",
+      "title": "Comparison of the Effects of Intermittent Fasting and Frequent Feeding Strategies on Weight Loss in Obese Women",
+      "url": "https://clinicaltrials.gov/study/NCT07826065",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2021-04-12",
-      "abstract": "Status: COMPLETED; Conditions: Obesity; Interventions: High Protein Diet Counseling, Resistance Training Counseling, Intensify Initial Intervention, Combined Supplement and Supervised Resistance Training; The purpose of this study is to examine the separate and combined effects of a high-protein (HP) diet and resistance training (RT) on body composition and potential biological moderators of body weight in women and men \\>50y. All participants will receive dietary physical activity guidance through o; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT04014296",
+      "date": "2025-05-02",
+      "abstract": "Status: COMPLETED; Conditions: Obesity & Overweight; Interventions: 16:8 Time-Restricted Feeding and Exercise, Standart Diet and Exercise; This study was conducted to compare the effects of a 12-week 16:8 Time-Restricted Feeding (Intermittent Fasting) + home-based exercise protocol with and a calorie-restricted Standard Diet (SD) + home-based exercise protocol on body composition, lipid profile, glycemic control, and liver function enz; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07826065",
       "status": "COMPLETED"
     },
     {
-      "title": "Tailoring Mobile Health Technology to Reduce Obesity and Improve Cardiovascular Health in Resource-Limited Neighborhood Environments",
-      "url": "https://clinicaltrials.gov/study/NCT03288207",
+      "title": "High-Fermented Food Intervention Among Locally Advanced Rectal Cancer Patients (The FEED Trial)",
+      "url": "https://clinicaltrials.gov/study/NCT06337552",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2018-06-21",
-      "abstract": "Status: RECRUITING; Conditions: Obesity; Interventions: AMRA(r) Researcher Image reconstruction software, MRI: radiofrequency coils (Device Manufacturer: Siemens Medical Solutions USA, Inc.), MRI: Research pulse sequences (Device Manufacturer: NIH), MRI: Image Reconstruction and Analysis Software (Device Manufacturer: NIH), Bluetooth-enabled glucometer; Background\n\nObesity and physical inactivity contribute substantially to cardiovascular disease risk, diabetes, hypertension, and dyslipidemia. African American women experience disproportionately high rates of obesity and have among the lowest levels of physical activity and greatest sedentary time ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT03288207",
+      "date": "2024-04-04",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Rectal Cancer, Non-Small Cell Lung Cancer; Interventions: FEED-FF, Standard of Care (SUC); The purpose of the study is to evaluate the feasibility and acceptability of a dietary intervention (FEED-FF) that includes fermented foods (FF), among locally advanced rectal cancer patients and non-small cell lung cancer (NSCLC) patients, and to explore whether this diet can improve outcomes in re; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06337552",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "A Clinical Study on Using Multimodal Ultrasound to Assess Muscle Mass in Metabolic Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT07836088",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2023-07-01",
+      "abstract": "Status: RECRUITING; Conditions: Metabolic Syndrome, Obesity, Sarcopenia, Type 2 Diabetes; This study aims to evaluate the clinical value of multimodal ultrasound for assessing muscle mass in patients with metabolic diseases, including metabolic syndrome, type 2 diabetes, and simple obesity. Skeletal muscle is the largest metabolic organ in the human body and plays a critical role in gluc; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07836088",
       "status": "RECRUITING"
     },
     {
-      "title": "Insights Into Microbiome and Environmental Contributions to Sickle Cell Disease and Leg Ulcers Study (INSIGHTS Study)",
-      "url": "https://clinicaltrials.gov/study/NCT02156102",
+      "title": "The Genital Microbiome of Male Partners of Women With Recurrent BV Undergoing Vaginal Microbiome Transplantation",
+      "url": "https://clinicaltrials.gov/study/NCT05963711",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2014-06-16",
-      "abstract": "Status: COMPLETED; Conditions: Genetic Disease, Genomics; Background:\n\n\\- People with sickle cell disease and other blood disorders sometimes get chronic leg ulcers. These are wounds that develop on the skin and don t go away. Current treatments do not work very well, so researchers want to learn more about why the ulcers happen. They want to find out whic; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT02156102",
+      "date": "2022-10-17",
+      "abstract": "Status: RECRUITING; Conditions: Bacterial Vaginosis, Microbial Colonization; Interventions: chlorhexidine gluconate 4%; There is strong observational evidence that sexual activity plays a key role in Bacterial Vaginosis (BV) acquisition and recurrence. Microbiological data support the contribution of sexual transmission to the pathogenesis of BV through the exchange of BV-associated bacteria (BVAB) between sexual par; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05963711",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "BRInging the Diabetes Prevention Program to GEriatric Populations",
+      "url": "https://clinicaltrials.gov/study/NCT05166785",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2022-10-05",
+      "abstract": "Status: COMPLETED; Conditions: Pre Diabetes; Interventions: DPP Tailored for Older Adults and delivered via Telehealth, In-Person Diabetes Prevention Program (DPP); Over 24 million Americans are over 65 years and have prediabetes. Prediabetes can be addressed using a public health approach: among the 20% of participants in the Diabetes Prevention Program (DPP) who were ages 60 and over, the diet and physical activity intervention conferred a 71% risk reduction ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05166785",
       "status": "COMPLETED"
     },
     {
-      "title": "Study of the Effect of Innate on the Inflammatory Response to Endotoxin",
-      "url": "https://clinicaltrials.gov/study/NCT01143480",
+      "title": "American Lung Association (ALA) Lung Health Cohort",
+      "url": "https://clinicaltrials.gov/study/NCT04543461",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2012-07-30",
-      "abstract": "Status: RECRUITING; Conditions: Asthma, Atherosclerosis, Metabolic Syndrome, Insulin Resistance, Cancer; Background:\n\n\\- Innate immunity is the process by which white blood cells and other parts of the immune system sense and respond to potential infections by causing an inflammation. Researchers are interested in studying how the body responds to certain environmental factors, and whether the body s r; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT01143480",
+      "date": "2021-10-29",
+      "abstract": "Status: RECRUITING; Conditions: Lung Diseases; The ALA-LHC is a longitudinal, multi-center cohort study that will enroll approximately 4,000 young adults between the ages of 25-35 who do not have severe lung disease. The overarching objective of the ALA-LHC is to establish a national cohort of young adults for the purpose of defining lung health; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT04543461",
       "status": "RECRUITING"
     },
     {
-      "title": "Characterization of Patients With Uncommon Presentations and/or Uncommon Diseases Associated With the Cardiovascular System",
-      "url": "https://clinicaltrials.gov/study/NCT01143454",
+      "title": "Role of Post Surgery CT Following Laparoscopic Vertical Sleeve Gastrectomy",
+      "url": "https://clinicaltrials.gov/study/NCT03967860",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2010-07-21",
-      "abstract": "Status: RECRUITING; Conditions: Metabolic Disease, Obesity, Li-Fraumeni Syndrome, Cardiomyopathy, Atherosclerosis; Interventions: NSR IDE-MRI: Research pulse sequences; Background:\n\n\\- Researchers are interested in studying individuals who have known or suspected metabolic, inflammatory or genetic diseases that may put them at a high risk for heart diseases or diseases of their blood vessels. Depending on the condition being studied, both affected and nonaffected i; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT01143454",
+      "date": "2019-03-06",
+      "abstract": "Status: COMPLETED; Conditions: Obesity; Interventions: CT scan; Obesity is a extremely widespread condition in Europe and North America, burdened by a series of complications characterized by major morbidity and morbility. In recent years, bariatric surgery has progressively assumed a leading role in the treatment of morbid obesity and restrictive bariatric surg; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT03967860",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Body Mass Index (BMI) and Quality of Life (QoL) in Cancer Patients",
+      "url": "https://clinicaltrials.gov/study/NCT03873064",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2019-01-15",
+      "abstract": "Status: RECRUITING; Conditions: Neoplasm Malignant, Body Weight, Quality of Life; BMI is a simple and widely recorded variable that may capture obesity or cachexia in cancer patients. How BMI is associated to health-related quality of life (HR-QoL) in such patients is poorly investigated.\n\nHigh BMI may be associated to obesity, an increased burden of comorbidity, reduced physical; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT03873064",
       "status": "RECRUITING"
     },
     {
-      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Keyong Deng , Quinten R."
-    },
-    {
-      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Vanesa Caro Miranda , Shadia Blel"
-    },
-    {
-      "title": "NutrIA: Development and Internal Validation of a Hybrid Clinical Decision Support System for Personalized Preventive Nutrition",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359723v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Bohdan Isaiev , Iryna"
-    },
-    {
-      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Yuhao Sun , Zhuoyuan"
-    },
-    {
-      "title": "Development and Scoring of a Diet Quality Screener for Hispanic/Latino Adults Using National Health and Nutrition Examination Survey Data: The ¿SABE Lo Que Come? Tool",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362652v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Margaret S. Pichardo , Vasu"
-    },
-    {
-      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Matteo Di Scipio , Alice"
-    },
-    {
-      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Mary Njeri Wanjau , Lucy"
-    },
-    {
-      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Onyedika G. Ani , Elaheh"
-    },
-    {
-      "title": "DIETARY PRACTICES AND NUTRITION STATUS OF PREGNANT ADOLESCENTS’ IN KAJIADO COUNTY, KENYA",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.07.28.26359156v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Caroline Wambui Wandu , Joseph"
-    },
-    {
-      "title": "Mapping Human Development Index and Nutritional Status: Identifying Factors Associated with Malnutrition in Indonesia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.06.24.26355946v1",
-      "source": "medRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Fhadilla Amelia , Arina Nurul"
-    },
-    {
-      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Lauren E. Anderson , Anne L."
-    },
-    {
-      "title": "Probiotic-Directed Fermentation Reprograms the Metabolic Profile of a Traditional Mongolian Whole-Wheat Diet and Modulates Escherichia coli- Induced Gut Microbiota Dysbiosis",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.08.08.743650v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Eerdun duleng , Qingchun"
-    },
-    {
-      "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
-      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Kai R Trepka , Erin L"
-    },
-    {
-      "title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Mohamed Mokrani , Romain"
-    },
-    {
-      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
-    },
-    {
-      "title": "Grey mouse lemurs,",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.08.17.744835v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Microcebus murinus, are a relevant model to study gut microbiome flexibility in response to diet changes Maxime Naour"
-    },
-    {
-      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Kenneth T Trang , Dalia Arafat"
-    },
-    {
-      "title": "Microbiota- and diet-specific T cells become T",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.08.25.747099v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "regs by default Jeffrey J. Bunker"
-    },
-    {
-      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Xin Yu , Wenge"
-    },
-    {
-      "title": "Diet-dependent effects of kombucha on the gut microbiome and its neuroactive potential: Associations with reduced anxiety and depressive-like behaviors in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.05.07.718715v1",
-      "source": "bioRxiv",
-      "source_type": "preprint",
-      "date": null,
-      "abstract": "Noor E Huma , Samuel"
+      "title": "Family Investigation of Nephropathy and Diabetes (F.I.N.D.)",
+      "url": "https://clinicaltrials.gov/study/NCT00342927",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2001-03-07",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Diabetic Nephropathy, Diabetes Mellitus, Diabetic Kidney Disease, Albuminuria; The Family Investigation of Nephropathy and Diabetes (FIND) is a multicenter study designed to identify genetic determinants of diabetic kidney disease. FIND will be conducted in eleven centers and in many ethnic groups throughout the United States. Two different strategies will be used to localize ; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT00342927",
+      "status": "ACTIVE_NOT_RECRUITING"
     }
   ]
 }
