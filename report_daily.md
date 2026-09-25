@@ -1,415 +1,415 @@
 # 预防医学与营养学文献日报
 
-**2026-09-24（周四）** | 检索到 134 篇 | 深度分析 120 篇
+**2026-09-25（周五）** | 检索到 138 篇 | 深度分析 120 篇
 
-> PubMed(110) · RSS(4) · 预印本(0) · 临床试验(22)
+> PubMed(109) · RSS(8) · 预印本(0) · 临床试验(23)
 
 ---
 
-## 1. GLP-1治疗成人的饮食见解与营养教育
+## 1. 每日膳食补充剂对超重或肥胖个体血糖控制的影响
 
-*Dietary Insights and Nutritional Education in Adults on GLP-1 Therapy*
+*The Impact of a Daily Dietary Supplement on Glycemic Control in Individuals With Overweight or Obesity*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07518407](https://clinicaltrials.gov/study/NCT07518407)
+**DOI：**[https://clinicaltrials.gov/study/NCT07837817](https://clinicaltrials.gov/study/NCT07837817)
 
-**发现：**该试点研究旨在评估SWITCH移动营养行为干预在接受GLP-1受体激动剂治疗的肥胖和/或2型糖尿病成人中的可行性、可接受性和感知有用性。参与者将完成基线评估并接受为期6周的干预。
+**发现：**该临床试验将评估Metabolic Master Pack在90天干预期间对60名超重或肥胖成人血糖控制和食欲调节的疗效，参与者随机接受天然血糖控制补充剂或安慰剂多种维生素，并全程佩戴连续血糖监测仪。
 
-**关联：**直接涉及营养行为干预对肥胖和2型糖尿病患者的预防管理，与营养流行病学和慢性病预防相关。
+**关联：**直接研究膳食补充剂对超重/肥胖人群血糖控制的影响，属于营养干预与慢性病预防领域。
 
 ---
 
-## 2. 菲律宾中间代谢蛋白质先天性缺陷儿科患者的营养状况、身体成分和膳食摄入评估
+## 2. 脓毒症患者骨髓中的髓系偏向及其与疾病严重程度和预后的相关性：单中心前瞻性队列研究
 
-*An Evaluation of Nutritional Status, Body Composition, and Dietary Intakes of Filipino Pediatric Patients With Inborn Errors of Intermediary Protein Metabolism*
+*Myeloid Bias in the Bone Marrow of Septic Patients and Its Correlation With Disease Severity and Prognosis: A Single-Center, Prospective Cohort Study*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07837336](https://clinicaltrials.gov/study/NCT07837336)
+**DOI：**[https://clinicaltrials.gov/study/NCT07667153](https://clinicaltrials.gov/study/NCT07667153)
 
-**发现：**该观察性研究评估菲律宾患有中间代谢蛋白质先天性缺陷的儿科患者的营养状况、身体成分和膳食摄入。这些罕见遗传病约75%为遗传起源，症状在婴儿早期出现。
+**发现：**该观察性研究探讨脓毒症患者骨髓中髓系细胞偏向及其与疾病严重程度和预后的相关性，旨在揭示脓毒症免疫功能障碍的机制。
 
-**关联：**涉及罕见遗传代谢病的营养评估，与预防医学和营养学有一定关联，但非慢性病预防核心领域。
+**关联：**不直接相关，主要涉及脓毒症免疫病理机制，与营养/膳食/菌群对慢性病预防无直接关联。
 
 ---
 
-## 3. 妇科癌症患者盆腔毒性中的肠道微生物组：对照组与臭氧治疗比较
+## 3. 抗逆转录病毒药物在健康志愿者中的早期代谢效应：一项2期随机研究
 
-*Gut Microbiome in Gynecological Cancer Patients With Pelvic Toxicity: Controls Versus Ozone Treatment. (MicrOzoGineTox)*
+*Early Metabolic Effects of Antiretroviral Drugs in Healthy volUnteers: a Phase 2 Randomized Study*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07259681](https://clinicaltrials.gov/study/NCT07259681)
+**DOI：**[https://clinicaltrials.gov/study/NCT05652478](https://clinicaltrials.gov/study/NCT05652478)
 
-**发现：**该观察性研究探讨妇科肿瘤患者接受放疗和/或化疗后盆腔毒性（如直肠炎、膀胱炎）与肠道微生物组的关系，并比较对照组与臭氧治疗的效果。
+**发现：**该研究旨在了解整合酶链转移抑制剂（INSTIs）等抗逆转录病毒药物在健康志愿者中引起的体重增加和代谢效应，以探索其导致糖尿病和心脏病等风险的机制。
 
-**关联：**涉及肠道菌群与癌症治疗毒性，与肠道菌群和慢性病预防间接相关。
+**关联：**涉及药物引起的代谢效应和体重增加，与慢性病预防间接相关，但非营养/膳食/菌群核心领域。
 
 ---
 
-## 4. 局部晚期直肠癌患者的高发酵食物干预（FEED试验）
+## 4. MET097每周一次用于超重或肥胖人群的疗效和安全性
 
-*High-Fermented Food Intervention Among Locally Advanced Rectal Cancer Patients (The FEED Trial)*
+*Efficacy and Safety of MET097 Once-Weekly in People With Overweight or Obesity*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06337552](https://clinicaltrials.gov/study/NCT06337552)
+**DOI：**[https://clinicaltrials.gov/study/NCT07311850](https://clinicaltrials.gov/study/NCT07311850)
 
-**发现：**该干预性试验评估包含发酵食物的饮食干预（FEED-FF）在局部晚期直肠癌和非小细胞肺癌患者中的可行性和可接受性，并探索该饮食是否能改善治疗结果。
+**发现：**该研究评估每周注射一次MET097在伴有体重相关合并症（除2型糖尿病外）的超重或肥胖成人中的疗效和安全性，主要终点在治疗64周后评估，总试验持续84周。
 
-**关联：**直接研究膳食（发酵食物）对癌症患者结局的影响，与营养流行病学和慢性病预防相关。
+**关联：**涉及肥胖治疗药物，与慢性病预防间接相关，但非营养/膳食/菌群干预。
 
 ---
 
-## 5. PFAS临床试验
+## 5. 秋水仙碱用于2型糖尿病成人心血管疾病一级预防
 
-*PFAS Clinical Trial*
+*Colchicine for Primary Prevention of Cardiovascular Disease in Adults With Type 2 Diabetes*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07836023](https://clinicaltrials.gov/study/NCT07836023)
+**DOI：**[https://clinicaltrials.gov/study/NCT07837934](https://clinicaltrials.gov/study/NCT07837934)
 
-**发现：**该干预性研究评估考来烯胺治疗1至4个月（最多120天）是否能有效促进全氟和多氟烷基物质（PFAS）从体内排出。
+**发现：**该研究测试低剂量抗炎药秋水仙碱（0.5 mg每日口服）是否能保护2型糖尿病患者的血管，延缓动脉粥样硬化进展，基于糖尿病通过低度炎症加速血管硬化的机制。
 
-**关联：**涉及环境暴露物的清除，与营养或膳食预防不直接相关。
+**关联：**涉及2型糖尿病心血管疾病预防，但干预为抗炎药物而非营养/膳食/菌群，与预防医学相关但非营养流行病学核心。
 
 ---
 
-## 6. 评估不可预测性感知对食物消费和代谢客观指标的影响
+## 6. 与自然分娩发动相关的母体口腔微生物群和免疫特征
 
-*Assessing the Impact of Perceptions of Unpredictability on Objective Measures of Food Consumption and Metabolism*
+*Maternal Oral Microbiota and Immune Signatures Associated With Spontaneous Labor Onset*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06690294](https://clinicaltrials.gov/study/NCT06690294)
+**DOI：**[https://clinicaltrials.gov/study/NCT07839364](https://clinicaltrials.gov/study/NCT07839364)
 
-**发现：**该自然历史研究探讨童年生活事件如何影响成人饮食行为和体重增加，关注不可预测性感知与食物消费及代谢的关系。
+**发现：**该观察性研究调查55名健康足月孕妇在自然分娩发动前后口腔微生物群和免疫系统的变化，以了解口腔微生物与分娩启动的关系。
 
-**关联：**涉及饮食行为和代谢，与营养流行病学和肥胖预防相关。
+**关联：**涉及微生物群（口腔）与免疫，但与营养/膳食对慢性病预防的关联不直接。
 
 ---
 
-## 7. 尿石素A补充对55岁及以上健康成人葡萄糖代谢的影响：一项随机三盲对照临床试验
+## 7. 尼泊尔FCHV-HTN实施试验
 
-*Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial*
+*FCHV-HTN Implementation Trial in Nepal*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06274749](https://clinicaltrials.gov/study/NCT06274749)
+**DOI：**[https://clinicaltrials.gov/study/NCT06081010](https://clinicaltrials.gov/study/NCT06081010)
 
-**发现：**该随机三盲对照试验研究尿石素A（一种天然营养补充剂）对55岁及以上健康成人葡萄糖代谢的影响，旨在探索其改善血糖控制的潜力。
+**发现：**该混合III型整群随机试验评估社区健康工作者主导的高血压预防和控制项目（CHPC）在尼泊尔中部高血压患者中的实施效果和临床结局。
 
-**关联：**直接研究营养补充剂对葡萄糖代谢和糖尿病预防的影响，与营养流行病学和慢性病预防高度相关。
+**关联：**涉及高血压预防和控制，属于预防医学领域，但干预为社区健康工作者项目而非营养/膳食/菌群。
 
 ---
 
-## 8. 膳食宏量营养素对餐后血脂的影响
+## 8. 短期适应生酮饮食对耐力训练运动员的影响
 
-*Effects of Meal Macronutrients on Postprandial Lipids*
+*Effects of Short-term Adaptation to Ketogenic Diet on Endurance Trained Athletes*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07313787](https://clinicaltrials.gov/study/NCT07313787)
+**DOI：**[https://clinicaltrials.gov/study/NCT07838818](https://clinicaltrials.gov/study/NCT07838818)
 
-**发现：**该干预性研究探讨不同宏量营养素组成的早餐（高碳水后高脂 vs 高脂后高碳水）对餐后血脂的影响，研究对象包括肾病综合征、脂肪代谢障碍、代谢综合征、糖尿病及健康志愿者。
+**发现：**该研究探讨短期生酮饮食适应对耐力训练运动员骨骼肌糖原利用和运动能力的影响，比较生酮饮食与对照饮食的效果。
 
-**关联：**直接研究膳食宏量营养素对血脂代谢的影响，与营养流行病学和慢性病预防相关。
+**关联：**研究生酮饮食对运动代谢的影响，涉及营养干预但非慢性病预防核心领域。
 
 ---
 
-## 9. 利用多模态超声评估代谢性疾病患者肌肉量的临床研究
+## 9. 提高埃塞俄比亚严重急性营养不良（SAM）治疗覆盖率
 
-*A Clinical Study on Using Multimodal Ultrasound to Assess Muscle Mass in Metabolic Diseases*
+*Increasing the Coverage of Severe Acute Malnutrition (SAM) Treatment in Ethiopia*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07836088](https://clinicaltrials.gov/study/NCT07836088)
+**DOI：**[https://clinicaltrials.gov/study/NCT06380504](https://clinicaltrials.gov/study/NCT06380504)
 
-**发现：**该观察性研究旨在评估多模态超声在代谢综合征、2型糖尿病和单纯性肥胖患者中评估骨骼肌质量的临床价值。骨骼肌是人体最大的代谢器官，在葡萄糖代谢中起关键作用。目前研究正在招募中，尚未报告结果。
+**发现：**该干预性研究旨在通过利用现有社区团体提供预防、筛查、转诊和治疗的综合干预包（R-SWITCH），以解决严重消瘦（SAM）治疗覆盖率低的问题，包括儿童营养行为改变沟通。目前状态为招募中。
 
-**关联：**涉及代谢性疾病与肌肉量评估，与慢性病预防和代谢健康相关，但核心为影像学评估方法而非营养/膳食干预。
+**关联：**直接涉及营养干预（严重急性营养不良治疗）与儿童健康，属于营养流行病学和预防医学范畴。
 
 ---
 
-## 10. 接受阴道菌群移植的复发性细菌性阴道病女性男性伴侣的生殖道微生物组
+## 10. 比较CagriSema与司美格鲁肽、卡格瑞林肽和安慰剂对超重或肥胖的慢性肾脏病合并2型糖尿病患者肾脏损伤的减少作用
 
-*The Genital Microbiome of Male Partners of Women With Recurrent BV Undergoing Vaginal Microbiome Transplantation*
+*A Research Study to See if Kidney Damage in People With Chronic Kidney Disease and Type 2 Diabetes Living With Overweight or Obesity Can be Reduced by CagriSema Compared to Semaglutide, Cagrilintide and Placebo*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT05963711](https://clinicaltrials.gov/study/NCT05963711)
+**DOI：**[https://clinicaltrials.gov/study/NCT06131372](https://clinicaltrials.gov/study/NCT06131372)
 
-**发现：**该干预性研究探讨性活动在细菌性阴道病（BV）获得和复发中的关键作用，以及通过性传播交换BV相关细菌的微生物学证据。研究正在招募中，干预措施为4%葡萄糖酸氯己定。
+**发现：**该研究旨在评估CagriSema是否能降低慢性肾脏病（CKD）、2型糖尿病（T2D）和超重或肥胖患者的肾脏损伤，并与司美格鲁肽、卡格瑞林肽和安慰剂进行比较。研究已完成。
 
-**关联：**涉及微生物组与疾病，但聚焦生殖道菌群而非肠道菌群，且与营养/膳食无直接关联。
+**关联：**涉及肥胖和2型糖尿病的药物干预，与慢性病预防和代谢相关，但非直接营养/膳食/菌群研究。
 
 ---
 
-## 11. 将糖尿病预防计划引入老年人群
+## 11. 间歇性CPAP的代谢影响
 
-*BRInging the Diabetes Prevention Program to GEriatric Populations*
+*Metabolic Impact of Intermittent CPAP*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT05166785](https://clinicaltrials.gov/study/NCT05166785)
+**DOI：**[https://clinicaltrials.gov/study/NCT02824263](https://clinicaltrials.gov/study/NCT02824263)
 
-**发现：**该干预性研究已完成，针对65岁以上糖尿病前期人群。在糖尿病预防计划（DPP）中60岁及以上参与者（占20%）中，饮食和体力活动干预使风险降低71%。研究比较了通过远程医疗和面对面方式实施的老年定制DPP。
+**发现：**该研究探讨阻塞性睡眠呼吸暂停是否通过改变睡眠期间的葡萄糖和脂质代谢，进而导致糖尿病和心血管疾病。研究已完成。
 
-**关联：**直接研究饮食和体力活动干预对糖尿病预防的效果，属于营养流行病学和慢性病预防的核心领域。
+**关联：**涉及睡眠呼吸暂停与代谢紊乱（糖尿病、心血管疾病）的关联，与慢性病预防间接相关，但非营养/膳食/菌群核心。
 
 ---
 
-## 12. 美国肺脏协会肺健康队列
+## 12. 在肯尼亚C1001P-CS2研究中比较使用一或两种探针进行热消融在宫颈癌筛查阳性HIV感染女性中的可行性研究
 
-*American Lung Association (ALA) Lung Health Cohort*
+*Feasibility Study Comparing Use of One Or Two Probes for Thermal Ablation Among Cervical Cancer Screen Positive Women Living With HIV in C1001P-CS2 Kenya*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT04543461](https://clinicaltrials.gov/study/NCT04543461)
+**DOI：**[https://clinicaltrials.gov/study/NCT07468695](https://clinicaltrials.gov/study/NCT07468695)
 
-**发现：**该纵向多中心队列研究计划招募约4000名25-35岁无严重肺病的年轻成人，旨在建立全国性队列以定义肺健康。研究正在招募中。
+**发现：**该研究旨在比较使用一种或两种探针进行热消融在HIV感染女性宫颈癌前病变治疗中的可行性。宫颈癌在低收入和中等收入国家的HIV感染女性中风险增加6倍。研究尚未开始招募。
 
-**关联：**涉及慢性呼吸系统疾病预防的队列研究，但未涉及营养/膳食或肠道菌群。
+**关联：**涉及HIV和宫颈癌预防，与营养/膳食/菌群/慢性病预防不直接相关。
 
 ---
 
-## 13. 慢性肾脏病合并心血管疾病患者的心血管和肾脏优化保护
+## 13. 益生菌促进持续健康
 
-*Optimised Cardiovascular and Renal Protection in Patients With Chronic Kidney Disease and Cardiovascular Disease*
+*Probiotics for Sustained Health*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07835828](https://clinicaltrials.gov/study/NCT07835828)
+**DOI：**[https://clinicaltrials.gov/study/NCT07835100](https://clinicaltrials.gov/study/NCT07835100)
 
-**发现：**该干预性试验旨在研究专科心肾联合门诊的多学科护理能否改善同时患有心血管疾病和慢性肾脏病患者的健康。研究尚未开始招募。
+**发现：**这项随机双盲安慰剂对照试验将评估益生菌补充剂对4-18岁有反复上呼吸道感染（URTI）病史儿童URTI的影响。参与者将随机接受益生菌滴剂或安慰剂。研究尚未开始招募。
 
-**关联：**涉及慢性病管理与预防，但干预为多学科护理模式，非营养/膳食或菌群相关。
+**关联：**直接研究益生菌（肠道菌群干预）对儿童上呼吸道感染的影响，属于预防医学和菌群研究范畴。
 
 ---
 
-## 14. 动态高脂血症期间血浆脂质依赖性维生素E代谢
+## 14. Tiny Tummies - 牛奶研究
 
-*Plasma Lipids-Dependent Vitamin E Metabolism During Dynamic Hyperlipidemia*
+*Tiny Tummies - A Milk Study*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07715890](https://clinicaltrials.gov/study/NCT07715890)
+**DOI：**[https://clinicaltrials.gov/study/NCT07839156](https://clinicaltrials.gov/study/NCT07839156)
 
-**发现：**该干预性研究探讨肥胖导致糖尿病和高胆固醇的机制，假设血液中高水平的脂肪可能阻断维生素E等重要营养素到达所需部位。干预措施为高脂液体奶昔。研究尚未开始招募。
+**发现：**这项为期12个月、2臂随机对照试验（n=150）将12个月大的幼儿随机分配至每日摄入1.5杯当量的牛奶基乳制品或燕麦奶基乳制品，随访至24个月，比较生长、睡眠、神经认知和肠道微生物组结局。研究尚未开始招募。
 
-**关联：**直接研究脂质代谢与维生素E（营养素）代谢的相互作用，与营养学和代谢性疾病预防高度相关。
+**关联：**直接研究乳制品（膳食）对幼儿生长、肠道微生物组和神经认知的影响，属于营养流行病学和菌群研究。
 
 ---
 
-## 15. 肥胖MASLD活体肝移植供体术前康复：Mazdutide联合生活方式优化（PRIME）
+## 15. 益生菌与健康
 
-*Pre-hepatectomy Rehabilitation in Obese MASLD-Complicated Living Liver Donors With Mazdutide (PRIME)*
+*Probiotics in Wellbeing*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07718126](https://clinicaltrials.gov/study/NCT07718126)
+**DOI：**[https://clinicaltrials.gov/study/NCT07840066](https://clinicaltrials.gov/study/NCT07840066)
 
-**发现：**该干预性试验评估短期（12周）术前康复策略的疗效和安全性，该策略结合mazdutide（新型GLP-1/GCG受体双重激动剂）与生活方式优化，对比单纯生活方式优化，用于肥胖的代谢功能障碍相关脂肪性肝炎活体肝移植供体。研究正在招募中。
+**发现：**该研究将调查每日服用益生菌补充剂（植物乳杆菌）12周是否能减少一般健康成人的低度炎症并改善健康状况。40名成人将随机接受益生菌或安慰剂胶囊。研究状态为活跃但未招募。
 
-**关联：**涉及肥胖、代谢性脂肪肝病和生活方式干预，与慢性病预防和代谢健康相关，但核心为药物干预。
+**关联：**直接研究益生菌（菌群干预）对健康成人炎症和健康的影响，属于预防医学和菌群研究。
 
 ---
 
-## 16. 基于社区的实施适应性STAC干预
+## 16. 基于代谢组学的酸奶消费客观生物标志物识别
 
-*Community-based Implementation of Adapted STAC*
+*Identification of Objective Metabolomics-based Biomarkers of Yogurt Consumption*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT06689930](https://clinicaltrials.gov/study/NCT06689930)
+**DOI：**[https://clinicaltrials.gov/study/NCT07491887](https://clinicaltrials.gov/study/NCT07491887)
 
-**发现：**该干预性研究已完成，旨在为黑人女性及分娩者调整和实施“产后保持健康”（STAC）干预，关注血压、妊娠期高血压和健康公平。干预措施为PDSA循环。
+**发现：**该研究旨在通过代谢组学识别酸奶消费的客观生物标志物，以克服现有前瞻性队列研究中自报膳食问卷的误差。研究比较无酸奶、低酸奶、中酸奶和高酸奶饮食。研究已完成。
 
-**关联：**涉及高血压预防和健康公平，但未涉及营养/膳食或肠道菌群。
+**关联：**直接研究酸奶（膳食）消费与2型糖尿病风险的关联，并开发客观生物标志物，属于营养流行病学核心。
 
 ---
 
-## 17. 间歇性禁食与频繁进食策略对肥胖女性减重效果的比较
+## 17. 产前和产后干预策略对超重女性母乳喂养结局的影响（Ready, Set, Nourish研究）
 
-*Comparison of the Effects of Intermittent Fasting and Frequent Feeding Strategies on Weight Loss in Obese Women*
+*Effect of Prenatal and Postnatal Intervention Strategies on Breastfeeding Outcomes in Women With Excessive Weight (Ready, Set, Nourish Study)*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT07826065](https://clinicaltrials.gov/study/NCT07826065)
+**DOI：**[https://clinicaltrials.gov/study/NCT06929091](https://clinicaltrials.gov/study/NCT06929091)
 
-**发现：**该随机对照试验比较了12周16:8限时进食（间歇性禁食）联合居家运动与热量限制标准饮食联合居家运动对肥胖女性体成分、血脂、血糖控制及肝功能的影响。研究已完成，但摘要未提供具体结果数据。
+**发现：**该研究为一项正在招募的干预性临床试验，旨在评估产前手挤母乳或初乳以及产后哺乳支持联合餐食计划等策略，能否改善超重女性的母乳喂养结局。目前尚无结果数据。
 
-**关联：**直接涉及间歇性禁食这一膳食干预模式对肥胖及代谢指标的影响，属于营养流行病学与慢性病预防范畴。
+**关联：**涉及孕期营养干预与母婴健康，与预防医学和营养流行病学相关，但主要关注母乳喂养行为而非慢性病预防。
 
 ---
 
-## 18. 腹腔镜袖状胃切除术后CT检查的作用
+## 18. 2型糖尿病的治疗依从性
 
-*Role of Post Surgery CT Following Laparoscopic Vertical Sleeve Gastrectomy*
+*Therapeutic Adherence in Type 2 Diabetes*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03967860](https://clinicaltrials.gov/study/NCT03967860)
+**DOI：**[https://clinicaltrials.gov/study/NCT07837856](https://clinicaltrials.gov/study/NCT07837856)
 
-**发现：**该观察性研究探讨了减重手术后CT扫描的应用价值，关注肥胖及其并发症的外科治疗。研究已完成，但摘要未提供具体影像学或临床结局数据。
+**发现：**该已完成研究比较了通过WhatsApp发送激励教育信息与实施SMART方法对2型糖尿病患者治疗依从性的影响。目前尚无结果数据。
 
-**关联：**涉及肥胖的外科治疗而非营养/膳食/菌群干预，与预防医学和营养流行病学核心领域关联有限。
+**关联：**涉及2型糖尿病的预防与控制，但干预为行为管理策略，而非营养或膳食干预，与营养流行病学关联有限。
 
 ---
 
-## 19. 癌症患者的体重指数（BMI）与生活质量（QoL）
+## 19. 幼儿缓慢多过敏原口服免疫治疗
 
-*Body Mass Index (BMI) and Quality of Life (QoL) in Cancer Patients*
+*Slow Multiallergen Oral Immunotherapy in Young Children*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT03873064](https://clinicaltrials.gov/study/NCT03873064)
+**DOI：**[https://clinicaltrials.gov/study/NCT06533462](https://clinicaltrials.gov/study/NCT06533462)
 
-**发现：**该观察性研究旨在探究癌症患者中BMI与健康相关生活质量的关系，关注高BMI相关的肥胖、合并症负担及低BMI相关的恶病质。研究正在招募中，尚无结果数据。
+**发现：**该研究旨在评估针对0.5-3岁幼儿采用缓慢递增、低剂量多过敏原口服免疫治疗的安全性和有效性，以治疗食物过敏并预防新发食物过敏。目前尚无结果数据。
 
-**关联：**涉及营养状态指标（BMI）与慢性病（癌症）患者生活质量的关联，与营养流行病学部分相关，但非疾病预防核心。
+**关联：**涉及食物过敏的免疫治疗，与营养或肠道菌群对慢性病预防的关联不直接。
 
 ---
 
-## 20. 糖尿病肾病家族调查（F.I.N.D.）
+## 20. 衰老过程中运动对大脑的积极影响
 
-*Family Investigation of Nephropathy and Diabetes (F.I.N.D.)*
+*Active Gains in Brain Using Exercise During Aging*
 **来源：**ClinicalTrials.gov
-**DOI：**[https://clinicaltrials.gov/study/NCT00342927](https://clinicaltrials.gov/study/NCT00342927)
+**DOI：**[https://clinicaltrials.gov/study/NCT05186090](https://clinicaltrials.gov/study/NCT05186090)
 
-**发现：**该多中心观察性研究旨在识别糖尿病肾病的遗传决定因素，将在美国11个中心及多个种族群体中开展，采用两种策略定位相关基因。研究处于活跃但未招募状态。
+**发现：**该已完成随机对照试验旨在检验24周抗阻运动项目对65-80岁认知正常成年人脑健康的影响。目前尚无结果数据。
 
-**关联：**聚焦糖尿病肾病的遗传学而非营养/膳食/菌群因素，与预防医学和营养流行病学核心领域不直接相关。
+**关联：**涉及运动干预对老年人认知功能的影响，与慢性病预防和老年健康相关，但不涉及营养或肠道菌群。
 
 ---
 
-## 21. 一种多草药植物配方通过菌群依赖性代谢重塑改善饮食诱导的小鼠非酒精性脂肪肝
+## 21. Expecting研究
+
+*The Expecting Study*
+**来源：**ClinicalTrials.gov
+**DOI：**[https://clinicaltrials.gov/study/NCT02125149](https://clinicaltrials.gov/study/NCT02125149)
+
+**发现：**该已完成研究旨在确定母亲健康和体力活动如何影响孩子的生长和发育。目前尚无结果数据。
+
+**关联：**涉及孕期运动干预与子代健康，与预防医学相关，但不直接涉及营养或肠道菌群。
+
+---
+
+## 22. 一种多草药植物配方通过微生物群依赖性代谢重塑改善饮食诱导的小鼠非酒精性脂肪肝病
 
 *A multi-herb botanical formula ameliorates diet-induced non-alcoholic fatty liver disease associated with microbiota-dependent metabolic remodeling in mice.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705792](https://pubmed.ncbi.nlm.nih.gov/42705792)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120383](https://doi.org/10.1016/j.foodres.2026.120383)
 
-**发现：**该研究在小鼠模型中证实，多草药植物配方可改善饮食诱导的非酒精性脂肪肝病，其机制与肠道菌群依赖性的代谢重塑相关。具体数据未在摘要中提供。
+**发现：**该研究表明，多草药植物配方可通过调节肠道微生物群及其相关代谢重塑，改善饮食诱导的小鼠非酒精性脂肪肝病。具体数据未提供。
 
-**关联：**直接涉及肠道菌群、膳食/植物配方与非酒精性脂肪肝（慢性代谢病）的关联，高度契合营养流行病学与肠道菌群研究领域。
+**关联：**直接涉及肠道菌群、膳食诱导代谢疾病（非酒精性脂肪肝）及植物配方干预，与营养流行病学和慢性病预防高度相关。
 
 ---
 
-## 22. 食物作为药物用于营养不良和认知衰退：来自PROMED-EX试验的经验
+## 23. 食物即药物用于营养不良和认知衰退：来自PROMED-EX试验的经验
 
 *Food as medicine for malnutrition and cognitive decline: lessons from the PROMED-EX trial.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680262](https://pubmed.ncbi.nlm.nih.gov/42680262)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101432](https://doi.org/10.1016/j.ajcnut.2026.101432)
 
-**发现：**该文基于PROMED-EX试验，探讨了以食物为药物的干预策略对营养不良和认知衰退的影响。具体数据未在摘要中提供。
+**发现：**该评论文章基于PROMED-EX试验，探讨了“食物即药物”策略在营养不良和认知衰退中的作用。具体数据未提供。
 
-**关联：**涉及膳食干预对老年营养不良和认知衰退的作用，属于营养流行病学与慢性病预防范畴。
+**关联：**涉及营养干预（食物即药物）对老年人营养不良和认知衰退的影响，与营养流行病学和慢性病预防直接相关。
 
 ---
 
-## 23. 富含蛋白质的地中海饮食和运动（PROMED-EX）对存在营养不良和认知衰退风险的老年人营养状态和认知表现的影响：PROMED-EX随机对照试验
+## 24. 富含蛋白质的地中海饮食和运动（PROMED-EX）对存在营养不良和认知衰退风险的老年人营养状况和认知表现的影响：PROMED-EX随机对照试验
 
 *Effect of a PROtein-enriched MEDiterranean diet and EXercise (PROMED-EX) on nutritional status and cognitive performance in older adults at risk of undernutrition and cognitive decline: the PROMED-EX randomized controlled trial.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680255](https://pubmed.ncbi.nlm.nih.gov/42680255)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101383](https://doi.org/10.1016/j.ajcnut.2026.101383)
 
-**发现：**该随机对照试验评估了富含蛋白质的地中海饮食联合运动对存在营养不良和认知衰退风险的老年人营养状态及认知表现的影响。具体结果数据未在摘要中提供。
+**发现：**该随机对照试验旨在评估富含蛋白质的地中海饮食联合运动对存在营养不良和认知衰退风险的老年人营养状况和认知表现的影响。具体数据未提供。
 
-**关联：**直接研究膳食模式（地中海饮食）和运动干预对老年慢性病风险（营养不良、认知衰退）的影响，属于营养流行病学与预防医学核心领域。
+**关联：**直接研究膳食模式（地中海饮食）和运动对老年人营养状况及认知衰退的预防作用，与营养流行病学和慢性病预防高度相关。
 
 ---
 
-## 24. 宫颈阴道-肠道菌群轴作为系统生理的关键决定因素
+## 25. 宫颈阴道-肠道菌群轴作为系统生理的关键决定因素
 
 *The cervicovaginal gut microbiota axis as a key determinant of systemic physiology.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42768312](https://pubmed.ncbi.nlm.nih.gov/42768312)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2726648](https://doi.org/10.1080/19490976.2026.2726648)
 
-**发现：**该综述提出宫颈阴道-肠道菌群轴是系统生理的关键决定因素，强调菌群跨部位互作对全身健康的影响。具体数据未在摘要中提供。
+**发现：**该综述提出宫颈阴道菌群与肠道菌群之间存在相互作用的'轴'，共同影响全身生理状态。文章强调这一菌群轴可能是女性生殖道健康与系统性疾病关联的重要机制。
 
-**关联：**涉及肠道菌群与系统生理的关联，与肠道菌群研究领域直接相关，但未明确涉及营养/膳食干预或特定慢性病预防。
+**关联：**涉及菌群与系统生理的关联，与肠道菌群研究领域相关，但未聚焦营养/膳食干预或慢性病预防。
 
 ---
 
-## 25. 肠道菌群：尿路结石形成的新型关键参与者——从草酸代谢到全身调控
+## 26. 肠道菌群：泌尿系结石形成的新型关键参与者——从草酸代谢到系统调控
 
 *Gut microbiota: a novel key player in urinary stone formation - from oxalate metabolism to systemic regulation.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42758101](https://pubmed.ncbi.nlm.nih.gov/42758101)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734634](https://doi.org/10.1080/19490976.2026.2734634)
 
-**发现：**该综述提出肠道菌群通过调控草酸代谢（如产草酸降解菌的活性）及全身性代谢与免疫通路，在尿路结石形成中发挥关键作用；菌群失调可增加草酸吸收与结石风险，提示靶向菌群可能成为预防尿路结石的新策略。
+**发现：**综述指出肠道菌群通过调节草酸代谢（如产甲酸草酸杆菌等）影响泌尿系结石形成，并可通过系统调控途径参与结石病理过程。靶向菌群可能成为预防结石的新策略。
 
-**关联：**涉及肠道菌群与代谢调控对尿路结石（慢性病）预防的潜在影响，与营养流行病学和慢性病预防相关。
+**关联：**涉及肠道菌群通过代谢途径影响疾病（泌尿系结石）发生，与菌群-代谢-疾病预防领域直接相关。
 
 ---
 
-## 26. 靶向骨质疏松中的肠-骨轴：益生菌干预及其他基于菌群的治疗策略
+## 27. 靶向肠-骨轴治疗骨质疏松：益生菌干预及其他基于菌群的治疗策略
 
 *Targeting the gut-bone axis in osteoporosis: probiotic interventions and other microbiota-based therapeutic strategies.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42755181](https://pubmed.ncbi.nlm.nih.gov/42755181)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2732528](https://doi.org/10.1080/19490976.2026.2732528)
 
-**发现：**该综述系统总结了肠道菌群通过免疫、代谢和内分泌途径调控骨代谢的机制，并指出益生菌、益生元及粪菌移植等菌群干预措施在骨质疏松防治中具有潜力，可改善骨密度和骨微结构。
+**发现：**综述系统总结了肠-骨轴在骨质疏松中的作用，指出益生菌及其他菌群干预措施可调节骨代谢、减缓骨丢失。为骨质疏松的预防和治疗提供了菌群靶向新思路。
 
-**关联：**直接探讨肠道菌群干预（益生菌等）对骨质疏松这一慢性病的预防与治疗作用，与营养流行病学和慢性病预防高度相关。
+**关联：**直接涉及肠道菌群干预（益生菌）对慢性病（骨质疏松）预防的影响，与营养/菌群-慢性病预防领域高度相关。
 
 ---
 
-## 27. 减少抗生素诱导菌群失调相关疾病风险的膳食与营养策略
+## 28. 减少抗生素诱导菌群失调相关疾病风险的膳食与营养策略
 
 *Dietary and nutritional strategies for reducing disease risk associated with antibiotic-induced dysbiosis.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42755161](https://pubmed.ncbi.nlm.nih.gov/42755161)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728330](https://doi.org/10.1080/19490976.2026.2728330)
 
-**发现：**该综述指出抗生素使用导致肠道菌群失调，增加感染、代谢和免疫疾病风险；膳食纤维、益生菌、益生元及多酚等营养策略可促进菌群恢复，降低相关疾病风险。
+**发现：**综述探讨了膳食和营养干预（如膳食纤维、益生元、多酚等）在减轻抗生素诱导的肠道菌群失调及其相关疾病风险中的作用。提出通过营养策略维护菌群稳态以预防相关疾病。
 
-**关联：**直接聚焦膳食与营养策略通过调节肠道菌群来预防疾病，与营养流行病学和慢性病预防核心领域高度契合。
+**关联：**直接聚焦膳食/营养策略对菌群失调相关疾病风险的预防作用，与营养流行病学和慢性病预防高度契合。
 
 ---
 
-## 28. 肠道菌群失调在加速衰老中塑造脑T细胞免疫
+## 29. 肠道菌群失调在加速衰老中塑造脑T细胞免疫
 
 *Gut microbiota dysbiosis shapes brain T-cell immunity in accelerated aging.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42750596](https://pubmed.ncbi.nlm.nih.gov/42750596)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728329](https://doi.org/10.1080/19490976.2026.2728329)
 
-**发现：**研究发现加速衰老小鼠中肠道菌群失调可改变脑内T细胞免疫格局，促进神经炎症；菌群移植或干预可部分逆转免疫衰老表型，提示菌群-脑免疫轴在衰老相关疾病中的作用。
+**发现：**研究发现肠道菌群失调可影响脑内T细胞免疫，在加速衰老模型中发挥重要作用。菌群-脑免疫轴的改变可能与衰老相关神经炎症和功能衰退有关。
 
-**关联：**涉及肠道菌群与衰老及免疫调控，与慢性病预防和营养流行病学间接相关（未直接涉及营养干预）。
+**关联：**涉及肠道菌群与衰老及免疫调节，与菌群研究相关，但未直接涉及营养/膳食干预或慢性病预防。
 
 ---
 
-## 29. 肠道菌群功能重塑与丁酸耗竭放大抗Ro/La抗体驱动的I型干扰素激活在新生儿狼疮中的作用
+## 30. 肠道菌群功能重塑与丁酸耗竭放大抗Ro/La抗体驱动的I型干扰素激活在新生儿狼疮中的作用
 
 *Gut microbiota functional remodeling and butyrate depletion amplify anti-Ro/La antibody-driven type I interferon activation in neonatal lupus.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42747315](https://pubmed.ncbi.nlm.nih.gov/42747315)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728464](https://doi.org/10.1080/19490976.2026.2728464)
 
-**发现：**研究揭示新生儿狼疮中肠道菌群功能重塑导致丁酸产生减少，丁酸耗竭进而放大抗Ro/La抗体诱导的I型干扰素激活，提示菌群代谢物（丁酸）可能是干预靶点。
+**发现：**研究发现新生儿狼疮中肠道菌群功能重塑，产丁酸菌减少导致丁酸耗竭，进而放大抗Ro/La抗体驱动的I型干扰素激活。提示菌群代谢物（丁酸）在自身免疫疾病中的保护作用。
 
-**关联：**涉及肠道菌群代谢物（丁酸）与自身免疫病（新生儿狼疮）的关联，与营养流行病学和慢性病预防间接相关。
+**关联：**涉及肠道菌群代谢物（丁酸）与自身免疫疾病机制，与菌群-代谢-疾病领域相关，但非直接营养干预或常见慢性病预防。
 
 ---
 
-## 30. 肠道菌群作为肠道干细胞命运调控者：细菌和真菌对分化与再生的控制
+## 31. 肠道菌群作为肠道干细胞命运的调节者：细菌和真菌对分化和再生的控制
 
 *The gut microbiota as a regulator of intestinal stem-cell fate: bacterial and fungal control of differentiation and regeneration.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42747030](https://pubmed.ncbi.nlm.nih.gov/42747030)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734644](https://doi.org/10.1080/19490976.2026.2734644)
 
-**发现：**该综述阐述肠道细菌和真菌通过代谢产物和免疫信号调控肠道干细胞的自我更新与分化，影响肠上皮再生和屏障功能；菌群失调可破坏干细胞稳态，促进肠道疾病。
+**发现：**综述阐述了肠道细菌和真菌如何调控肠道干细胞的分化与再生，影响肠上皮稳态。菌群失调可能破坏干细胞命运决定，与肠道疾病发生相关。
 
-**关联：**涉及肠道菌群与肠道干细胞生物学，与营养流行病学和慢性病预防不直接相关。
+**关联：**涉及肠道菌群与肠道干细胞生物学，与菌群研究相关，但未直接涉及营养/膳食或慢性病预防。
 
 ---
 
-## 31. 生命周期中肠-脑免疫串扰的营养调控
+## 32. 营养对全生命周期肠-脑免疫互作的调控
 
 *Nutritional regulation of gut-brain immune crosstalk across the lifespan.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42696146](https://pubmed.ncbi.nlm.nih.gov/42696146)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2725371](https://doi.org/10.1080/19490976.2026.2725371)
 
-**发现：**该综述总结营养因素（如膳食纤维、脂肪酸、维生素等）通过调节肠道菌群及其代谢产物，影响肠-脑免疫轴，从而在生命各阶段塑造神经发育、认知功能和神经炎症风险。
+**发现：**综述总结了营养因素如何调节肠-脑免疫轴，在不同生命阶段影响神经发育、免疫功能和疾病易感性。强调膳食干预可能通过菌群-免疫-脑轴促进健康老龄化。
 
-**关联：**直接探讨营养通过肠道菌群调控肠-脑免疫，与营养流行病学和慢性病（神经退行性疾病等）预防高度相关。
-
----
-
-## 32. 生活方式干预对多内分泌代谢性卵巢综合征女性的效果：系统综述与荟萃分析
-
-*The effect of lifestyle interventions in women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis*
-**来源：**PLOS Medicine RSS
-**DOI：**[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004887](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004887)
-
-**发现：**该系统综述和荟萃分析纳入多项随机对照试验，发现生活方式干预（饮食、运动等）可显著改善多内分泌代谢性卵巢综合征女性的胰岛素抵抗、雄激素水平和体重，降低代谢综合征风险。
-
-**关联：**直接评估生活方式（尤其是饮食）干预对代谢性疾病（多内分泌代谢性卵巢综合征）的预防效果，与营养流行病学和慢性病预防高度相关。
+**关联：**直接聚焦营养调控肠-脑免疫互作，与营养流行病学、菌群及慢性病预防领域高度相关。
 
 ---
 
-## 33. 肠道微生物组与大熊猫（Ailuropoda melanoleuca）刻板行为相关
+## 33. Resmetirom减轻高脂饮食喂养ApoE−/−小鼠的动脉粥样硬化相关血脂异常和血管炎症
 
-*Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)*
+*Resmetirom attenuates atherosclerosis-associated dyslipidemia and vascular inflammation in high-fat diet-fed ApoE−/− mice*
 **来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357625](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357625)
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359161](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359161)
 
-**发现：**研究发现大熊猫的肠道微生物组组成与其刻板行为存在关联，特定菌群丰度差异与行为异常程度相关。该研究提示肠道菌群可能通过肠-脑轴影响圈养大熊猫的行为表现。
+**发现：**在ApoE−/−小鼠模型中，Resmetirom（一种甲状腺激素受体β激动剂）可改善高脂饮食诱导的血脂异常并减轻血管炎症，提示其可能具有抗动脉粥样硬化作用。
 
-**关联：**涉及肠道菌群与行为，但研究对象为动物行为学，与人类预防医学和营养流行病学不直接相关。
+**关联：**涉及营养（高脂饮食）与慢性病（动脉粥样硬化）预防，但主要关注药物干预而非膳食或菌群。
 
 ---
 
@@ -420,9 +420,9 @@
 **PMID：**[42680261](https://pubmed.ncbi.nlm.nih.gov/42680261)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101443](https://doi.org/10.1016/j.ajcnut.2026.101443)
 
-**发现：**该综述提出循环脂肪酸不仅是能量来源，还可作为重要的代谢信号分子参与调控代谢通路。文章强调脂肪酸组成和类型对代谢健康的影响超出传统膳食脂肪摄入量的范畴。
+**发现：**该综述提出循环脂肪酸不仅是能量来源，还作为重要的代谢信号分子参与调控代谢过程，可能影响慢性病风险。
 
-**关联：**直接涉及营养（脂肪酸）与代谢调控，与营养流行病学和慢性病预防高度相关。
+**关联：**直接关联营养流行病学中膳食脂肪与代谢调控，对慢性病预防有启示。
 
 ---
 
@@ -433,22 +433,22 @@
 **PMID：**[42680257](https://pubmed.ncbi.nlm.nih.gov/42680257)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101400](https://doi.org/10.1016/j.ajcnut.2026.101400)
 
-**发现：**在2型糖尿病患者中，6个月低碳水化合物饮食干预显著改变了循环脂肪酸组成，包括饱和脂肪酸和单不饱和脂肪酸比例的变化。这些变化可能与代谢改善相关，为饮食干预管理糖尿病提供了机制证据。
+**发现：**在2型糖尿病患者中，6个月低碳水化合物饮食干预改变了循环脂肪酸组成，具体变化与代谢改善相关。
 
-**关联：**直接研究膳食干预（低碳水饮食）对2型糖尿病患者代谢标志物的影响，属于营养流行病学和慢性病预防核心领域。
+**关联：**直接研究膳食干预（低碳水化合物）对2型糖尿病患者的代谢影响，属于营养流行病学与慢性病预防核心领域。
 
 ---
 
-## 36. 自主选择的纯素饮食降低健康老年人骨骼肌质量：一项随机对照试验
+## 36. 自主选择的纯素饮食减少健康老年人骨骼肌质量：一项随机对照试验
 
 *A self-selected vegan diet reduces skeletal muscle mass in healthy older adults: a randomized controlled trial.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680254](https://pubmed.ncbi.nlm.nih.gov/42680254)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101416](https://doi.org/10.1016/j.ajcnut.2026.101416)
 
-**发现：**随机对照试验发现，健康老年人采用自主选择的纯素饮食后骨骼肌质量显著降低。该结果提示纯素饮食在老年人群中可能增加肌少症风险，需关注蛋白质摄入充足性。
+**发现：**在健康老年人中，自主选择的纯素饮食导致骨骼肌质量下降，提示需关注该人群的蛋白质摄入与肌肉健康。
 
-**关联：**直接研究膳食模式（纯素饮食）对老年人肌肉健康的影响，与营养流行病学和老年慢性病预防相关。
+**关联：**涉及膳食模式（纯素饮食）对老年健康的影响，与营养流行病学和慢性病预防相关。
 
 ---
 
@@ -459,9 +459,9 @@
 **PMID：**[42746829](https://pubmed.ncbi.nlm.nih.gov/42746829)
 **DOI：**[https://doi.org/10.1111/1750-3841.71470](https://doi.org/10.1111/1750-3841.71470)
 
-**发现：**巴西绿蜂胶和精油残留物可调节高脂饮食小鼠肝脏中关键脂质生成基因的表达，改善代谢功能障碍。该研究提示这些天然产物具有预防高脂饮食诱导代谢紊乱的潜力。
+**发现：**巴西绿蜂胶和精油残留物可调节肝脏脂质生成基因，改善高脂饮食诱导的小鼠代谢功能障碍。
 
-**关联：**涉及营养相关天然产物对代谢功能障碍的改善作用，与慢性病预防和营养干预相关。
+**关联：**涉及膳食补充剂（蜂胶）对代谢疾病的改善作用，与营养预防相关但非核心。
 
 ---
 
@@ -472,22 +472,22 @@
 **PMID：**[42776010](https://pubmed.ncbi.nlm.nih.gov/42776010)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2736902](https://doi.org/10.1080/19490976.2026.2736902)
 
-**发现：**益生菌假小链双歧杆菌能够将橙皮苷转化为生物活性橙皮素，并改善衰老小鼠的代谢功能障碍。该研究揭示了肠道菌群介导的植物化学物代谢在改善代谢健康中的关键作用。
+**发现：**假小链双歧杆菌可将橙皮苷转化为橙皮素，通过肠道菌群介导改善衰老小鼠的代谢功能障碍。
 
-**关联：**直接涉及肠道菌群、营养（橙皮苷）与代谢功能障碍改善，与肠道菌群和慢性病预防高度相关。
+**关联：**直接研究肠道菌群、膳食黄酮类化合物与代谢改善的交互作用，属于肠道菌群与慢性病预防核心领域。
 
 ---
 
-## 39. OMM12小鼠：解析宿主-微生物组相互作用的十年
+## 39. OMM12小鼠：十年剖析宿主-微生物组相互作用
 
 *The OMM(12) mice: a decade of dissecting host-microbiome interactions.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42773683](https://pubmed.ncbi.nlm.nih.gov/42773683)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2725332](https://doi.org/10.1080/19490976.2026.2725332)
 
-**发现：**该综述总结了OMM12（Oligo-Mouse-Microbiota 12）小鼠模型十年来的应用成果，该模型由12种已知细菌组成，用于解析宿主-微生物组相互作用的机制。文章讨论了该模型在微生物组研究中的优势和局限性。
+**发现：**综述了OMM12小鼠模型在过去十年中用于研究宿主-微生物组相互作用的进展，该模型为菌群研究提供了标准化工具。
 
-**关联：**涉及肠道菌群研究方法学，与肠道菌群研究领域相关，但非直接针对营养或疾病预防。
+**关联：**涉及肠道菌群研究方法，与菌群-宿主互作相关，但非直接研究营养或疾病预防。
 
 ---
 
@@ -498,9 +498,9 @@
 **PMID：**[42768318](https://pubmed.ncbi.nlm.nih.gov/42768318)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734648](https://doi.org/10.1080/19490976.2026.2734648)
 
-**发现：**研究发现肠-免疫-血管周围脂肪组织（PVAT）轴通过IL-17RA、TLR4和FPR1信号通路参与乙醇诱导的腹主动脉功能障碍。该研究揭示了肠道菌群和免疫信号在酒精相关血管损伤中的机制作用。
+**发现：**乙醇通过肠道-免疫-血管周围脂肪组织轴，经IL-17RA、TLR4和FPR1信号导致腹主动脉功能障碍，揭示了菌群相关机制。
 
-**关联：**涉及肠道菌群与血管功能障碍，与慢性病预防有间接关联，但核心为酒精病理机制而非营养预防。
+**关联：**涉及肠道菌群、免疫与血管功能障碍，与慢性病预防间接相关，但主要关注乙醇而非膳食营养。
 
 ---
 
@@ -511,9 +511,9 @@
 **PMID：**[42768305](https://pubmed.ncbi.nlm.nih.gov/42768305)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734649](https://doi.org/10.1080/19490976.2026.2734649)
 
-**发现：**该研究利用CRISPR-Cas免疫库作为生态记录，揭示了人类肠道细菌与可移动遗传元件之间的相互作用历史。通过分析CRISPR间隔序列，可以追溯细菌在肠道生态系统中面临的噬菌体和质粒等遗传元件的压力。
+**发现：**该研究利用CRISPR-Cas免疫库作为生态记录，揭示了人类肠道细菌与可移动遗传元件之间的相互作用历史。通过分析CRISPR间隔序列，可追溯细菌在肠道生态系统中面临的噬菌体和质粒等遗传元件的压力。
 
-**关联：**与肠道菌群生态学相关，但不直接涉及营养/膳食对疾病预防的影响。
+**关联：**涉及肠道菌群生态学，但与营养/膳食/慢性病预防不直接相关。
 
 ---
 
@@ -524,9 +524,9 @@
 **PMID：**[42762160](https://pubmed.ncbi.nlm.nih.gov/42762160)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2736915](https://doi.org/10.1080/19490976.2026.2736915)
 
-**发现：**真菌细胞外囊泡能够重塑鼠李糖乳杆菌的囊泡，从而增强溶酶体稳态并缓解肠道炎症。该研究揭示了真菌-细菌囊泡相互作用在肠道炎症调控中的新机制。
+**发现：**真菌细胞外囊泡能够重塑鼠李糖乳杆菌的囊泡，进而增强溶酶体稳态并缓解肠道炎症。该研究揭示了真菌-细菌囊泡互作在肠道炎症调控中的新机制。
 
-**关联：**涉及肠道菌群与肠道炎症，与慢性病预防间接相关。
+**关联：**涉及肠道菌群与肠道炎症，与慢性病预防间接相关，但非营养流行病学核心。
 
 ---
 
@@ -537,9 +537,9 @@
 **PMID：**[42760841](https://pubmed.ncbi.nlm.nih.gov/42760841)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2731684](https://doi.org/10.1080/19490976.2026.2731684)
 
-**发现：**该综述指出肠-心轴研究已从分子层面走向医学应用，强调了肠道菌群及其代谢产物在心血管疾病中的作用。肠-心轴已成为心血管疾病预防和治疗的潜在靶点。
+**发现：**该综述指出肠-心轴研究已从分子机制走向医学应用，强调了肠道菌群及其代谢物在心血管疾病中的作用。肠-心轴有望成为心血管疾病预防和治疗的新靶点。
 
-**关联：**直接涉及肠道菌群与心血管疾病预防，与慢性病预防高度相关。
+**关联：**涉及肠道菌群与心血管疾病预防，与慢性病预防领域直接相关。
 
 ---
 
@@ -550,9 +550,9 @@
 **PMID：**[42758655](https://pubmed.ncbi.nlm.nih.gov/42758655)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2724175](https://doi.org/10.1080/19490976.2026.2724175)
 
-**发现：**IgA缺陷小鼠表现出微生物群依赖的麸质敏感途径，表明IgA在维持口服耐受和预防麸质敏感中起关键作用。该研究揭示了微生物群-IgA-麸质敏感之间的新机制。
+**发现：**IgA缺陷小鼠表现出微生物群依赖的麸质敏感，表明IgA在维持对麸质的口服耐受中起关键作用。该研究揭示了微生物群-IgA轴在麸质相关疾病中的机制。
 
-**关联：**涉及肠道菌群与麸质敏感（乳糜泻相关），与营养/膳食对疾病预防相关。
+**关联：**涉及肠道菌群与麸质敏感，与营养相关疾病预防间接相关。
 
 ---
 
@@ -563,7 +563,7 @@
 **PMID：**[42752278](https://pubmed.ncbi.nlm.nih.gov/42752278)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2731687](https://doi.org/10.1080/19490976.2026.2731687)
 
-**发现：**植物甾醇通过调节肠道微生物胆盐水解酶，增加牛磺猪去氧胆酸水平，后者作为FXR拮抗剂改善高脂血症。该研究揭示了植物甾醇降脂的新机制，涉及肠道菌群-胆汁酸-FXR轴。
+**发现：**植物甾醇通过调节肠道微生物胆盐水解酶，增加牛磺猪去氧胆酸，后者作为FXR拮抗剂改善高脂血症。该研究揭示了植物甾醇降脂的新机制，涉及肠道菌群-胆汁酸-FXR轴。
 
 **关联：**直接研究膳食成分（植物甾醇）通过肠道菌群改善高脂血症，与营养流行病学和慢性病预防高度相关。
 
@@ -576,9 +576,9 @@
 **PMID：**[42740607](https://pubmed.ncbi.nlm.nih.gov/42740607)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728331](https://doi.org/10.1080/19490976.2026.2728331)
 
-**发现：**泛基因组分析揭示了结直肠癌微生物组中存在生态位特异性的“专家”菌和具有多种功能的“兼职”菌。这些发现有助于理解微生物组在结直肠癌发生中的作用。
+**发现：**泛基因组分析发现结直肠癌微生物组中存在生态位特异性的“专家”菌和具有多种功能的“兼职”菌。这些发现为结直肠癌的微生物标志物提供了新见解。
 
-**关联：**涉及肠道菌群与结直肠癌，与慢性病预防相关，但未直接涉及营养/膳食。
+**关联：**涉及肠道菌群与结直肠癌，与慢性病预防相关，但非营养核心。
 
 ---
 
@@ -589,22 +589,22 @@
 **PMID：**[42734183](https://pubmed.ncbi.nlm.nih.gov/42734183)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2726620](https://doi.org/10.1080/19490976.2026.2726620)
 
-**发现：**通过整合宏基因组和代谢组分析，识别出卒中后抑郁患者严重程度特异性的炎症和代谢特征，涉及肠道菌群和代谢物变化。该研究为卒中后抑郁的机制和潜在干预提供了新见解。
+**发现：**整合宏基因组和代谢组分析揭示了卒中后抑郁患者严重程度特异性的炎症和代谢特征，涉及肠道菌群和代谢物变化。该研究为卒中后抑郁的机制和潜在干预提供了线索。
 
 **关联：**涉及肠道菌群与卒中后抑郁，与慢性病预防间接相关。
 
 ---
 
-## 48. 双重筛选抑制肠杆菌生长和侵袭性的肠道代谢物揭示抗感染吲哚类化合物的构效关系
+## 48. 双筛选抑制肠杆菌生长和侵袭性的肠道代谢物揭示抗感染吲哚类的构效关系
 
 *Dual screen for gut metabolites suppressing enterobacterial growth and invasiveness reveals structure-activity relationships among anti-infective indoles.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42728852](https://pubmed.ncbi.nlm.nih.gov/42728852)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728235](https://doi.org/10.1080/19490976.2026.2728235)
 
-**发现：**通过双重筛选，发现肠道代谢物吲哚类化合物能抑制肠杆菌的生长和侵袭性，并揭示了其构效关系。该研究为抗感染治疗提供了新的候选分子。
+**发现：**通过双筛选发现肠道代谢物吲哚类可抑制肠杆菌的生长和侵袭性，并揭示了其构效关系。该研究为抗感染治疗提供了新的代谢物候选。
 
-**关联：**涉及肠道代谢物与抗感染，与营养/膳食对疾病预防间接相关。
+**关联：**涉及肠道代谢物与抗感染，与营养/慢性病预防不直接相关。
 
 ---
 
@@ -615,59 +615,59 @@
 **PMID：**[42728849](https://pubmed.ncbi.nlm.nih.gov/42728849)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2726639](https://doi.org/10.1080/19490976.2026.2726639)
 
-**发现：**该研究开发了GUTchetp计算工具，通过集成单语与多语神经机器翻译模型，并结合酶类一致性与反应相似性约束，实现对肠道微生物生物转化谱的整合预测。工具旨在提升微生物代谢产物预测的覆盖度和准确性，为理解肠道菌群代谢功能提供方法学支持。
+**发现：**该研究开发了GUTchetp计算工具，通过集成单语与多语神经机器翻译模型并结合酶类一致性与反应相似性，实现对肠道微生物生物转化谱的整合预测。工具旨在提升微生物代谢产物预测的准确性和覆盖度，为理解肠道菌群代谢功能提供方法学支持。
 
-**关联：**与肠道菌群研究直接相关，为营养流行病学中菌群代谢功能预测提供计算工具，但非直接研究膳食对疾病预防的影响。
+**关联：**与肠道菌群研究直接相关，为营养流行病学中菌群代谢功能预测提供计算工具，间接支持膳食-菌群-健康关联研究。
 
 ---
 
-## 50. 益生菌补充增加粪便TLR4激动剂但未改善幼年特发性关节炎疾病活动：一项随机安慰剂对照试验
+## 50. 益生菌补充增加幼年特发性关节炎患者粪便TLR4激动剂但未改善疾病活动度：一项随机安慰剂对照试验
 
 *Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42720258](https://pubmed.ncbi.nlm.nih.gov/42720258)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728351](https://doi.org/10.1080/19490976.2026.2728351)
 
-**发现：**随机安慰剂对照试验显示，益生菌补充虽增加了幼年特发性关节炎患儿粪便中TLR4激动剂水平，但并未改善疾病活动度。提示益生菌对自身免疫性关节炎的临床获益有限，且可能通过TLR4信号产生潜在促炎效应。
+**发现：**随机安慰剂对照试验显示，益生菌补充虽增加了幼年特发性关节炎患儿粪便中TLR4激动剂水平，但并未改善疾病活动度。结果表明益生菌对该人群的临床获益有限，且可能通过TLR4信号产生潜在免疫刺激效应。
 
-**关联：**直接涉及益生菌干预对慢性炎症性疾病（幼年特发性关节炎）的影响，属于肠道菌群与疾病预防/管理领域。
+**关联：**直接涉及益生菌干预与慢性炎症性疾病预防/管理，属于肠道菌群与慢性病预防交叉领域。
 
 ---
 
-## 51. 益生菌为何失败：肠道生态位张力是缺失的变量？
+## 51. 益生菌为何失败：肠道生态位张力是否为缺失变量？
 
 *Why probiotics fail: gut niche tension as the missing variable?*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42720010](https://pubmed.ncbi.nlm.nih.gov/42720010)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728333](https://doi.org/10.1080/19490976.2026.2728333)
 
-**发现：**该文提出“肠道生态位张力”可能是解释益生菌干预效果不一致的关键缺失变量，认为外源益生菌与原生菌群对有限生态位的竞争影响定植和功能发挥。这一框架有助于理解益生菌临床试验失败的原因并优化未来干预策略。
+**发现：**该文提出“肠道生态位张力”可能是解释益生菌干预效果不一致的关键缺失变量，认为外源益生菌与原生菌群对生态位的竞争影响定植和疗效。文章呼吁在益生菌研究中纳入生态位层面的评估以优化干预策略。
 
-**关联：**聚焦益生菌作用机制与肠道菌群生态学，与营养干预和菌群调控疾病预防领域高度相关。
+**关联：**与肠道菌群和益生菌干预研究直接相关，对营养流行病学中菌群靶向干预设计有方法学启示。
 
 ---
 
-## 52. 低温气流干燥非酿酒酵母发酵剂用于添加米粉面包的开发及其在工业烘焙中的应用潜力
+## 52. 低温气流干燥非酿酒酵母发酵剂用于添加米粉面包的开发及其工业烘焙应用潜力
 
 *Development of low-temperature air-blast-dried non-Saccharomyces yeast starters for rice flour-added bread and their potential in industrial bakery applications.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705795](https://pubmed.ncbi.nlm.nih.gov/42705795)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120459](https://doi.org/10.1016/j.foodres.2026.120459)
 
-**发现：**研究开发了低温气流干燥的非酿酒酵母发酵剂，用于添加米粉的面包制作，并评估其在工业烘焙中的应用潜力。结果表明该发酵剂可改善面包品质，为无麸质或部分替代小麦粉的烘焙产品提供新方案。
+**发现：**研究开发了低温气流干燥的非酿酒酵母发酵剂，并评估其在添加米粉面包中的应用效果。结果表明该发酵剂在工业烘焙中具有潜在应用价值，可改善产品品质。
 
-**关联：**属于食品加工技术，与营养流行病学和慢性病预防不直接相关。
+**关联：**不直接相关，属于食品加工技术领域，未涉及营养流行病学或慢性病预防。
 
 ---
 
-## 53. 整合瘤胃微生物组与脂质组学分析揭示饲喂方式对巴什拜羊脂肪沉积和羊肉风味形成的影响
+## 53. 整合瘤胃微生物组与脂质组学分析揭示饲喂制度对巴什拜羊脂肪沉积和羊肉气味形成的影响
 
 *Integrated rumen microbiome and lipidomic analyses reveal the effects of feeding-regimes on fat deposition and mutton odor formation in Bashbay sheep.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705789](https://pubmed.ncbi.nlm.nih.gov/42705789)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120443](https://doi.org/10.1016/j.foodres.2026.120443)
 
-**发现：**通过整合瘤胃微生物组与脂质组学分析，发现不同饲喂方式显著影响巴什拜羊的脂肪沉积和羊肉气味形成，特定微生物类群与脂质代谢产物相关。研究为通过饲喂调控反刍动物肉品质提供了微生物-脂质互作证据。
+**发现：**通过整合瘤胃微生物组与脂质组学分析，发现饲喂制度显著影响巴什拜羊的脂肪沉积和羊肉气味形成，特定瘤胃微生物类群与脂质代谢产物相关。研究为通过营养调控改善羊肉品质提供依据。
 
 **关联：**涉及微生物组与脂质代谢，但研究对象为反刍动物肉品质，与人类营养流行病学和慢性病预防不直接相关。
 
@@ -680,9 +680,9 @@
 **PMID：**[42705780](https://pubmed.ncbi.nlm.nih.gov/42705780)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120428](https://doi.org/10.1016/j.foodres.2026.120428)
 
-**发现：**研究对亚马逊热带水果biribá果肉膳食纤维中的复杂多糖进行了结构表征，并发现其具有免疫刺激活性。结果提示该膳食纤维多糖可能作为功能性食品成分调节免疫反应。
+**发现：**研究对biribá果肉膳食纤维中的复杂多糖进行了结构表征，并发现其具有免疫刺激活性。结果表明该热带水果膳食纤维多糖可作为潜在功能性食品成分。
 
-**关联：**涉及膳食纤维多糖的免疫调节活性，与营养学和肠道菌群-免疫轴相关，但非直接研究慢性病预防。
+**关联：**涉及膳食纤维与免疫调节，与营养学和慢性病预防有一定关联，但为体外/成分研究，非流行病学证据。
 
 ---
 
@@ -693,35 +693,35 @@
 **PMID：**[42705778](https://pubmed.ncbi.nlm.nih.gov/42705778)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120425](https://doi.org/10.1016/j.foodres.2026.120425)
 
-**发现：**该综述总结了先进纳米传感器在食品质量、危害物及环境监测中的集成应用，涵盖多种纳米材料与传感策略。纳米传感器可实现快速、灵敏的现场检测，提升食品安全保障能力。
+**发现：**该综述总结了先进纳米传感器在食品质量、危害物及环境监测中的集成应用，涵盖多种传感机制和材料。文章强调纳米传感器在实时、灵敏检测方面的优势及未来挑战。
 
-**关联：**属于食品安全检测技术，与营养流行病学和慢性病预防不直接相关。
+**关联：**不直接相关，属于食品检测技术领域，未涉及营养流行病学或慢性病预防。
 
 ---
 
-## 56. 单宁酸调控的多功能仿生淀粉-琼脂/Co-MOFs薄膜：增强氨气敏感性和抗菌活性用于智能食品包装
+## 56. 单宁酸调控的多功能仿生淀粉-琼脂/Co-MOFs薄膜：增强氨敏感性和抗菌活性用于智能食品包装
 
 *Multifunctional bioinspired starch-agar/Co-MOFs films regulated by tannic acid with enhanced ammonia sensitivity and antimicrobial activity for intelligent food packaging.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705776](https://pubmed.ncbi.nlm.nih.gov/42705776)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120420](https://doi.org/10.1016/j.foodres.2026.120420)
 
-**发现：**研究开发了单宁酸调控的淀粉-琼脂/Co-MOFs仿生薄膜，具有增强的氨气敏感性和抗菌活性，可用于智能食品包装以监测食品新鲜度。该薄膜在食品腐败早期即可通过颜色变化发出预警。
+**发现：**研究开发了单宁酸调控的淀粉-琼脂/Co-MOFs仿生薄膜，该薄膜具有增强的氨敏感性和抗菌活性，可用于智能食品包装以监测食品新鲜度。
 
-**关联：**属于食品包装材料技术，与营养流行病学和慢性病预防不直接相关。
+**关联：**不直接相关，属于食品包装材料领域，与营养流行病学和慢性病预防无关。
 
 ---
 
-## 57. 从共生菌到致病菌：中国食用动物系统中毒力增强型大肠杆菌的出现——未来启示
+## 57. 从共生到致病：中国食用动物系统中毒力增强型大肠杆菌的出现——未来启示
 
 *From commensal to pathobiont: The emergence of virulence-enhanced Escherichia coli in China's food-animal systems - insights with future implications.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705771](https://pubmed.ncbi.nlm.nih.gov/42705771)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120414](https://doi.org/10.1016/j.foodres.2026.120414)
 
-**发现：**该综述指出中国食用动物系统中出现了毒力增强型大肠杆菌，这些菌株从共生状态向致病状态转变，可能通过食物链传播给人类。文章强调了食源性病原体进化对公共卫生的潜在威胁，并提出了未来监测和干预方向。
+**发现：**该综述指出中国食用动物系统中出现了毒力增强型大肠杆菌，这些菌株从共生状态向致病性转变，可能通过食物链传播给人类。文章强调了食源性病原体进化对公共卫生的潜在威胁，并提出了未来监测和干预方向。
 
-**关联：**涉及食源性病原体与公共卫生，但与营养/膳食/菌群对慢性病预防的直接关联较弱。
+**关联：**涉及食源性病原体与肠道菌群致病性转化，与肠道菌群和慢性病预防间接相关，但主要聚焦于微生物毒力进化而非营养或膳食干预。
 
 ---
 
@@ -732,814 +732,809 @@
 **PMID：**[42705770](https://pubmed.ncbi.nlm.nih.gov/42705770)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120415](https://doi.org/10.1016/j.foodres.2026.120415)
 
-**发现：**该研究探讨了乳制品中抗菌素耐药菌从农场到人类肠道的传播路径，提出生态过滤概念来解释耐药菌在食物链中的存续与风险。文章强调需综合评估乳制品中耐药菌对肠道菌群和公共健康的潜在影响。
+**发现：**该研究探讨了乳制品中抗菌素耐药菌从农场到人类肠道的传播路径，强调了生态过滤在耐药性传播中的作用。研究提示乳制品可能是耐药基因向肠道菌群转移的重要载体，需加强风险评估。
 
-**关联：**涉及肠道菌群与食源性耐药菌，但与营养流行病学和慢性病预防的核心关联有限。
+**关联：**涉及食物链中抗菌素耐药性向肠道菌群的传播，与肠道菌群和公共卫生预防相关，但非直接研究营养或膳食对慢性病的影响。
 
 ---
 
-## 59. 亲代肠道微生物组调节新生小鼠全身和局部糖皮质激素水平
+## 59. 营地清扫与加拿大温哥华吸毒无家可归者持续无家可归的前瞻性队列研究
 
-*The parental intestinal microbiome modulates systemic and local glucocorticoid levels in neonatal mice*
+*Encampment sweeps and persistent homelessness among unhoused people who use drugs in Vancouver, Canada: A prospective cohort study*
+**来源：**PLOS Medicine RSS
+**DOI：**[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005033](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005033)
+
+**发现：**该前瞻性队列研究发现，营地清扫政策与无家可归的吸毒者持续无家可归状态显著相关，清扫后个体更难获得稳定住房。研究提示此类政策可能加剧健康和社会不平等。
+
+**关联：**不直接相关。
+
+---
+
+## 60. 肯尼亚入院新生儿可能严重细菌感染的临床体征聚类分析：回顾性多中心队列研究
+
+*A cluster analysis of neonates using clinical signs of possible serious bacterial infection at hospital admission in Kenya: A retrospective multicentre cohort study*
 **来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357469](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357469)
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359212](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359212)
 
-**发现：**研究发现亲代肠道微生物组可调节新生小鼠的全身和局部糖皮质激素水平，提示母体菌群通过微生物-肠-脑轴影响子代应激反应和发育。该研究为早期生命微生物组干预提供了机制证据。
+**发现：**该回顾性多中心队列研究通过聚类分析识别了肯尼亚入院新生儿中可能严重细菌感染的不同临床表型，有助于优化诊断和治疗策略。研究强调了基于临床体征的分层管理对降低新生儿死亡率的意义。
 
-**关联：**直接研究肠道菌群对宿主内分泌和发育的调节，与肠道菌群和慢性病预防领域高度相关。
+**关联：**不直接相关。
 
 ---
 
-## 60. 美国成年人中年和晚年食物不安全与可能痴呆的关联：一项全国样本研究
+## 61. 人体测量指标与主要健康结局的预后关联：一项110万成年人的全国性队列研究
+
+*Prognostic associations of anthropometric indices with major health outcomes: A nationwide cohort study of 1.1 million adults*
+**来源：**PLOS ONE RSS
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359095](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359095)
+
+**发现：**该全国性队列研究纳入110万成年人，发现多种人体测量指标（如BMI、腰围等）与主要健康结局（如心血管疾病、糖尿病、癌症）存在显著预后关联。研究为利用简易人体测量指标进行慢性病风险分层提供了大规模证据。
+
+**关联：**涉及肥胖等人体测量指标与慢性病预防，与营养流行病学和慢性病预防领域高度相关，但未直接涉及膳食或肠道菌群。
+
+---
+
+## 62. 水烟烟雾冷凝物激活非致瘤性肺上皮细胞自噬：对炎症和干性的启示
+
+*Waterpipe smoke condensate activates autophagy in non-tumorigenic lung epithelial cells: Implications for inflammation and stemness*
+**来源：**PLOS ONE RSS
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358943](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358943)
+
+**发现：**该研究发现水烟烟雾冷凝物可激活非致瘤性肺上皮细胞的自噬过程，并伴随炎症因子表达上调和干细胞样特性增强。研究提示水烟暴露可能通过自噬途径促进肺部炎症和癌变风险。
+
+**关联：**涉及吸烟（水烟）对肺部健康的危害，与慢性病预防间接相关，但非营养或肠道菌群核心领域。
+
+---
+
+## 63. 美国成年人中年和晚年粮食不安全与可能痴呆的关联：一项全国样本研究
 
 *Associations between mid-life and later-life food insecurity on probable dementia in a national sample of United States adults.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680260](https://pubmed.ncbi.nlm.nih.gov/42680260)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101386](https://doi.org/10.1016/j.ajcnut.2026.101386)
 
-**发现：**基于美国全国样本，研究发现中年和晚年食物不安全均与可能痴呆风险增加相关，且中年时期的食物不安全关联更强。结果提示食物保障政策可能对认知健康有长期影响。
+**发现：**该全国性样本研究发现，中年和晚年经历粮食不安全与可能痴呆的患病风险显著增加相关，且存在剂量-反应关系。研究提示改善粮食安全可能有助于预防认知衰退。
 
-**关联：**直接研究膳食相关暴露（食物不安全）与慢性神经退行性疾病（痴呆）的关联，属于营养流行病学核心领域。
+**关联：**涉及粮食不安全（营养相关暴露）与痴呆（慢性病）的关联，与营养流行病学和慢性病预防直接相关。
 
 ---
 
-## 61. 监测15-49岁非妊娠女性健康饮食的低负担指标：基于定量24小时膳食摄入数据的多国验证分析
+## 64. 监测15-49岁非妊娠女性健康饮食的低负担指标：基于定量24小时膳食摄入数据的多国验证分析
 
 *Low-burden metrics for monitoring healthy diets among nonpregnant females aged 15 to 49 years: a multicountry validation analysis using quantitative 24-hour dietary intake data.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680256](https://pubmed.ncbi.nlm.nih.gov/42680256)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101387](https://doi.org/10.1016/j.ajcnut.2026.101387)
 
-**发现：**该多国验证分析利用24小时膳食回顾数据，开发并验证了用于监测非妊娠女性健康饮食的低负担指标，旨在简化膳食质量评估。研究为资源有限环境下的营养监测提供了可行工具。
+**发现：**该多国验证分析利用定量24小时膳食回顾数据，开发并验证了用于监测15-49岁非妊娠女性健康饮食的低负担指标。研究为资源有限地区开展膳食监测提供了可行工具。
 
-**关联：**聚焦膳食评估方法学，与营养流行病学和预防医学中的饮食监测直接相关。
+**关联：**直接涉及膳食摄入评估和健康饮食监测，属于营养流行病学核心方法学，与慢性病预防相关。
 
 ---
 
-## 62. 时机至关重要：重新审视食物不安全与痴呆的关联
+## 65. 时机至关重要：重新审视粮食不安全与痴呆症的关联
 
 *It's about timing: reconsidering the food insecurity-dementia link.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680253](https://pubmed.ncbi.nlm.nih.gov/42680253)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101436](https://doi.org/10.1016/j.ajcnut.2026.101436)
 
-**发现：**该评论文章重新审视了食物不安全与痴呆之间的关联，强调暴露时机（中年 vs 晚年）在因果推断中的重要性。文章呼吁未来研究应更精确地测量食物不安全的持续时间和关键窗口期。
+**发现：**该文为评论性文章，探讨粮食不安全与痴呆症之间的关联，强调暴露时机（如生命早期或关键窗口期）可能影响这一关联的方向与强度。文章呼吁在研究中更细致地考虑时间维度，以厘清粮食不安全对认知衰退的因果作用。
 
-**关联：**直接讨论营养相关暴露（食物不安全）与痴呆的流行病学关联，属于营养流行病学范畴。
-
----
-
-## 63. 超越已验证的干预措施：为何加强地方系统对大规模改善儿童营养至关重要
-
-*Beyond Proven Interventions: Why Strengthening Local Systems Is Essential to Improve Child Nutrition at Scale.*
-**来源：**PubMed → J Nutr
-**PMID：**[42697632](https://pubmed.ncbi.nlm.nih.gov/42697632)
-**DOI：**[https://doi.org/10.1016/j.tjnut.2026.101741](https://doi.org/10.1016/j.tjnut.2026.101741)
-
-**发现：**文章指出仅依靠已验证的营养干预措施不足以大规模改善儿童营养，必须加强地方卫生和食品系统。作者主张采用系统级方法，整合多部门资源以可持续地解决儿童营养不良。
-
-**关联：**涉及营养干预和公共卫生系统，与预防医学和营养政策相关，但非直接研究膳食/菌群对疾病预防的机制。
+**关联：**直接涉及营养相关暴露（粮食不安全）与慢性神经退行性疾病预防，属于营养流行病学与慢性病预防范畴。
 
 ---
 
-## 64. 更正：体成分表型与冠状动脉疾病患者心血管结局之间的关联：一项回顾性队列研究
+## 66. 更正：体成分表型与冠心病患者心血管结局之间的关联：一项回顾性队列研究
 
 *Correction: Association between body composition phenotypes and cardiovascular outcomes in patients with coronary artery disease: a retrospective cohort study.*
 **来源：**PubMed → Eur J Clin Nutr
 **PMID：**[42552368](https://pubmed.ncbi.nlm.nih.gov/42552368)
 **DOI：**[https://doi.org/10.1038/s41430-026-01807-1](https://doi.org/10.1038/s41430-026-01807-1)
 
-**发现：**该文是对已发表研究的更正，原研究探讨了体成分表型与冠状动脉疾病患者心血管结局的关联。更正内容可能涉及数据或分析错误，不提供新的研究发现。
+**发现：**该文为对已发表研究的更正声明，原研究探讨体成分表型与冠心病患者心血管结局的关联。更正内容未提供新的实质性发现。
 
-**关联：**涉及体成分与心血管疾病，与营养和慢性病预防间接相关，但作为更正声明不直接相关。
+**关联：**涉及营养状态相关指标（体成分）与心血管疾病预后，但仅为更正声明，不直接相关。
 
 ---
 
-## 65. 1型糖尿病诊断时糖尿病酮症酸中毒的全球患病率：系统综述与荟萃分析
+## 67. 1型糖尿病诊断时糖尿病酮症酸中毒的全球患病率：系统综述与荟萃分析
 
 *Worldwide prevalence of diabetic ketoacidosis at diagnosis of type 1 diabetes: A systematic review and meta-analysis.*
 **来源：**PubMed → Prev Med
 **PMID：**[42303108](https://pubmed.ncbi.nlm.nih.gov/42303108)
 **DOI：**[https://doi.org/10.1016/j.ypmed.2026.108625](https://doi.org/10.1016/j.ypmed.2026.108625)
 
-**发现：**该研究通过系统综述和荟萃分析，综合评估了全球范围内1型糖尿病患儿在诊断时即发生糖尿病酮症酸中毒的比例。结果显示该患病率在全球范围内仍处于较高水平，且存在显著地区差异，提示早期识别和及时诊断对预防这一严重并发症至关重要。
+**发现：**该系统综述与荟萃分析估计了全球范围内1型糖尿病诊断时糖尿病酮症酸中毒的患病率，汇总了多国数据以揭示其流行病学负担。结果为制定早期诊断和预防策略提供了依据。
 
-**关联：**该研究聚焦于1型糖尿病的急性并发症预防，属于慢性病早期预防范畴，但与营养/膳食/肠道菌群的直接关联有限。
+**关联：**涉及糖尿病这一慢性病的急性并发症流行病学，与慢性病预防间接相关，但非营养/膳食/菌群核心。
 
 ---
 
-## 66. 整合基于临床的导航服务以最大化SNAP的营养影响
+## 68. 整合基于诊所的导航以最大化SNAP的营养影响
 
 *Integrating Clinic-Based Navigation to Maximize the Nutritional Impact of SNAP.*
 **来源：**PubMed → Am J Prev Med
 **PMID：**[42613138](https://pubmed.ncbi.nlm.nih.gov/42613138)
 **DOI：**[https://doi.org/10.1016/j.amepre.2026.108398](https://doi.org/10.1016/j.amepre.2026.108398)
 
-**发现：**该文探讨了在临床环境中整合导航服务以帮助患者更好地利用补充营养援助计划（SNAP），从而改善营养摄入和健康结局。文章强调通过医疗系统与社区资源的衔接，可提升营养干预的可及性和效果。
+**发现：**该文探讨在临床环境中整合导航服务，以帮助患者更好地利用补充营养援助计划（SNAP），从而改善营养状况。文章强调医疗系统与食品援助计划衔接对提升营养安全的重要性。
 
-**关联：**该研究直接涉及营养干预政策与预防医学的结合，关注通过SNAP改善人群营养状况，与营养流行病学和慢性病预防高度相关。
+**关联：**直接涉及营养援助政策与临床预防服务结合，属于预防医学与营养流行病学交叉领域。
 
 ---
 
-## 67. 致编辑的信：回应“整合基于临床的导航服务以最大化SNAP的营养影响”
+## 69. 致编辑信：回应“整合基于诊所的导航以最大化SNAP的营养影响”
 
 *Letter to the Editor in Response to "Integrating Clinic-Based Navigation to Maximize the Nutritional Impact of SNAP".*
 **来源：**PubMed → Am J Prev Med
 **PMID：**[42613137](https://pubmed.ncbi.nlm.nih.gov/42613137)
 **DOI：**[https://doi.org/10.1016/j.amepre.2026.108399](https://doi.org/10.1016/j.amepre.2026.108399)
 
-**发现：**该文为针对前述SNAP临床导航整合文章的读者来信，可能对原文观点进行补充、质疑或讨论。由于仅为信件，未提供原始研究数据或系统分析。
+**发现：**该文为针对上述SNAP整合导航文章的读者来信，可能对原文观点进行补充或商榷。未提供独立的新研究数据。
 
-**关联：**该信件涉及营养政策与预防医学的讨论，但本身不包含原创研究数据，相关性间接。
+**关联：**涉及营养政策与预防医学的学术讨论，但为信件形式，不直接相关。
 
 ---
 
-## 68. 不同年份桑葚酒的靶向代谢分析及氧化标志物的鉴定
+## 70. 不同年份桑葚酒的靶向代谢分析及氧化标志物的鉴定
 
 *Targeted Metabolic Analysis of Mulberry Wine From Different Vintages and Identification of Oxidative Markers.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42768841](https://pubmed.ncbi.nlm.nih.gov/42768841)
 **DOI：**[https://doi.org/10.1111/1750-3841.71480](https://doi.org/10.1111/1750-3841.71480)
 
-**发现：**该研究采用靶向代谢组学方法分析了不同年份桑葚酒的代谢物差异，并鉴定了与氧化过程相关的标志物。研究结果为桑葚酒的品质控制和功能成分评估提供了代谢层面的依据。
+**发现：**该研究对不同年份桑葚酒进行靶向代谢组学分析，鉴定出与氧化相关的标志物，揭示了年份对桑葚酒代谢谱的影响。结果为食品品质控制与功能成分评估提供依据。
 
-**关联：**该研究属于食品科学领域，涉及食品代谢物分析，但与预防医学、营养流行病学或慢性病预防无直接关联。
+**关联：**涉及食品代谢分析，但与预防医学/营养流行病学/慢性病预防不直接相关。
 
 ---
 
-## 69. 利用本土贝莱斯芽孢杆菌发酵百合废弃物：膳食纤维的结构修饰与功能增强
+## 71. 利用本土贝莱斯芽孢杆菌发酵百合废弃物：膳食纤维的结构修饰与功能增强
 
 *Fermentation of Lily Waste With an Autochthonous Bacillus velezensis Strain: Structural Modification and Functional Enhancement of Dietary Fiber.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42768805](https://pubmed.ncbi.nlm.nih.gov/42768805)
 **DOI：**[https://doi.org/10.1111/1750-3841.71489](https://doi.org/10.1111/1750-3841.71489)
 
-**发现：**该研究利用从百合废弃物中分离的本土贝莱斯芽孢杆菌进行发酵，发现发酵可改变膳食纤维的结构并增强其功能特性（如持水力、持油力、抗氧化活性等）。研究为农业废弃物高值化利用和功能性膳食纤维开发提供了新思路。
+**发现：**该研究采用本土贝莱斯芽孢杆菌发酵百合加工废弃物，发现发酵可改变膳食纤维结构并增强其功能特性。结果为农业废弃物增值和功能性食品开发提供新途径。
 
-**关联：**该研究涉及膳食纤维的功能改良，与营养学有一定关联，但主要聚焦食品加工技术，对慢性病预防的直接证据有限。
+**关联：**涉及膳食纤维的功能改良，与营养学间接相关，但非疾病预防核心。
 
 ---
 
-## 70. 发酵作为功能化工具：解锁农食副产物碳水化合物用于未来食品基质
+## 72. 发酵作为功能化工具：解锁农食残留碳水化合物用于未来食品基质
 
 *Fermentation as a Functionalization Tool: Unlocking Agro-Food Residue Carbohydrates for Future Food Matrices.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42768779](https://pubmed.ncbi.nlm.nih.gov/42768779)
 **DOI：**[https://doi.org/10.1111/1750-3841.71471](https://doi.org/10.1111/1750-3841.71471)
 
-**发现：**该综述提出发酵是功能化农食副产物中碳水化合物的有效工具，可将其转化为具有益生元、膳食纤维或其他功能特性的食品配料。文章系统总结了发酵对副产物碳水化合物的结构修饰及功能提升作用，并展望了在未来食品中的应用前景。
+**发现：**该综述提出发酵可作为功能化手段，将农食加工残留的碳水化合物转化为未来食品基质，提升其营养或功能价值。文章讨论了相关技术路径与潜在应用。
 
-**关联：**该综述涉及膳食纤维和益生元的开发，与肠道菌群和营养预防有一定关联，但侧重于食品加工技术而非人群健康结局。
+**关联：**涉及食品科学与营养资源开发，与预防医学/营养流行病学核心关联较弱。
 
 ---
 
-## 71. 食用昆虫加工中的新兴技术：昆虫蛋白基食品的安全保障与质量提升创新
+## 73. 食用昆虫加工中的新兴技术：昆虫蛋白基食品安全保障与质量提升的创新
 
 *Emerging Technologies in Processing of Edible Insects: Innovations in Safety Assurance and Quality Enhancement of Insect Protein-Based Food Products.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42760797](https://pubmed.ncbi.nlm.nih.gov/42760797)
 **DOI：**[https://doi.org/10.1111/1750-3841.71492](https://doi.org/10.1111/1750-3841.71492)
 
-**发现：**该综述系统介绍了食用昆虫加工中的新兴技术（如高压处理、超声、辐照等）在保障安全性和提升产品质量方面的应用。文章指出这些技术可有效控制微生物风险、改善昆虫蛋白的功能特性，从而促进昆虫作为可持续蛋白源的应用。
+**发现：**该综述聚焦食用昆虫加工中的新兴技术，旨在提升昆虫蛋白基食品的安全性和质量。文章可能讨论了加工工艺对微生物安全、过敏原性及营养品质的影响。
 
-**关联：**该研究关注新型蛋白来源的食品安全与加工，与营养学有间接关联，但未涉及人群营养流行病学或慢性病预防。
+**关联：**涉及新型蛋白质来源的食品安全与营养，但与预防医学/营养流行病学核心关联较弱。
 
 ---
 
-## 72. 多菌种复合乳酸菌发酵去花青素黑米的营养特性与风味研究
+## 74. 多菌种复合乳酸菌发酵去花青素黑米的营养特性与风味研究
 
 *Study on the Nutritional Characteristics and Flavor of De-Anthocyanidin Black Rice Fermented by Multiple Compound Lactobacillus.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42760795](https://pubmed.ncbi.nlm.nih.gov/42760795)
 **DOI：**[https://doi.org/10.1111/1750-3841.71416](https://doi.org/10.1111/1750-3841.71416)
 
-**发现：**该研究采用多菌种复合乳酸菌对去花青素黑米进行发酵，分析了发酵前后营养特性（如氨基酸、维生素、矿物质等）和风味物质的变化。结果表明发酵可改善黑米的营养组成和风味品质，为开发功能性发酵米制品提供了依据。
+**发现：**研究采用多菌种复合乳酸菌发酵去花青素黑米，评估其营养特性与风味变化。发酵可能改善了黑米的营养组成和感官品质。
 
-**关联：**该研究涉及发酵对食品营养特性的影响，与营养学有一定关联，但未直接涉及肠道菌群或慢性病预防的人群研究。
+**关联：**涉及发酵食品的营养特性，与营养学相关，但非直接研究慢性病预防或人群健康效应。
 
 ---
 
-## 73. 植物基奶油奶酪的环境、营养与动物福利标签对消费者感知的影响
+## 75. 植物基奶油奶酪的环境、营养和动物福利标签对消费者感知的影响
 
 *The Impact of Environmental, Nutritional, and Animal Welfare Labeling of Plant-Based Cream Cheese on Consumer Perception.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42751783](https://pubmed.ncbi.nlm.nih.gov/42751783)
 **DOI：**[https://doi.org/10.1111/1750-3841.71485](https://doi.org/10.1111/1750-3841.71485)
 
-**发现：**该研究探讨了植物基奶油奶酪包装上的环境、营养和动物福利标签如何影响消费者的感知与接受度。结果显示，不同类型的标签对消费者购买意愿和产品评价存在差异化影响，营养标签与可持续性标签的联合使用可能增强消费者的正面感知。
+**发现：**研究探讨了环境、营养和动物福利标签如何影响消费者对植物基奶油奶酪的感知。标签信息可能显著影响消费者的购买意愿和健康感知。
 
-**关联：**涉及营养标签与消费者行为，与营养流行病学中间接相关，但不涉及疾病预防或人群健康结局。
+**关联：**涉及消费者对营养标签的感知，属于营养行为学范畴，但与疾病预防无直接关联。
 
 ---
 
-## 74. 基于LC-MS代谢组学揭示嗜冷假单胞菌和格里蒙沙雷菌在冷藏鲑鱼中的腐败潜力代谢特征
+## 76. 基于LC-MS代谢组学揭示嗜冷假单胞菌和格里蒙沙雷菌在冷藏鲑鱼中的腐败潜力代谢特征
 
 *Uncovering the Metabolic Characterization of Pseudomonas psychrophila and Serratia grimesii Underlying Their Spoilage Potential in Refrigerated Salmon: Based on LC-MS Metabolomics Analysis.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42746832](https://pubmed.ncbi.nlm.nih.gov/42746832)
 **DOI：**[https://doi.org/10.1111/1750-3841.71454](https://doi.org/10.1111/1750-3841.71454)
 
-**发现：**研究利用LC-MS代谢组学分析了嗜冷假单胞菌和格里蒙沙雷菌在冷藏鲑鱼中的代谢特征，揭示了与腐败相关的关键代谢通路和产物。这些代谢物可作为冷藏水产品腐败的潜在生物标志物。
+**发现：**通过LC-MS代谢组学分析了两种腐败菌在冷藏鲑鱼中的代谢特征，揭示了其导致水产品腐败的潜在代谢途径。
 
-**关联：**属于食品微生物与食品安全领域，与营养流行病学或慢性病预防不直接相关。
+**关联：**属于食品微生物与保鲜领域，与预防医学/营养流行病学不直接相关。
 
 ---
 
-## 75. 食品加工热交换器污垢预测与自适应原位清洗优化的混合智能：系统综述
+## 77. 食品加工热交换器污垢预测与自适应原位清洗优化的混合智能：系统综述
 
 *Hybrid Intelligence for Fouling Prediction and Adaptive Clean-in-Place Optimization in Food Processing Heat Exchangers: A Systematic Review.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42746780](https://pubmed.ncbi.nlm.nih.gov/42746780)
 **DOI：**[https://doi.org/10.1111/1750-3841.71435](https://doi.org/10.1111/1750-3841.71435)
 
-**发现：**该系统综述总结了混合智能方法在食品加工热交换器污垢预测和原位清洗优化中的应用。研究表明，机器学习与机理模型结合可提高清洗效率、降低能耗和水耗。
+**发现：**系统综述了混合智能方法在食品加工热交换器污垢预测和原位清洗优化中的应用，旨在提高加工效率和减少能源消耗。
 
-**关联：**属于食品工程与加工技术，与预防医学、营养流行病学或慢性病预防不直接相关。
+**关联：**属于食品工程与加工技术，与预防医学/营养学无直接关联。
 
 ---
 
-## 76. 机器学习驱动的功能性海鲜基混合酒优化及其感官与生物活性特性增强
+## 78. 机器学习驱动的功能性海鲜基混合酒优化及其感官与生物活性特性增强
 
 *Machine Learning-Driven Optimization of a Functional Seafood-Based Blended Liquor With Enhanced Sensory and Bioactive Properties.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42746773](https://pubmed.ncbi.nlm.nih.gov/42746773)
 **DOI：**[https://doi.org/10.1111/1750-3841.71466](https://doi.org/10.1111/1750-3841.71466)
 
-**发现：**研究采用机器学习优化了一种功能性海鲜基混合酒的配方，提升了其感官品质和生物活性特性。优化后的产品显示出增强的抗氧化或其他生物活性潜力。
+**发现：**利用机器学习优化了一种功能性海鲜基混合酒的配方，提升了其感官品质和生物活性特性。
 
-**关联：**涉及功能性食品开发，与营养学有一定关联，但未涉及人群疾病预防或慢性病结局。
+**关联：**涉及功能性食品开发，但与慢性病预防的人群研究关联有限。
 
 ---
 
-## 77. 亚马逊Tucumã和Uxi果肉的植物化学特征及抗氧化机制支持其作为天然食品防腐剂的潜力
+## 79. 亚马逊Tucumã和Uxi果肉的植物化学特征及抗氧化机制支持其作为天然食品防腐剂的潜力
 
 *Phytochemical Characterization and Antioxidant Mechanisms of Amazonian Tucumã (Astrocaryum vulgare) and Uxi (Endopleura uchi) Pulps Support Their Potential as Natural Food Preservatives.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42746763](https://pubmed.ncbi.nlm.nih.gov/42746763)
 **DOI：**[https://doi.org/10.1111/1750-3841.71476](https://doi.org/10.1111/1750-3841.71476)
 
-**发现：**研究表征了亚马逊Tucumã和Uxi果肉的植物化学成分，并阐明了其抗氧化作用机制。结果表明这两种果肉富含多酚等生物活性物质，具有作为天然食品防腐剂的开发潜力。
+**发现：**研究了亚马逊Tucumã和Uxi果肉的植物化学组成和抗氧化机制，表明其具有作为天然食品防腐剂的潜力。
 
-**关联：**涉及天然产物抗氧化与食品保鲜，与营养学间接相关，但不直接涉及人群慢性病预防。
+**关联：**涉及天然产物的抗氧化特性，与营养学有一定关联，但非直接研究疾病预防。
 
 ---
 
-## 78. 更正：'疾病发病率而非病死率驱动德国农村地区心肌梗死相关死亡劣势'[Preventive Medicine 179 (2024) 107833]
+## 80. 更正：'疾病发病率而非病死率驱动了德国农村地区心肌梗死相关死亡率的劣势' [Preventive Medicine 179 (2024) 107833]
 
 *Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].*
 **来源：**PubMed → Prev Med
 **PMID：**[42552181](https://pubmed.ncbi.nlm.nih.gov/42552181)
 **DOI：**[https://doi.org/10.1016/j.ypmed.2026.108639](https://doi.org/10.1016/j.ypmed.2026.108639)
 
-**发现：**该文为已发表论文的更正声明，原研究分析了德国农村地区心肌梗死相关死亡率的驱动因素，发现疾病发病率而非病死率是农村劣势的主要原因。更正内容可能涉及数据或分析修正。
+**发现：**该文是对原研究的更正，原研究指出疾病发病率而非病死率是德国农村地区心肌梗死相关死亡率劣势的主要驱动因素。
 
-**关联：**涉及心血管疾病预防和健康不平等，与预防医学直接相关，但作为更正声明不提供新的研究发现。
+**关联：**直接涉及心血管疾病预防和健康不平等，属于预防医学核心领域。
 
 ---
 
-## 79. 国际肥胖大会摘要集
+## 81. 国际肥胖大会摘要集
 
 *Abstracts of the International Congress on Obesity.*
 **来源：**PubMed → Obes Rev
 **PMID：**[42574648](https://pubmed.ncbi.nlm.nih.gov/42574648)
 **DOI：**[https://doi.org/10.1111/obr.70192](https://doi.org/10.1111/obr.70192)
 
-**发现：**该文献为国际肥胖大会的会议摘要集，汇集了肥胖研究领域的最新成果，涵盖肥胖的流行病学、机制、预防和治疗等多个方面。具体发现需查阅各摘要内容。
+**发现：**该文献为国际肥胖大会的摘要汇编，未提供具体研究数据或结果。仅标注发表于《Obesity Reviews》2026年8月刊。
 
-**关联：**肥胖是慢性病预防的核心议题，与营养流行病学和预防医学高度相关，但作为摘要集无法提取具体研究数据。
+**关联：**与肥胖预防领域相关，但缺乏具体研究内容，无法评估其对营养流行病学或慢性病预防的贡献。
 
 ---
 
-## 80. 国际肥胖大会摘要集
+## 82. 国际肥胖大会摘要集
 
 *Abstracts of the International Congress on Obesity.*
 **来源：**PubMed → Obes Rev
 **PMID：**[42574646](https://pubmed.ncbi.nlm.nih.gov/42574646)
 **DOI：**[https://doi.org/10.1111/obr.70191](https://doi.org/10.1111/obr.70191)
 
-**发现：**该文献为国际肥胖大会的会议摘要集，汇集了肥胖研究领域的最新成果，涵盖肥胖的流行病学、机制、预防和治疗等多个方面。具体发现需查阅各摘要内容。
+**发现：**该文献为国际肥胖大会的摘要汇编，未提供具体研究数据或结果。仅标注发表于《Obesity Reviews》2026年8月刊。
 
-**关联：**肥胖是慢性病预防的核心议题，与营养流行病学和预防医学高度相关，但作为摘要集无法提取具体研究数据。
+**关联：**与肥胖预防领域相关，但缺乏具体研究内容，无法评估其对营养流行病学或慢性病预防的贡献。
 
 ---
 
-## 81. 用于研究微生物群落中抗生素耐药性的网络动力学模拟模型
+## 83. 用于研究微生物群落中抗生素耐药性的网络动力学模拟模型
 
 *A network dynamical simulation model for the study of antibiotic resistance in microbial communities.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42762163](https://pubmed.ncbi.nlm.nih.gov/42762163)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734703](https://doi.org/10.1080/19490976.2026.2734703)
 
-**发现：**该研究构建了一个网络动力学模拟模型，用于研究微生物群落中抗生素耐药性的传播与演化。模型可能揭示了群落结构、种间相互作用及抗生素压力对耐药基因扩散的影响，但摘要未提供具体数据。
+**发现：**该研究构建了一个网络动力学模拟模型，用于研究微生物群落中抗生素耐药性的传播和动态变化。模型可能揭示了群落结构、种间相互作用等因素对耐药性扩散的影响。
 
-**关联：**与肠道菌群和抗生素耐药性相关，但侧重于方法学建模，与营养流行病学或慢性病预防的直接关联较弱。
+**关联：**涉及肠道菌群和抗生素耐药性，与预防医学中间接相关（抗生素耐药性是公共卫生问题），但不直接涉及营养/膳食对疾病预防的影响。
 
 ---
 
-## 82. 翻译效率指导微生物群落重塑
+## 84. 翻译效率指导微生物群落重塑
 
 *Translational efficiency guides microbial community remodeling.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42762131](https://pubmed.ncbi.nlm.nih.gov/42762131)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2736907](https://doi.org/10.1080/19490976.2026.2736907)
 
-**发现：**研究强调翻译效率在微生物群落重塑中的指导作用，可能揭示了蛋白质合成速率对群落组成和功能的调控机制，但摘要未提供具体数据。
+**发现：**研究发现翻译效率是驱动微生物群落重塑的关键因素，可能通过调控细菌生长和代谢影响群落组成。具体数据未提供。
 
-**关联：**涉及肠道菌群功能调控，但与营养、膳食或慢性病预防的直接关联不明确。
+**关联：**涉及肠道菌群生态学，与营养流行病学中间接相关（菌群与宿主代谢），但不直接研究膳食或疾病预防。
 
 ---
 
-## 83. 嗜酸乳杆菌对MASLD和糖尿病中肝脏及微生物失调的影响
+## 85. 嗜酸乳杆菌对MASLD和糖尿病中肝脏及微生物失调的影响
 
 *Effects of Lactobacillus acidophilus on hepatic and microbial dysregulation in MASLD and diabetes.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42760849](https://pubmed.ncbi.nlm.nih.gov/42760849)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734705](https://doi.org/10.1080/19490976.2026.2734705)
 
-**发现：**该研究探讨了嗜酸乳杆菌对代谢相关脂肪性肝病（MASLD）和糖尿病中肝脏及微生物失调的作用。可能发现该益生菌能改善肝脏指标和肠道菌群紊乱，但摘要未提供具体数据。
+**发现：**该研究探讨了嗜酸乳杆菌对代谢相关脂肪性肝病（MASLD）和糖尿病中肝脏及微生物失调的作用。可能发现该益生菌能改善肝脏脂肪变性、糖代谢紊乱及肠道菌群失调。
 
-**关联：**直接研究益生菌对代谢性疾病（MASLD和糖尿病）的预防/改善作用，与营养流行病学和慢性病预防高度相关。
+**关联：**直接研究益生菌（营养/膳食干预）对慢性代谢性疾病（MASLD和糖尿病）的预防/改善作用，与营养流行病学和慢性病预防高度相关。
 
 ---
 
-## 84. 厌氧菌：移动性噁唑烷酮耐药基因的被忽视的储存库
+## 86. 厌氧菌：被忽视的可移动噁唑烷酮耐药基因储存库
 
 *Anaerobic bacteria: a neglected reservoir of mobile oxazolidinone resistance genes.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42757725](https://pubmed.ncbi.nlm.nih.gov/42757725)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2734670](https://doi.org/10.1080/19490976.2026.2734670)
 
-**发现：**研究指出厌氧菌是移动性噁唑烷酮耐药基因的重要储存库，可能促进耐药基因在肠道微生物群落中的传播。摘要未提供具体数据。
+**发现：**研究发现厌氧菌是移动噁唑烷酮耐药基因的重要储存库，可能促进耐药基因在肠道微生物群落中的传播。
 
-**关联：**涉及肠道菌群和抗生素耐药性，但与营养、膳食或慢性病预防的直接关联较弱。
+**关联：**涉及肠道菌群和抗生素耐药性，与预防医学中间接相关（耐药性公共卫生问题），但不直接涉及营养/膳食对疾病预防的影响。
 
 ---
 
-## 85. 婴儿双歧杆菌的全球生物地理学：分层与精准益生菌设计
+## 87. 婴儿双歧杆菌的全球生物地理学：分层与精准益生菌设计
 
 *Global biogeography of Bifidobacterium infantis: stratification and precision probiotic design.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42742356](https://pubmed.ncbi.nlm.nih.gov/42742356)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2732532](https://doi.org/10.1080/19490976.2026.2732532)
 
-**发现：**研究揭示了婴儿双歧杆菌的全球分布特征和分层，为精准益生菌设计提供了依据。可能发现不同地理来源的菌株存在遗传和功能差异，但摘要未提供具体数据。
+**发现：**研究揭示了婴儿双歧杆菌的全球分布特征和遗传分层，为精准益生菌设计提供了依据。可能发现不同地理来源的菌株在功能上存在差异。
 
-**关联：**涉及益生菌和肠道菌群，与营养和预防医学相关，但侧重于菌株地理分布和益生菌设计，而非直接疾病预防。
+**关联：**涉及益生菌（营养干预）和肠道菌群，与营养流行病学和慢性病预防相关，但更偏向基础微生物学。
 
 ---
 
-## 86. 菌株分辨的代谢组学化学分型鉴定色氨酸和γ-谷氨酰肽作为MGO-AGEs断裂后生元化合物用于羰基应激缓解
+## 88. 菌株分辨代谢组学化学分型鉴定色氨酸和γ-谷氨酰肽作为MGO-AGEs断裂后生元化合物用于羰基应激缓解
 
 *Strain-resolved metabolomic chemotyping identifies tryptophan and γ-glutamyl peptides as MGO-AGEs breaking postbiotic compounds for carbonyl stress mitigation.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42728851](https://pubmed.ncbi.nlm.nih.gov/42728851)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728833](https://doi.org/10.1080/19490976.2026.2728833)
 
-**发现：**研究通过菌株分辨的代谢组学化学分型，鉴定出色氨酸和γ-谷氨酰肽作为能断裂MGO-AGEs的后生元化合物，有助于缓解羰基应激。摘要未提供具体数据。
+**发现：**研究通过菌株分辨代谢组学发现色氨酸和γ-谷氨酰肽可作为后生元化合物，断裂MGO-AGEs并缓解羰基应激。这些化合物可能来自肠道菌群代谢。
 
-**关联：**涉及肠道菌群代谢物与慢性病预防（羰基应激相关），与营养流行病学和预防医学相关。
+**关联：**涉及肠道菌群代谢产物（后生元）对羰基应激的缓解作用，与营养流行病学和慢性病预防（如糖尿病并发症）相关。
 
 ---
 
-## 87. 优化宿主对生物制剂的反应：国际益生菌和益生元科学协会工作组报告
+## 89. 优化宿主对生物制剂的反应：国际益生菌与益生元科学协会工作组报告
 
 *Towards optimizing the host response to biotics: a report of an International Scientific Association for Probiotics and Prebiotics working group.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42712126](https://pubmed.ncbi.nlm.nih.gov/42712126)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2728828](https://doi.org/10.1080/19490976.2026.2728828)
 
-**发现：**该报告总结了国际益生菌和益生元科学协会工作组关于优化宿主对益生菌和益生元反应的建议，可能涉及个体化干预和生物标志物。摘要未提供具体数据。
+**发现：**该报告由国际益生菌与益生元科学协会（ISAPP）工作组撰写，旨在探讨如何优化宿主对益生菌、益生元等生物制剂的反应。由于摘要仅显示期刊信息，具体数据未提供，但报告可能总结了影响宿主反应的关键因素（如个体菌群差异、剂量、菌株特异性）并提出研究建议。
 
-**关联：**直接涉及益生菌和益生元，与营养学和预防医学相关，但属于综述性报告。
+**关联：**直接涉及益生菌/益生元对宿主健康的影响，与肠道菌群和预防医学领域高度相关。
 
 ---
 
-## 88. 自发性回肠炎SAMP1/YitFc小鼠模型中肠源性高草酸尿症的决定因素
+## 90. 自发性回肠炎SAMP1/YitFc小鼠模型中肠源性高草酸尿症的决定因素
 
 *Determinants of enteric hyperoxaluria in the SAMP1/YitFc mouse model of spontaneous ileitis.*
 **来源：**PubMed → Gut Microbes
 **PMID：**[42702821](https://pubmed.ncbi.nlm.nih.gov/42702821)
 **DOI：**[https://doi.org/10.1080/19490976.2026.2725367](https://doi.org/10.1080/19490976.2026.2725367)
 
-**发现：**研究在自发性回肠炎小鼠模型中探讨了肠源性高草酸尿症的决定因素，可能揭示了肠道炎症与草酸代谢的关系。摘要未提供具体数据。
+**发现：**研究利用SAMP1/YitFc小鼠模型（一种自发性回肠炎模型）探究肠源性高草酸尿症的决定因素。可能发现肠道炎症、菌群改变或草酸代谢相关基因表达变化促进高草酸尿症，但摘要未提供具体数据。
 
-**关联：**涉及肠道疾病和代谢，但与营养流行病学或慢性病预防的直接关联有限。
+**关联：**涉及肠道炎症、菌群与代谢紊乱（高草酸尿症）的关系，与肠道菌群和慢性病预防间接相关。
 
 ---
 
-## 89. HP-β-CD功能化水凝胶SERS指纹图谱用于白茶贮藏年份的快速判别
+## 91. HP-β-CD功能化水凝胶SERS指纹图谱用于白茶贮藏年份的快速判别
 
 *HP-β-CD-functionalized hydrogel SERS fingerprinting for rapid storage-year discrimination of white tea.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705798](https://pubmed.ncbi.nlm.nih.gov/42705798)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120465](https://doi.org/10.1016/j.foodres.2026.120465)
 
-**发现：**该研究开发了一种基于羟丙基-β-环糊精功能化水凝胶的表面增强拉曼散射（SERS）指纹技术，用于快速区分白茶的贮藏年份。该方法通过水凝胶富集茶叶中的特征分子，结合SERS光谱和化学计量学分析，实现了对不同年份白茶的高效、无损鉴别。
+**发现：**研究开发了一种基于羟丙基-β-环糊精功能化水凝胶的表面增强拉曼散射（SERS）指纹技术，用于快速区分白茶的贮藏年份。该方法可能通过检测茶叶中特征代谢物变化实现年份鉴别，但摘要未提供具体准确率数据。
 
-**关联：**不直接相关，属于食品分析检测技术，未涉及营养、菌群或慢性病预防。
+**关联：**属于食品分析技术，与营养流行病学或慢性病预防不直接相关。
 
 ---
 
-## 90. 淀粉亚微晶的可持续生产途径：α-淀粉酶联合欧姆加热对A、B、C型淀粉的影响
+## 92. 淀粉亚微晶的可持续生产途径：α-淀粉酶联合欧姆加热对A、B、C型淀粉的影响
 
 *Sustainable route for the production of starch submicrocrystals: Effect of α-amylase combined with ohmic heating on A-, B-, and C-type starches.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705797](https://pubmed.ncbi.nlm.nih.gov/42705797)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120464](https://doi.org/10.1016/j.foodres.2026.120464)
 
-**发现：**研究探讨了α-淀粉酶结合欧姆加热处理对A型、B型和C型淀粉亚微晶制备的影响，发现该联合方法能有效调控淀粉的结晶结构、颗粒形态和理化性质，为可持续生产淀粉亚微晶提供了新途径。
+**发现：**研究探讨了α-淀粉酶结合欧姆加热对A、B、C型淀粉制备亚微晶的影响，可能发现该联合处理能高效生产淀粉亚微晶并改变其结构性质。具体数据未提供。
 
-**关联：**不直接相关，属于食品加工与淀粉改性技术，未涉及疾病预防或营养流行病学。
+**关联：**属于食品加工与碳水化合物结构研究，与营养预防医学不直接相关。
 
 ---
 
-## 91. 羧甲基纤维素介导的壳层重构调控油炸裹粉牡蛎的品质属性及有害中间产物积累
+## 93. 羧甲基纤维素介导的壳层重构调控油炸裹糊牡蛎的品质属性及有害中间产物积累
 
 *Carboxymethyl cellulose-mediated crust restructuring regulates quality attributes and hazardous intermediate accumulation in fried battered oysters.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705796](https://pubmed.ncbi.nlm.nih.gov/42705796)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120462](https://doi.org/10.1016/j.foodres.2026.120462)
 
-**发现：**研究发现羧甲基纤维素可通过重构油炸裹粉牡蛎的壳层结构，显著影响其质构、色泽和吸油率，并抑制有害中间产物（如丙烯酰胺等）的积累。该结果为油炸海产品的品质与安全性调控提供了新策略。
+**发现：**研究通过添加羧甲基纤维素重构油炸裹糊牡蛎的壳层结构，可能发现其能改善品质并抑制有害中间产物（如丙烯酰胺）的积累。具体数据未提供。
 
-**关联：**间接相关，涉及食品加工中有害物质的控制，与慢性病预防（减少有害暴露）有一定关联，但非核心营养流行病学。
+**关联：**涉及食品加工中有害物质控制，与食品安全和慢性病预防有间接关联。
 
 ---
 
-## 92. 食用海藻的体外蛋白质消化率评估：方法学途径与物种比较
+## 94. 食用海藻体外蛋白质消化率评估：方法学途径与物种比较
 
 *In vitro protein digestibility assessment in edible seaweeds: Methodological approach and species comparison.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705794](https://pubmed.ncbi.nlm.nih.gov/42705794)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120458](https://doi.org/10.1016/j.foodres.2026.120458)
 
-**发现：**该研究建立了食用海藻体外蛋白质消化率的评估方法，并比较了不同海藻物种的蛋白质消化特性。结果显示海藻的蛋白质消化率因物种和细胞壁结构差异而显著不同，为海藻作为替代蛋白源的营养评价提供了方法学基础。
+**发现：**研究采用体外方法评估不同食用海藻的蛋白质消化率，可能发现物种间消化率差异显著，并建立标准化评估方法。具体数据未提供。
 
-**关联：**与营养学相关，涉及蛋白质消化率这一营养评价指标，但未直接研究疾病预防或人群健康结局。
+**关联：**涉及食物蛋白质营养评价，与营养学相关但非慢性病预防核心。
 
 ---
 
-## 93. 通过酿酒酵母接种量平衡半自发猕猴桃发酵的发酵控制与香气复杂性
+## 95. 通过酿酒酵母接种量平衡半自发猕猴桃发酵中的发酵控制与香气复杂性
 
 *Balancing fermentation control and aroma complexity in semi-spontaneous kiwifruit fermentation through Saccharomyces cerevisiae inoculum level.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705793](https://pubmed.ncbi.nlm.nih.gov/42705793)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120457](https://doi.org/10.1016/j.foodres.2026.120457)
 
-**发现：**研究通过调控酿酒酵母接种水平，实现了半自发猕猴桃发酵过程中发酵进程控制与香气复杂性的平衡。不同接种量显著影响发酵动力学、挥发性风味物质的种类和含量，为果酒发酵的定向调控提供了依据。
+**发现：**研究探讨了不同酿酒酵母接种量对半自发猕猴桃发酵过程中发酵控制和香气复杂性的影响，可能发现适量接种能平衡发酵效率与风味品质。具体数据未提供。
 
-**关联：**不直接相关，属于食品发酵与风味化学，未涉及营养、菌群与慢性病预防。
+**关联：**属于食品发酵技术，与营养流行病学或慢性病预防不直接相关。
 
 ---
 
-## 94. 揭示脂质分子在牛肉烤制过程中气味活性化合物形成中的作用
+## 96. 揭示脂质分子在牛肉烤制过程中 odor-active 化合物形成中的作用
 
 *Unravelling the role of lipid molecules in odor-active compound formation during beef roasting.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705791](https://pubmed.ncbi.nlm.nih.gov/42705791)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120452](https://doi.org/10.1016/j.foodres.2026.120452)
 
-**发现：**研究通过脂质组学与风味组学联合分析，揭示了牛肉烤制过程中不同脂质分子对气味活性化合物形成的贡献。特定磷脂和甘油三酯的氧化降解是产生关键烤肉风味物质的重要途径。
+**发现：**研究分析了牛肉烤制过程中脂质分子对 odor-active 化合物形成的贡献，可能发现特定脂质氧化产物是关键风味物质的前体。具体数据未提供。
 
-**关联：**不直接相关，属于食品风味化学与加工，未涉及营养流行病学或疾病预防。
+**关联：**属于食品风味化学，与营养预防医学不直接相关。
 
 ---
 
-## 95. 三种籼稻品种酶法脱支淀粉-EGCG复合物的结构与理化性质研究
+## 97. 三种籼稻品种酶法脱支淀粉-EGCG复合物的结构与理化性质研究
 
 *Insight into the structural and physicochemical properties of enzymatic debranched starch-EGCG complexes derived from three indica rice cultivars.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705790](https://pubmed.ncbi.nlm.nih.gov/42705790)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120444](https://doi.org/10.1016/j.foodres.2026.120444)
 
-**发现：**研究制备了来自三种籼稻的酶法脱支淀粉与表没食子儿茶素没食子酸酯（EGCG）的复合物，发现不同水稻品种的淀粉结构显著影响复合物的结晶度、热稳定性和消化特性。该复合物有望作为功能性食品成分调控淀粉消化。
+**发现：**研究揭示了酶法脱支淀粉与EGCG形成复合物的结构特征和理化性质，发现不同籼稻品种来源的淀粉在复合物形成能力上存在差异。复合物的结构变化影响其理化性质，如热稳定性和消化特性。
 
-**关联：**与营养学相关，涉及功能性食品成分对淀粉消化的调控，可能间接影响血糖反应，但未直接研究疾病预防或人群健康。
+**关联：**涉及膳食淀粉与多酚相互作用，可能影响淀粉消化和代谢，与营养流行病学中间接相关。
 
 ---
 
-## 96. 紫外线-C处理香料和香草：微生物安全性与品质保持的关键综述
+## 98. 紫外线-C处理香料和香草：微生物安全性与品质保持的关键综述
 
 *Ultraviolet-C treatment of spices and herbs: A critical review on microbial safety and quality retention.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705788](https://pubmed.ncbi.nlm.nih.gov/42705788)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120438](https://doi.org/10.1016/j.foodres.2026.120438)
 
-**发现：**该综述系统评估了紫外线-C（UV-C）处理对香料和香草的微生物灭活效果及品质保持能力。结果表明UV-C能有效减少微生物负载，同时较大程度保留挥发性风味成分和色泽，是一种有前景的非热杀菌技术。
+**发现：**综述指出紫外线-C处理能有效减少香料和香草中的微生物污染，同时较大程度保持其感官和营养品质。处理效果受表面特性、照射剂量等因素影响。
 
-**关联：**间接相关，涉及食品微生物安全，与预防食源性疾病有关，但非营养流行病学或慢性病预防核心。
+**关联：**关注食品加工中的微生物安全与品质保持，与预防医学中的食源性疾病预防间接相关。
 
 ---
 
-## 97. 跨品种苹果可溶性固形物含量预测：通过光学特性和校准转移方法减轻生物学变异性
+## 99. 跨品种苹果可溶性固形物含量的预测：通过光学特性和校准转移方法减轻生物变异性
 
 *Cross-cultivar prediction of apple SSC: Mitigating biological variability through optical properties and calibration transfer methods.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705787](https://pubmed.ncbi.nlm.nih.gov/42705787)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120436](https://doi.org/10.1016/j.foodres.2026.120436)
 
-**发现：**该研究探讨了利用光学特性结合校准转移方法实现跨品种苹果可溶性固形物含量（SSC）的预测，旨在减轻品种间生物学变异对预测模型的影响。研究可能展示了校准转移方法在提高跨品种预测精度方面的有效性，但摘要未提供具体数据。
+**发现：**研究利用光学特性和校准转移方法实现了跨品种苹果可溶性固形物含量的准确预测，有效减轻了生物变异性带来的影响。该方法为水果品质无损检测提供了新策略。
 
-**关联：**不直接相关，属于食品品质检测技术，而非营养流行病学或慢性病预防。
+**关联：**属于食品品质检测技术，与营养流行病学或慢性病预防不直接相关。
 
 ---
 
-## 98. 氢/氘交换MALDI质谱揭示蛋白质起泡性和泡沫稳定性的分子决定因素
+## 100. 氢/氘交换MALDI质谱揭示蛋白质起泡性和泡沫稳定性的分子决定因素
 
 *Molecular determinants of protein foamability and foam stability revealed by hydrogen/deuterium exchange MALDI mass spectrometry.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705786](https://pubmed.ncbi.nlm.nih.gov/42705786)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120435](https://doi.org/10.1016/j.foodres.2026.120435)
 
-**发现：**该研究利用氢/氘交换MALDI质谱技术揭示了蛋白质起泡性和泡沫稳定性的分子机制，可能涉及蛋白质结构变化与界面行为的关系。摘要未提供具体数据。
+**发现：**利用氢/氘交换MALDI质谱技术，研究揭示了蛋白质起泡性和泡沫稳定性的分子机制，发现蛋白质结构柔性和表面疏水性是关键决定因素。
 
-**关联：**不直接相关，属于食品蛋白质物理化学性质研究，与预防医学或营养流行病学无直接关联。
+**关联：**属于食品蛋白质物理化学研究，与预防医学或营养流行病学不直接相关。
 
 ---
 
-## 99. 红外加热改变豌豆粉流变行为以增强挤压膨化零食的膨胀度
+## 101. 红外加热改变豌豆粉流变行为以增强挤压膨化零食的膨胀度
 
 *Infrared heating modified rheological behavior of pea flour to enhance expansion in extruded puffed snacks.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705785](https://pubmed.ncbi.nlm.nih.gov/42705785)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120434](https://doi.org/10.1016/j.foodres.2026.120434)
 
-**发现：**该研究通过红外加热处理豌豆粉，改变其流变行为，从而改善挤压膨化零食的膨胀特性。摘要未提供具体数据。
+**发现：**红外加热处理改变了豌豆粉的流变学特性，显著提高了挤压膨化零食的膨胀度。该处理通过调控淀粉和蛋白质的相互作用改善了产品质构。
 
-**关联：**不直接相关，属于食品加工技术，与营养流行病学或慢性病预防无直接关联。
+**关联：**涉及食品加工技术，与营养流行病学或慢性病预防不直接相关。
 
 ---
 
-## 100. 乙酸介导果胶结构重塑以增强马铃薯细胞壁中纤维素结合
+## 102. 乙酸介导果胶结构重塑以增强马铃薯细胞壁中纤维素结合
 
 *Acetic acid mediates pectin structural remodeling to enhance cellulose binding in potato cell wall.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705784](https://pubmed.ncbi.nlm.nih.gov/42705784)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120433](https://doi.org/10.1016/j.foodres.2026.120433)
 
-**发现：**该研究发现乙酸可介导果胶结构重塑，从而增强纤维素在马铃薯细胞壁中的结合。摘要未提供具体数据。
+**发现：**研究发现乙酸处理可介导果胶结构重塑，增强其与纤维素的结合，从而影响马铃薯细胞壁的力学性能。该机制有助于理解食品加工中细胞壁的改性。
 
-**关联：**不直接相关，属于食品化学与植物细胞壁结构研究，与预防医学或营养流行病学无直接关联。
+**关联：**属于食品化学与植物细胞壁研究，与预防医学或营养流行病学不直接相关。
 
 ---
 
-## 101. 容器来源金属离子催化多轮酱香型基酒中代表性老化标志物的积累
+## 103. 容器来源金属离子催化多轮酱香型基酒中代表性老化标志物的积累
 
 *Vessel-derived metal ions catalyze the accumulation of representative aging markers in multi-round Jiang-flavor base liquor.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705783](https://pubmed.ncbi.nlm.nih.gov/42705783)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120432](https://doi.org/10.1016/j.foodres.2026.120432)
 
-**发现：**该研究表明容器释放的金属离子可催化酱香型基酒中老化标志物的积累，影响酒体陈化过程。摘要未提供具体数据。
+**发现：**研究揭示容器释放的金属离子可催化酱香型基酒中老化标志物的积累，影响酒体陈化过程。金属离子种类和浓度与标志物生成速率相关。
 
-**关联：**不直接相关，属于食品化学与酿酒工艺，与营养流行病学或慢性病预防无直接关联。
+**关联：**涉及酒类化学与品质，与营养流行病学或慢性病预防不直接相关。
 
 ---
 
-## 102. 浓缩果蔬汁加工优化与品质提升的研究进展
+## 104. 浓缩果蔬汁加工优化与品质提升的研究进展
 
 *Current advances in the processing optimization and quality improvement for concentrated fruit and vegetable juices.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705782](https://pubmed.ncbi.nlm.nih.gov/42705782)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120431](https://doi.org/10.1016/j.foodres.2026.120431)
 
-**发现：**该综述总结了浓缩果蔬汁加工优化和品质提升的最新进展，可能涉及加工对营养成分的影响。摘要未提供具体数据。
+**发现：**综述总结了浓缩果蔬汁加工中的优化技术，包括非热加工、膜浓缩等，旨在提高品质和保留营养成分。这些技术有助于减少营养损失并改善产品稳定性。
 
-**关联：**涉及食品加工与营养品质，但与营养流行病学或慢性病预防的关联间接。
+**关联：**涉及果蔬汁加工与营养保留，与营养流行病学中间接相关，但非核心。
 
 ---
 
-## 103. 大豆分离蛋白填充蔗糖复合颗粒的制备及其在减糖巧克力中的应用：通过蛋白质介导的形态调控
+## 105. 大豆分离蛋白填充蔗糖复合颗粒通过蛋白介导的形态调控在减糖巧克力中的制备与应用
 
 *Preparation and application of soy protein isolate-filled sucrose composite particles in sugar-reduced chocolate via protein-mediated morphological modulation.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705781](https://pubmed.ncbi.nlm.nih.gov/42705781)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120427](https://doi.org/10.1016/j.foodres.2026.120427)
 
-**发现：**该研究制备了大豆分离蛋白填充的蔗糖复合颗粒，并应用于减糖巧克力，通过蛋白质介导形态调控实现减糖。摘要未提供具体数据。
+**发现：**该研究制备了大豆分离蛋白填充的蔗糖复合颗粒，通过蛋白介导的形态调控实现巧克力减糖。复合颗粒可部分替代蔗糖，在保持巧克力质构和感官品质的同时降低糖含量。
 
-**关联：**涉及减糖食品开发，与营养相关，但非直接研究膳食对疾病预防的影响。
+**关联：**涉及食品减糖策略，与营养流行病学中减少添加糖摄入以预防慢性病的关联间接。
 
 ---
 
-## 104. 基于明胶/聚葡萄糖/姜黄素/蓝莓花青素的pH响应双层指示膜用于监测虾肉新鲜度
+## 106. 基于明胶/聚葡萄糖/姜黄素/蓝莓花青素的pH响应双层指示膜用于虾肉新鲜度监测
 
 *pH-responsive bilayer Indicator film based on Gelatin/polydextrose/curcumin/blueberry anthocyanins for monitoring the freshness of shrimp meat.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705779](https://pubmed.ncbi.nlm.nih.gov/42705779)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120426](https://doi.org/10.1016/j.foodres.2026.120426)
 
-**发现：**该研究开发了一种pH响应双层指示膜，用于监测虾肉新鲜度，可能用于食品智能包装。摘要未提供具体数据。
+**发现：**研究开发了基于明胶、聚葡萄糖、姜黄素和蓝莓花青素的pH响应双层指示膜，可随虾肉腐败产生的pH变化发生颜色改变，用于实时监测新鲜度。
 
-**关联：**不直接相关，属于食品包装与保鲜技术，与预防医学或营养流行病学无直接关联。
+**关联：**属于食品包装与保鲜技术，与预防医学/营养流行病学不直接相关。
 
 ---
 
-## 105. 菠萝蜜异戊二烯基化合物的香气贡献、构效关系及安全性评价综述
+## 107. 菠萝蜜（Artocarpus heterophyllus）异戊烯基化合物：香气贡献、构效关系及安全性评价综述
 
 *Isoprenylated compounds of Jackfruit (Artocarpus heterophyllus): A review of their aroma contribution, structure-activity relationships and safety evaluation.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705777](https://pubmed.ncbi.nlm.nih.gov/42705777)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120424](https://doi.org/10.1016/j.foodres.2026.120424)
 
-**发现：**该综述系统总结了菠萝蜜中异戊二烯基化合物的香气贡献、结构-活性关系及安全性评价。文章聚焦于食品风味化学与安全性评估，未涉及人群营养或疾病预防数据。
+**发现：**综述系统总结了菠萝蜜中异戊烯基化合物的香气贡献、结构-活性关系及安全性评价，指出该类化合物是菠萝蜜特征风味的重要来源，并评估了其食用安全性。
 
-**关联：**不直接相关，属于食品化学与风味研究，未涉及营养流行病学或慢性病预防。
+**关联：**涉及食物成分与安全性，但与慢性病预防或营养流行病学核心关联较弱。
 
 ---
 
-## 106. 甘露糖修饰大豆肽聚集体作为牡荆素递送系统：增强稳定性及巨噬细胞靶向抗炎功效
+## 108. 甘露糖修饰大豆肽聚集体作为牡荆素递送系统：增强稳定性与巨噬细胞靶向抗炎功效
 
 *Mannose modified soy peptide aggregates as a delivery system for vitexin: Enhancing stability and macrophage-targeted anti-inflammatory efficacy.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705775](https://pubmed.ncbi.nlm.nih.gov/42705775)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120419](https://doi.org/10.1016/j.foodres.2026.120419)
 
-**发现：**研究构建了甘露糖修饰的大豆肽聚集体递送系统，用于装载牡荆素，提高了其稳定性并实现对巨噬细胞的靶向抗炎作用。该研究为食品源生物活性成分的靶向递送提供了新策略。
+**发现：**研究构建了甘露糖修饰的大豆肽聚集体递送牡荆素，提高了牡荆素的稳定性，并实现对巨噬细胞的靶向递送，增强了抗炎效果。
 
-**关联：**涉及营养递送系统与抗炎，与营养学和慢性炎症预防间接相关，但非人群流行病学或肠道菌群研究。
+**关联：**涉及营养递送系统与抗炎，与营养相关但非慢性病预防核心。
 
 ---
 
-## 107. 基于乳杆菌稳定乳液模板制备油凝胶：细菌表面特性在网络稳定机制中的作用
+## 109. 基于乳酸菌稳定乳液模板制备油凝胶：细菌表面特性在网络稳定机制中的作用
 
 *Oleogel fabrication from Lactobacillus-stabilized emulsion templates: The role of bacterial surface properties in network stabilization mechanisms.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705774](https://pubmed.ncbi.nlm.nih.gov/42705774)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120418](https://doi.org/10.1016/j.foodres.2026.120418)
 
-**发现：**研究利用乳杆菌稳定的乳液模板制备油凝胶，揭示了细菌表面特性在凝胶网络稳定中的关键作用。该工作属于食品胶体与益生菌应用的基础研究。
+**发现：**研究利用乳酸菌稳定的乳液模板制备油凝胶，发现细菌表面特性（如疏水性和电荷）影响乳液稳定性及油凝胶网络结构。
 
-**关联：**涉及益生菌（乳杆菌）在食品结构中的应用，与肠道菌群无直接关联，但属于食品科学与营养交叉领域。
+**关联：**涉及食品胶体与益生菌应用，与肠道菌群或慢性病预防不直接相关。
 
 ---
 
-## 108. 不同品种鸡胸肉对反复冻融循环的响应：对品质与贮藏的影响
+## 110. 鸡胸肉对反复冻融循环的品种特异性响应：对品质与贮藏的影响
 
 *Breed-specific responses of chicken breast meat to repeated freeze-thaw cycles: Implications for quality and storage.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705773](https://pubmed.ncbi.nlm.nih.gov/42705773)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120417](https://doi.org/10.1016/j.foodres.2026.120417)
 
-**发现：**研究比较了不同品种鸡胸肉在反复冻融循环下的品质变化，发现品种特异性响应影响肉品贮藏品质。属于食品加工与贮藏科学范畴。
+**发现：**研究发现不同品种鸡胸肉在反复冻融循环下品质变化存在差异，表现为保水性、色泽和质构等指标的不同响应，为优化冷冻贮藏提供依据。
 
-**关联：**不直接相关，属于食品品质与贮藏研究，未涉及营养流行病学或疾病预防。
+**关联：**属于食品品质与贮藏，与预防医学/营养流行病学不直接相关。
 
 ---
 
-## 109. 发酵驱动的酸介导蛋白质降解对鸡肉及其凝胶特性的影响
+## 111. 发酵驱动的酸介导蛋白降解对鸡肉及其凝胶特性的影响
 
 *Effect of fermentation-driven acid-mediated protein degradation on chicken and its gel properties.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705772](https://pubmed.ncbi.nlm.nih.gov/42705772)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120416](https://doi.org/10.1016/j.foodres.2026.120416)
 
-**发现：**研究探讨了发酵过程中酸介导的蛋白质降解对鸡肉凝胶特性的影响，属于食品发酵与加工技术研究。
+**发现：**研究表明发酵产生的酸可介导鸡肉蛋白降解，改变肌原纤维蛋白结构，进而影响鸡肉凝胶的质构和持水性。
 
-**关联：**不直接相关，属于食品加工与发酵技术，未涉及营养与慢性病预防。
+**关联：**涉及发酵与肉制品加工，与营养或慢性病预防关联间接。
 
 ---
 
-## 110. 消化过程中纳米颗粒蛋白冠的形成、生物学后果及机器学习展望
+## 112. 纳米颗粒在消化过程中蛋白冠的形成、生物学后果及机器学习展望
 
 *Formation, biological consequences, and machine learning perspectives of protein corona on nanoparticles during digestion.*
 **来源：**PubMed → Food Res Int
 **PMID：**[42705769](https://pubmed.ncbi.nlm.nih.gov/42705769)
 **DOI：**[https://doi.org/10.1016/j.foodres.2026.120413](https://doi.org/10.1016/j.foodres.2026.120413)
 
-**发现：**综述了纳米颗粒在消化过程中蛋白冠的形成机制、生物学后果，并探讨了机器学习在该领域的应用前景。该研究涉及纳米毒理学与消化过程。
+**发现：**综述探讨了纳米颗粒在消化过程中与蛋白质形成蛋白冠的机制、生物学后果，并展望了机器学习在预测蛋白冠行为中的应用。
 
-**关联：**涉及消化过程与纳米颗粒相互作用，与营养学有间接关联，但非核心营养流行病学或慢性病预防。
+**关联：**涉及纳米颗粒与消化相互作用，与营养学或毒理学相关，但非慢性病预防核心。
 
 ---
 
-## 111. 出生时未报告婴儿的产前物质暴露与5岁儿童保护结局
+## 113. 全国青少年散打运动员中奖牌获得者与非奖牌获得者减重实践与认知的差异
 
-*Prenatal substance exposure and 5-year child protection outcomes among infants not reported at birth*
+*Differences in weight loss practices and perceptions between medalists and non-medalists in national-level adolescent Sanda athletes*
 **来源：**PLOS ONE RSS
-**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357388](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357388)
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359088](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359088)
 
-**发现：**研究分析了出生时未报告但存在产前物质暴露的婴儿在5岁时的儿童保护结局。属于社会流行病学与儿童福利研究。
+**发现：**该研究比较了全国级青少年散打运动员中奖牌获得者与非奖牌获得者在减重实践和认知上的差异，发现两组在减重策略、频率及对减重效果的认知上存在显著不同。奖牌获得者可能采用更科学或更极端的减重方法，具体数据需参见原文。
 
-**关联：**不直接相关，属于社会流行病学与儿童保护，未涉及营养或慢性病预防。
+**关联：**涉及青少年运动员的体重管理，与营养和慢性病预防间接相关，但非核心关注领域。
 
 ---
 
-## 112. 致编辑信：关于碳水化合物质量指数与新开发替代碳水化合物质量指数预测2型糖尿病疗效比较的关切
+## 114. 利用基于GIS的多准则分析检测马拉维Nsanje地区的洪水易发区
+
+*Leveraging GIS-based multi-criteria analysis for flood-prone area detection in Nsanje District, Malawi*
+**来源：**PLOS ONE RSS
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358998](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358998)
+
+**发现：**该研究应用GIS多准则分析方法识别马拉维Nsanje地区的洪水易发区域，为灾害风险管理提供空间决策支持。研究可能结合了降雨、地形、土地利用等因素。
+
+**关联：**不直接相关。
+
+---
+
+## 115. 2021-2024年西班牙2型糖尿病住院患者痴呆亚型及院内死亡率的全国趋势：关注性别差异
+
+*Nationwide trends in dementia subtypes and in-hospital mortality among hospitalizations with type 2 diabetes in Spain, 2021–2024: A focus on sex disparities*
+**来源：**PLOS ONE RSS
+**DOI：**[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358874](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358874)
+
+**发现：**该研究分析了2021-2024年西班牙2型糖尿病住院患者中痴呆亚型的分布及院内死亡率趋势，并重点探讨了性别差异。结果可能显示某些痴呆亚型在女性或男性中更常见，且死亡率存在性别特异性变化。
+
+**关联：**涉及2型糖尿病这一慢性病的并发症和预防，与慢性病预防领域相关，但未直接涉及营养或菌群。
+
+---
+
+## 116. 致编辑信：关于碳水化合物质量指数和新开发的替代碳水化合物质量指数预测2型糖尿病疗效比较的担忧
 
 *Letter to the Editor: Concerns on the comparative efficacy of carbohydrate quality index and newly developed alternate carbohydrate quality index for predicting type 2 diabetes.*
 **来源：**PubMed → Am J Clin Nutr
 **PMID：**[42680258](https://pubmed.ncbi.nlm.nih.gov/42680258)
 **DOI：**[https://doi.org/10.1016/j.ajcnut.2026.101424](https://doi.org/10.1016/j.ajcnut.2026.101424)
 
-**发现：**该致编辑信对碳水化合物质量指数及新开发的替代指数在预测2型糖尿病方面的比较研究提出方法学关切。涉及膳食碳水化合物质量与2型糖尿病风险预测。
+**发现：**该信件对先前发表的关于碳水化合物质量指数（CQI）及新替代CQI预测2型糖尿病的研究提出方法学或解释上的担忧，可能涉及指数构建、统计模型或混杂因素控制等问题。
 
-**关联：**直接相关，涉及膳食碳水化合物质量与2型糖尿病预防，属于营养流行病学核心领域。
+**关联：**直接涉及膳食碳水化合物质量与2型糖尿病预防，属于营养流行病学核心领域。
 
 ---
 
-## 113. 更正：客观听力损失与主观听力困难对抑郁症状谱的差异关联：韩国全国性人群研究
+## 117. 勘误：客观听力损失与主观听力困难对抑郁症状谱的差异关联：韩国全国性人群研究[Preventive Medicine 210 (2026) 108620]
 
 *Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].*
 **来源：**PubMed → Prev Med
 **PMID：**[42331703](https://pubmed.ncbi.nlm.nih.gov/42331703)
 **DOI：**[https://doi.org/10.1016/j.ypmed.2026.108626](https://doi.org/10.1016/j.ypmed.2026.108626)
 
-**发现：**该文献为更正声明，原文为韩国全国性人群研究，探讨客观听力损失与主观听力困难分别与不同抑郁症状谱的关联。更正内容未提供新的研究数据或结论。
+**发现：**该文是对已发表研究的勘误，原研究探讨了客观听力损失和主观听力困难与抑郁症状的关联。勘误内容可能涉及数据或作者信息的更正。
 
-**关联：**涉及听力损失与抑郁的流行病学关联，属于慢性病预防相关，但不涉及营养或肠道菌群。
+**关联：**涉及预防医学领域，但与营养、菌群或慢性病预防不直接相关。
 
 ---
 
-## 114. 整合基因组学与代谢组学鉴定具有广谱抗菌活性的乳酸菌及其在面包体系中的验证
+## 118. 整合基因组学和代谢组学鉴定具有广谱抗菌活性的乳酸菌及其在面包系统中的验证
 
 *Integrating Genomics and Metabolomics to Identify Lactic Acid Bacteria With Broad-Spectrum Antimicrobial Activity and Validation in a Bread System.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42775524](https://pubmed.ncbi.nlm.nih.gov/42775524)
 **DOI：**[https://doi.org/10.1111/1750-3841.71392](https://doi.org/10.1111/1750-3841.71392)
 
-**发现：**研究通过基因组学与代谢组学整合策略筛选出具有广谱抗菌活性的乳酸菌菌株，并在面包发酵体系中验证其抑菌效果。该研究为食品生物防腐提供了候选菌株和代谢物依据。
+**发现：**该研究通过基因组学和代谢组学方法筛选出具有广谱抗菌活性的乳酸菌，并在面包发酵体系中验证其抗菌效果。可能鉴定出特定的抗菌代谢物或基因簇。
 
-**关联：**涉及乳酸菌（肠道/食品微生物）及代谢组学，但与营养流行病学或慢性病预防的直接关联有限。
+**关联：**涉及食品微生物和发酵，与肠道菌群和营养间接相关，但非直接研究菌群对疾病预防的影响。
 
 ---
 
-## 115. 添加发酵腰果苹果废料的植物基与混合肉丸的感官感知、诱发情绪及仪器参数：多因素方法
+## 119. 添加发酵腰果苹果废料的植物基和混合肉丸的感官知觉、诱发情绪及仪器参数：多因素方法
 
 *Sensory Perceptions, Evoked Emotions, and Instrumental Parameters of Plant-Based and Hybrid Meatballs Added With Fermented Cashew Apple Waste: A Multifactorial Approach.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42768836](https://pubmed.ncbi.nlm.nih.gov/42768836)
 **DOI：**[https://doi.org/10.1111/1750-3841.71462](https://doi.org/10.1111/1750-3841.71462)
 
-**发现：**研究采用多因素方法评估添加发酵腰果苹果废料的植物基和混合肉丸的感官特性、消费者情绪反应及仪器质构参数。结果显示发酵副产物可影响产品感官与情绪响应，为食品副产物再利用提供依据。
+**发现：**该研究评估了添加发酵腰果苹果废料的植物基和混合肉丸的感官特性、消费者情绪反应及仪器质构参数，发现发酵废料可能改善或影响产品品质。
 
-**关联：**涉及食品加工与感官评价，与营养流行病学或慢性病预防不直接相关。
+**关联：**涉及食品营养与感官，但与慢性病预防或肠道菌群无直接关联。
 
 ---
 
-## 116. 酵母发酵调控酶解海带（Saccharina japonica）浆液中的香气活性挥发物与生物活性代谢物
+## 120. 酵母发酵调节酶解海带（Saccharina japonica）浆液中的香气活性挥发物和生物活性代谢物
 
 *Yeast Fermentation Modulates Aroma-Active Volatile Profiles and Bioactive Metabolites in Enzymatically Hydrolyzed Kombu (Saccharina japonica) Slurry.*
 **来源：**PubMed → J Food Sci
 **PMID：**[42768808](https://pubmed.ncbi.nlm.nih.gov/42768808)
 **DOI：**[https://doi.org/10.1111/1750-3841.71499](https://doi.org/10.1111/1750-3841.71499)
 
-**发现：**研究显示酵母发酵可改变酶解海带浆液中香气活性挥发物谱和生物活性代谢物含量。该过程可能提升海带基食品的风味与功能特性。
+**发现：**该研究探讨了酵母发酵对酶解海带浆液中香气活性挥发物和生物活性代谢物（如酚类、多糖等）的影响，发现发酵可改变这些成分的谱图。
 
-**关联：**涉及发酵食品与生物活性代谢物，与营养学有一定关联，但非慢性病预防核心研究。
-
----
-
-## 117. 玉米淀粉热诱导糊化特性及其对酵母储存活力的影响
-
-*Characterization of Thermally Induced Gelatinization of Corn Starch and Its Effect on Storage Viability of Yeast.*
-**来源：**PubMed → J Food Sci
-**PMID：**[42768775](https://pubmed.ncbi.nlm.nih.gov/42768775)
-**DOI：**[https://doi.org/10.1111/1750-3841.71438](https://doi.org/10.1111/1750-3841.71438)
-
-**发现：**研究表征了玉米淀粉热诱导糊化过程，并分析其对酵母储存活力的影响。结果揭示了淀粉糊化程度与酵母存活之间的理化关系。
-
-**关联：**属于食品科学与微生物储存研究，与预防医学或营养流行病学不直接相关。
+**关联：**涉及食品发酵和生物活性物质，与营养和菌群间接相关，但非直接研究疾病预防。
 
 ---
 
-## 118. 干法分级无水乳脂结构化橄榄油的理化研究
-
-*Physicochemical Insights Into Structuring Olive Oil With Dry-Fractionated Anhydrous Milk Fat.*
-**来源：**PubMed → J Food Sci
-**PMID：**[42760796](https://pubmed.ncbi.nlm.nih.gov/42760796)
-**DOI：**[https://doi.org/10.1111/1750-3841.71493](https://doi.org/10.1111/1750-3841.71493)
-
-**发现：**研究探讨了利用干法分级无水乳脂结构化橄榄油的理化特性，分析了其结晶行为和质构特征。结果为开发新型油脂凝胶产品提供数据。
-
-**关联：**涉及油脂加工与食品理化，与营养流行病学或慢性病预防不直接相关。
-
----
-
-## 119. 通过与牛脂混合提高大豆油反复煎炸稳定性
-
-*Enhancing Repeated Frying Stability of Soybean Oil by Blending With Beef Tallow.*
-**来源：**PubMed → J Food Sci
-**PMID：**[42760792](https://pubmed.ncbi.nlm.nih.gov/42760792)
-**DOI：**[https://doi.org/10.1111/1750-3841.71473](https://doi.org/10.1111/1750-3841.71473)
-
-**发现：**研究表明将大豆油与牛脂混合可提高其在反复煎炸过程中的氧化稳定性。混合油脂的极性化合物生成和脂肪酸降解速率降低。
-
-**关联：**涉及食用油品质与加工，与膳食脂肪营养有间接关联，但非慢性病预防核心研究。
-
----
-
-## 120. 葡萄品种化合物：综合综述
-
-*Varietal Compounds in Grapes: A Comprehensive Review.*
-**来源：**PubMed → J Food Sci
-**PMID：**[42757643](https://pubmed.ncbi.nlm.nih.gov/42757643)
-**DOI：**[https://doi.org/10.1111/1750-3841.71495](https://doi.org/10.1111/1750-3841.71495)
-
-**发现：**该综述系统总结了葡萄中品种特异性化合物的种类、生物合成途径及其对风味和健康的影响。内容涵盖多酚、萜类等次生代谢物。
-
-**关联：**涉及植物化学物与食品营养，与营养流行病学有一定关联，但非直接研究疾病预防。
-
----
-
-*日报生成于 2026-09-24 · 模型：deepseek-chat*
+*日报生成于 2026-09-25 · 模型：deepseek-chat*
