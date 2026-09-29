@@ -1,16 +1,88 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T02:22:58.656523",
+    "generated_at": "2026-09-29T03:06:42.805508",
     "days_back": 1,
-    "total_papers": 154,
+    "total_papers": 160,
     "sources": {
       "pubmed": 125,
-      "rss": 0,
+      "rss": 5,
       "preprints": 10,
-      "trials": 22
+      "trials": 21
     }
   },
   "papers": [
+    {
+      "title": "Stanford Healthy Goals Study",
+      "url": "https://clinicaltrials.gov/study/NCT07839832",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2027-01",
+      "abstract": "Status: RECRUITING; Conditions: Obesity, Childhood; Interventions: Wise interventions -- values self-affirmation and growth mindset -- plus usual care behavioral treatment, Education plus usual care behavioral treatment; Past modest, transient and highly variable outcomes from many behavioral treatments for pediatric obesity may be, in part, because of the psychological barriers children with obesity face when trying to control their weight. The goal of this randomized controlled trial is to test whether adding two ; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07839832",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Personalized whole-body modeling links gut microbiota to metabolic perturbations in Alzheimer's disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2732659",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42804599",
+      "authors": [
+        {
+          "name": "Hensen T",
+          "authtype": "Author"
+        },
+        {
+          "name": "Khatib L",
+          "authtype": "Author"
+        },
+        {
+          "name": "Patel L",
+          "authtype": "Author"
+        },
+        {
+          "name": "McDonald D",
+          "authtype": "Author"
+        },
+        {
+          "name": "González A",
+          "authtype": "Author"
+        },
+        {
+          "name": "MahmoudianDehkordi S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Blach C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Knight R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kaddurah-Daouk R",
+          "authtype": "Author"
+        },
+        {
+          "name": "Thiele I",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2732659",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2732659",
+      "epubdate": "2026 Sep 28"
+    },
     {
       "title": "Plasma indole-3-propionic acid is a gut-derived metabolite and is associated with type 2 diabetes and cardiometabolic outcomes: Evidence from a human antibiotic intervention.",
       "url": "https://doi.org/10.1080/19490976.2026.2736321",
@@ -1680,52 +1752,6 @@
       "epubdate": "2026 Sep 10"
     },
     {
-      "title": "Towards optimizing the host response to biotics: a report of an International Scientific Association for Probiotics and Prebiotics working group.",
-      "url": "https://doi.org/10.1080/19490976.2026.2728828",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42712126",
-      "authors": [
-        {
-          "name": "Preidis GA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Bercik P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Marette A",
-          "authtype": "Author"
-        },
-        {
-          "name": "O'Mahony L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sperandio V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Quigley EM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2728828",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2728828",
-      "epubdate": "2026 Sep 8"
-    },
-    {
       "title": "Harvest Now, Decrypt Later: A Case Study in Preparing for the Public Health Risks of New Technologies.",
       "url": "https://doi.org/10.1097/EDE.0000000000002032",
       "source": "PubMed → Epidemiology",
@@ -1758,36 +1784,6 @@
       ],
       "elocationid": "doi: 10.1097/EDE.0000000000002032",
       "epubdate": "2026 Sep 25"
-    },
-    {
-      "title": "Timothy J. Wade, 1967-2026.",
-      "url": "https://doi.org/10.1097/EDE.0000000000002026",
-      "source": "PubMed → Epidemiology",
-      "source_type": "journal",
-      "date": "2026-11-01T00:00:00+00:00",
-      "abstract": "Journal: Epidemiology",
-      "pmid": "42789762",
-      "authors": [
-        {
-          "name": "Egorov AI",
-          "authtype": "Author"
-        },
-        {
-          "name": "Colford JM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "37",
-      "issue": "6",
-      "pages": "725-726",
-      "issn": "1044-3983",
-      "essn": "1531-5487",
-      "journal_full": "Epidemiology (Cambridge, Mass.)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1097/EDE.0000000000002026",
-      "epubdate": "2026 Jul 24"
     },
     {
       "title": "Toward a Clearer Definition of the Per-protocol Effect.",
@@ -2532,6 +2528,88 @@
         "Journal Article"
       ],
       "elocationid": "doi: 10.1097/EDE.0000000000002019",
+      "epubdate": "2026 Jul 6"
+    },
+    {
+      "title": "Indoor Radon Concentrations and Hematologic Traits in the Women's Health Initiative.",
+      "url": "https://doi.org/10.1097/EDE.0000000000002020",
+      "source": "PubMed → Epidemiology",
+      "source_type": "journal",
+      "date": "2026-11-01T00:00:00+00:00",
+      "abstract": "Journal: Epidemiology",
+      "pmid": "42406881",
+      "authors": [
+        {
+          "name": "Shi C",
+          "authtype": "Author"
+        },
+        {
+          "name": "Collins JM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ekanayaka A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Stewart JD",
+          "authtype": "Author"
+        },
+        {
+          "name": "Conneely KN",
+          "authtype": "Author"
+        },
+        {
+          "name": "Huang DY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jung SY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Manson JE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Schwartz GG",
+          "authtype": "Author"
+        },
+        {
+          "name": "Silverman AJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Vitolins MZ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Williamson MR",
+          "authtype": "Author"
+        },
+        {
+          "name": "Reiner AP",
+          "authtype": "Author"
+        },
+        {
+          "name": "Smith RL",
+          "authtype": "Author"
+        },
+        {
+          "name": "Whitsel EA",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "37",
+      "issue": "6",
+      "pages": "837-847",
+      "issn": "1044-3983",
+      "essn": "1531-5487",
+      "journal_full": "Epidemiology (Cambridge, Mass.)",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1097/EDE.0000000000002020",
       "epubdate": "2026 Jul 6"
     },
     {
@@ -4015,73 +4093,123 @@
       "epubdate": "2026 Aug 18"
     },
     {
-      "title": "Mediterranean Diet Uptake and Nutrition on Child Health, Inflammation, and Early-life Symbiosis (MUNCHIES) Study",
-      "url": "https://clinicaltrials.gov/study/NCT07309536",
+      "title": "Bite Sized Biomarkers",
+      "url": "https://clinicaltrials.gov/study/NCT07845383",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-10-05",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Dietary Assessment, Diet, Food, and Nutrition, Carotenoid Status; Interventions: Bite-sized Biomarkers: Skin carotenoid scores; The primary objective of this study is to rigorously evaluate the effectiveness of a Food is Medicine (FIM) intervention using objective biomarkers and to determine the role of nutritional monitoring on the impact and sustainability of integrating nutrition supports into primary care.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07845383",
+      "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "JLU_Nutr_FI Registry: A Prospective Registry of Feeding Intolerance in Critically Ill Patients",
+      "url": "https://clinicaltrials.gov/study/NCT07844538",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2026-10-01",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Gut Microbiome, Body Composition, Adherence, Metabolites, Inflammation; Interventions: Mediterranean Diet Nutrition Program, Standard Diet Education Program; Toddlerhood (ages 2-3) is a critical window when the gut microbiome is still developing and eating habits are being established. Yet, many Canadian toddlers eat diets high in sugar and salt, which may affect long-term health. This study will test whether a MED diet can improve dietary inflammation, ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07309536",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Critical Illness, Feeding Intolerance; This prospective observational cohort study aims to characterize feeding intolerance in critically ill adult patients and to identify clinical, physiological, laboratory, electrophysiological, and imaging factors associated with its development.\n\nWithin 24 hours after intensive care unit (ICU) admis; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07844538",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Household Salt Substitution for Hypertension Prevention and Control: The HOME-Salt Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07840742",
+      "title": "From wrist to research: Harnessing smartwatch data for equitable cardiovascular research",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005260",
+      "source": "PLOS Medicine RSS",
+      "source_type": "journal",
+      "date": "2026-09-28T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Classification of pre-metabolic syndrome and metabolic syndrome using machine learning and routine clinical variables in Thai adults",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359283",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-28T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Characterisation of microbial metabolite profiles across the gastrointestinal tract of horses fed on pasture, hay or oat-supplemented rations",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359277",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-28T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Food consumption patterns and nutrient adequacy across lifecycle stages in Bangladesh",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359205",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-28T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Ability of the triglyceride–glucose index and C-reactive protein-to-albumin ratio to predict severity of acute pancreatitis and 28-day mortality",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359089",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-09-28T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Microbiota Transplant With Antibiotic Preconditioning and Fiber Supplementation in PAH.",
+      "url": "https://clinicaltrials.gov/study/NCT07751120",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-10",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Hypertension; Interventions: Low-Sodium Salt Substitute, Regular Salt; Hypertension is a major risk factor for cardiovascular disease. Excess sodium intake and insufficient potassium intake contribute to elevated blood pressure, while replacing regular salt with a potassium-enriched salt substitute may help lower blood pressure. Because cooking salt is commonly shared ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07840742",
+      "date": "2026-09-01",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Pulmonary Arterial Hypertension; Interventions: MTT with antibiotic preconditioning + fiber supplementation, MTT with antibiotic preconditioning + placebo supplementation, MTT with placebo + placebo supplementation.; This pilot clinical trial analysis will evaluate the initial safety, feasibility, and pharmacokinetics of microbiota transplant therapy (MTT) with antibiotic pre-conditioning and fiber supplementation vs. placebo in patients with pulmonary arterial hypertension (PAH). This trial will inform developm; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07751120",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "Metabolic and Hormonal Parameters in Women With Polyendocrine Metabolic Ovarian Syndrome",
+      "url": "https://clinicaltrials.gov/study/NCT07844785",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2026-09-01",
+      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Polycystic Ovary Syndrome, Polycystic Ovary Syndrome (PCOS) Women, Fetuin-A, Serum Biomarkers, Insulin Resistance; Interventions: Blood and Saliva Biomarker Assessment; Polyendocrine Metabolic Ovarian Syndrome (PMOS) is a common endocrine and metabolic disorder associated with insulin resistance, hyperandrogenism, and an increased risk of long-term metabolic complications. Fetuin-A and resistin are adipokines implicated in insulin resistance and chronic inflammatio; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT07844785",
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults 55 >= Years Old: A Randomized Triple-Masked Controlled Clinical Trial",
-      "url": "https://clinicaltrials.gov/study/NCT06274749",
+      "title": "Using Continuous Glucose Monitoring to Quantify the Effects of NOURISH's Culturally Modified Meals on Asian Americans With Type 2 Diabetes",
+      "url": "https://clinicaltrials.gov/study/NCT06836479",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-30",
-      "abstract": "Status: RECRUITING; Conditions: Healthy Volunteer; Interventions: Urolithin A, Placebo; Background:\n\nAs people age, the cells in the pancreas that produce insulin begin to release less of this hormone, and levels of blood glucose (sugar) rise. This can lead to illnesses such as diabetes. Urolithin A (UA) is a natural nutritional supplement that may improve how the body controls blood g; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06274749",
+      "date": "2026-08-31",
+      "abstract": "Status: RECRUITING; Conditions: Type 2 Diabetes Mellitus (T2DM), Type 2 Diabetes; Interventions: NOURISH Diet, Self-Selected Diet (Control); The investigators are hoping to determine whether tailoring the diet of someone with type 2 diabetes to their ethnic group while following American Diabetes Association guidelines can make a significant difference in their blood sugar controls. Participants will be required to wear a Continuous Gluc; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06836479",
       "status": "RECRUITING"
     },
     {
-      "title": "Multi-strain Probiotic Supplement for Digestive Comfort and Well-being in Healthy Women",
-      "url": "https://clinicaltrials.gov/study/NCT07831317",
+      "title": "Stroke and Systemic Embolism Prevention in Adult Participants With Atrial Fibrillation",
+      "url": "https://clinicaltrials.gov/study/NCT07626411",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09-19",
-      "abstract": "Status: RECRUITING; Conditions: Gastrointestinal Discomfort, Bloating; Interventions: Active: Multi-strain probiotic dietary supplement, Placebo: Placebo; This study looks at whether a daily probiotic supplement can help improve mild-to-moderate stomach and digestive symptoms, such as gas and bloating, in women who also experience symptoms commonly associated with hormonal fluctuations. Participants take either the probiotic or a placebo (a look-alike; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07831317",
+      "date": "2026-08-10",
+      "abstract": "Status: RECRUITING; Conditions: Atrial Fibrillation (AF); Interventions: REGN7508, Apixaban, Placebo; This study is researching an experimental drug called REGN7508 (called \"study drug\") and how it compares against another treatment called apixaban. The study is focused on people who have atrial fibrillation, which means that the heart beats too fast and unevenly.\n\nThe aim of the study is to see how; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07626411",
       "status": "RECRUITING"
     },
     {
-      "title": "Efficacy, Safety, and Pharmacokinetics of Tirzepatide (LY3298176) Once Weekly Versus Placebo in Pediatric Participants 6 to Less Than 12 Years of Age Who Have Obesity (ADVANCE-SURMOUNT-KIDS)",
-      "url": "https://clinicaltrials.gov/study/NCT07817875",
+      "title": "EXERT-BC Protein: Protein Supplementation to Improve Body Composition After Treatment for Breast Cancer",
+      "url": "https://clinicaltrials.gov/study/NCT07704476",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-09",
-      "abstract": "Status: NOT_YET_RECRUITING; Conditions: Obesity; Interventions: Tirzepatide, Placebo; The main purpose of this study, performed under Master Protocol J4M-MC-PWMP (NCT06672549), is to evaluate the efficacy, safety, and pharmacokinetics of tirzepatide as an addition to healthy lifestyle in participants 6 to less than 12 years of age, with obesity. Participation in the study will last a; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07817875",
-      "status": "NOT_YET_RECRUITING"
-    },
-    {
-      "title": "GBPDC: Gut-Brain in PD Consortium Master Protocol",
-      "url": "https://clinicaltrials.gov/study/NCT07567794",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2026-07-03",
-      "abstract": "Status: RECRUITING; Conditions: Parkinson Disease (PD), PARKINSON DISEASE (Disorder), Gut Microbiome, Gut Microbiota, Prodromal Parkinsons Disease; The purpose of this research study is to identify the role that the gut-brain axis, the group of nerves that connect the brain and gut, plays in Parkinson's disease (PD). The National Institute of Diabetes and Digestive and Kidney Diseases is sponsoring this research study.\n\nDuring this study, speci; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07567794",
+      "date": "2026-06-18",
+      "abstract": "Status: RECRUITING; Conditions: Cancer, Breast Cancer; Interventions: Whey protein (60 grams), No protein; In this study, the investigators hypothesize that a high dose of post-workout protein after each exercise session will have greater improvements in changes in body composition, including muscle mass and percent body fat versus a workout alone.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT07704476",
       "status": "RECRUITING"
     },
     {
-      "title": "How Gut Health Affects Immune Responses to the Oral Rotavirus Vaccine in Adults in Zambia",
-      "url": "https://clinicaltrials.gov/study/NCT07626606",
+      "title": "Fiber Smoothie Supplement",
+      "url": "https://clinicaltrials.gov/study/NCT06896240",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2026-03-30",
-      "abstract": "Status: RECRUITING; Conditions: Feasibility Study, Vaccine Immune Response, Rota Virus Gastroenteritis, Transcriptomics; Interventions: Rotarix®,; The Rotavirus SpatioTrasncriptomics (Rota-Omics) study is a multidisciplinary research project aimed at understanding why oral rotavirus vaccines perform less effectively in some low- and middle-income countries, including Zambia. Rotavirus remains one of the leading causes of severe diarrheal disea; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT07626606",
+      "date": "2026-04-28",
+      "abstract": "Status: RECRUITING; Conditions: Total Knee Arthroplasty Revision, Inflammatory Markers, Gut Microbiota; Interventions: Assigned Interventions; This study aims to assess the feasibility of a 2-week dietary whole-food smoothie intervention and compare outcomes between two groups: patients that integrated a daily whole food plant-based smoothie into their diet for two weeks prior to surgery, and a control group of revision TKA patients that m; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06896240",
       "status": "RECRUITING"
     },
     {
@@ -5907,94 +6035,6 @@
       "epubdate": ""
     },
     {
-      "title": "Study on the Nutritional Characteristics and Flavor of De-Anthocyanidin Black Rice Fermented by Multiple Compound Lactobacillus.",
-      "url": "https://doi.org/10.1111/1750-3841.71416",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42760795",
-      "authors": [
-        {
-          "name": "Yang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wei S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "He Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ma X",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71416",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71416",
-      "epubdate": ""
-    },
-    {
-      "title": "Enhancing Repeated Frying Stability of Soybean Oil by Blending With Beef Tallow.",
-      "url": "https://doi.org/10.1111/1750-3841.71473",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42760792",
-      "authors": [
-        {
-          "name": "Zhang X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yu M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xiang Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xu M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu P",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "9",
-      "pages": "e71473",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71473",
-      "epubdate": ""
-    },
-    {
       "title": "Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108639",
       "source": "PubMed → Prev Med",
@@ -6079,6 +6119,90 @@
       "epubdate": "2026 Jul 16"
     },
     {
+      "title": "Effects of Ultrasound Treatment on the Physicochemical Properties, Organic Acids, and Electronic Nose and Electronic Tongue Responses of Daixian Huangjiu.",
+      "url": "https://doi.org/10.1111/1750-3841.71512",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Oct",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42803364",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hou H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "10",
+      "pages": "e71512",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71512",
+      "epubdate": ""
+    },
+    {
+      "title": "Chitosan/Pullulan-Based Composite Films Incorporated With Anisaldehyde and Cinnamaldehyde Nanocapsules: Physicochemical Properties, Release Kinetics, and Antifungal Potential.",
+      "url": "https://doi.org/10.1111/1750-3841.71516",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Oct",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42803348",
+      "authors": [
+        {
+          "name": "Khalid MU",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ali K",
+          "authtype": "Author"
+        },
+        {
+          "name": "JadElrab EH",
+          "authtype": "Author"
+        },
+        {
+          "name": "El-Sherif DM",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yao W",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "10",
+      "pages": "e71516",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71516",
+      "epubdate": ""
+    },
+    {
       "title": "Quinoa and Peanut Extracts as Alternatives to Animal-Derived Extracellular Matrix Proteins in Cultured Meat Production.",
       "url": "https://doi.org/10.1111/1750-3841.71509",
       "source": "PubMed → J Food Sci",
@@ -6159,124 +6283,114 @@
       "epubdate": ""
     },
     {
-      "title": "Mindful Moms, Mindful Meals (MMMM) Study",
-      "url": "https://clinicaltrials.gov/study/NCT07282964",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-09-30",
-      "abstract": "Status: RECRUITING; Conditions: Nutrition in Early Infancy, Nutrition Habits, Postpartum Nutrition, Mindful Eating Intervention; Interventions: Mindfulness-Based Eating Awareness Training Postpartum, Waitlist Mindfulness-Based Eating Awareness Training Postpartum; The goal of this clinical trial is to learn whether a Mindfulness-Based Eating Awareness Training Postpartum (MB-EAT-P) program can improve infant feeding practices and maternal eating behaviors. Researchers will compare participants who receive the MB-EAT-P program immediately to those who receive ; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07282964",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "A Clinical Trial to Evaluate Efficacy and Safety of Xeomin® Injections for Preventing Episodic Migraine",
-      "url": "https://clinicaltrials.gov/study/NCT07018700",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2025-08-21",
-      "abstract": "Status: RECRUITING; Conditions: Episodic Migraine; Interventions: Xeomin, Placebo; In this clinical trial, participants with episodic migraine will receive injections with Xeomin or Placebo into muscles of the head and neck. The purpose is to measure the change in monthly migraine days with Xeomin injections compared to Placebo injections.\n\nTrial details include:\n\n* Trial duration; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07018700",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "Non-nutritive Sweeteners in Inflammatory Bowel Disease",
-      "url": "https://clinicaltrials.gov/study/NCT07769437",
+      "title": "Tirzepatide for Obesity and Meth Use Disorder",
+      "url": "https://clinicaltrials.gov/study/NCT06745128",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
       "date": "2025-02-03",
-      "abstract": "Status: RECRUITING; Conditions: Inflamatory Bowel Disease, Crohn Disease (CD); Interventions: Sucralose (non-nutritive sweetener); This study will focus on the commonly used non-nutritive sweetener (NNS) sucralose (2 sachets/day resulting in daily dose: sucralose 2.5mg/kg) and its role in changing the gut microbiota in humans with IBD, compared to healthy non-IBD individuals. The investigators will focus on studying IBD patient; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07769437",
+      "abstract": "Status: COMPLETED; Conditions: Obesity, Methamphetamine Use Disorder; Interventions: Tirzepatide; This is an open-label pilot study to evaluate the feasibility and preliminary efficacy of using tirzepatide when prescribed for its United States (US) Food and Drug Administration (FDA)-approved weight-related indication in individuals with comorbid methamphetamine use disorder.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06745128",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "A Randomized Comparison of Stage-Based Care Versus Risk Factor-Based Care for Prevention of Cardiovascular Events",
+      "url": "https://clinicaltrials.gov/study/NCT06112418",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2024-03-06",
+      "abstract": "Status: RECRUITING; Conditions: Diabetes Mellitus, Type 2, PreDiabetes, Metabolic Syndrome; Interventions: The Cleerly CAD Staging System; TRANSFORM is a prospective, randomized, open blinded endpoint (PROBE), event-driven, pragmatic trial in patients who are at increased risk for atherosclerotic cardiovascular (CV) disease but with no known symptomatic CV disease. The trial tests the hypothesis that a Cleerly Coronary Artery Disease (; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06112418",
       "status": "RECRUITING"
     },
     {
-      "title": "Nutritional Educational Program On Therapy in Iron Deficiency Anemia",
-      "url": "https://clinicaltrials.gov/study/NCT06642337",
+      "title": "Micronutrient Dose Response Study in Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT06081114",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2025-02-01",
-      "abstract": "Status: COMPLETED; Conditions: Iron Deficiency Anemia (IDA), Nutrition Disorders, Growth Retardation; Interventions: Educational program +Oral Iron therapy; The goal of this clinical trial is to evaluate whether a Nutritional Educational Program for caregivers can improve their knowledge and performance in managing iron deficiency anemia (IDA) in children, compared to oral iron therapy alone. The study focuses on children with IDA, particularly in \\[age; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06642337",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Exercise and Tissue-Specific Insulin Sensitivity in South Asian and Nordic Women With Previous Gestational Diabetes",
-      "url": "https://clinicaltrials.gov/study/NCT07843082",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-10-01",
-      "abstract": "Status: COMPLETED; Conditions: Diabetes, Obesity & Overweight; Interventions: Exercise; South Asian women have a high risk of developing type 2 diabetes, and the risk is particularly high after gestational diabetes. This study examined whether eight weeks of supervised vigorous exercise improves insulin sensitivity in South Asian women with previous gestational diabetes, and whether th; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07843082",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "A Study to Evaluate Preventive Treatments for GPRC5D-related Oral Events",
-      "url": "https://clinicaltrials.gov/study/NCT06500884",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-08-26",
-      "abstract": "Status: RECRUITING; Conditions: Multiple Myeloma; Interventions: Talquetamab, Prophylaxis A, Prophylaxis B, Prophylaxis C, Prophylaxis D; The purpose of this study is to identify preventive treatments that can minimize the occurrence, severity, and duration of talquetamab-related taste changes (dysgeusia), during the prophylaxis (preventive) treatment phase, to better characterize the signs or symptoms of talquetamab-related taste cha; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06500884",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "LIver FRAilty Management IN Cirrhosis (LIFRAMIN)",
-      "url": "https://clinicaltrials.gov/study/NCT06573229",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-08-02",
-      "abstract": "Status: COMPLETED; Conditions: Sarcopenia, Cirrhosis, Liver, Malnutrition; Protein; Interventions: Aminolife Plus by Piemme Pharmatech, Italy; The goal of this clinical trial is to compare food for special medical purposes (Aminolife Plus, by Piemme Pharmatech) vs. placebo in improving muscle mass and function in a cohort of cirrhotic patients.\n\nThe main questions it aims to answer are:\n\n* whether functional ability improves in cirrhotic-s; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06573229",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "EFFECTS OF DAILY KEFIR CONSUMPTION DURING MEDICAL NUTRITION THERAPY ON BODY COMPOSITION AND PSYCHOLOGICAL WELL-BEING IN WOMEN WITH OBESITY",
-      "url": "https://clinicaltrials.gov/study/NCT07840274",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2024-06-01",
-      "abstract": "Status: COMPLETED; Conditions: Obesity & Overweight, Gut Microbiota, Body Composition; Interventions: Plain Kefir, Individualized Medical Nutrition Therapy; This randomized controlled study evaluated the effects of daily kefir consumption as an adjunct to medical nutrition therapy on body composition, biochemical parameters, gastrointestinal symptoms, bowel habits, and psychological well-being in women with obesity. Participants were randomly assigned t; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT07840274",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Evaluation of Patient Coach Support for Older Adults With Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT06624163",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2023-06-08",
-      "abstract": "Status: COMPLETED; Conditions: Obesity; Interventions: OHWL Clinic Activities (Standard of Care), Coach Activities; The purpose of the present pilot is to evaluate the outcomes of adding a patient coach to support the Optimal Health Weight and Lifestyle (OHWL) Clinic plan developed by PI Dewar, specifically to address barriers and facilitators of adherence to the plan. This will be accomplished via a coach who is; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT06624163",
-      "status": "COMPLETED"
-    },
-    {
-      "title": "Protecting Preterm Infants From Respiratory Tract Infections and Wheeze by Using Bacterial Lysates.",
-      "url": "https://clinicaltrials.gov/study/NCT05063149",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2022-03-18",
-      "abstract": "Status: RECRUITING; Conditions: Wheezing, LRTI, Premature; Interventions: Broncho-Vaxom, Placebo; The primary objective of this study is to reduce respiratory tract infections and wheezing in moderate-late preterms in the first years of life by bacterial lysate administration. Next to determine the correlation of biological markers with respiratory symptoms, immune protection and treatment effec; Study Type: INTERVENTIONAL",
-      "nct_id": "NCT05063149",
-      "status": "RECRUITING"
-    },
-    {
-      "title": "The Lung Microbiome and Endobronchial Valve Treatment",
-      "url": "https://clinicaltrials.gov/study/NCT04932811",
-      "source": "ClinicalTrials.gov",
-      "source_type": "trial",
-      "date": "2021-06-16",
-      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Chronic Obstructive Pulmonary Disease, Emphysema; Interventions: Endobronchial valve treatment; Lung emphysema is an incurable disease and is often associated with chronic obstructive pulmonary disease (COPD). Dyspnea is the main, debilitating symptom and is relieved by inhaled bronchodilators and rehabilitation. However, a substantial number of patients continue to suffer from dyspnea, and am; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT04932811",
+      "date": "2023-10-22",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Micronutrient Status; Interventions: Micronutrient Supplement; The recommended daily amounts of vitamins and minerals, referred to as micronutrients, are based on data from high income settings and for healthy populations do not fully correct nutritional deficiencies in undernourished settings. This study will determine the minimum acceptable doses across a ran; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT06081114",
       "status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "title": "Differences Between Breastfed and Formula Fed Infants",
-      "url": "https://clinicaltrials.gov/study/NCT03493711",
+      "title": "Vancomycin Study in Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT05539729",
       "source": "ClinicalTrials.gov",
       "source_type": "trial",
-      "date": "2018-02-21",
-      "abstract": "Status: COMPLETED; Conditions: Healthy; This study will help us learn how a child's diet affects growth and development.; Study Type: OBSERVATIONAL",
-      "nct_id": "NCT03493711",
+      "date": "2023-01-31",
+      "abstract": "Status: RECRUITING; Conditions: Multiple Sclerosis; Interventions: Vancomycin, Placebo; The overall goal of this study is to elucidate a mechanism by which vancomycin modulates the gut-brain axis in multiple sclerosis (MS). The gut microbiome plays an important role in autoimmunity, including MS. However, the identity of gut microbes modulating neuroinflammation in MS and their mechani; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT05539729",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "A Study of Vaccination With 9-valent Extraintestinal Pathogenic Escherichia Coli Vaccine (ExPEC9V) in the Prevention of Invasive Extraintestinal Pathogenic Escherichia Coli Disease in Adults Aged 60 Years And Older With a History of Urinary Tract Infection in the Past 2 Years",
+      "url": "https://clinicaltrials.gov/study/NCT04899336",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2021-06-30",
+      "abstract": "Status: COMPLETED; Conditions: Invasive Extraintestinal Pathogenic Escherichia Coli Disease (IED) Prevention; Interventions: ExPEC9V, Placebo; The purpose of this study is to demonstrate the efficacy of 9-valent extraintestinal pathogenic Escherichia coli vaccine (ExPEC9V) compared to placebo in the prevention of the first invasive extraintestinal pathogenic Escherichia coli disease (IED) event caused by ExPEC9V O-serotypes.; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT04899336",
       "status": "COMPLETED"
+    },
+    {
+      "title": "Vaginal Microbiome Transplantation for Recurrent Bacterial Vaginosis",
+      "url": "https://clinicaltrials.gov/study/NCT04517487",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2020-08-20",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Bacterial Vaginoses; Interventions: Vaginal Microbiome Transplantation (VMT), Placebo; Vaginal Microbiome Transplantation (VMT) may be beneficial in treating the most severe cases of recurrent and antibiotics-nonresponsive cases of BV.\n\nWe completed a preliminary study in which we treated patients with recurrent and antibiotics-non-responsive, intractable BV, with VMT from healthy don; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT04517487",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "title": "Cytochrome P450 Epoxygenase Pathway Regulation of Macrophage Function",
+      "url": "https://clinicaltrials.gov/study/NCT02743468",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2019-01-08",
+      "abstract": "Status: COMPLETED; Conditions: Polymorphism, Lung Inflammation; Background:\n\nRespiratory diseases affect more than 1 billion people worldwide. They are a growing public health concern. The lungs are constantly exposed to environmental factors such as dust, fumes, microbes, and pollutants. But much is still not known about how these pollutants lead to respiratory; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT02743468",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Factors Affecting Newborn Body Composition and Later Health in Helsinki Birth Cohort 2018-2022",
+      "url": "https://clinicaltrials.gov/study/NCT03765684",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2018-12-01",
+      "abstract": "Status: COMPLETED; Conditions: Offspring, Adult, Lifestyle, Obesity, Childhood, Pregnancy Related, Child Development; In Helsinki Birth Cohort 2018-2022 a large, longitudinal and well-phenotyped birth cohort of infants and their parents will be established. Mothers, fathers/spouses and their children in Helsinki and Uusimaa Hospital District are recruited in the study and newborn composition of the children born in; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT03765684",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Insights Into Microbiome and Environmental Contributions to Sickle Cell Disease and Leg Ulcers Study (INSIGHTS Study)",
+      "url": "https://clinicaltrials.gov/study/NCT02156102",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2014-06-16",
+      "abstract": "Status: COMPLETED; Conditions: Genetic Disease, Genomics; Background:\n\n\\- People with sickle cell disease and other blood disorders sometimes get chronic leg ulcers. These are wounds that develop on the skin and don t go away. Current treatments do not work very well, so researchers want to learn more about why the ulcers happen. They want to find out whic; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT02156102",
+      "status": "COMPLETED"
+    },
+    {
+      "title": "Effects of Treatments on Atopic Dermatitis",
+      "url": "https://clinicaltrials.gov/study/NCT01631617",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2012-09-18",
+      "abstract": "Status: RECRUITING; Conditions: Eczema, Dermatitis, Skin Diseases, Genetic, Dermatitis, Atopic, Skin Diseases; Interventions: Trimethoprim/sulfamethoxazole (TMP/SMZ), Cephalexin, Doxycycline, Sodium hypochlorite, Placebo capsules; Background:\n\n\\- Atopic dermatitis, or eczema, is a chronic skin disorder. Patients sometimes have infections with S. aureus bacteria. Researchers want to study how eczema treatments affect the number and the type of bacteria on the skin.\n\nObjectives:\n\n\\- To study the effect of eczema treatments on s; Study Type: INTERVENTIONAL",
+      "nct_id": "NCT01631617",
+      "status": "RECRUITING"
+    },
+    {
+      "title": "Family Investigation of Nephropathy and Diabetes (F.I.N.D.)",
+      "url": "https://clinicaltrials.gov/study/NCT00342927",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "date": "2001-03-07",
+      "abstract": "Status: ACTIVE_NOT_RECRUITING; Conditions: Diabetic Nephropathy, Diabetes Mellitus, Diabetic Kidney Disease, Albuminuria; The Family Investigation of Nephropathy and Diabetes (FIND) is a multicenter study designed to identify genetic determinants of diabetic kidney disease. FIND will be conducted in eleven centers and in many ethnic groups throughout the United States. Two different strategies will be used to localize ; Study Type: OBSERVATIONAL",
+      "nct_id": "NCT00342927",
+      "status": "ACTIVE_NOT_RECRUITING"
     },
     {
       "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
