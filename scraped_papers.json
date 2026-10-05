@@ -1,16 +1,141 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T03:14:48.035105",
+    "generated_at": "2026-10-05T02:50:30.671645",
     "days_back": 1,
-    "total_papers": 135,
+    "total_papers": 144,
     "sources": {
-      "pubmed": 120,
+      "pubmed": 119,
       "rss": 0,
-      "preprints": 0,
+      "preprints": 10,
       "trials": 21
     }
   },
   "papers": [
+    {
+      "title": "Discovery of dietary polyphenols targeting the autoinducer-2 quorum sensing system of pathogenic bacteria.",
+      "url": "https://doi.org/10.1080/19490976.2026.2726629",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42828729",
+      "authors": [
+        {
+          "name": "Wu S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang P",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Xiao X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jin H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chen D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lu J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Tian D",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wu H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Caiyin Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Guo F",
+          "authtype": "Author"
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Wen M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Qiao J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2726629",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2726629",
+      "epubdate": "2026 Oct 3"
+    },
+    {
+      "title": "Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness.",
+      "url": "https://doi.org/10.1080/19490976.2026.2740906",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42828728",
+      "authors": [
+        {
+          "name": "Dicks LMT",
+          "authtype": "Author"
+        },
+        {
+          "name": "Botha A",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pohl C",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2740906",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2740906",
+      "epubdate": "2026 Oct 3"
+    },
     {
       "title": "Akkermansia muciniphila protects diabetes-associated cognitive decline by enhancing leucine catabolism and suppressing neuronal excessive mitophagy.",
       "url": "https://doi.org/10.1080/19490976.2026.2739666",
@@ -1609,176 +1734,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2728833",
       "epubdate": "2026 Sep 12"
-    },
-    {
-      "title": "GUTchetp: integrated prediction of gut microbial biotransformation profiles using ensemble monolingual and multilingual neural machine translation and enzyme class consistency-reaction similarity.",
-      "url": "https://doi.org/10.1080/19490976.2026.2726639",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42728849",
-      "authors": [
-        {
-          "name": "Nabhan Homsi M",
-          "authtype": "Author"
-        },
-        {
-          "name": "von Bergen M",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2726639",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2726639",
-      "epubdate": "2026 Sep 12"
-    },
-    {
-      "title": "Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial.",
-      "url": "https://doi.org/10.1080/19490976.2026.2728351",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42720258",
-      "authors": [
-        {
-          "name": "Durand C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Eveillard LA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Labouret M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Aeschlimann F",
-          "authtype": "Author"
-        },
-        {
-          "name": "Belot A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Brochard K",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chassaing B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Boizeau P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Boulkedid R",
-          "authtype": "Author"
-        },
-        {
-          "name": "Carbasse A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Cherqaoui B",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dumaine C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Dumay A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Frachette C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hentgen V",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kedzia C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Kolta T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Koné-Paut I",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lamy-Besnier Q",
-          "authtype": "Author"
-        },
-        {
-          "name": "Guilmin-Crepon S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Lima-Antoine L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pillet P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Quartier P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tellier S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Tourneur-Marsille J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Reumaux H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Vinit C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Viennois E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Meinzer U",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2728351",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2728351",
-      "epubdate": "2026 Sep 10"
     },
     {
       "title": "Harvest Now, Decrypt Later: A Case Study in Preparing for the Public Health Risks of New Technologies.",
@@ -4275,53 +4230,6 @@
       "epubdate": "2026 Aug 14"
     },
     {
-      "title": "A self-selected vegan diet reduces skeletal muscle mass in healthy older adults: a randomized controlled trial.",
-      "url": "https://doi.org/10.1016/j.ajcnut.2026.101416",
-      "source": "PubMed → Am J Clin Nutr",
-      "source_type": "journal",
-      "date": "2026 Sep",
-      "abstract": "Journal: Am J Clin Nutr",
-      "pmid": "42680254",
-      "authors": [
-        {
-          "name": "Domić J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Grootswagers P",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pinckaers PJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "Melchers M",
-          "authtype": "Author"
-        },
-        {
-          "name": "van Loon LJ",
-          "authtype": "Author"
-        },
-        {
-          "name": "de Groot LC",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "124",
-      "issue": "3",
-      "pages": "101416",
-      "issn": "0002-9165",
-      "essn": "1938-3207",
-      "journal_full": "The American journal of clinical nutrition",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "elocationid": "doi: 10.1016/j.ajcnut.2026.101416",
-      "epubdate": "2026 Aug 14"
-    },
-    {
       "title": "Corrigendum to 'Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea' [Preventive Medicine 210 (2026) 108620].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108626",
       "source": "PubMed → Prev Med",
@@ -6196,6 +6104,86 @@
       "abstract": "Status: COMPLETED; Conditions: Weight Gain, Overweight, Insulin Resistance, Obesity, Diabetes Mellitus, Type 2; Insulin resistance and a defect in early insulin secretion are risk factors for the development of type 2 diabetes mellitus. A recent longitudinal analysis which tracked the development of diabetes demonstrated that both insulin action and early insulin secretion deteriorate as individuals progress ; Study Type: OBSERVATIONAL",
       "nct_id": "NCT00340132",
       "status": "COMPLETED"
+    },
+    {
+      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Lauren E. Anderson , Anne L."
+    },
+    {
+      "title": "Probiotic-Directed Fermentation Reprograms the Metabolic Profile of a Traditional Mongolian Whole-Wheat Diet and Modulates Escherichia coli- Induced Gut Microbiota Dysbiosis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.08.743650v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Eerdun duleng , Qingchun"
+    },
+    {
+      "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kai R Trepka , Erin L"
+    },
+    {
+      "title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Mohamed Mokrani , Romain"
+    },
+    {
+      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
+    },
+    {
+      "title": "Grey mouse lemurs,",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.17.744835v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Microcebus murinus, are a relevant model to study gut microbiome flexibility in response to diet changes Maxime Naour"
+    },
+    {
+      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Kenneth T Trang , Dalia Arafat"
+    },
+    {
+      "title": "Functional Divergence in Gut Clostridia from Hadza Hunter-Gatherers Reveals Diet-Adapted Metabolic Machinery That Shapes Gut Ecology",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755216v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Tadashi Takeuchi , Anita"
+    },
+    {
+      "title": "Microbiota- and diet-specific T cells become T",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.25.747099v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "regs by default Jeffrey J. Bunker"
+    },
+    {
+      "title": "A mediterranean-mimicking diet harnesses gut microbiota–derived 3-IAA to rejuvenate T cell",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697620v1",
+      "source": "bioRxiv",
+      "source_type": "preprint",
+      "date": null,
+      "abstract": "Xin Yu , Wenge"
     }
   ]
 }
