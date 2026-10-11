@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T03:08:35.625320",
+    "generated_at": "2026-10-11T02:41:16.741241",
     "days_back": 1,
-    "total_papers": 148,
+    "total_papers": 140,
     "sources": {
-      "pubmed": 115,
-      "rss": 6,
+      "pubmed": 113,
+      "rss": 0,
       "preprints": 10,
       "trials": 18
     }
@@ -4054,92 +4054,6 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
-      "title": "Personalising maintenance after tirzepatide weight loss.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01433-9",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-10-10T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42849469",
-      "authors": [
-        {
-          "name": "van Bruggen FH",
-          "authtype": "Author"
-        },
-        {
-          "name": "Damhof MA",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10563",
-      "pages": "1450",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Letter"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01433-9",
-      "epubdate": ""
-    },
-    {
-      "title": "Closing the gap on mortality for adolescents living with HIV.",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01952-5",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-10-10T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42849463",
-      "authors": [
-        {
-          "name": "Bekker LG",
-          "authtype": "Author"
-        },
-        {
-          "name": "Neilan AM",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10563",
-      "pages": "1402-1404",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01952-5",
-      "epubdate": ""
-    },
-    {
-      "title": "Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
-      "url": "https://doi.org/10.1016/S0140-6736(26)01987-2",
-      "source": "PubMed → Lancet",
-      "source_type": "journal",
-      "date": "2026-10-10T00:00:00+00:00",
-      "abstract": "Journal: Lancet",
-      "pmid": "42849462",
-      "authors": [
-        {
-          "name": "Holst JJ",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "408",
-      "issue": "10563",
-      "pages": "1398-1399",
-      "issn": "0140-6736",
-      "essn": "1474-547X",
-      "journal_full": "Lancet (London, England)",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1016/S0140-6736(26)01987-2",
-      "epubdate": ""
-    },
-    {
       "title": "LIfestyle MEtabotype Study A",
       "url": "https://clinicaltrials.gov/study/NCT07868601",
       "source": "ClinicalTrials.gov",
@@ -4148,54 +4062,6 @@
       "abstract": "Status: RECRUITING; Conditions: Nutritional and Metabolic Diseases, Prediabetes, Type 2 Diabetes; Glycemic responses vary significantly among individuals, even when consuming identical foods or meals, but the factors predicting individual glucose response to food intake remain poorly investigated.\n\nThe aim of the LIfestyle MEtabotype study (LIME) observational study is to identify lifestyle-rela; Study Type: OBSERVATIONAL",
       "nct_id": "NCT07868601",
       "status": "RECRUITING"
-    },
-    {
-      "title": "The association between prenatal maternal selenium concentration and mental health in early childhood, a mother-child cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360527",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Development and internal validation of prediction models for ICU-level intervention and 14-day mortality at Medical Emergency Team activation: A retrospective cohort study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360511",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correction: Heat-related mortality in U.S. state and private prisons: A case-crossover analysis",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360436",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Correlation analysis between preoperative inflammation-nutrition-related indices and the risk of pancreatic fistula formation following distal pancreatectomy",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360418",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Acute effects of motor-cognitive injury-prevention warm-ups on unplanned jump-landing performance in team-sport athletes: A randomized crossover trial",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360379",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
-    },
-    {
-      "title": "Self-care practices of people living with HIV and hypertension or diabetes comorbidities in low-and-middle income countries: A systematic review",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360076",
-      "source": "PLOS ONE RSS",
-      "source_type": "journal",
-      "date": "2026-10-09T14:00:00+00:00",
-      "abstract": ""
     },
     {
       "title": "Benefits of Nutritional Supplement in Cancer Care",
@@ -4416,6 +4282,32 @@
       "epubdate": "2026 Sep 7"
     },
     {
+      "title": "Refining Artificial Intelligence-Assisted Dietary Assessment.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101779",
+      "source": "PubMed → J Nutr",
+      "source_type": "journal",
+      "date": "2026 Oct",
+      "abstract": "Journal: J Nutr",
+      "pmid": "42855224",
+      "authors": [
+        {
+          "name": "Weizman Z",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "156",
+      "issue": "10",
+      "pages": "101779",
+      "issn": "0022-3166",
+      "essn": "1541-6100",
+      "journal_full": "The Journal of nutrition",
+      "pub_types": [
+        "Letter"
+      ],
+      "elocationid": "doi: 10.1016/j.tjnut.2026.101779",
+      "epubdate": "2026 Sep 3"
+    },
+    {
       "title": "Corrigendum to 'Disease incidence and not case fatality drives the rural disadvantage in myocardial-infarction-related mortality in Germany' [Preventive Medicine 179 (2024) 107833].",
       "url": "https://doi.org/10.1016/j.ypmed.2026.108639",
       "source": "PubMed → Prev Med",
@@ -4498,6 +4390,78 @@
       ],
       "elocationid": "doi: 10.1016/j.ypmed.2026.108638",
       "epubdate": "2026 Jul 16"
+    },
+    {
+      "title": "Inoculation With Pediococcus pentosaceus Alters Microbial Interactions, Metabolic Landscapes, and Quality Traits in Spontaneously Fermented Carrot Pickles.",
+      "url": "https://doi.org/10.1111/1750-3841.71542",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Oct",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42855729",
+      "authors": [
+        {
+          "name": "Ye X",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Hong Q",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kang J",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "10",
+      "pages": "e71542",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71542",
+      "epubdate": ""
+    },
+    {
+      "title": "Micellar Casein-Based Emulsion Gels: Characteristics and Property Regulation by Pectin/Chitosan Oligosaccharide.",
+      "url": "https://doi.org/10.1111/1750-3841.71557",
+      "source": "PubMed → J Food Sci",
+      "source_type": "journal",
+      "date": "2026 Oct",
+      "abstract": "Journal: J Food Sci",
+      "pmid": "42855659",
+      "authors": [
+        {
+          "name": "Ji W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yang M",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ke D",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "91",
+      "issue": "10",
+      "pages": "e71557",
+      "issn": "0022-1147",
+      "essn": "1750-3841",
+      "journal_full": "Journal of food science",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1111/1750-3841.71557",
+      "epubdate": ""
     },
     {
       "title": "Non-Thermal Processing via Plasma-Activated Sodium Hypochlorite: Inactivation Kinetics and Quality Retention in Fresh-Cut Lettuce.",
@@ -5823,136 +5787,6 @@
       "epubdate": ""
     },
     {
-      "title": "Polysaccharides in Gastric Mucosal Homeostasis: From Multistage Defense Mechanisms to Structural Determinants.",
-      "url": "https://doi.org/10.1111/1750-3841.71523",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Oct",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42808353",
-      "authors": [
-        {
-          "name": "Cheong KL",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Pan T",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yao W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Biney E",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hafeez FA",
-          "authtype": "Author"
-        },
-        {
-          "name": "Sabir A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Aziz A",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang M",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhong S",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "10",
-      "pages": "e71523",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71523",
-      "epubdate": ""
-    },
-    {
-      "title": "Deep Eutectic Solvents in Food Science: From Molecular Mechanisms to Applications.",
-      "url": "https://doi.org/10.1111/1750-3841.71515",
-      "source": "PubMed → J Food Sci",
-      "source_type": "journal",
-      "date": "2026 Oct",
-      "abstract": "Journal: J Food Sci",
-      "pmid": "42808318",
-      "authors": [
-        {
-          "name": "Zhang Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Chen Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yao Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xiao S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wu H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Xiao Z",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li C",
-          "authtype": "Author"
-        },
-        {
-          "name": "Ye Y",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "91",
-      "issue": "10",
-      "pages": "e71515",
-      "issn": "0022-1147",
-      "essn": "1750-3841",
-      "journal_full": "Journal of food science",
-      "pub_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "elocationid": "doi: 10.1111/1750-3841.71515",
-      "epubdate": ""
-    },
-    {
       "title": "Abstracts of the International Congress on Obesity.",
       "url": "https://doi.org/10.1111/obr.70192",
       "source": "PubMed → Obes Rev",
@@ -6065,84 +5899,84 @@
       "status": "COMPLETED"
     },
     {
-      "title": "An Evolution of Pilot Nutrition Programs to Improve Diet Quality among Older Veterans",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26364174v1",
-      "source": "medRxiv",
+      "title": "Diet-dependent microbiota and diet-independent immunometabolic responses to probiotic supplementation in broiler chickens",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.08.730860v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Jamie Giffuni , Morgan"
+      "abstract": "Lauren E. Anderson , Anne L."
     },
     {
-      "title": "Decoding the diet–gut–liver axis: links between dietary pattern adherence, gut microbiome, and hepatic health",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352208v1",
-      "source": "medRxiv",
+      "title": "Probiotic-Directed Fermentation Reprograms the Metabolic Profile of a Traditional Mongolian Whole-Wheat Diet and Modulates Escherichia coli- Induced Gut Microbiota Dysbiosis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.08.743650v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Keyong Deng , Quinten R."
+      "abstract": "Eerdun duleng , Qingchun"
     },
     {
-      "title": "Low-Cost Precision nutrition recommendations, generated by metataxonomy-based microbiome tests, improve food group choices and gut health indicators in a population with obesity diagnosis in Colombia",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.28.25331845v1",
-      "source": "medRxiv",
+      "title": "Diet-conditioned microbiota enhances fecal microbiota transplantation efficacy in alcoholic liver disease through caproic acid-PPARα signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714243v2",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Vanesa Caro Miranda , Shadia Blel"
+      "abstract": "Nishu Choudhary , Ashi"
     },
     {
-      "title": "NutrIA: Development and Internal Validation of a Hybrid Clinical Decision Support System for Personalized Preventive Nutrition",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359723v1",
-      "source": "medRxiv",
+      "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v2",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Bohdan Isaiev , Iryna"
+      "abstract": "Kai R Trepka , Erin L"
     },
     {
-      "title": "Mediterranean Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay Diet is Associated with Reduced Inflammatory Bowel Disease Related Surgery Risk: A Prospective Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.28.26354274v1",
-      "source": "medRxiv",
+      "title": "A Grape Seed Oligomeric Procyanidin Extract Reverses Diet-Induced Obesity Through Gut Microbiota Remodeling and Restoration of GLP-1, Gut-Brain, and Gut-Liver Signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741918v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Yuhao Sun , Zhuoyuan"
+      "abstract": "Mohamed Mokrani , Romain"
     },
     {
-      "title": "Development and Scoring of a Diet Quality Screener for Hispanic/Latino Adults Using National Health and Nutrition Examination Survey Data: The ¿SABE Lo Que Come? Tool",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362652v1",
-      "source": "medRxiv",
+      "title": "Gut Microbiota Alterations and Probiotic Intervention in Asian Elephants (",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733804v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Margaret S. Pichardo , Vasu"
+      "abstract": "Elephas maximus ) with Gastrointestinal Distress Ana Gabriela Herrera"
     },
     {
-      "title": "Biobank-scale survey of gene-diet interactions informs precision nutrition polygenic scores",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350340v1",
-      "source": "medRxiv",
+      "title": "Grey mouse lemurs,",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.17.744835v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Matteo Di Scipio , Alice"
+      "abstract": "Microcebus murinus, are a relevant model to study gut microbiome flexibility in response to diet changes Maxime Naour"
     },
     {
-      "title": "Stakeholder-engagement on assessment of implementation considerations for food-policy interventions for prevention of overweight and obesity in Kenya and evaluation of the engagement process",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.04.18.26351190v2",
-      "source": "medRxiv",
+      "title": "Diet-Microbiome Analysis in a Healthy Cohort Reveals Potential Role of Intestinal Microbiota in Metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.17.706416v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Mary Njeri Wanjau , Lucy"
+      "abstract": "Kenneth T Trang , Dalia Arafat"
     },
     {
-      "title": "Dietary Patterns and Cardiovascular Risk in Adult Survivors of Childhood Cancer: Findings From the SCCSS-Nutrition Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363621v1",
-      "source": "medRxiv",
+      "title": "Functional Divergence in Gut Clostridia from Hadza Hunter-Gatherers Reveals Diet-Adapted Metabolic Machinery That Shapes Gut Ecology",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755216v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Ruijie Li , Raquel"
+      "abstract": "Tadashi Takeuchi , Anita"
     },
     {
-      "title": "A Personalized Whole-Food Diet Differentially Modulates Glucoregulatory and Cognitive Responses Compared With Conventional Dietary Counseling in Young Black and White Adults With Overweight or Obesity: An 8-Week Randomized Controlled Trial",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.05.27.26354244v1",
-      "source": "medRxiv",
+      "title": "Microbiota- and diet-specific T cells become T",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.25.747099v1",
+      "source": "bioRxiv",
       "source_type": "preprint",
       "date": null,
-      "abstract": "Onyedika G. Ani , Elaheh"
+      "abstract": "regs by default Jeffrey J. Bunker"
     }
   ]
 }
