@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T03:04:34.162462",
+    "generated_at": "2026-10-13T04:20:09.583975",
     "days_back": 1,
-    "total_papers": 129,
+    "total_papers": 131,
     "sources": {
-      "pubmed": 112,
-      "rss": 0,
+      "pubmed": 110,
+      "rss": 4,
       "preprints": 0,
       "trials": 18
     }
@@ -20,6 +20,136 @@
       "abstract": "Status: NOT_YET_RECRUITING; Conditions: Probiotic Intervention, Healthy Adult Participants; Interventions: Probiotic Supplement (1C-01); This study is a pre-post, open-label pilot feasibility study designed to investigate how a food-grade probiotic supplement affects biological measurements and wellbeing in healthy adults. Participants will take one capsule daily for 1 month. During the study, participants will complete online cognit; Study Type: INTERVENTIONAL",
       "nct_id": "NCT07841457",
       "status": "NOT_YET_RECRUITING"
+    },
+    {
+      "title": "Vagal sensing of altered gut microbiota links to externalizing behaviors.",
+      "url": "https://doi.org/10.1080/19490976.2026.2743919",
+      "source": "PubMed → Gut Microbes",
+      "source_type": "journal",
+      "date": "2026-12-31T00:00:00+00:00",
+      "abstract": "Journal: Gut Microbes",
+      "pmid": "42860590",
+      "authors": [
+        {
+          "name": "Lee MJ",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim IS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Ahn SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Chung W",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kang YE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jeon SM",
+          "authtype": "Author"
+        },
+        {
+          "name": "An JH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Pyo CH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jeong J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim YE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yoon J",
+          "authtype": "Author"
+        },
+        {
+          "name": "Choi KY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee SE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim HS",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee S",
+          "authtype": "Author"
+        },
+        {
+          "name": "O'Keeffe S",
+          "authtype": "Author"
+        },
+        {
+          "name": "Park JO",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee JY",
+          "authtype": "Author"
+        },
+        {
+          "name": "Bae JW",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim DE",
+          "authtype": "Author"
+        },
+        {
+          "name": "Lee H",
+          "authtype": "Author"
+        },
+        {
+          "name": "Kim SH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yeo WH",
+          "authtype": "Author"
+        },
+        {
+          "name": "Yeo MK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Oh E",
+          "authtype": "Author"
+        },
+        {
+          "name": "Jo EK",
+          "authtype": "Author"
+        },
+        {
+          "name": "Heo JY",
+          "authtype": "Author"
+        }
+      ],
+      "volume": "18",
+      "issue": "1",
+      "pages": "2743919",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "journal_full": "Gut microbes",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "elocationid": "doi: 10.1080/19490976.2026.2743919",
+      "epubdate": "2026 Oct 11"
     },
     {
       "title": "Distinction of meal quality and interaction with the gut microbiota by breath volatilome analysis in humans.",
@@ -1835,92 +1965,6 @@
       ],
       "elocationid": "doi: 10.1080/19490976.2026.2728329",
       "epubdate": "2026 Sep 17"
-    },
-    {
-      "title": "Gut microbiota functional remodeling and butyrate depletion amplify anti-Ro/La antibody-driven type I interferon activation in neonatal lupus.",
-      "url": "https://doi.org/10.1080/19490976.2026.2728464",
-      "source": "PubMed → Gut Microbes",
-      "source_type": "journal",
-      "date": "2026-12-31T00:00:00+00:00",
-      "abstract": "Journal: Gut Microbes",
-      "pmid": "42747315",
-      "authors": [
-        {
-          "name": "Sun W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li Y",
-          "authtype": "Author"
-        },
-        {
-          "name": "Liu X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Yu S",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Wang H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Geng H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li L",
-          "authtype": "Author"
-        },
-        {
-          "name": "Hu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Huo J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhang W",
-          "authtype": "Author"
-        },
-        {
-          "name": "Fu J",
-          "authtype": "Author"
-        },
-        {
-          "name": "Jin X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Li H",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhou X",
-          "authtype": "Author"
-        },
-        {
-          "name": "Zhu X",
-          "authtype": "Author"
-        }
-      ],
-      "volume": "18",
-      "issue": "1",
-      "pages": "2728464",
-      "issn": "1949-0976",
-      "essn": "1949-0984",
-      "journal_full": "Gut microbes",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1080/19490976.2026.2728464",
-      "epubdate": "2026 Sep 16"
     },
     {
       "title": "Corrigendum to \"CATA-optimize-to-ideal (CATA-OI): A consumer-driven product optimization method compared with liking/disliking CATA and ideal profile method\" [Food Res. Int. 243 (2026) 120344].",
@@ -4485,6 +4529,38 @@
       "status": "NOT_YET_RECRUITING"
     },
     {
+      "title": "Dietary intake patterns and KDOQI guideline compliance among hemodialysis patients in Bangladesh: Gaps, misreporting, and clinical implications",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360654",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-10-12T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Effectiveness of a self-management intervention on clinical outcomes among patients with type 2 diabetes at high risk for Diabetic Kidney Disease: A Randomised Controlled Trial",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360475",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-10-12T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Whole-exome sequencing identifies a missense variant in the cytoskeletal gene SVIL implicating actin remodeling in COVID-19 severity in a Pakistani cohort",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360429",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-10-12T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
+      "title": "Relationship between neonatal glutamine supplementation and amino acid profiles, protein synthesis in splanchnic tissues and the plasma metabolome in 5-day-old piglets with low birth weight",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359788",
+      "source": "PLOS ONE RSS",
+      "source_type": "journal",
+      "date": "2026-10-12T14:00:00+00:00",
+      "abstract": ""
+    },
+    {
       "title": "LIfestyle MEtabotype Study A",
       "url": "https://clinicaltrials.gov/study/NCT07868601",
       "source": "ClinicalTrials.gov",
@@ -6100,48 +6176,6 @@
         "Journal Article"
       ],
       "elocationid": "doi: 10.1111/1750-3841.71551",
-      "epubdate": ""
-    },
-    {
-      "title": "Abstracts of the International Congress on Obesity.",
-      "url": "https://doi.org/10.1111/obr.70192",
-      "source": "PubMed → Obes Rev",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Obes Rev",
-      "pmid": "42574648",
-      "authors": [],
-      "volume": "27 Suppl 1",
-      "issue": "",
-      "pages": "e70192",
-      "issn": "1467-7881",
-      "essn": "1467-789X",
-      "journal_full": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/obr.70192",
-      "epubdate": ""
-    },
-    {
-      "title": "Abstracts of the International Congress on Obesity.",
-      "url": "https://doi.org/10.1111/obr.70191",
-      "source": "PubMed → Obes Rev",
-      "source_type": "journal",
-      "date": "2026 Aug",
-      "abstract": "Journal: Obes Rev",
-      "pmid": "42574646",
-      "authors": [],
-      "volume": "27 Suppl 1",
-      "issue": "",
-      "pages": "e70191",
-      "issn": "1467-7881",
-      "essn": "1467-789X",
-      "journal_full": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "elocationid": "doi: 10.1111/obr.70191",
       "epubdate": ""
     },
     {
